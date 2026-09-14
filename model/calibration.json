@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "horizonTradingDays": 5,
+  "weights": {
+    "technical": 0.28,
+    "basis": 0.14,
+    "macro": 0.14,
+    "supply": 0.16,
+    "demand": 0.16,
+    "geopolitics": 0.12
+  },
+  "predictions": [],
+  "calibration": [],
+  "notes": "Browser localStorage is the live calibration store. Download model state from the dashboard and replace this file to persist calibration in the repository."
+}
