@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T19:54:20.688Z",
+  "generatedAt": "2026-09-14T22:55:58.223Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49435,10 +49435,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 115.15,
-      "changePct": -2.02,
-      "volume": 1406999,
-      "amount": 162144013,
+      "price": 115.03,
+      "changePct": -2.12,
+      "volume": 2100460,
+      "amount": 241941951,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57555,14 +57555,14 @@
         {
           "d": "2026-09-14",
           "o": 116.06,
-          "c": 115.15,
+          "c": 115.03,
           "h": 117,
           "l": 114.27,
-          "v": 1406919,
-          "amount": 162134794,
+          "v": 2100460,
+          "amount": 241941951,
           "amp": 2.32,
-          "chg": -2.02,
-          "delta": -2.37
+          "chg": -2.12,
+          "delta": -2.49
         }
       ]
     },
@@ -57572,10 +57572,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 69.82,
-      "changePct": -0.09,
-      "volume": 776837,
-      "amount": 54196741,
+      "price": 69.73,
+      "changePct": -0.21,
+      "volume": 963249,
+      "amount": 67217828,
       "klines": [
         {
           "d": "2024-01-02",
@@ -65691,15 +65691,15 @@
         },
         {
           "d": "2026-09-14",
-          "o": 68.79,
-          "c": 69.82,
+          "o": 68.45,
+          "c": 69.73,
           "h": 70.58,
           "l": 68.339,
-          "v": 776837,
-          "amount": 54196741,
+          "v": 963249,
+          "amount": 67217828,
           "amp": 3.21,
-          "chg": -0.09,
-          "delta": -0.06
+          "chg": -0.21,
+          "delta": -0.15
         }
       ]
     }
@@ -65710,9 +65710,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26225.18,
-      "changePct": -0.41,
-      "volume": 5065293312,
+      "price": 26186.41,
+      "changePct": -0.56,
+      "volume": 6240109056,
       "amount": 0,
       "klines": [
         {
@@ -73830,14 +73830,14 @@
         {
           "d": "2026-09-14",
           "o": 26018.5,
-          "c": 26225.18,
+          "c": 26186.41,
           "h": 26329.98,
           "l": 25992.55,
-          "v": 5065293312,
+          "v": 6240109056,
           "amount": 0,
           "amp": 1.28,
-          "chg": -0.41,
-          "delta": -107.86
+          "chg": -0.56,
+          "delta": -146.63
         }
       ]
     },
@@ -73846,9 +73846,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 101.47,
-      "changePct": 1.42,
-      "volume": 373214,
+      "price": 101.92,
+      "changePct": 0.52,
+      "volume": 1413,
       "amount": 0,
       "klines": [
         {
@@ -82218,14 +82218,26 @@
         {
           "d": "2026-09-14",
           "o": 102.25,
-          "c": 101.47,
+          "c": 101.89,
           "h": 104.95,
           "l": 100.53,
-          "v": 373214,
+          "v": 380897,
           "amount": 0,
           "amp": 4.42,
-          "chg": 1.42,
-          "delta": 1.42
+          "chg": 1.84,
+          "delta": 1.84
+        },
+        {
+          "d": "2026-09-15",
+          "o": 102.01,
+          "c": 101.92,
+          "h": 102.06,
+          "l": 101.83,
+          "v": 1413,
+          "amount": 0,
+          "amp": 0.23,
+          "chg": 0.52,
+          "delta": 0.53
         }
       ]
     },
@@ -82234,8 +82246,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 99.48,
-      "changePct": 0.39,
+      "price": 99.45,
+      "changePct": -0.03,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -90702,14 +90714,26 @@
         {
           "d": "2026-09-14",
           "o": 99.08,
-          "c": 99.48,
+          "c": 99.47,
           "h": 99.74,
           "l": 99.06,
           "v": 0,
           "amount": 0,
           "amp": 0.69,
-          "chg": 0.39,
-          "delta": 0.39
+          "chg": 0.38,
+          "delta": 0.38
+        },
+        {
+          "d": "2026-09-15",
+          "o": 99.45,
+          "c": 99.45,
+          "h": 99.48,
+          "l": 99.43,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.05,
+          "chg": -0.03,
+          "delta": -0.03
         }
       ]
     },
@@ -98616,6 +98640,21 @@
       "sentiment": 0
     },
     {
+      "id": "1199175304",
+      "title": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale - Global Mining Review",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnZQUnR6aFB4bjB0Q1hlZm81QzIxaUg1RHFVNDdjOXRSMTZ5S3VBWWNvMnhhNHpSZmZEOHk1MHNmYkFFbWQ2Zi1TMWwyRlZhakJNODlGTU9FdWdzODdNd2JGVHdzVGZxNFF5YlRlSkRVVDNHWk5wY3lmeEFuS2oxMy1XRnBRSS1uM0hDV05GQndOdHdmOVM5Njdzemw3cFpjSFBHcE1aYzlWLWdtVWFGZFdTT0tRcXJVR1VPWkxwUXJ6aGprd1NwNWk2cGEzZWhsU0HSAdcBQVVfeXFMT0hSWWxqb1ZsSG5XOU5YdlJlb3huY2U4bTZldG5ZRHJOcmw5UllGVXBrdm4yNDZkTkVwQkpGVC1SZjZERmZfN0V3S3hPVXY4TGtBXzMtV3ZUbGgwUjdfS1RGX0V3a1FKcFZySUxPTzIzdEFtNjBQcHVKWkpHVHhZRHBJVHROVjNJQnRnX3NXUGtPMWxDUkhkMXc3OUlGWmFhN25sRmJockZQczdzRUdLRFdONmJIbGpRaTR4S3RWVlpBX3EyR21lN0F3WklnYmxneU9FZUI4MGM?oc=5",
+      "pubDate": "2026-09-14 14:00:29",
+      "author": "Global Mining Review",
+      "summary": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale Global Mining Review",
+      "lang": "en",
+      "source": "Global Mining Review",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "734641481",
       "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
@@ -98644,14 +98683,14 @@
       "sentiment": 0
     },
     {
-      "id": "1199175304",
-      "title": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale - Global Mining Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnZQUnR6aFB4bjB0Q1hlZm81QzIxaUg1RHFVNDdjOXRSMTZ5S3VBWWNvMnhhNHpSZmZEOHk1MHNmYkFFbWQ2Zi1TMWwyRlZhakJNODlGTU9FdWdzODdNd2JGVHdzVGZxNFF5YlRlSkRVVDNHWk5wY3lmeEFuS2oxMy1XRnBRSS1uM0hDV05GQndOdHdmOVM5Njdzemw3cFpjSFBHcE1aYzlWLWdtVWFGZFdTT0tRcXJVR1VPWkxwUXJ6aGprd1NwNWk2cGEzZWhsU0HSAdcBQVVfeXFMT0hSWWxqb1ZsSG5XOU5YdlJlb3huY2U4bTZldG5ZRHJOcmw5UllGVXBrdm4yNDZkTkVwQkpGVC1SZjZERmZfN0V3S3hPVXY4TGtBXzMtV3ZUbGgwUjdfS1RGX0V3a1FKcFZySUxPTzIzdEFtNjBQcHVKWkpHVHhZRHBJVHROVjNJQnRnX3NXUGtPMWxDUkhkMXc3OUlGWmFhN25sRmJockZQczdzRUdLRFdONmJIbGpRaTR4S3RWVlpBX3EyR21lN0F3WklnYmxneU9FZUI4MGM?oc=5",
-      "pubDate": "2026-09-14 13:00:46",
-      "author": "Global Mining Review",
-      "summary": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale Global Mining Review",
+      "id": "3942290652",
+      "title": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTGVtMm9kT3I3UFZ2cVlXZmoxT25UTHg3dG81czl1T3Z2MnBYXzQyckotcUc2OF9ITjlBdExWbWhDeUFGWDNsaENNR1FvVGI5SURwZEl4NkFuSkNBS0VIZHhNRFJkbHlUZGtlVnlSMzZLNmhGdXFqOHYwdVVjdEFNUldzNmhUeXUwMERNVURsVEJiUDlPcngwVE1pbHM4QlhGdldzWWhOMHlNbG0tMm4taU11eEZpeTByVTVScEJsRFJJRzNiRlMyWTFSVU03MU4xazR1cXRVQkZ3T3JvdDFkbE5DWnhQbHJnZzV4WnpyLVp3aHZ1UkgxcG9GaklOMFRSSmJOVGNFekVJVFhsVE56bQ?oc=5",
+      "pubDate": "2026-09-14 13:03:58",
+      "author": "Business Wire",
+      "summary": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain Business Wire",
       "lang": "en",
-      "source": "Global Mining Review",
+      "source": "Business Wire",
       "categories": [
         "supply",
         "demand"
@@ -98659,16 +98698,15 @@
       "sentiment": 0
     },
     {
-      "id": "3942290652",
-      "title": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTGVtMm9kT3I3UFZ2cVlXZmoxT25UTHg3dG81czl1T3Z2MnBYXzQyckotcUc2OF9ITjlBdExWbWhDeUFGWDNsaENNR1FvVGI5SURwZEl4NkFuSkNBS0VIZHhNRFJkbHlUZGtlVnlSMzZLNmhGdXFqOHYwdVVjdEFNUldzNmhUeXUwMERNVURsVEJiUDlPcngwVE1pbHM4QlhGdldzWWhOMHlNbG0tMm4taU11eEZpeTByVTVScEJsRFJJRzNiRlMyWTFSVU03MU4xazR1cXRVQkZ3T3JvdDFkbE5DWnhQbHJnZzV4WnpyLVp3aHZ1UkgxcG9GaklOMFRSSmJOVGNFekVJVFhsVE56bQ?oc=5",
-      "pubDate": "2026-09-14 13:00:00",
-      "author": "Business Wire",
-      "summary": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain Business Wire",
-      "lang": "en",
-      "source": "Business Wire",
+      "id": "1935957400",
+      "title": "碳酸锂持续去库，为何价格却屡创新低？ | 金十期货热图-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOZzUtUE5mS05hdjFreVI1WDZKRWMtVVJUS21IMlZBVGlJekJ5VXhrYjJzRVAyQ0tzcnVacXFSUzIzN3hISEQxbjJWX0ZfMkE?oc=5",
+      "pubDate": "2026-09-14 11:07:48",
+      "author": "金十数据",
+      "summary": "碳酸锂持续去库，为何价格却屡创新低？ | 金十期货热图-市场参考 金十数据",
+      "lang": "zh",
+      "source": "金十数据",
       "categories": [
-        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -98689,13 +98727,13 @@
     },
     {
       "id": "3531053179",
-      "title": "智利硫酸锂出口暴增 碳酸锂反弹承压偏空震荡 - 新浪财经",
+      "title": "智利硫酸锂出口暴增 碳酸锂反弹承压偏空震荡 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem5YTUdSX1BXVmVYQk4zNVRTb3p2STZnRG1OenBzQjFuMTNGOXJpODkzS0Z2SUxLa1hVTEFkYklUVzN2UF9BOEZ1WmJreFc5TDlZWnJ4dEdhQnRjV2lqN3o3eU1zek5rYWdaZTV5NXNOTzF1Ull2OFEyT25kM21lNFFYSEQ3eWpnNUNsVUpUeE53Z054VGgxdnV2S1VLdldxRkhoUFpfdkZTRzZ4c1hQWg?oc=5",
       "pubDate": "2026-09-14 01:35:01",
-      "author": "新浪财经",
-      "summary": "智利硫酸锂出口暴增 碳酸锂反弹承压偏空震荡 新浪财经",
+      "author": "新浪网",
+      "summary": "智利硫酸锂出口暴增 碳酸锂反弹承压偏空震荡 新浪网",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "新浪网",
       "categories": [
         "policy"
       ],
@@ -98801,13 +98839,13 @@
     },
     {
       "id": "1889388814",
-      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - interestingengineering.com",
+      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - Interesting Engineering",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1FpUjNSdTFwZDRoaWNLSEdIalVsTDFuMUE0V01HXzdxeG1ESzFMOWFVeEszeS1uOW93cFVGdk5icl9saUdGT0tPa2VEZFN1X2h2SzltUnp0U2xSTHBtNEJMbG5XXzQ4NVdGSHdQbjhrcGpJRnRFQ2dYUXBxRHBYMmUzVlVLQzZlbVNZVVRRMko?oc=5",
       "pubDate": "2026-09-10 22:57:00",
-      "author": "interestingengineering.com",
-      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries interestingengineering.com",
+      "author": "Interesting Engineering",
+      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Interesting Engineering",
       "lang": "en",
-      "source": "interestingengineering.com",
+      "source": "Interesting Engineering",
       "categories": [
         "demand"
       ],
@@ -98815,30 +98853,17 @@
     },
     {
       "id": "3555869058",
-      "title": "Lithium mining in the Americas: planning to address community and environmental impacts - sei.org",
+      "title": "Lithium mining in the Americas: planning to address community and environmental impacts - Stockholm Environment Institute",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2puSDQwY1RlcEpjM2gwa3loLWdDeEpLTEItd2RxYmRMWVFBWUNvQmxJMzdmeGo1cmtTSFB6bDVnSnR2ZkpzRXZHRlNaNV92VmN6dHNqYUhETFNHMThjNlJTQjlFSkJtSmxhOHRKR3NNZ19EcFVIRlFjNGtXbHJaMw?oc=5",
       "pubDate": "2026-09-10 02:58:21",
-      "author": "sei.org",
-      "summary": "Lithium mining in the Americas: planning to address community and environmental impacts sei.org",
+      "author": "Stockholm Environment Institute",
+      "summary": "Lithium mining in the Americas: planning to address community and environmental impacts Stockholm Environment Institute",
       "lang": "en",
-      "source": "sei.org",
+      "source": "Stockholm Environment Institute",
       "categories": [
         "environment",
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4271146391",
-      "title": "【央视新闻】 我国特色锂矿石伴生铷铯资源高效绿色分离技术取得新突破 - 中国科学院",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpSm5XV2dVSGZaNklBV3JET0RMUUdneDY1THl0djZRUDBncHkyclZkM0pvLTlXaGNMYUVjLWJhN2k2ZXdpV2txeVZWWkVDYnNPLUZBT0xPUFRMNWlqaWRfWnNB?oc=5",
-      "pubDate": "2026-09-10 00:25:22",
-      "author": "中国科学院",
-      "summary": "【央视新闻】 我国特色锂矿石伴生铷铯资源高效绿色分离技术取得新突破 中国科学院",
-      "lang": "zh",
-      "source": "中国科学院",
-      "categories": [
-        "demand"
+        "supply",
+        "macro"
       ],
       "sentiment": 0
     },
