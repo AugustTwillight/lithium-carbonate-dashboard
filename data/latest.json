@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T11:58:21.141Z",
+  "generatedAt": "2026-09-15T16:37:55.458Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49519,10 +49519,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 115.03,
-      "changePct": -2.12,
-      "volume": 2101107,
-      "amount": 242016644,
+      "price": 113.47,
+      "changePct": -1.36,
+      "volume": 647838,
+      "amount": 73431914,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57647,6 +57647,18 @@
           "amp": 2.32,
           "chg": -2.12,
           "delta": -2.49
+        },
+        {
+          "d": "2026-09-15",
+          "o": 115.37,
+          "c": 113.47,
+          "h": 115.75,
+          "l": 112.5,
+          "v": 647788,
+          "amount": 73426246,
+          "amp": 2.83,
+          "chg": -1.36,
+          "delta": -1.56
         }
       ]
     },
@@ -57656,10 +57668,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 69.73,
-      "changePct": -0.21,
-      "volume": 963253,
-      "amount": 67218092,
+      "price": 69.4,
+      "changePct": -0.47,
+      "volume": 526741,
+      "amount": 36604603,
       "klines": [
         {
           "d": "2024-01-02",
@@ -65784,6 +65796,18 @@
           "amp": 3.21,
           "chg": -0.21,
           "delta": -0.15
+        },
+        {
+          "d": "2026-09-15",
+          "o": 69.86,
+          "c": 69.4,
+          "h": 70.245,
+          "l": 68.78,
+          "v": 526735,
+          "amount": 36604186,
+          "amp": 2.1,
+          "chg": -0.47,
+          "delta": -0.33
         }
       ]
     }
@@ -65794,9 +65818,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26186.41,
-      "changePct": -0.56,
-      "volume": 6240109056,
+      "price": 26013.94,
+      "changePct": -0.66,
+      "volume": 3583303952,
       "amount": 0,
       "klines": [
         {
@@ -73922,6 +73946,18 @@
           "amp": 1.28,
           "chg": -0.56,
           "delta": -146.63
+        },
+        {
+          "d": "2026-09-15",
+          "o": 26140.23,
+          "c": 26013.94,
+          "h": 26172.12,
+          "l": 25949.48,
+          "v": 3583303952,
+          "amount": 0,
+          "amp": 0.85,
+          "chg": -0.66,
+          "delta": -172.47
         }
       ]
     },
@@ -73930,9 +73966,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 102.25,
-      "changePct": 0.85,
-      "volume": 86275,
+      "price": 105.22,
+      "changePct": 3.78,
+      "volume": 259459,
       "amount": 0,
       "klines": [
         {
@@ -82314,14 +82350,14 @@
         {
           "d": "2026-09-15",
           "o": 102.01,
-          "c": 102.25,
-          "h": 104.21,
-          "l": 101.83,
-          "v": 86275,
+          "c": 105.22,
+          "h": 105.65,
+          "l": 101.21,
+          "v": 259459,
           "amount": 0,
-          "amp": 2.35,
-          "chg": 0.85,
-          "delta": 0.86
+          "amp": 4.38,
+          "chg": 3.78,
+          "delta": 3.83
         }
       ]
     },
@@ -82330,8 +82366,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 99.6,
-      "changePct": 0.12,
+      "price": 99.62,
+      "changePct": 0.14,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -90810,14 +90846,14 @@
         {
           "d": "2026-09-15",
           "o": 99.45,
-          "c": 99.6,
+          "c": 99.62,
           "h": 99.69,
           "l": 99.43,
           "v": 0,
           "amount": 0,
           "amp": 0.26,
-          "chg": 0.12,
-          "delta": 0.12
+          "chg": 0.14,
+          "delta": 0.14
         }
       ]
     },
@@ -98708,32 +98744,102 @@
   ],
   "news": [
     {
-      "id": "3555252437",
-      "title": "Mysteel解读：强现实弱预期拉扯，碳酸锂低位震荡寻方向（碳酸锂周度复盘20260914） - news.mysteel.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZaTk3UmxzQ3oyUVVnWkIxSzNzeGJsSzRsRFAxeXlrckJoM0FLRmFTX3o0QVlWZWw0eXlBM2ZUUjRXeHNVcFJGN3R2U01oSlg0NWtvX1pEWXh4a0Z2MmQxYkNrYk9wZWRL?oc=5",
-      "pubDate": "2026-09-15 06:00:22",
-      "author": "news.mysteel.com",
-      "summary": "Mysteel解读：强现实弱预期拉扯，碳酸锂低位震荡寻方向（碳酸锂周度复盘20260914） news.mysteel.com",
+      "id": "3090060390",
+      "title": "合同价已高于现货价 国城矿业9亿元锂矿购销合同会亏吗？ - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHJzTGcwTmZwanlJSURxWTA3SFpTNXNGV0d5NW9Bb1c0ZWJxdnlqS0JFUG96ckVqRWM4cEVWbEIyYzN3SlllemFZLUFXQUpuTjVsOEl0LU1zZVNzM0VUV3IyaEFqWXdOaVI4b1NxclJDbjlEZzh5NlhXRUUwVExQbkFnLVJlcUJldl9IUQ?oc=5",
+      "pubDate": "2026-09-15 14:40:00",
+      "author": "Sohu",
+      "summary": "合同价已高于现货价 国城矿业9亿元锂矿购销合同会亏吗？ Sohu",
       "lang": "zh",
-      "source": "news.mysteel.com",
+      "source": "Sohu",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "4215098873",
-      "title": "Lithium price crashes again – but this investment bank says 'Keep calm and carry on' buying ASX lithium stocks - Livewire Markets",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUW9WbHpzTnd2UVBzN3dEYlBjSlE1R1VlQnFDTGp4aU1HSFVnTENaTzBGdWNYMnVlMElqbTd6RE1YNVQ0UkYyRE5vN3ZnMjg0MG44UGdQcWtkaEVveUUwbTBIZDVDbW9ibEhldW9uUm45ZGNNTkVLSVpzMXhLODJxNVpIOHBVM25oVHJza3h3UE44Y1dZdlFFVEdqYUdPN3JUam9faVVsT3RyelA4MUpkSzBZR0trSG9IYkdzb2ZueS1HQU9wX045MTVpblU4bm1udDdvcHRkdFF2cnJ1?oc=5",
-      "pubDate": "2026-09-15 05:47:19",
-      "author": "Livewire Markets",
-      "summary": "Lithium price crashes again – but this investment bank says 'Keep calm and carry on' buying ASX lithium stocks Livewire Markets",
-      "lang": "en",
-      "source": "Livewire Markets",
+      "id": "33968695",
+      "title": "经济参考报｜完善品种 扩大开放 强化监管 广期所锚定绿色期货高质量发展 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hVDgzNnVTYmE5eVdHeGF0c0F5RFZSU21hUThfWF90ZDNSbVNZbnc5ZGU4cUhlWjNGZy1nbTFlSjNkZUVjdzBUeWxiSFFBNFpBa3JYWnVHQ2hKR2VxNFA2b3dkeUFnLTVnR1pDQTJDSC1Vdw?oc=5",
+      "pubDate": "2026-09-15 13:52:01",
+      "author": "新浪网",
+      "summary": "经济参考报｜完善品种 扩大开放 强化监管 广期所锚定绿色期货高质量发展 新浪网",
+      "lang": "zh",
+      "source": "新浪网",
       "categories": [
-        "macro"
+        "policy"
       ],
-      "sentiment": 0.3333333333333333
+      "sentiment": 0
+    },
+    {
+      "id": "1051471343",
+      "title": "Surge Battery Metals refines Nevada lithium ore... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQm9FTVNkeDlMaE1mREFJTkxKZGtzTVJxbHVFRlVpVjFFQW9naWVza1pjV0dTOGQ4U2FISlIyQ2ROVkx5MENYZ2g3Vm5wS1IyVFctZDdpTldVbEowT3FqSnVPdFQ0MWh1N0p3Wl9lUTZiTXJ0R0NhRWI2T1pMek5Sc3FkQ0FabEZtTWZ4NWNJTEFzZFc2cGxrTkxfQnNpU2tJQnJF?oc=5",
+      "pubDate": "2026-09-15 11:20:59",
+      "author": "Pluang",
+      "summary": "Surge Battery Metals refines Nevada lithium ore... Pluang",
+      "lang": "en",
+      "source": "Pluang",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "982294599",
+      "title": "一张数据报表，就能左右碳酸锂价格？ - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMDlsRWNYNFJBZDVpLUU2QmF0Y0twUW9hbEZ3a1JqLXhZSWYwOGhXdm1idWhHOGlIT2owTzBrVkpiRGxSeWpjSG5CWGJRNnJqeUs2eWYtQ05aQTBaMmNvYjU4WWNPckRzeXpNeDlRUUZBakcySDhBb2tYVUpGRWxIMHpHaXVKTDUyLWpCalV5OVl6VmpjUENDalB3ODdFUThJLUJMNnJLS3R5OXFnZVhMXw?oc=5",
+      "pubDate": "2026-09-15 09:49:12",
+      "author": "新浪财经",
+      "summary": "一张数据报表，就能左右碳酸锂价格？ 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2674392202",
+      "title": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TT3FYeUNGWnJMd0pLVHMyVktia0J3WFUyS3lNSFlvMU83b3BXZnJqbkhTeVc5TUtJUWhBYkFuRmFxMmRPMlVSLTRtU0pENVBKaV9ld3pUdzllbHlyRm5FSA?oc=5",
+      "pubDate": "2026-09-15 07:41:15",
+      "author": "东方财富",
+      "summary": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "2420233079",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS01BQ2FVRTdyaXNGSUlzbDhSWVhTamhodW9USmUwNE0xOVRJRk1pcnF2V1BrUlRBNG5OdEdoNmFlOGxZQU9meV95WTlQRXJOWTZUMVM3WkdYeGI0NEJ5N1M2YU4xTlVLVkhUMWJRd21ZaklyVGhOakxmU09jenl0OG1jRGhOOGhyck1KVGpMR1VTZUJVSDlLNDE1N3dTZlVxWXhFSHY2VUtJUzRjekVrS0t0ZzdUckNibUE?oc=5",
+      "pubDate": "2026-09-15 06:58:00",
+      "author": "Mining Weekly",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Mining Weekly",
+      "lang": "en",
+      "source": "Mining Weekly",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2198677139",
+      "title": "Mysteel解读：强现实弱预期拉扯，碳酸锂低位震荡寻方向（碳酸锂周度复盘20260914） - 我的钢铁",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94a2h6WkxxQUtKeEstbjlqeUtjNUhOOXZHZTd1QjZtU0hFYXVtMF9DanJhWGNvMTdRUDc4NjNubjd0Q0tOVUNaTl9iZ2k1VjZuVDh0NDN2NlRqSjRsRDlUWkpnM0JXLVJTaFE?oc=5",
+      "pubDate": "2026-09-15 03:30:00",
+      "author": "我的钢铁",
+      "summary": "Mysteel解读：强现实弱预期拉扯，碳酸锂低位震荡寻方向（碳酸锂周度复盘20260914） 我的钢铁",
+      "lang": "zh",
+      "source": "我的钢铁",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "3325415495",
@@ -98744,6 +98850,20 @@
       "summary": "热点 | 碳酸锂盘中刷新2月以来新低 机构谨慎中偏向悲观 东方财富",
       "lang": "zh",
       "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2381349810",
+      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - Alvinology",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHR2VkFKMTF5QnROYUg3dWJtdUZVMV8xT1U3amgtZGtTdXBtWXJpMFNBTUo2REdTaEM3bnlrY2kwckpCR2JFbXplV3ozTTByZW5wUE1vZ1oxRnBqVE1KZ2tGS1RkMTdfaW5HdzBJM1pkVk5YakFLVzNXTFlZYWlTMjRMNjZhS0lQeWF5ZDRrWDRrR1dZNmNMTzVMY1g0OGV3WlBmWml5YWxsQ3pxTmpfa2dKQXNHRHd4VHRadVRlVllSaFBBdlZv?oc=5",
+      "pubDate": "2026-09-15 03:15:00",
+      "author": "Alvinology",
+      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North Alvinology",
+      "lang": "en",
+      "source": "Alvinology",
       "categories": [
         "demand"
       ],
@@ -98764,14 +98884,14 @@
       "sentiment": 0
     },
     {
-      "id": "2244943744",
-      "title": "碳酸锂连续主力合约日内跌4%，现报128200.00元。 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1XRWd0RUdsbk84QUNueGlxSDg4WmNJR25lWGNYRVA5NFNfM0hLeUVOZjM2MzhkZTk0dFpkYnp1WHdKSWFCSlBESTk4bw?oc=5",
-      "pubDate": "2026-09-15 01:32:59",
-      "author": "新浪网",
-      "summary": "碳酸锂连续主力合约日内跌4%，现报128200.00元。 新浪网",
+      "id": "1594965972",
+      "title": "一周前沿科技盘点〔209〕| 小米发布多款新品；特色锂矿石伴生铷铯资源高效绿色分离技术取得新突破 - ncsti.gov.cn",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GbzNRZ2xfb2dzYkYtVS04LVNXRFZKbmZvbFczZ210N1k3V0RhNm5GQjkyWmVKQ3dwNWp5OFE2aTM5dlJ5ZnBSbndndUI4d3BOdXJRV0txMlg4bG5ka0tTWFRpUE8xTkg5SXZRRDdoYk8?oc=5",
+      "pubDate": "2026-09-15 01:38:48",
+      "author": "ncsti.gov.cn",
+      "summary": "一周前沿科技盘点〔209〕| 小米发布多款新品；特色锂矿石伴生铷铯资源高效绿色分离技术取得新突破 ncsti.gov.cn",
       "lang": "zh",
-      "source": "新浪网",
+      "source": "ncsti.gov.cn",
       "categories": [
         "demand"
       ],
@@ -98806,20 +98926,6 @@
       "sentiment": 0
     },
     {
-      "id": "1378356095",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM (EEMMF:OTCMKTS) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQlQ1dklGUnhWZWI0azBTdlQtQ2Foai02OUFnSElHN2Z4LVd1S3p2cVhvalE4X1JmN0tCMjkxTGhEZV9RU0haMFlNZ0Izb2R6LVE4NE5GVnA2UmZKdERwRlB0SmdCbGNsVEN4aUV1dGZiNlQ2WDU4c0lvU3FVMHhDZWJXOTZzd3AzWEJpMGFReGVSbk9xa05HNlNINXBCOUJadFpLVnJzZFJnN3FG?oc=5",
-      "pubDate": "2026-09-14 14:55:56",
-      "author": "Seeking Alpha",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM (EEMMF:OTCMKTS) Seeking Alpha",
-      "lang": "en",
-      "source": "Seeking Alpha",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "734641481",
       "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
@@ -98828,20 +98934,6 @@
       "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
       "lang": "en",
       "source": "Reuters",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2523358815",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSENwNEFicG9Qc2tZVmZ1dWNPY3dVOEFFT0ZYekNUU3ZHRXhZMDFNS2ZmUHl1dURqNHQxQnJKLTRHUzFRZDFCN3V6amhpNUUwN0VJWXpvd29BUTFYd00tM1AzaU1OWXJybldSQzVNUF9OaEtUeDBoZy1PZURtQ21ZU2laU3BFS2FjNTVYc1pkSGVPYUluQ2FsNHMycFYxS0JwWldZT0MzSWYwaVpPVGhiNDl6SWhCa0ZnN3Q1a3B1N0N2TGx0UFc0R0ZuYWdIRVBDNGhmeHQ1cjc?oc=5",
-      "pubDate": "2026-09-14 13:46:53",
-      "author": "TradingView",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM TradingView",
-      "lang": "en",
-      "source": "TradingView",
       "categories": [
         "supply"
       ],
@@ -98863,34 +98955,6 @@
       "sentiment": 0
     },
     {
-      "id": "282785197",
-      "title": "原油两连涨 金属普跌 碳酸锂、沪锡跌超2% 沪锌、沪金沪银跌幅居前【SMM午评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9Yc1hfWVVMN2I0RkxhYzhqLWdkbWN5aFRQMER4dVFYbTBXcHlWZl9LbVJNUUdhUlB5MHBnaUdSQUJHVHdRTVc1UTlB?oc=5",
-      "pubDate": "2026-09-14 13:01:00",
-      "author": "上海有色金属网",
-      "summary": "原油两连涨 金属普跌 碳酸锂、沪锡跌超2% 沪锌、沪金沪银跌幅居前【SMM午评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1935957400",
-      "title": "碳酸锂持续去库，为何价格却屡创新低？ | 金十期货热图-市场参考 - 金十数据",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOZzUtUE5mS05hdjFreVI1WDZKRWMtVVJUS21IMlZBVGlJekJ5VXhrYjJzRVAyQ0tzcnVacXFSUzIzN3hISEQxbjJWX0ZfMkE?oc=5",
-      "pubDate": "2026-09-14 11:07:48",
-      "author": "金十数据",
-      "summary": "碳酸锂持续去库，为何价格却屡创新低？ | 金十期货热图-市场参考 金十数据",
-      "lang": "zh",
-      "source": "金十数据",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1684652243",
       "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - Waste360",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzZQaWNFWE1ERWw0UWJ0cHB5cElRTjhaczRRZjllSTVXcW1ickJRNzFPWGwtRGRtaHJQZXU5R3lPSjBHZzJuX2tYN0pMX2hFV2FzajJDTUpXN0pENUhNOF9NWnFFQWxaNzhtMmpWTXlKMkQ3ejg2aUR0LVM0LVBoYzNTcE9kVGhoY2JJV1dPLS1Za2Z1QVUwZUM1Xzh6RURVOXFLVDZWZElsM3ZMV1ctNy13UGtDSzhEcjNSOEJFREwwMXc?oc=5",
@@ -98899,20 +98963,6 @@
       "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Waste360",
       "lang": "en",
       "source": "Waste360",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1051355911",
-      "title": "广期所锚定绿色期货高质量发展 - 经济参考报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXVTTnFpU250YWVhZzEyMjRMOFhKUUNGdEVWSXNpdTJ4NndmNFdNeU52WVBEakUzelhQTHJrQlRULUdUOTAtUXN0M3o0Q2oxSHhvZTFBNFc5Nlp1S0ZfeUxYaDNadkVva213bWJ2UnJRTVhWTi0yUDlKRnlhS1o3Rg?oc=5",
-      "pubDate": "2026-09-14 00:33:41",
-      "author": "经济参考报",
-      "summary": "广期所锚定绿色期货高质量发展 经济参考报",
-      "lang": "zh",
-      "source": "经济参考报",
       "categories": [
         "demand"
       ],
@@ -98934,31 +98984,17 @@
     },
     {
       "id": "2861587972",
-      "title": "【碳酸锂周报】去库持续收窄，下游项目审批暂缓，锂价下跌 - 同花顺财经",
+      "title": "【碳酸锂周报】去库持续收窄，下游项目审批暂缓，锂价下跌 - 同花顺",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11NUZ4a3BRMmRRTHRMamVWX3FuVEVBYkxBY1RqZ0RCejk0bEJpTmd5dDB2Z1VRMDNaQlJFQXh3dUtjUHBsOVlJSWYtZVRyd3E0My1PQm9QWTNCcGxvRlE?oc=5",
       "pubDate": "2026-09-12 14:54:13",
-      "author": "同花顺财经",
-      "summary": "【碳酸锂周报】去库持续收窄，下游项目审批暂缓，锂价下跌 同花顺财经",
+      "author": "同花顺",
+      "summary": "【碳酸锂周报】去库持续收窄，下游项目审批暂缓，锂价下跌 同花顺",
       "lang": "zh",
-      "source": "同花顺财经",
+      "source": "同花顺",
       "categories": [
         "demand"
       ],
       "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "2347110711",
-      "title": "碳酸锂一周内两次重挫：失守13万元关口，锂矿股全线下挫 - thepaper.cn",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TSjNmejZ1VUt1ZE9mQ3ltWlFCeDNJVUd2TDdGMDdXdTRIWVpHTTZJMDgxc0RzMGpkaS1uM3pqWlBnTGNHZm5GVVcyQXV3a0J1bGg3YVlQV2pZckN2TldPUTIxSWVBVzA0eDB2b3h1OEhpQQ?oc=5",
-      "pubDate": "2026-09-11 13:44:00",
-      "author": "thepaper.cn",
-      "summary": "碳酸锂一周内两次重挫：失守13万元关口，锂矿股全线下挫 thepaper.cn",
-      "lang": "zh",
-      "source": "thepaper.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     },
     {
       "id": "3555869058",
@@ -98978,13 +99014,13 @@
     },
     {
       "id": "2125934585",
-      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - Mining.com",
+      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - mining.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlRIY3AyUWIwVGRuS0M1Rl85SzZkcy00OS10UDMwUnpWWEdIQTN0dmxoUk9qNmFNZFFlMzlNM0J0VGg3ajVOZXBTYzVYS1RuOU94ZUtBdkRFY2k3blJ5ejFITDMycDZBV3ltajRPbmRWYkg4aWZRVFB6NTRiVTFteUhFUWdoLWJwZnZiMlBYQjkwc05KMVNMNg?oc=5",
       "pubDate": "2026-08-27 07:00:00",
-      "author": "Mining.com",
-      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals Mining.com",
+      "author": "mining.com",
+      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals mining.com",
       "lang": "en",
-      "source": "Mining.com",
+      "source": "mining.com",
       "categories": [
         "war",
         "supply"
