@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T11:54:36.370Z",
+  "generatedAt": "2026-09-16T16:02:07.154Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49603,10 +49603,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 113.45,
-      "changePct": -1.37,
-      "volume": 2336357,
-      "amount": 265227614,
+      "price": 111.715,
+      "changePct": -1.53,
+      "volume": 638404,
+      "amount": 71531170,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57743,6 +57743,18 @@
           "amp": 2.83,
           "chg": -1.37,
           "delta": -1.58
+        },
+        {
+          "d": "2026-09-16",
+          "o": 114.25,
+          "c": 111.715,
+          "h": 114.63,
+          "l": 111.15,
+          "v": 638404,
+          "amount": 71531170,
+          "amp": 3.07,
+          "chg": -1.53,
+          "delta": -1.735
         }
       ]
     },
@@ -57752,10 +57764,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 69.29,
-      "changePct": -0.63,
-      "volume": 1105912,
-      "amount": 76836467,
+      "price": 69.82,
+      "changePct": 0.76,
+      "volume": 320961,
+      "amount": 22266149,
       "klines": [
         {
           "d": "2024-01-02",
@@ -65892,6 +65904,18 @@
           "amp": 2.11,
           "chg": -0.63,
           "delta": -0.44
+        },
+        {
+          "d": "2026-09-16",
+          "o": 70.25,
+          "c": 69.82,
+          "h": 70.505,
+          "l": 68.77,
+          "v": 320961,
+          "amount": 22266149,
+          "amp": 2.5,
+          "chg": 0.76,
+          "delta": 0.53
         }
       ]
     }
@@ -65902,9 +65926,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 25981.57,
-      "changePct": -0.78,
-      "volume": 7070629632,
+      "price": 26175.94,
+      "changePct": 0.75,
+      "volume": 3983093056,
       "amount": 0,
       "klines": [
         {
@@ -74042,6 +74066,18 @@
           "amp": 0.87,
           "chg": -0.78,
           "delta": -204.84
+        },
+        {
+          "d": "2026-09-16",
+          "o": 26108.46,
+          "c": 26175.76,
+          "h": 26225.09,
+          "l": 26076.47,
+          "v": 3983093056,
+          "amount": 0,
+          "amp": 0.57,
+          "chg": 0.75,
+          "delta": 194.19
         }
       ]
     },
@@ -74050,9 +74086,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 103.4,
-      "changePct": -2.3,
-      "volume": 76487,
+      "price": 102.04,
+      "changePct": -3.58,
+      "volume": 207458,
       "amount": 0,
       "klines": [
         {
@@ -82446,14 +82482,14 @@
         {
           "d": "2026-09-16",
           "o": 105.48,
-          "c": 103.4,
+          "c": 102.05,
           "h": 105.63,
-          "l": 102.85,
-          "v": 76487,
+          "l": 100.97,
+          "v": 207457,
           "amount": 0,
-          "amp": 2.63,
-          "chg": -2.3,
-          "delta": -2.43
+          "amp": 4.4,
+          "chg": -3.57,
+          "delta": -3.78
         }
       ]
     },
@@ -82462,8 +82498,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 99.68,
-      "changePct": 0.06,
+      "price": 99.71,
+      "changePct": 0.09,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -90954,14 +90990,14 @@
         {
           "d": "2026-09-16",
           "o": 99.63,
-          "c": 99.68,
-          "h": 99.74,
+          "c": 99.71,
+          "h": 99.76,
           "l": 99.54,
           "v": 0,
           "amount": 0,
-          "amp": 0.2,
-          "chg": 0.06,
-          "delta": 0.06
+          "amp": 0.22,
+          "chg": 0.09,
+          "delta": 0.09
         }
       ]
     },
@@ -98864,6 +98900,49 @@
   ],
   "news": [
     {
+      "id": "1652753473",
+      "title": "R3 Lithium Raises $15 Million to Scale Georgia Battery Recycling Facility - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnZWeGI1QW5SNUJTd1d3WTQ1eW0zeUxUZlN0T3VacEdPZWRKTjhMX25CMVJzTS1pb193RjFpVEJtelNYcTgzTzczNXVWLVNtVVp3VzQyOGowTEI0TS1VZ3RhczJ5aEMtaDNoSFRMbFlac1l4T3NvdllVVkZfRDF5blZTT3JvMzQtUWREVkJtUlRBLVFyZWh4ZllCQnFhbnZiWHo0eXpRcFhQZnZXbFpzZA?oc=5",
+      "pubDate": "2026-09-16 15:51:54",
+      "author": "citybiz",
+      "summary": "R3 Lithium Raises $15 Million to Scale Georgia Battery Recycling Facility citybiz",
+      "lang": "en",
+      "source": "citybiz",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2952254984",
+      "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - businesswire.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWJWSU4xWldNbG9EeFM4N0NEcHo0UERXUHZoRlYyZ2FOWTlwajFQTnFPaVp4U3gwWFU1TERVa0FTVEJNOG1PajBVVGlfLW5pT0ZZaXZFLXFsQmdkbUxMQTNGYWhfXzlEcVFPdkFpU0M1RG9ZcUl2OHNJQkZaT1dYb3RicFk4YW5feG5HSWN2bFJsNUpxSHFaTVdyYVA2a3ZZa25yS2d1N2pHdy15dGR2Y201Z0FmZlJWaUZkUWczQkRqZ1hobWR4Rm1DbElNcGtmcDg1Tlo4RklxU0pUMXc?oc=5",
+      "pubDate": "2026-09-16 13:06:09",
+      "author": "businesswire.com",
+      "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate businesswire.com",
+      "lang": "en",
+      "source": "businesswire.com",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1484966321",
+      "title": "Zimbabwe Lithium Mining Women Breaking Barriers - industriall-union",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmd3THZibVhZOGdYV25MamxzbHZKRlhlbmo1TzU4V0ZzUUt6UnFLSUItQWJjcy0xNUxNMTZzbGo4R09QNTN1NXRBS0JlQmpjb3E5SzVoYlNtX01sTndnVjUtSWZzMERaU0E2MXlBY0VVLWoycjZ4YTZCNEl2NUFkZVJmUzlyYVZGZ0hHampRNTFBcGxJVXpB?oc=5",
+      "pubDate": "2026-09-16 08:38:35",
+      "author": "",
+      "summary": "Zimbabwe Lithium Mining Women Breaking Barriers industriall-union",
+      "lang": "en",
+      "source": "Global lithium news",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "848563295",
       "title": "东亚期货：能化板块集体大涨 碳酸锂再创新低 - 第一财经",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pOU1GcWJKelRMZUEyLXVZa0NNcGpDazRTNVk4bXFkN0ZLR2VIVm85cWpTMm9rTVlYSGZYTG13Q3IteWtFYll3c011UE81WVlnZGN4LQ?oc=5",
@@ -98949,20 +99028,6 @@
       "sentiment": 0
     },
     {
-      "id": "2719150200",
-      "title": "Benchmark concludes consultation on FOB South America LiCO3 price - source.benchmarkminerals.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxObzFIblFjdmUyM3BfYm1oZDVnRDFId1RVeHl6X0Fyd3FlNE9qV01XTlhQX1RVTEhfTHNqNkgyYWtVQlVFSDNGOVRXcGVEZGFZWXlrTnFVSWYtREZ3Ri1XZlhheDk0Q0sxdnJCczVEb2IxeWVxRE85Nk90Z2NOSk9udnY1Zi01NWlHM0J2MXRjd3h0MUpIcjl2NDFSYXQ2X3ZDWDhhaVhmWkplclhYOFBKZXF2cm9ZajUxd3VOVk50NVRQRjJDbTF5ZDFXbU9TbGJEVllRQy1OSW9MV1ZfaTBoaGVldXQ4dWstSzBURDhuSUMyeVljM09rQXlTTGZ4RVpINE0zMDNRNU40b2tzSW44RVlyTWlsN2stbjRCSm5kWjlsM3VqQmp4WHZOaXZieEk?oc=5",
-      "pubDate": "2026-09-15 16:38:21",
-      "author": "source.benchmarkminerals.com",
-      "summary": "Benchmark concludes consultation on FOB South America LiCO3 price source.benchmarkminerals.com",
-      "lang": "en",
-      "source": "source.benchmarkminerals.com",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "365834376",
       "title": "旺季碳酸锂价短期回调 供需紧平衡未变 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnVFMVNkWV9ZaHNrME8tSWNtekkza3Uyem1RU25lSGxYZE9hTG04QUJOenJiTjFuVnRMUHpzRkF1MW1SYWZYODZxQ0JVSTdXQWV3QXBuYU91ZlN4NHpkbzg1RHdaZ21MUFlQVlN5TkZjZ1hIX0FxcXZLVUhZRmFUeml1Qm9xTTFqb0swTkNnS1V5Zk9PenZWaXVieWljSnk1R0VVU2ZQXzJrNHNDOUlZeGFXUF9ZNVZwcEgtdi1tTGxLLXZJNHQ3aG8yTGRkdzQ?oc=5",
@@ -98983,21 +99048,6 @@
       "pubDate": "2026-09-15 15:14:30",
       "author": "International Institute for Sustainable Development",
       "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
-      "lang": "en",
-      "source": "International Institute for Sustainable Development",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3454515664",
-      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
-      "pubDate": "2026-09-15 15:14:30",
-      "author": "International Institute for Sustainable Development",
-      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
       "lang": "en",
       "source": "International Institute for Sustainable Development",
       "categories": [
@@ -99050,13 +99100,13 @@
     },
     {
       "id": "996481025",
-      "title": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium - Charged EVs",
+      "title": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium - chargedevs.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2xkX2I3QUEweFlqMUlwTEtQbkVzVm9CbjJVSjhVcFVuckVKa3BqVnNIeEJ3cTNPd2dEa1BwOUFiVXZ5V3Q2dmhob0hKSV9HWXFRX2M4eFpXdVRuTzVjUlo0SGxwOFdScFAtd2ktMmpGYmFtQTF6aFQ0eDdPM25uUWc3c1RWQmR4M1FjTkZZZjNLOHF4MTVhN3RScl92V0NCMlN6aEhOSmhmaHhWQnRwZHJsOGJOWFBLVFNPbjZwR3VPQQ?oc=5",
       "pubDate": "2026-09-14 14:57:47",
-      "author": "Charged EVs",
-      "summary": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium Charged EVs",
+      "author": "chargedevs.com",
+      "summary": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium chargedevs.com",
       "lang": "en",
-      "source": "Charged EVs",
+      "source": "chargedevs.com",
       "categories": [
         "demand"
       ],
@@ -99117,22 +99167,6 @@
         "demand"
       ],
       "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "3555869058",
-      "title": "Lithium mining in the Americas: planning to address community and environmental impacts - Stockholm Environment Institute",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM2puSDQwY1RlcEpjM2gwa3loLWdDeEpLTEItd2RxYmRMWVFBWUNvQmxJMzdmeGo1cmtTSFB6bDVnSnR2ZkpzRXZHRlNaNV92VmN6dHNqYUhETFNHMThjNlJTQjlFSkJtSmxhOHRKR3NNZ19EcFVIRlFjNGtXbHJaMw?oc=5",
-      "pubDate": "2026-09-10 02:58:21",
-      "author": "Stockholm Environment Institute",
-      "summary": "Lithium mining in the Americas: planning to address community and environmental impacts Stockholm Environment Institute",
-      "lang": "en",
-      "source": "Stockholm Environment Institute",
-      "categories": [
-        "environment",
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
     },
     {
       "id": "2125934585",
