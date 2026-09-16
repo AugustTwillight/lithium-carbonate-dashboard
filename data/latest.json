@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:02:07.154Z",
+  "generatedAt": "2026-09-16T19:38:06.416Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49603,10 +49603,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 111.715,
-      "changePct": -1.53,
-      "volume": 638404,
-      "amount": 71531170,
+      "price": 108.82,
+      "changePct": -4.08,
+      "volume": 1330883,
+      "amount": 148116137,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57747,14 +57747,14 @@
         {
           "d": "2026-09-16",
           "o": 114.25,
-          "c": 111.715,
+          "c": 108.82,
           "h": 114.63,
-          "l": 111.15,
-          "v": 638404,
-          "amount": 71531170,
-          "amp": 3.07,
-          "chg": -1.53,
-          "delta": -1.735
+          "l": 107.9,
+          "v": 1330882,
+          "amount": 148116025,
+          "amp": 5.93,
+          "chg": -4.08,
+          "delta": -4.63
         }
       ]
     },
@@ -57764,10 +57764,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 69.82,
-      "changePct": 0.76,
-      "volume": 320961,
-      "amount": 22266149,
+      "price": 68.33,
+      "changePct": -1.39,
+      "volume": 690465,
+      "amount": 47867973,
       "klines": [
         {
           "d": "2024-01-02",
@@ -65908,14 +65908,14 @@
         {
           "d": "2026-09-16",
           "o": 70.25,
-          "c": 69.82,
+          "c": 68.33,
           "h": 70.505,
-          "l": 68.77,
-          "v": 320961,
-          "amount": 22266149,
-          "amp": 2.5,
-          "chg": 0.76,
-          "delta": 0.53
+          "l": 67.85,
+          "v": 690465,
+          "amount": 47867973,
+          "amp": 3.83,
+          "chg": -1.39,
+          "delta": -0.96
         }
       ]
     }
@@ -65926,9 +65926,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26175.94,
-      "changePct": 0.75,
-      "volume": 3983093056,
+      "price": 25909.54,
+      "changePct": -0.28,
+      "volume": 7369848064,
       "amount": 0,
       "klines": [
         {
@@ -74070,14 +74070,14 @@
         {
           "d": "2026-09-16",
           "o": 26108.46,
-          "c": 26175.76,
+          "c": 25909.54,
           "h": 26225.09,
-          "l": 26076.47,
-          "v": 3983093056,
+          "l": 25802.96,
+          "v": 7369848064,
           "amount": 0,
-          "amp": 0.57,
-          "chg": 0.75,
-          "delta": 194.19
+          "amp": 1.62,
+          "chg": -0.28,
+          "delta": -72.03
         }
       ]
     },
@@ -74086,9 +74086,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 102.04,
-      "changePct": -3.58,
-      "volume": 207458,
+      "price": 102.12,
+      "changePct": -3.51,
+      "volume": 268302,
       "amount": 0,
       "klines": [
         {
@@ -82482,14 +82482,14 @@
         {
           "d": "2026-09-16",
           "o": 105.48,
-          "c": 102.05,
+          "c": 102.11,
           "h": 105.63,
           "l": 100.97,
-          "v": 207457,
+          "v": 268301,
           "amount": 0,
           "amp": 4.4,
-          "chg": -3.57,
-          "delta": -3.78
+          "chg": -3.52,
+          "delta": -3.72
         }
       ]
     },
@@ -82498,8 +82498,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 99.71,
-      "changePct": 0.09,
+      "price": 100.23,
+      "changePct": 0.61,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -90990,14 +90990,14 @@
         {
           "d": "2026-09-16",
           "o": 99.63,
-          "c": 99.71,
-          "h": 99.76,
+          "c": 100.23,
+          "h": 100.33,
           "l": 99.54,
           "v": 0,
           "amount": 0,
-          "amp": 0.22,
-          "chg": 0.09,
-          "delta": 0.09
+          "amp": 0.79,
+          "chg": 0.61,
+          "delta": 0.61
         }
       ]
     },
@@ -98929,6 +98929,48 @@
       "sentiment": 0
     },
     {
+      "id": "933576256",
+      "title": "商品日报（9月16日）：蛋白粕携手大涨菜粕涨超4% 碳酸锂跌近3% - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEtQM20zQjlsbHllY3BBN0tOVUxrRnBBbl9VLU5ZUWZPN1BnRmxTWGFyYkc1NjR2d2UtVkhZeUoxTmVILUt2UVBCZExPQ1JmX1NYYWY1R2FGSlgtTF83XzlJV05XR1hpV1otdFlLSThnWHBVMDUyUW0zSWZKbzJIM1RfQkdWcjVaNVRSLTI4aw?oc=5",
+      "pubDate": "2026-09-16 12:05:00",
+      "author": "21财经",
+      "summary": "商品日报（9月16日）：蛋白粕携手大涨菜粕涨超4% 碳酸锂跌近3% 21财经",
+      "lang": "zh",
+      "source": "21财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "681146122",
+      "title": "江特电机：推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tNktSVXIxQXc1OUx0cktjaFdCd0NaWktQQWJLWjl2TVl3SWtfTTEyeXNfR1pSUHNNVEFTMFgwTEhyU1pjNUVfQUVMd2hrc1NvTkp3djNMaFZta04xenNUMkxfUTM4Zw?oc=5",
+      "pubDate": "2026-09-16 11:54:26",
+      "author": "东方财富",
+      "summary": "江特电机：推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4159912957",
+      "title": "一张数据报表，就能左右碳酸锂价格？ - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxQWnhaRlZhSi1MWEQtVlBid1FRc18yYk9Sa3UzRXN2VVFId3h1c1RhcV8tSXJlYllsa0FpSVlPbzBtUWdUNXVlWlQ5U1pBVTNIN3ZnRGZyd01YVWRJT2JRMjFXclZOUEdNdXhPQnBJZ0pSMEhnR0FkMUxKYVFVRlNscVRWLUVfMTJTVnIwWkJnRnlvNk0xaFlqV0p5aU9YX1I4MkRkSWlsVHViX0lvUXRhR1hiU1FLTHFFNDJjejFjeUduejBMbUtrMHgtd1RzVDdfWjVjRkpxNkI5LW4wc1U1WkxoR2kxVkxpaUNGZ2sxSkNBMlNZR2hvekZneEVnMVBtRDhUa0YxS2pMbU9JLU5kT2tiT2VIS0o2TnY2V1EtVHVoNkEtRFNtNDNZdW1wdTJXM1FORG9CaFZXa2hEb3puUGJtVW44VnNzRGRHdlNfZ1FTYmJ6N21oaDhhZWMwaFY3Q2c2ckdfaXJVSVFsdGNoNzVpQm05eV9sVFdfRHk2MkliVFhnRi10M0w3LTR1SVZCcUtfczF0amRJNUQxdWFhOW10X1ZCcTFMa25FRm5ReU5vQ2NpZTQtSnZiZ051SzV5TGF1VldVX29UR2ZqbEdhbE5MWXFsczNvN1VrcWtwcU0tOE9JZDR4SllZeDFkclNYdjJUVzdVZE1oWjU1bkpWQ0ZScTAydVhKcVZwS2YyekZScE9sTk1PS3k1UFlPdE0tblQyTA?oc=5",
+      "pubDate": "2026-09-16 10:16:36",
+      "author": "新浪财经",
+      "summary": "一张数据报表，就能左右碳酸锂价格？ 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1484966321",
       "title": "Zimbabwe Lithium Mining Women Breaking Barriers - industriall-union",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTmd3THZibVhZOGdYV25MamxzbHZKRlhlbmo1TzU4V0ZzUUt6UnFLSUItQWJjcy0xNUxNMTZzbGo4R09QNTN1NXRBS0JlQmpjb3E5SzVoYlNtX01sTndnVjUtSWZzMERaU0E2MXlBY0VVLWoycjZ4YTZCNEl2NUFkZVJmUzlyYVZGZ0hHampRNTFBcGxJVXpB?oc=5",
@@ -98957,14 +98999,14 @@
       "sentiment": 0
     },
     {
-      "id": "1617693639",
-      "title": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0NvUzFneVNlM0E3YmxlUHBUSXloM3BCLUVKSXpUOXBkb2taWWVoeHlBMWo5ZGpTZGw1Y2NmeDRmMGk0TEhmUHBFQkg3WkFKd2R0ekYzM1RMdURpRk1fODZrZ0xBZFBZUVZhekFQSl82cTFiT3prdEJDZzFxMEZrZEpDNXkxTHRr?oc=5",
+      "id": "3294260838",
+      "title": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nVjRHSy0yd2JZb1hqMDlDSm9CbmF3WFlLenNFc2JKMWV4NXNRSzAzcldYNUZmNjFVb0QzVUtVYW5iWjdWUFYtTWt0dnRDMHR5REhxWW84R3hpOUdsUy1kM2Ricw?oc=5",
       "pubDate": "2026-09-16 05:01:02",
-      "author": "Sohu",
-      "summary": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ Sohu",
+      "author": "金融界",
+      "summary": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ 金融界",
       "lang": "zh",
-      "source": "Sohu",
+      "source": "金融界",
       "categories": [
         "demand"
       ],
@@ -98986,56 +99028,14 @@
       "sentiment": 0
     },
     {
-      "id": "2426923204",
-      "title": "广期所碳酸锂主力合约跌超4% - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zVGgxVG1CLWsxclJjTXVIZmdjQTJwckxpazlxX1hCZ1BITll1TTRfSFNZTktWVWlyM2Uzc2ZGS3lOYlVZVmdSalk1VWRDZTJGU01nbGRNWkhnYXZLb0ZFOTBaaHFONFJmRm9lUzdPTQ?oc=5",
-      "pubDate": "2026-09-16 02:04:36",
-      "author": "金融界",
-      "summary": "广期所碳酸锂主力合约跌超4% 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "134631802",
-      "title": "一张数据报表，就能左右碳酸锂价格？ - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMi2AVBVV95cUxQNDZjdjVJcl8xUDMxRTEySXhCWm5xSGllMnJjSlgwRmFYVm9UTXBHTEtuRmI0LWIxT24xX1h4S2gxUmFMSzdjZWtmN0FIdVF3UzUwVVlIdE9HdmlmdXhVSHF5elVSSkk3YmxVU0hDOU1sY3RpRGJhWU9kVnA5ZTNSc0VDTkhYby1QS1EyOU90b0NFZFhBN2lpRnlXaVBhbXdMWlM2TGdxd0luZUQ5WXg4c1VNTlFabFRlSEczQkNvLTlpOUV4QU5QTjIwYlZ1OGVFS0M4dUNMOEJPWFRxYkxWWDVzcmpLMlhJeEk2aXo2STJHRHFMX3dtYnU5Wm83ZkY3QmdUYlFrcUZ4YzRBcUw4ZmF1QnlYWWdrZzNjd0x6aS1xX0dDNXVqNTFUUGtXNjlwR0V2aDBPbjZFTjdPVWlBaWxuZFNsS1psME9XRjY3NDFacDJ5RFFnLVZDSlEzMGliWVdVeHMyMnhQOExxMU5MYy1sSVF4bGJPSzdWRHF0UDJuZTZGUDA0ZHl4ckdTWUwyb1JuMUJtaU92bDV3R29XTVFlbFpMN0FQa3hmTFlwSElBUm85ZnNSZWJFbGxuYVZ0b3hWMWp5b2l4elQ4MEJsdVdsOFdvYlRtSXZxeW54V2xrRE9pVXlKdk5VOGFvN1RIRkYwLTVKSndzV3lsTzJSNi1VamJEbUFHdXRQb2VjMEVpY0lCNXFYZ2duS1NCVW53bjc1QmxMR0VrSXByV1Z2VzBxWm8xdUlpRG03Ty14ZkhxR1lyQ2l4V2Y5ZXloLThLOXB4bXZTVkZDdndONXhELTRuelBPbzU3Q2ljWFBIbXlYMUJBT2VadVFnS214SWNCeGE3UV9jRHBwYndzbFhsZzJMRWU3UUhpaTRYRTFidl9zQ1lYdzRSOTBxa3oyUDgwblVOcEdWMGthWTg0XzBNTE54Y29FSHhGdXRkX0NhelBIM3VaVjg1Qg?oc=5",
-      "pubDate": "2026-09-15 20:28:27",
-      "author": "finance.sina.com.cn",
-      "summary": "一张数据报表，就能左右碳酸锂价格？ finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3599009762",
-      "title": "金银河：碳酸锂综合提取率超95%，铷、铯元素提取率达85%以上 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2RtRDFfVjQ1c3g2YVVaZldvMGVnaTB2MlhNU3NXZWh2cGFtOWJ3QmJfbHZ4ZnUwaFFhcVVJRjBVQ1F5QnNHYXhVbnd4MnJ1c3NqWGdTUG45RnRILVNVOQ?oc=5",
-      "pubDate": "2026-09-15 20:17:58",
+      "id": "4154909519",
+      "title": "广期所碳酸锂主力合约跌超4% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wTlJvMjN0SlNPam12LXJKcVptNzZjdHVLZ0NLcmozSUZPWUlwNVphM255bS1NcnFISUwzZFZlV1k0UTZUUUZXb3BZdUVWNm9RbHNBbkNnSVo1d3RRTUxkTw?oc=5",
+      "pubDate": "2026-09-16 02:06:30",
       "author": "东方财富",
-      "summary": "金银河：碳酸锂综合提取率超95%，铷、铯元素提取率达85%以上 东方财富",
+      "summary": "广期所碳酸锂主力合约跌超4% 东方财富",
       "lang": "zh",
       "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "365834376",
-      "title": "旺季碳酸锂价短期回调 供需紧平衡未变 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnVFMVNkWV9ZaHNrME8tSWNtekkza3Uyem1RU25lSGxYZE9hTG04QUJOenJiTjFuVnRMUHpzRkF1MW1SYWZYODZxQ0JVSTdXQWV3QXBuYU91ZlN4NHpkbzg1RHdaZ21MUFlQVlN5TkZjZ1hIX0FxcXZLVUhZRmFUeml1Qm9xTTFqb0swTkNnS1V5Zk9PenZWaXVieWljSnk1R0VVU2ZQXzJrNHNDOUlZeGFXUF9ZNVZwcEgtdi1tTGxLLXZJNHQ3aG8yTGRkdzQ?oc=5",
-      "pubDate": "2026-09-15 16:16:00",
-      "author": "finance.sina.com.cn",
-      "summary": "旺季碳酸锂价短期回调 供需紧平衡未变 finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
       "categories": [
         "demand"
       ],
@@ -99053,20 +99053,6 @@
       "categories": [
         "supply",
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2152831021",
-      "title": "完善品种 扩大开放 强化监管 广期所锚定绿色期货高质量发展 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORFZwRzZ6emFRdHJ1YmdfaXlDUTVkaE50ZWp3MFJmWGpnMTBCYVFNRlo2VFd0MG9HZlFWamZWbU1IXzlFTGFIU1g0Rmt4cXktT0NvbWFQX0J0MzEzdHRPWXg3UEtBbVhzb3VZWFR6LUkwTlpFb2YxUmt0Z1R2QTc3OGh6MW9RQ0FGMjJ1LQ?oc=5",
-      "pubDate": "2026-09-15 10:29:00",
-      "author": "21财经",
-      "summary": "完善品种 扩大开放 强化监管 广期所锚定绿色期货高质量发展 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "policy"
       ],
       "sentiment": 0
     },
@@ -99123,6 +99109,20 @@
       "source": "Reuters",
       "categories": [
         "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1935957400",
+      "title": "碳酸锂持续去库，为何价格却屡创新低？ | 金十期货热图-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOZzUtUE5mS05hdjFreVI1WDZKRWMtVVJUS21IMlZBVGlJekJ5VXhrYjJzRVAyQ0tzcnVacXFSUzIzN3hISEQxbjJWX0ZfMkE?oc=5",
+      "pubDate": "2026-09-14 11:07:48",
+      "author": "金十数据",
+      "summary": "碳酸锂持续去库，为何价格却屡创新低？ | 金十期货热图-市场参考 金十数据",
+      "lang": "zh",
+      "source": "金十数据",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     },
