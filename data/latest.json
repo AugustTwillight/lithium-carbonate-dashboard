@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T19:38:06.416Z",
+  "generatedAt": "2026-09-16T22:37:09.971Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -98914,14 +98914,29 @@
       "sentiment": 0
     },
     {
+      "id": "1983966460",
+      "title": "SunSirs: Lithium Carbonate Prices See Short-Term Pullback During Peak Season, and Tight Supply-Demand Balance Remains Unchanged - Sunsirs",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUzl4V1hTYU1yRmlqMjVnOFlJdmtmYmJpMHRZVlI5Q3VvbVFvUkpzc0I5UVZSNVhUMlFYTktmMEd6MDVLRDNmNGM0R2xMUmhVWnBUTTlBeWJUOU8wc3c?oc=5",
+      "pubDate": "2026-09-16 14:37:00",
+      "author": "Sunsirs",
+      "summary": "SunSirs: Lithium Carbonate Prices See Short-Term Pullback During Peak Season, and Tight Supply-Demand Balance Remains Unchanged Sunsirs",
+      "lang": "en",
+      "source": "Sunsirs",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
       "id": "2952254984",
-      "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - businesswire.com",
+      "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - Business Wire",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWJWSU4xWldNbG9EeFM4N0NEcHo0UERXUHZoRlYyZ2FOWTlwajFQTnFPaVp4U3gwWFU1TERVa0FTVEJNOG1PajBVVGlfLW5pT0ZZaXZFLXFsQmdkbUxMQTNGYWhfXzlEcVFPdkFpU0M1RG9ZcUl2OHNJQkZaT1dYb3RicFk4YW5feG5HSWN2bFJsNUpxSHFaTVdyYVA2a3ZZa25yS2d1N2pHdy15dGR2Y201Z0FmZlJWaUZkUWczQkRqZ1hobWR4Rm1DbElNcGtmcDg1Tlo4RklxU0pUMXc?oc=5",
       "pubDate": "2026-09-16 13:06:09",
-      "author": "businesswire.com",
-      "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate businesswire.com",
+      "author": "Business Wire",
+      "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate Business Wire",
       "lang": "en",
-      "source": "businesswire.com",
+      "source": "Business Wire",
       "categories": [
         "supply",
         "macro"
@@ -99013,21 +99028,6 @@
       "sentiment": 0
     },
     {
-      "id": "1707389524",
-      "title": "Behind lithium's price swing: what the supply chain is actually signalling. - Livewire Markets",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejlDbG5qN3hVdFpsYzdFM1VpWVVPZ0k0UlI4LWZsai1LMFVVa3BDT0x3akItZy1aWjdEMmJGNXFzcUYtZHFGMDE1VWZCWVFmQjQ4djIwcVFHaFFqZS1UYXFFeXpjZkRrOWExc0F0RzNzLWhLVjh3SHVtSGxuWGQyTnVCSUZ3aF92a0lqVEdqaklvU1BTcDFDY2lPZi1qcnZXVEJtTFJ0TVdzUjJOUkRtNA?oc=5",
-      "pubDate": "2026-09-16 03:50:08",
-      "author": "Livewire Markets",
-      "summary": "Behind lithium's price swing: what the supply chain is actually signalling. Livewire Markets",
-      "lang": "en",
-      "source": "Livewire Markets",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "4154909519",
       "title": "广期所碳酸锂主力合约跌超4% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wTlJvMjN0SlNPam12LXJKcVptNzZjdHVLZ0NLcmozSUZPWUlwNVphM255bS1NcnFISUwzZFZlV1k0UTZUUUZXb3BZdUVWNm9RbHNBbkNnSVo1d3RRTUxkTw?oc=5",
@@ -99086,13 +99086,13 @@
     },
     {
       "id": "996481025",
-      "title": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium - chargedevs.com",
+      "title": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium - Charged EVs",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2xkX2I3QUEweFlqMUlwTEtQbkVzVm9CbjJVSjhVcFVuckVKa3BqVnNIeEJ3cTNPd2dEa1BwOUFiVXZ5V3Q2dmhob0hKSV9HWXFRX2M4eFpXdVRuTzVjUlo0SGxwOFdScFAtd2ktMmpGYmFtQTF6aFQ0eDdPM25uUWc3c1RWQmR4M1FjTkZZZjNLOHF4MTVhN3RScl92V0NCMlN6aEhOSmhmaHhWQnRwZHJsOGJOWFBLVFNPbjZwR3VPQQ?oc=5",
       "pubDate": "2026-09-14 14:57:47",
-      "author": "chargedevs.com",
-      "summary": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium chargedevs.com",
+      "author": "Charged EVs",
+      "summary": "LG Energy Solution signs 10-year lithium carbonate offtake agreement with Smackover Lithium Charged EVs",
       "lang": "en",
-      "source": "chargedevs.com",
+      "source": "Charged EVs",
       "categories": [
         "demand"
       ],
@@ -99100,13 +99100,13 @@
     },
     {
       "id": "734641481",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
       "pubDate": "2026-09-14 13:49:27",
-      "author": "Reuters",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
+      "author": "reuters.com",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM reuters.com",
       "lang": "en",
-      "source": "Reuters",
+      "source": "reuters.com",
       "categories": [
         "supply"
       ],
@@ -99213,8 +99213,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -99228,63 +99228,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
