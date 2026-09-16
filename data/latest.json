@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:01:46.637Z",
+  "generatedAt": "2026-09-16T06:22:48.148Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -1987,11 +1987,11 @@
     ]
   },
   "spot": {
-    "price": 135850,
+    "price": 132200,
     "date": "2026-09-16",
-    "dayPct": -2.02,
-    "monthPct": -11.21,
-    "yearPct": 86.48,
+    "dayPct": -2.69,
+    "monthPct": -13.59,
+    "yearPct": 80.72,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -73988,9 +73988,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 105.22,
-      "changePct": -0.58,
-      "volume": 6258,
+      "price": 104.67,
+      "changePct": -1.1,
+      "volume": 23621,
       "amount": 0,
       "klines": [
         {
@@ -82384,14 +82384,14 @@
         {
           "d": "2026-09-16",
           "o": 105.48,
-          "c": 105.22,
+          "c": 104.67,
           "h": 105.63,
-          "l": 104.69,
-          "v": 6258,
+          "l": 104.23,
+          "v": 23621,
           "amount": 0,
-          "amp": 0.89,
-          "chg": -0.58,
-          "delta": -0.61
+          "amp": 1.32,
+          "chg": -1.1,
+          "delta": -1.16
         }
       ]
     },
@@ -82400,8 +82400,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 99.7,
-      "changePct": 0.08,
+      "price": 99.58,
+      "changePct": -0.04,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -85036,14 +85036,14 @@
         {
           "d": "2024-11-01",
           "o": 103.88,
-          "c": 104.32,
+          "c": 104.28,
           "h": 104.35,
           "l": 103.67,
           "v": 0,
           "amount": 0,
           "amp": 0.65,
-          "chg": 0.4,
-          "delta": 0.42
+          "chg": 0.37,
+          "delta": 0.38
         },
         {
           "d": "2024-11-04",
@@ -85054,8 +85054,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.39,
-          "chg": -0.4,
-          "delta": -0.42
+          "chg": -0.36,
+          "delta": -0.38
         },
         {
           "d": "2024-11-05",
@@ -86164,14 +86164,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.83,
+          "c": 103.86,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.23,
-          "delta": 0.24
+          "chg": 0.26,
+          "delta": 0.27
         },
         {
           "d": "2025-03-14",
@@ -86182,8 +86182,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.1,
-          "delta": -0.1
+          "chg": -0.13,
+          "delta": -0.13
         },
         {
           "d": "2025-03-17",
@@ -90892,14 +90892,14 @@
         {
           "d": "2026-09-16",
           "o": 99.63,
-          "c": 99.7,
-          "h": 99.72,
-          "l": 99.6,
+          "c": 99.58,
+          "h": 99.74,
+          "l": 99.56,
           "v": 0,
           "amount": 0,
-          "amp": 0.12,
-          "chg": 0.08,
-          "delta": 0.08
+          "amp": 0.18,
+          "chg": -0.04,
+          "delta": -0.04
         }
       ]
     },
@@ -90908,10 +90908,10 @@
       "secid": "1.000300",
       "name": "沪深300",
       "code": "000300",
-      "price": 4449.07,
-      "changePct": -0.02,
-      "volume": 0,
-      "amount": 0,
+      "price": 4476.44,
+      "changePct": 0.59,
+      "volume": 140073590,
+      "amount": 413001047192.3,
       "klines": [
         {
           "d": "2024-01-02",
@@ -98784,11 +98784,38 @@
           "amp": 1.17,
           "chg": -0.67,
           "delta": -30.04
+        },
+        {
+          "d": "2026-09-16",
+          "o": 4449.88,
+          "c": 4476.44,
+          "h": 4483.36,
+          "l": 4417.6,
+          "v": 140073590,
+          "amount": 413001047192.3,
+          "amp": 1.48,
+          "chg": 0.59,
+          "delta": 26.4
         }
       ]
     }
   ],
   "news": [
+    {
+      "id": "1707389524",
+      "title": "Behind lithium's price swing: what the supply chain is actually signalling. - Livewire Markets",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejlDbG5qN3hVdFpsYzdFM1VpWVVPZ0k0UlI4LWZsai1LMFVVa3BDT0x3akItZy1aWjdEMmJGNXFzcUYtZHFGMDE1VWZCWVFmQjQ4djIwcVFHaFFqZS1UYXFFeXpjZkRrOWExc0F0RzNzLWhLVjh3SHVtSGxuWGQyTnVCSUZ3aF92a0lqVEdqaklvU1BTcDFDY2lPZi1qcnZXVEJtTFJ0TVdzUjJOUkRtNA?oc=5",
+      "pubDate": "2026-09-16 03:50:08",
+      "author": "Livewire Markets",
+      "summary": "Behind lithium's price swing: what the supply chain is actually signalling. Livewire Markets",
+      "lang": "en",
+      "source": "Livewire Markets",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
     {
       "id": "134631802",
       "title": "一张数据报表，就能左右碳酸锂价格？ - 新浪财经",
@@ -98805,13 +98832,13 @@
     },
     {
       "id": "2719150200",
-      "title": "Benchmark concludes consultation on FOB South America LiCO3 price - Benchmark Mineral Intelligence",
+      "title": "Benchmark concludes consultation on FOB South America LiCO3 price - source.benchmarkminerals.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxObzFIblFjdmUyM3BfYm1oZDVnRDFId1RVeHl6X0Fyd3FlNE9qV01XTlhQX1RVTEhfTHNqNkgyYWtVQlVFSDNGOVRXcGVEZGFZWXlrTnFVSWYtREZ3Ri1XZlhheDk0Q0sxdnJCczVEb2IxeWVxRE85Nk90Z2NOSk9udnY1Zi01NWlHM0J2MXRjd3h0MUpIcjl2NDFSYXQ2X3ZDWDhhaVhmWkplclhYOFBKZXF2cm9ZajUxd3VOVk50NVRQRjJDbTF5ZDFXbU9TbGJEVllRQy1OSW9MV1ZfaTBoaGVldXQ4dWstSzBURDhuSUMyeVljM09rQXlTTGZ4RVpINE0zMDNRNU40b2tzSW44RVlyTWlsN2stbjRCSm5kWjlsM3VqQmp4WHZOaXZieEk?oc=5",
       "pubDate": "2026-09-15 16:38:21",
-      "author": "Benchmark Mineral Intelligence",
-      "summary": "Benchmark concludes consultation on FOB South America LiCO3 price Benchmark Mineral Intelligence",
+      "author": "source.benchmarkminerals.com",
+      "summary": "Benchmark concludes consultation on FOB South America LiCO3 price source.benchmarkminerals.com",
       "lang": "en",
-      "source": "Benchmark Mineral Intelligence",
+      "source": "source.benchmarkminerals.com",
       "categories": [
         "supply"
       ],
@@ -98833,42 +98860,30 @@
     },
     {
       "id": "2237947757",
-      "title": "Lithium Mining in Chile - iisd.org",
+      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
       "pubDate": "2026-09-15 15:14:30",
-      "author": "iisd.org",
-      "summary": "Lithium Mining in Chile iisd.org",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
       "lang": "en",
-      "source": "iisd.org",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "supply"
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     },
     {
       "id": "3454515664",
-      "title": "Lithium Mining in Australia - iisd.org",
+      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
       "pubDate": "2026-09-15 15:14:30",
-      "author": "iisd.org",
-      "summary": "Lithium Mining in Australia iisd.org",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
       "lang": "en",
-      "source": "iisd.org",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1051471343",
-      "title": "Surge Battery Metals refines Nevada lithium ore... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQm9FTVNkeDlMaE1mREFJTkxKZGtzTVJxbHVFRlVpVjFFQW9naWVza1pjV0dTOGQ4U2FISlIyQ2ROVkx5MENYZ2g3Vm5wS1IyVFctZDdpTldVbEowT3FqSnVPdFQ0MWh1N0p3Wl9lUTZiTXJ0R0NhRWI2T1pMek5Sc3FkQ0FabEZtTWZ4NWNJTEFzZFc2cGxrTkxfQnNpU2tJQnJF?oc=5",
-      "pubDate": "2026-09-15 11:20:59",
-      "author": "Pluang",
-      "summary": "Surge Battery Metals refines Nevada lithium ore... Pluang",
-      "lang": "en",
-      "source": "Pluang",
-      "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -99102,8 +99117,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -99117,33 +99132,33 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
