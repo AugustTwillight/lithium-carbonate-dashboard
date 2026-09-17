@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T19:47:27.412Z",
+  "generatedAt": "2026-09-17T22:37:35.679Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49687,10 +49687,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 115.865,
-      "changePct": 5.84,
-      "volume": 1486383,
-      "amount": 170365814,
+      "price": 115.05,
+      "changePct": 5.1,
+      "volume": 2161526,
+      "amount": 248203850,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57842,15 +57842,15 @@
         },
         {
           "d": "2026-09-17",
-          "o": 112.755,
-          "c": 115.865,
+          "o": 112.5,
+          "c": 115.05,
           "h": 116.3,
-          "l": 112.54,
-          "v": 1486383,
-          "amount": 170365814,
-          "amp": 3.43,
-          "chg": 5.84,
-          "delta": 6.395
+          "l": 112.5,
+          "v": 2161526,
+          "amount": 248203850,
+          "amp": 3.47,
+          "chg": 5.1,
+          "delta": 5.58
         }
       ]
     },
@@ -57860,10 +57860,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 71.91,
-      "changePct": 4.7,
-      "volume": 720886,
-      "amount": 51614414,
+      "price": 71.8,
+      "changePct": 4.54,
+      "volume": 918773,
+      "amount": 65891000,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66015,15 +66015,15 @@
         },
         {
           "d": "2026-09-17",
-          "o": 70.51,
-          "c": 71.91,
+          "o": 70.57,
+          "c": 71.8,
           "h": 72.52,
-          "l": 70.51,
-          "v": 720886,
-          "amount": 51614414,
-          "amp": 2.93,
-          "chg": 4.7,
-          "delta": 3.23
+          "l": 70.4,
+          "v": 918773,
+          "amount": 65891000,
+          "amp": 3.09,
+          "chg": 4.54,
+          "delta": 3.12
         }
       ]
     }
@@ -66034,9 +66034,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26421.41,
-      "changePct": 1.71,
-      "volume": 7635406592,
+      "price": 26418.3,
+      "changePct": 1.69,
+      "volume": 9127066880,
       "amount": 0,
       "klines": [
         {
@@ -74190,14 +74190,14 @@
         {
           "d": "2026-09-17",
           "o": 26377.86,
-          "c": 26421.21,
-          "h": 26435.54,
+          "c": 26418.3,
+          "h": 26460.64,
           "l": 26289.94,
-          "v": 7635406592,
+          "v": 9127066880,
           "amount": 0,
-          "amp": 0.56,
-          "chg": 1.7,
-          "delta": 442.79
+          "amp": 0.66,
+          "chg": 1.69,
+          "delta": 439.88
         }
       ]
     },
@@ -74206,9 +74206,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 101.27,
-      "changePct": -1.13,
-      "volume": 243292,
+      "price": 96.66,
+      "changePct": -0.59,
+      "volume": 868,
       "amount": 0,
       "klines": [
         {
@@ -82614,14 +82614,26 @@
         {
           "d": "2026-09-17",
           "o": 102.18,
-          "c": 101.27,
+          "c": 101.09,
           "h": 102.47,
           "l": 99.1,
-          "v": 243292,
+          "v": 248050,
           "amount": 0,
           "amp": 3.29,
-          "chg": -1.13,
-          "delta": -1.16
+          "chg": -1.31,
+          "delta": -1.34
+        },
+        {
+          "d": "2026-09-18",
+          "o": 96.48,
+          "c": 96.66,
+          "h": 96.75,
+          "l": 96.35,
+          "v": 868,
+          "amount": 0,
+          "amp": 0.41,
+          "chg": -0.59,
+          "delta": -0.57
         }
       ]
     },
@@ -82630,8 +82642,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 100.21,
-      "changePct": -0.1,
+      "price": 100.22,
+      "changePct": -0.01,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -86394,14 +86406,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.83,
+          "c": 103.86,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.23,
-          "delta": 0.24
+          "chg": 0.26,
+          "delta": 0.27
         },
         {
           "d": "2025-03-14",
@@ -86412,8 +86424,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.1,
-          "delta": -0.1
+          "chg": -0.13,
+          "delta": -0.13
         },
         {
           "d": "2025-03-17",
@@ -91134,7 +91146,7 @@
         {
           "d": "2026-09-17",
           "o": 100.3,
-          "c": 100.21,
+          "c": 100.23,
           "h": 100.37,
           "l": 100.02,
           "v": 0,
@@ -91142,6 +91154,18 @@
           "amp": 0.35,
           "chg": -0.1,
           "delta": -0.1
+        },
+        {
+          "d": "2026-09-18",
+          "o": 100.23,
+          "c": 100.22,
+          "h": 100.24,
+          "l": 100.2,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.04,
+          "chg": -0.01,
+          "delta": -0.01
         }
       ]
     },
@@ -99073,7 +99097,7 @@
       "id": "4234123848",
       "title": "TDK Ventures invests in R3 Lithium to accelerate US domestic supply of lithium carbonate - renewableenergymagazine.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVhQUnV5VjVBNHhUVlJURHhUUzdWaTZ0RjdsYlh6V05Ja1I3THdjT1RsOFEtM2lfNVgxQThkYms1MHZTSlk0a29yYlA5NW82S2RUQnNyXzM4dDJzNHFaZnUwQ3lNdDRoM2xUNUwtbGQ2NUxCX2hHeDV5aWxvVUdPaE92Wlc5STJ0SUJELThuTG5MSzMybjJWRFJPZE1Ga2czMHVILVpfMjhRRW1JbE8wYg?oc=5",
-      "pubDate": "2026-09-17 13:04:08",
+      "pubDate": "2026-09-17 13:07:01",
       "author": "renewableenergymagazine.com",
       "summary": "TDK Ventures invests in R3 Lithium to accelerate US domestic supply of lithium carbonate renewableenergymagazine.com",
       "lang": "en",
@@ -99086,13 +99110,13 @@
     },
     {
       "id": "3054422635",
-      "title": "US Lithium Carbonate Market Enters New Growth Phase as Recycling and Battery Projects Advance - chemanalyst.com",
+      "title": "US Lithium Carbonate Market Enters New Growth Phase as Recycling and Battery Projects Advance - ChemAnalyst",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkNrdmY3MXAta3h6WmYzNjl0bk1DaGRjc1ZKZHVpWjVBVnhJZ2diQ1NxTHN1MUpuVVFmakt4RmlUWFRTVzYtSDdJLVVVaUFKa09Qa3NCVldFZWFiUXpUT0NoeDM0QUZWWkdRRjl2R2M5LVhnd2NENDlYU0pZOGhBZjFKUExPX1hMM0VPUm5kc0JIblc4aHQxc2NFX1lnMXRHd1NvMmJQcE9NZXZYVjVZ?oc=5",
       "pubDate": "2026-09-17 10:39:41",
-      "author": "chemanalyst.com",
-      "summary": "US Lithium Carbonate Market Enters New Growth Phase as Recycling and Battery Projects Advance chemanalyst.com",
+      "author": "ChemAnalyst",
+      "summary": "US Lithium Carbonate Market Enters New Growth Phase as Recycling and Battery Projects Advance ChemAnalyst",
       "lang": "en",
-      "source": "chemanalyst.com",
+      "source": "ChemAnalyst",
       "categories": [
         "demand",
         "macro"
@@ -99100,42 +99124,28 @@
       "sentiment": 0
     },
     {
-      "id": "1595395228",
-      "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 - mrjjxw.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05YkVCNUdRMXlpQ3BLRUZZVVk4SjdqTFN6WDNrM1dCZDlCV1BhQ1VBMG02ajNCd2hRVXdZV0x6M2NESEczRF8wR2ZENWFxY3NONzV0ZFpGcUpkbG0yaHphOFRmbElYZw?oc=5",
-      "pubDate": "2026-09-17 10:14:57",
-      "author": "mrjjxw.com",
-      "summary": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 mrjjxw.com",
+      "id": "1900601788",
+      "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMEhSbmRaLTU4M2RWdTdDQWVib19nb3ZCbFM2dDZGdkZ1bzlIU3JuamU4djg0MTlhOWtpRWZQcnB2QW10cmlpT1ppeUhUMm5iSEhQUGF5cEFwd0t0YmhubA?oc=5",
+      "pubDate": "2026-09-17 10:11:06",
+      "author": "东方财富",
+      "summary": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 东方财富",
       "lang": "zh",
-      "source": "mrjjxw.com",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "1893924509",
-      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWG5hOWFnM2lmZUlDc2U0QU1takZMS19laFQtdEwzZGM1dEhGNlZ3LUdZYS1pMWJMVVN6N3pBMjVveEs1b3psZElLYWJkUUJ6aXhzNFE5bGlaSlM5VUxoRHY2czN2cE5kWmhYYTlzeWR4VlRObEVDOEVPWlJURThRcmw5T0p3UkU4OWg2TUVLWGF2aThOSkd0Vm9vczFtaEJYdFc2UTdQMm0zYTMwWXM5MFhRTTkzZXVFZlVGcEx3MXdaUnB3a2NRV3o2Sks4Zmt3dzJLVTRnMUR2Q1I3bGVDUWFYdmM?oc=5",
-      "pubDate": "2026-09-17 08:51:00",
-      "author": "新浪财经",
-      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 新浪财经",
+      "id": "3872160600",
+      "title": "华泰期货：仓单数量下降，碳酸锂价格区间震荡 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPVENXb2pVVVZFcmc1QmkxYi1WOFlwT3YteEROaTU3QXpmTk0zRlhCNzFZOEhFQ21KeGhIUUhQTHAzX2JReF9JdGU3Q0FxcTd3blJZTXgwUlJsU2IwWUJ4RS1wbGFCdmRQQTg2Rk8wR3RycHNpWFRTRlk0THhzSVU0U0JFT216cTBfSTVsV1NYbDYtemxjLVVLWi1jcUp1aS15c2JGV0VFNl9pN1N4VHpTWHBZaDZqVkpjN3pvai1MRzA5SmlhRm1GTWJlanhDSE9NRjY1clQ4Wm9zVXE5Vl9RNURTbEdlcGp4VjktdGwtYktHdy13cmtmeUZDeFdKNlpFWnhGaEdKd3oyUnZiTUlWZG85SXRDSXNNb0xGeTRNb3JPNmk2STk5cG5jV1BCMnZUWjJsWG5EQ3B0M0JyRUs1cTByMEhIc3FBVEdMZ3lzbWlhMnNraDJBZ3FDSUgtdUJSUGpPWDV1eEJEQkV5cDB0NG1nNmJRakp4eVdmT1FJR2REbTJyWGFaOTUwSUlTYkV2bnVKbmppSHRIZzdjV254WXotbWxJbTlNSFdLTDdPc054YXFOZmZzSkxWVy0xc0RBM3dLeFhKSHd0S096UnA0VXdodU1lT1NISW8zRUI2STRQeC1KMjQyTTVwUmhVaGhJNG83dWlzNTJoazdDaVp2cmlWMTdWSGhONGtDLVVrdzlkYldycml6c1Z5RzF5VEU4ZjgzU0ctaDJWdUxwS0VzX0UxazlZaEhxT2lWNWdiRDAtb1BJYXVWOFA0cTFJM241U2RVSmlZRWtSR1hDQmhmLTd5aTU5cFlFUUFlN0ltalVVVE1kdm9R?oc=5",
+      "pubDate": "2026-09-17 08:38:09",
+      "author": "finance.sina.cn",
+      "summary": "华泰期货：仓单数量下降，碳酸锂价格区间震荡 finance.sina.cn",
       "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3878133778",
-      "title": "拟投资14亿元、年产4万吨碳酸锂！宁德时代最新布局 - app.dahecube.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HN1M2U3ctZEJSUFU4OFU3dmhEZXZ6S01qUlRqY0F2cTY2eDRhUC1hdlJiLVRMTkUwdjc4SDVmQWpvRmVndkQtdTloOE43UFVmTzFQVEVkb1preW1qNFdwUmllaE9CYkJhb0E?oc=5",
-      "pubDate": "2026-09-17 08:47:52",
-      "author": "app.dahecube.com",
-      "summary": "拟投资14亿元、年产4万吨碳酸锂！宁德时代最新布局 app.dahecube.com",
-      "lang": "zh",
-      "source": "app.dahecube.com",
+      "source": "finance.sina.cn",
       "categories": [
         "demand"
       ],
@@ -99143,13 +99153,13 @@
     },
     {
       "id": "672041556",
-      "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺财经",
+      "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
       "pubDate": "2026-09-17 07:05:52",
-      "author": "同花顺财经",
-      "summary": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% 同花顺财经",
+      "author": "同花顺",
+      "summary": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% 同花顺",
       "lang": "zh",
-      "source": "同花顺财经",
+      "source": "同花顺",
       "categories": [
         "demand"
       ],
@@ -99164,6 +99174,20 @@
       "summary": "宏观扰动主导行情 碳酸锂短期震荡寻支撑 finance.sina.cn",
       "lang": "zh",
       "source": "finance.sina.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2699000141",
+      "title": "碳酸锂期货四个月回调超四成，年内供需料维持紧平衡 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rN0J5S0d4MHJYdGhfWGFoZjFXbnQ2LWctRmpRME4zQWVIcWNrME1HTXFDaUN1cEVtdDIwbFVSWmlNNVN3X1k5eDZSZjMwRzZseGQtenpmcWpFSGw0ZEMzUHpxTnpPWWo5Qm90RzVERHlTRHBheEh3bw?oc=5",
+      "pubDate": "2026-09-17 03:09:00",
+      "author": "新浪财经",
+      "summary": "碳酸锂期货四个月回调超四成，年内供需料维持紧平衡 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -99199,15 +99223,16 @@
     },
     {
       "id": "2237947757",
-      "title": "Lithium Mining in Chile - iisd.org",
+      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
       "pubDate": "2026-09-15 15:14:30",
-      "author": "iisd.org",
-      "summary": "Lithium Mining in Chile iisd.org",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
       "lang": "en",
-      "source": "iisd.org",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "supply"
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     },
@@ -99283,17 +99308,16 @@
       "sentiment": 0
     },
     {
-      "id": "3942290652",
-      "title": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTGVtMm9kT3I3UFZ2cVlXZmoxT25UTHg3dG81czl1T3Z2MnBYXzQyckotcUc2OF9ITjlBdExWbWhDeUFGWDNsaENNR1FvVGI5SURwZEl4NkFuSkNBS0VIZHhNRFJkbHlUZGtlVnlSMzZLNmhGdXFqOHYwdVVjdEFNUldzNmhUeXUwMERNVURsVEJiUDlPcngwVE1pbHM4QlhGdldzWWhOMHlNbG0tMm4taU11eEZpeTByVTVScEJsRFJJRzNiRlMyWTFSVU03MU4xazR1cXRVQkZ3T3JvdDFkbE5DWnhQbHJnZzV4WnpyLVp3aHZ1UkgxcG9GaklOMFRSSmJOVGNFekVJVFhsVE56bQ?oc=5",
-      "pubDate": "2026-09-14 13:03:58",
-      "author": "Business Wire",
-      "summary": "E3 Lithium and Epsilon CAM Sign MOU for Supply of Battery-Grade Lithium Carbonate, Strengthening Battery Materials Supply Chain Business Wire",
+      "id": "734641481",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
+      "pubDate": "2026-09-14 13:49:27",
+      "author": "Reuters",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
       "lang": "en",
-      "source": "Business Wire",
+      "source": "Reuters",
       "categories": [
-        "supply",
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
