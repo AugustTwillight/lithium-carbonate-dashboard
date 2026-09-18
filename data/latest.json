@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:29:20.510Z",
+  "generatedAt": "2026-09-18T14:36:56.606Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99176,10 +99176,24 @@
   ],
   "news": [
     {
+      "id": "3813159103",
+      "title": "Copper, Uranium and Lithium Price Forecast: Copper Leads as Lithium Weakens - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdzJJQk54UlQtUmJFQlBGTFNFcWRoRHZQS0RRdjVFaHNZRFk4dHNUWS1lczZndmJuc0F1ZFB2czZHS1d2RjhFMjdnT3VsYnYwWGtuakhFNnRCYy1UVlJRY2dkZWRVQUdMbGZBbUFWNjJHWGFjQi0tYWxBTlVFa2V4VklnSnB1a3ZsTnU0ZHpRNkJtd0hPQ1lfR2pxdDY3dV9ieWZqem5jOFZlMUFyQldUWjJORlMxWm1ReFdObzR3UjQ1Y19ab21Nc2dLTTM?oc=5",
+      "pubDate": "2026-09-18 08:23:00",
+      "author": "FXEmpire",
+      "summary": "Copper, Uranium and Lithium Price Forecast: Copper Leads as Lithium Weakens FXEmpire",
+      "lang": "en",
+      "source": "FXEmpire",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1625033139",
       "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - Batteries News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVIVlB5WUU1RWN2U1hWaHBQaDJEUURvSGk3MVdDRlZvWER1ZGh6dmNwNkp4QlA0bW5kRjNLeTdRRGEtTXR0eDM5WTZMN0pkVWtWbHN1WjFWY3hVV2pBZTdIaWY0cjFwbDg0VDhWTm9ON2p2NlNmTkVxSXplem1QS0FWamtIeER5YV9UMlA3R3RaaVRKTDBLOGJjellHN3FnYmVCVloyWHRxY1lyRWY4VWx0aVBTZw?oc=5",
-      "pubDate": "2026-09-18 03:40:26",
+      "pubDate": "2026-09-18 03:54:55",
       "author": "Batteries News",
       "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate Batteries News",
       "lang": "en",
@@ -99191,130 +99205,17 @@
       "sentiment": 0
     },
     {
-      "id": "1942282255",
-      "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbS04cW9JcjI4WmNSQ3F2VS1QeldIYmN2cGRBRjhmTGxUOTFud3k0emhjdUVGMU9yMUN4dlBTWlNQbWU1cTVNSTVkTGdCWnNxTjJGNGVCeDZ1VTNLQlE?oc=5",
-      "pubDate": "2026-09-18 03:23:00",
-      "author": "同花顺",
-      "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺",
-      "lang": "zh",
-      "source": "同花顺",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "890064323",
-      "title": "碳酸锂主力合约日内跌超2.00% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYkF2LVl6cmliNGsySUtSVWlselhJa2t3enpYbVFaSzQ3cFJuWkJjZElVVndicjVsbGtHUE9GQVJTTDRFTTVSZWJoRXFQTmItdzZ1Z1o2QnVFbkg0WjY4Rw?oc=5",
-      "pubDate": "2026-09-18 02:50:54",
-      "author": "东方财富",
-      "summary": "碳酸锂主力合约日内跌超2.00% 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1878471547",
-      "title": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUlsSmp5TVRkaG9JTFE4STZVVVdiTExRY3ZSOFh5R1RGZENVbm4wdjBsWlpqRmlybkRvRnFIUjVNVUsyOThZc09iZmpfWWYwbjVxdmRJdGVDVDlGaklBQXJSMU5raVFERXB4dEoyeEZpUDFBZ3EzSHhqcXRqbkR4OGRfT2dRa2pYYk0wSg?oc=5",
-      "pubDate": "2026-09-18 02:20:00",
-      "author": "新浪财经",
-      "summary": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "862920236",
-      "title": "光大期货0917热点追踪：碳酸锂超跌反弹，期现价格见底了吗？ - 新浪财经_金融信息服务商",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1BCb2IwOHh0WXMtUjktMWNFcDFQSjF4MzJxMUFYMjhtRlVDajlqeFVrdVZpTU1BXzhoQVV5OG9KVTFiaFA0VHJoMFVXRWdmRlJ3V1RvZ3lFSTdtRktRS1J1N0lVOF95MERLT1llSzJ1RkIzcC1nWG1pdzkySHNGRXdoT2tDVkRwdG16SUl4QndYWGdDMW5KTA?oc=5",
-      "pubDate": "2026-09-17 18:06:34",
-      "author": "新浪财经_金融信息服务商",
-      "summary": "光大期货0917热点追踪：碳酸锂超跌反弹，期现价格见底了吗？ 新浪财经_金融信息服务商",
-      "lang": "zh",
-      "source": "新浪财经_金融信息服务商",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3689557490",
-      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - 新浪财经_金融信息服务商",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJqZHVwLTRGZUZwcjZoZnZQWWpHVjE5Z1NzVEI2TURSUzdlLXpqLV93cWo5TE5OTlk3bkdaRnZUaldHV0tOV253djF5Zm54SDZRWWhYZ1VlTDRjSUNTLTdWVTVZMkFjZm1Ga1llS2pDdHBSc2dEM3RpNTlNSlpybEVaaVNxQnc5UFEyMGprNVp2emxZdDZNcDdpVWR6N1BNSnNjeGllNW85bldFVFB1TQ?oc=5",
-      "pubDate": "2026-09-17 13:19:21",
-      "author": "新浪财经_金融信息服务商",
-      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 新浪财经_金融信息服务商",
-      "lang": "zh",
-      "source": "新浪财经_金融信息服务商",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4234123848",
-      "title": "TDK Ventures invests in R3 Lithium to accelerate US domestic supply of lithium carbonate - renewableenergymagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVhQUnV5VjVBNHhUVlJURHhUUzdWaTZ0RjdsYlh6V05Ja1I3THdjT1RsOFEtM2lfNVgxQThkYms1MHZTSlk0a29yYlA5NW82S2RUQnNyXzM4dDJzNHFaZnUwQ3lNdDRoM2xUNUwtbGQ2NUxCX2hHeDV5aWxvVUdPaE92Wlc5STJ0SUJELThuTG5MSzMybjJWRFJPZE1Ga2czMHVILVpfMjhRRW1JbE8wYg?oc=5",
-      "pubDate": "2026-09-17 13:07:01",
-      "author": "renewableenergymagazine.com",
-      "summary": "TDK Ventures invests in R3 Lithium to accelerate US domestic supply of lithium carbonate renewableenergymagazine.com",
+      "id": "727782091",
+      "title": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHBVTnpHWjBoVTJOVjlKZS1XU25CVGFrUEZhVTNVSnJnWlNtMGtOaGNCd2dOUXRacmtsaTJhbWxCSW96S3FFSzVRM19POXRQOFRDQXFCOXR5ai1BS3lQWnIzbXEybDN3ZDhWLUJROEY5b2hfeE1LejJvS2l2WXRZdXp3czdjYXROUVFybFhnZ3l3SU5vaXMzVkFna3lDWVd4S0JBZ051MU1nNDFMNWc?oc=5",
+      "pubDate": "2026-09-17 16:30:00",
+      "author": "Moomoo",
+      "summary": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks Moomoo",
       "lang": "en",
-      "source": "renewableenergymagazine.com",
+      "source": "Moomoo",
       "categories": [
         "supply",
         "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3054422635",
-      "title": "US Lithium Carbonate Market Enters New Growth Phase as Recycling and Battery Projects Advance - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVkNrdmY3MXAta3h6WmYzNjl0bk1DaGRjc1ZKZHVpWjVBVnhJZ2diQ1NxTHN1MUpuVVFmakt4RmlUWFRTVzYtSDdJLVVVaUFKa09Qa3NCVldFZWFiUXpUT0NoeDM0QUZWWkdRRjl2R2M5LVhnd2NENDlYU0pZOGhBZjFKUExPX1hMM0VPUm5kc0JIblc4aHQxc2NFX1lnMXRHd1NvMmJQcE9NZXZYVjVZ?oc=5",
-      "pubDate": "2026-09-17 10:39:41",
-      "author": "ChemAnalyst",
-      "summary": "US Lithium Carbonate Market Enters New Growth Phase as Recycling and Battery Projects Advance ChemAnalyst",
-      "lang": "en",
-      "source": "ChemAnalyst",
-      "categories": [
-        "demand",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1900601788",
-      "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMEhSbmRaLTU4M2RWdTdDQWVib19nb3ZCbFM2dDZGdkZ1bzlIU3JuamU4djg0MTlhOWtpRWZQcnB2QW10cmlpT1ppeUhUMm5iSEhQUGF5cEFwd0t0YmhubA?oc=5",
-      "pubDate": "2026-09-17 10:11:06",
-      "author": "东方财富",
-      "summary": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "672041556",
-      "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
-      "pubDate": "2026-09-17 07:05:52",
-      "author": "同花顺",
-      "summary": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% 同花顺",
-      "lang": "zh",
-      "source": "同花顺",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -99329,20 +99230,6 @@
       "source": "Global lithium news",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3294260838",
-      "title": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nVjRHSy0yd2JZb1hqMDlDSm9CbmF3WFlLenNFc2JKMWV4NXNRSzAzcldYNUZmNjFVb0QzVUtVYW5iWjdWUFYtTWt0dnRDMHR5REhxWW84R3hpOUdsUy1kM2Ricw?oc=5",
-      "pubDate": "2026-09-16 05:01:02",
-      "author": "金融界",
-      "summary": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -99362,30 +99249,16 @@
       "sentiment": 0
     },
     {
-      "id": "2674392202",
-      "title": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TT3FYeUNGWnJMd0pLVHMyVktia0J3WFUyS3lNSFlvMU83b3BXZnJqbkhTeVc5TUtJUWhBYkFuRmFxMmRPMlVSLTRtU0pENVBKaV9ld3pUdzllbHlyRm5FSA?oc=5",
-      "pubDate": "2026-09-15 07:41:15",
-      "author": "东方财富",
-      "summary": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
+      "id": "3767417196",
+      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHdWU083YWRISmFGc3A3N3JCeGZmYXUwOEl6Mk9Oc3ZSU0xWSXdvaFVJZHU2OVNXd2xGRkF6dmVEMDZwSm5SU1dqZkdsNlpHSF9PWW5NcVJaNFlLYmUtOUJoZkJXck1RMlhYcVVPaDlRbkpObmo4cFV2QVEtc3Y2MHB1cXZ1Q2NiZjY1NDBvTQ?oc=5",
+      "pubDate": "2026-09-15 11:00:00",
+      "author": "Yahoo Finance",
+      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North Yahoo Finance",
+      "lang": "en",
+      "source": "Yahoo Finance",
       "categories": [
         "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "2420233079",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Mining Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS01BQ2FVRTdyaXNGSUlzbDhSWVhTamhodW9USmUwNE0xOVRJRk1pcnF2V1BrUlRBNG5OdEdoNmFlOGxZQU9meV95WTlQRXJOWTZUMVM3WkdYeGI0NEJ5N1M2YU4xTlVLVkhUMWJRd21ZaklyVGhOakxmU09jenl0OG1jRGhOOGhyck1KVGpMR1VTZUJVSDlLNDE1N3dTZlVxWXhFSHY2VUtJUzRjekVrS0t0ZzdUckNibUE?oc=5",
-      "pubDate": "2026-09-15 06:58:00",
-      "author": "Mining Weekly",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Mining Weekly",
-      "lang": "en",
-      "source": "Mining Weekly",
-      "categories": [
-        "supply"
       ],
       "sentiment": 0
     },
@@ -99399,21 +99272,6 @@
       "lang": "en",
       "source": "Charged EVs",
       "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1199175304",
-      "title": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale - Global Mining Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnZQUnR6aFB4bjB0Q1hlZm81QzIxaUg1RHFVNDdjOXRSMTZ5S3VBWWNvMnhhNHpSZmZEOHk1MHNmYkFFbWQ2Zi1TMWwyRlZhakJNODlGTU9FdWdzODdNd2JGVHdzVGZxNFF5YlRlSkRVVDNHWk5wY3lmeEFuS2oxMy1XRnBRSS1uM0hDV05GQndOdHdmOVM5Njdzemw3cFpjSFBHcE1aYzlWLWdtVWFGZFdTT0tRcXJVR1VPWkxwUXJ6aGprd1NwNWk2cGEzZWhsU0HSAdcBQVVfeXFMT0hSWWxqb1ZsSG5XOU5YdlJlb3huY2U4bTZldG5ZRHJOcmw5UllGVXBrdm4yNDZkTkVwQkpGVC1SZjZERmZfN0V3S3hPVXY4TGtBXzMtV3ZUbGgwUjdfS1RGX0V3a1FKcFZySUxPTzIzdEFtNjBQcHVKWkpHVHhZRHBJVHROVjNJQnRnX3NXUGtPMWxDUkhkMXc3OUlGWmFhN25sRmJockZQczdzRUdLRFdONmJIbGpRaTR4S3RWVlpBX3EyR21lN0F3WklnYmxneU9FZUI4MGM?oc=5",
-      "pubDate": "2026-09-14 14:00:29",
-      "author": "Global Mining Review",
-      "summary": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale Global Mining Review",
-      "lang": "en",
-      "source": "Global Mining Review",
-      "categories": [
-        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -99447,16 +99305,17 @@
       "sentiment": 0
     },
     {
-      "id": "1051355911",
-      "title": "广期所锚定绿色期货高质量发展 - 经济参考报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXVTTnFpU250YWVhZzEyMjRMOFhKUUNGdEVWSXNpdTJ4NndmNFdNeU52WVBEakUzelhQTHJrQlRULUdUOTAtUXN0M3o0Q2oxSHhvZTFBNFc5Nlp1S0ZfeUxYaDNadkVva213bWJ2UnJRTVhWTi0yUDlKRnlhS1o3Rg?oc=5",
-      "pubDate": "2026-09-14 00:33:41",
-      "author": "经济参考报",
-      "summary": "广期所锚定绿色期货高质量发展 经济参考报",
-      "lang": "zh",
-      "source": "经济参考报",
+      "id": "2125934585",
+      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlRIY3AyUWIwVGRuS0M1Rl85SzZkcy00OS10UDMwUnpWWEdIQTN0dmxoUk9qNmFNZFFlMzlNM0J0VGg3ajVOZXBTYzVYS1RuOU94ZUtBdkRFY2k3blJ5ejFITDMycDZBV3ltajRPbmRWYkg4aWZRVFB6NTRiVTFteUhFUWdoLWJwZnZiMlBYQjkwc05KMVNMNg?oc=5",
+      "pubDate": "2026-08-27 07:00:00",
+      "author": "Mining.com",
+      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals Mining.com",
+      "lang": "en",
+      "source": "Mining.com",
       "categories": [
-        "demand"
+        "war",
+        "supply"
       ],
       "sentiment": 0
     }
@@ -99490,8 +99349,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -99506,62 +99365,62 @@
     {
       "label": "股价 赣锋锂业",
       "ok": false,
-      "message": "HTTP 502"
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
