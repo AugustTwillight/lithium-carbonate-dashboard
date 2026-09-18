@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T18:02:29.682Z",
+  "generatedAt": "2026-09-18T21:05:24.379Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49771,10 +49771,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 111.41,
-      "changePct": -3.16,
-      "volume": 1375952,
-      "amount": 153391271,
+      "price": 110.91,
+      "changePct": -3.6,
+      "volume": 4967000,
+      "amount": 552543344,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57938,15 +57938,15 @@
         },
         {
           "d": "2026-09-18",
-          "o": 114.76,
-          "c": 111.41,
+          "o": 115.1,
+          "c": 110.91,
           "h": 115.128,
-          "l": 110.425,
-          "v": 1375952,
-          "amount": 153391271,
+          "l": 110.42,
+          "v": 4967000,
+          "amount": 552543344,
           "amp": 4.09,
-          "chg": -3.16,
-          "delta": -3.64
+          "chg": -3.6,
+          "delta": -4.14
         }
       ]
     },
@@ -57956,10 +57956,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 68.23,
-      "changePct": -4.97,
-      "volume": 399621,
-      "amount": 27480384,
+      "price": 67.72,
+      "changePct": -5.68,
+      "volume": 1939276,
+      "amount": 131895535,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66123,15 +66123,15 @@
         },
         {
           "d": "2026-09-18",
-          "o": 70.76,
-          "c": 68.23,
+          "o": 70.71,
+          "c": 67.72,
           "h": 70.99,
-          "l": 68.063,
-          "v": 399621,
-          "amount": 27480384,
-          "amp": 4.08,
-          "chg": -4.97,
-          "delta": -3.57
+          "l": 67.67,
+          "v": 1939276,
+          "amount": 131895535,
+          "amp": 4.62,
+          "chg": -5.68,
+          "delta": -4.08
         }
       ]
     }
@@ -66142,9 +66142,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26416.08,
-      "changePct": -0.01,
-      "volume": 5609409280,
+      "price": 26522.55,
+      "changePct": 0.39,
+      "volume": 12709715200,
       "amount": 0,
       "klines": [
         {
@@ -74310,14 +74310,14 @@
         {
           "d": "2026-09-18",
           "o": 26522.09,
-          "c": 26416.08,
+          "c": 26522.55,
           "h": 26544.93,
           "l": 26333.98,
-          "v": 5609409280,
+          "v": 12709715200,
           "amount": 0,
           "amp": 0.8,
-          "chg": -0.01,
-          "delta": -2.22
+          "chg": 0.39,
+          "delta": 104.25
         }
       ]
     },
@@ -74326,9 +74326,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 96.1,
-      "changePct": -1.16,
-      "volume": 252473,
+      "price": 95.46,
+      "changePct": -1.82,
+      "volume": 300018,
       "amount": 0,
       "klines": [
         {
@@ -82746,14 +82746,14 @@
         {
           "d": "2026-09-18",
           "o": 96.48,
-          "c": 96.1,
+          "c": 95.46,
           "h": 98.01,
           "l": 94.83,
-          "v": 252473,
+          "v": 300018,
           "amount": 0,
           "amp": 3.27,
-          "chg": -1.16,
-          "delta": -1.13
+          "chg": -1.82,
+          "delta": -1.77
         }
       ]
     },
@@ -82762,8 +82762,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 100.23,
-      "changePct": 0,
+      "price": 100.22,
+      "changePct": -0.01,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91278,14 +91278,14 @@
         {
           "d": "2026-09-18",
           "o": 100.23,
-          "c": 100.23,
+          "c": 100.22,
           "h": 100.57,
-          "l": 100.19,
+          "l": 100.16,
           "v": 0,
           "amount": 0,
-          "amp": 0.38,
-          "chg": 0,
-          "delta": 0
+          "amp": 0.41,
+          "chg": -0.01,
+          "delta": -0.01
         }
       ]
     },
@@ -99212,6 +99212,20 @@
   ],
   "news": [
     {
+      "id": "83902698",
+      "title": "TDK Ventures Backs R3 Lithium to Boost US Lithium Carbonate Supply - chemanalyst.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGxKc24xaU5lN1ZseGpaUWRmcFNaVVA2T2REeGZqT19QdTFHTTdGcmJKZExsNTJNZHVKMF8zdFhYX1o3a045aGtlNFhHdUJHaGx4Mm5MbmJqWTUzNzhNeHJVYzQ3ZzJNQnJzOGptY1FKcXg0Q2Z5Q0VzUmFTMDhDdUpVU1pXaDN3VTVLSG9MUjVmTnh1dlJSMm1reUpXM3JURVp2cnRkc256enZOdU5PVURQM2dhWTA5VHc?oc=5",
+      "pubDate": "2026-09-18 13:36:53",
+      "author": "chemanalyst.com",
+      "summary": "TDK Ventures Backs R3 Lithium to Boost US Lithium Carbonate Supply chemanalyst.com",
+      "lang": "en",
+      "source": "chemanalyst.com",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1900601788",
       "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMEhSbmRaLTU4M2RWdTdDQWVib19nb3ZCbFM2dDZGdkZ1bzlIU3JuamU4djg0MTlhOWtpRWZQcnB2QW10cmlpT1ppeUhUMm5iSEhQUGF5cEFwd0t0YmhubA?oc=5",
@@ -99250,6 +99264,21 @@
       "source": "观点网",
       "categories": [
         "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1273873285",
+      "title": "The Nevada North Lithium joint venture between Surge Battery Metals an - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYm1sSS1fUDN6dE9scUdYMmg0THUtTzhhRFZwREtQTjdkSThkTjZYbWFXYmdrNnpoRThKSkFWY010R0F6bGd2RkI4aTNRUmlGcUVLWTk2NXdZVDZRMjNnZWw4TjN5NHZndWUwZFd4Ulc3VlNoZDd4SVc3SEFSaDE3VDdadEIxS2kxMlNSakhWdVdRYmE5MS12TUlnS2YxaFRHcUVBcWJBVklKeVh6LXV6alJOdGYyRDZXVVR5dzNVMEhZOWNpc2xLci1yXzdtWlRkUEdB?oc=5",
+      "pubDate": "2026-09-18 11:52:33",
+      "author": "Shanghai Metals Market",
+      "summary": "The Nevada North Lithium joint venture between Surge Battery Metals an Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "demand",
+        "macro"
       ],
       "sentiment": 0
     },
@@ -99339,21 +99368,6 @@
       "sentiment": 0
     },
     {
-      "id": "727782091",
-      "title": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHBVTnpHWjBoVTJOVjlKZS1XU25CVGFrUEZhVTNVSnJnWlNtMGtOaGNCd2dOUXRacmtsaTJhbWxCSW96S3FFSzVRM19POXRQOFRDQXFCOXR5ai1BS3lQWnIzbXEybDN3ZDhWLUJROEY5b2hfeE1LejJvS2l2WXRZdXp3czdjYXROUVFybFhnZ3l3SU5vaXMzVkFna3lDWVd4S0JBZ051MU1nNDFMNWc?oc=5",
-      "pubDate": "2026-09-17 16:30:00",
-      "author": "Moomoo",
-      "summary": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks Moomoo",
-      "lang": "en",
-      "source": "Moomoo",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "672041556",
       "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
@@ -99406,20 +99420,6 @@
       "source": "International Institute for Sustainable Development",
       "categories": [
         "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3767417196",
-      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHdWU083YWRISmFGc3A3N3JCeGZmYXUwOEl6Mk9Oc3ZSU0xWSXdvaFVJZHU2OVNXd2xGRkF6dmVEMDZwSm5SU1dqZkdsNlpHSF9PWW5NcVJaNFlLYmUtOUJoZkJXck1RMlhYcVVPaDlRbkpObmo4cFV2QVEtc3Y2MHB1cXZ1Q2NiZjY1NDBvTQ?oc=5",
-      "pubDate": "2026-09-15 11:00:00",
-      "author": "Yahoo Finance",
-      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North Yahoo Finance",
-      "lang": "en",
-      "source": "Yahoo Finance",
-      "categories": [
         "demand"
       ],
       "sentiment": 0
