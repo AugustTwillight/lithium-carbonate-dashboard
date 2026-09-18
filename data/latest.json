@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T00:58:47.558Z",
+  "generatedAt": "2026-09-18T05:43:10.966Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
     "code": "lc2701",
-    "price": 131180,
-    "changePct": 3.8,
-    "volume": 176355,
-    "amount": 22949030840,
+    "price": 127700,
+    "changePct": -1.86,
+    "volume": 158185,
+    "amount": 20354748220,
     "contract": "lc2701",
     "klines": [
       {
@@ -1961,63 +1961,75 @@
         "h": 132400,
         "l": 126200,
         "v": 176355,
-        "amount": 22949030840,
+        "amount": 22949030912,
         "amp": 4.91,
         "chg": 3.8,
         "delta": 4800
+      },
+      {
+        "d": "2026-09-18",
+        "o": 132000,
+        "c": 127700,
+        "h": 132200,
+        "l": 125220,
+        "v": 158185,
+        "amount": 20354748220,
+        "amp": 5.36,
+        "chg": -1.86,
+        "delta": -2420
       }
     ],
     "contracts": [
       {
         "contract": "lc2701",
         "name": "碳酸锂2701",
-        "price": 131180,
-        "changePct": 3.8,
-        "volume": 176355
+        "price": 127700,
+        "changePct": -1.86,
+        "volume": 158185
       },
       {
         "contract": "lc2611",
         "name": "碳酸锂2611",
-        "price": 131700,
-        "changePct": 3.21,
-        "volume": 20855
-      },
-      {
-        "contract": "lc2612",
-        "name": "碳酸锂2612",
-        "price": 131780,
-        "changePct": 3.94,
-        "volume": 4349
+        "price": 128380,
+        "changePct": -2.06,
+        "volume": 20342
       },
       {
         "contract": "lc2610",
         "name": "碳酸锂2610",
-        "price": 132280,
-        "changePct": 3.17,
-        "volume": 3942
+        "price": 129260,
+        "changePct": -1.73,
+        "volume": 3750
+      },
+      {
+        "contract": "lc2612",
+        "name": "碳酸锂2612",
+        "price": 128000,
+        "changePct": -2.04,
+        "volume": 2336
       },
       {
         "contract": "lc2703",
         "name": "碳酸锂2703",
-        "price": 128380,
-        "changePct": 3.53,
-        "volume": 296
+        "price": 125600,
+        "changePct": -1.51,
+        "volume": 96
       },
       {
         "contract": "lc2702",
         "name": "碳酸锂2702",
-        "price": 130180,
-        "changePct": 3.61,
-        "volume": 52
+        "price": 126000,
+        "changePct": -2.02,
+        "volume": 63
       }
     ]
   },
   "spot": {
-    "price": 133200,
+    "price": 134300,
     "date": "2026-09-18",
-    "dayPct": 0.76,
-    "monthPct": -13.22,
-    "yearPct": 81.35,
+    "dayPct": 0.83,
+    "monthPct": -11.44,
+    "yearPct": 82.72,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -2029,10 +2041,10 @@
       "name": "天齐锂业",
       "code": "09696",
       "role": "上游锂矿",
-      "price": 30.7,
-      "changePct": 0,
-      "volume": 2996401,
-      "amount": 91417932,
+      "price": 30.88,
+      "changePct": 0.59,
+      "volume": 1878000,
+      "amount": 57787260,
       "klines": [
         {
           "d": "2024-01-02",
@@ -10025,6 +10037,18 @@
           "amp": 3.32,
           "chg": 0,
           "delta": 0
+        },
+        {
+          "d": "2026-09-18",
+          "o": 30.98,
+          "c": 30.88,
+          "h": 31.28,
+          "l": 30.42,
+          "v": 1878000,
+          "amount": 57787260,
+          "amp": 2.8,
+          "chg": 0.59,
+          "delta": 0.18
         }
       ]
     },
@@ -10034,10 +10058,10 @@
       "name": "赣锋锂业",
       "code": "002460",
       "role": "上游锂盐",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 45.82,
+      "changePct": -0.2,
+      "volume": 158423,
+      "amount": 728580116.04,
       "klines": [
         {
           "d": "2024-01-02",
@@ -17934,6 +17958,18 @@
           "amp": 2.14,
           "chg": 0.46,
           "delta": 0.21
+        },
+        {
+          "d": "2026-09-18",
+          "o": 46.51,
+          "c": 45.82,
+          "h": 46.6,
+          "l": 45.7,
+          "v": 158423,
+          "amount": 728580116.04,
+          "amp": 1.96,
+          "chg": -0.2,
+          "delta": -0.09
         }
       ]
     },
@@ -17943,10 +17979,10 @@
       "name": "天齐锂业",
       "code": "002466",
       "role": "上游锂矿",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 42.54,
+      "changePct": -0.47,
+      "volume": 195519,
+      "amount": 834716598.05,
       "klines": [
         {
           "d": "2024-01-02",
@@ -25843,6 +25879,18 @@
           "amp": 2.24,
           "chg": 0.92,
           "delta": 0.39
+        },
+        {
+          "d": "2026-09-18",
+          "o": 43.08,
+          "c": 42.54,
+          "h": 43.19,
+          "l": 42.37,
+          "v": 195519,
+          "amount": 834716598.05,
+          "amp": 1.92,
+          "chg": -0.47,
+          "delta": -0.2
         }
       ]
     },
@@ -25852,10 +25900,10 @@
       "name": "盐湖股份",
       "code": "000792",
       "role": "盐湖提锂",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 24.79,
+      "changePct": -0.8,
+      "volume": 315274,
+      "amount": 784326401.18,
       "klines": [
         {
           "d": "2024-01-02",
@@ -33752,6 +33800,18 @@
           "amp": 2.91,
           "chg": 0.97,
           "delta": 0.24
+        },
+        {
+          "d": "2026-09-18",
+          "o": 25.14,
+          "c": 24.79,
+          "h": 25.32,
+          "l": 24.75,
+          "v": 315274,
+          "amount": 784326401.18,
+          "amp": 2.28,
+          "chg": -0.8,
+          "delta": -0.2
         }
       ]
     },
@@ -33761,10 +33821,10 @@
       "name": "宁德时代",
       "code": "300750",
       "role": "下游电池",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 301.29,
+      "changePct": -0.99,
+      "volume": 271456,
+      "amount": 8241873399.97,
       "klines": [
         {
           "d": "2024-01-02",
@@ -41661,6 +41721,18 @@
           "amp": 1.95,
           "chg": -0.39,
           "delta": -1.18
+        },
+        {
+          "d": "2026-09-18",
+          "o": 309.77,
+          "c": 301.29,
+          "h": 310,
+          "l": 300.27,
+          "v": 271456,
+          "amount": 8241873399.97,
+          "amp": 3.2,
+          "chg": -0.99,
+          "delta": -3.01
         }
       ]
     },
@@ -41670,10 +41742,10 @@
       "name": "赣锋锂业",
       "code": "01772",
       "role": "上游锂盐",
-      "price": 33.34,
-      "changePct": -1.01,
-      "volume": 5901285,
-      "amount": 196852903,
+      "price": 33.7,
+      "changePct": 1.08,
+      "volume": 4157281,
+      "amount": 140488080,
       "klines": [
         {
           "d": "2024-01-02",
@@ -49678,6 +49750,18 @@
           "amp": 3.5,
           "chg": -1.01,
           "delta": -0.34
+        },
+        {
+          "d": "2026-09-18",
+          "o": 33.84,
+          "c": 33.7,
+          "h": 34.32,
+          "l": 33.34,
+          "v": 4157281,
+          "amount": 140488080,
+          "amp": 2.94,
+          "chg": 1.08,
+          "delta": 0.36
         }
       ]
     },
@@ -74206,9 +74290,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 96.35,
-      "changePct": -0.91,
-      "volume": 3995,
+      "price": 96.29,
+      "changePct": -0.97,
+      "volume": 17683,
       "amount": 0,
       "klines": [
         {
@@ -82626,14 +82710,14 @@
         {
           "d": "2026-09-18",
           "o": 96.48,
-          "c": 96.35,
-          "h": 96.75,
-          "l": 96.21,
-          "v": 3995,
+          "c": 96.29,
+          "h": 96.84,
+          "l": 96.12,
+          "v": 17683,
           "amount": 0,
-          "amp": 0.56,
-          "chg": -0.91,
-          "delta": -0.88
+          "amp": 0.74,
+          "chg": -0.97,
+          "delta": -0.94
         }
       ]
     },
@@ -82642,8 +82726,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 100.22,
-      "changePct": -0.01,
+      "price": 100.3,
+      "changePct": 0.07,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91158,14 +91242,14 @@
         {
           "d": "2026-09-18",
           "o": 100.23,
-          "c": 100.22,
-          "h": 100.26,
-          "l": 100.2,
+          "c": 100.3,
+          "h": 100.32,
+          "l": 100.19,
           "v": 0,
           "amount": 0,
-          "amp": 0.06,
-          "chg": -0.01,
-          "delta": -0.01
+          "amp": 0.13,
+          "chg": 0.07,
+          "delta": 0.07
         }
       ]
     },
@@ -91174,10 +91258,10 @@
       "secid": "1.000300",
       "name": "沪深300",
       "code": "000300",
-      "price": 4459.86,
-      "changePct": -0.01,
-      "volume": 0,
-      "amount": 0,
+      "price": 4506.03,
+      "changePct": 1.03,
+      "volume": 135081865,
+      "amount": 410762814025.4,
       "klines": [
         {
           "d": "2024-01-02",
@@ -99074,20 +99158,103 @@
           "amp": 0.94,
           "chg": -0.45,
           "delta": -20.11
+        },
+        {
+          "d": "2026-09-18",
+          "o": 4492.32,
+          "c": 4506.03,
+          "h": 4523.09,
+          "l": 4480.59,
+          "v": 135081865,
+          "amount": 410762814025.4,
+          "amp": 0.95,
+          "chg": 1.03,
+          "delta": 45.87
         }
       ]
     }
   ],
   "news": [
     {
+      "id": "1625033139",
+      "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - Batteries News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVIVlB5WUU1RWN2U1hWaHBQaDJEUURvSGk3MVdDRlZvWER1ZGh6dmNwNkp4QlA0bW5kRjNLeTdRRGEtTXR0eDM5WTZMN0pkVWtWbHN1WjFWY3hVV2pBZTdIaWY0cjFwbDg0VDhWTm9ON2p2NlNmTkVxSXplem1QS0FWamtIeER5YV9UMlA3R3RaaVRKTDBLOGJjellHN3FnYmVCVloyWHRxY1lyRWY4VWx0aVBTZw?oc=5",
+      "pubDate": "2026-09-18 03:40:26",
+      "author": "Batteries News",
+      "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate Batteries News",
+      "lang": "en",
+      "source": "Batteries News",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1942282255",
+      "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbS04cW9JcjI4WmNSQ3F2VS1QeldIYmN2cGRBRjhmTGxUOTFud3k0emhjdUVGMU9yMUN4dlBTWlNQbWU1cTVNSTVkTGdCWnNxTjJGNGVCeDZ1VTNLQlE?oc=5",
+      "pubDate": "2026-09-18 03:23:00",
+      "author": "同花顺",
+      "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺",
+      "lang": "zh",
+      "source": "同花顺",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "890064323",
+      "title": "碳酸锂主力合约日内跌超2.00% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYkF2LVl6cmliNGsySUtSVWlselhJa2t3enpYbVFaSzQ3cFJuWkJjZElVVndicjVsbGtHUE9GQVJTTDRFTTVSZWJoRXFQTmItdzZ1Z1o2QnVFbkg0WjY4Rw?oc=5",
+      "pubDate": "2026-09-18 02:50:54",
+      "author": "东方财富",
+      "summary": "碳酸锂主力合约日内跌超2.00% 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1878471547",
+      "title": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUlsSmp5TVRkaG9JTFE4STZVVVdiTExRY3ZSOFh5R1RGZENVbm4wdjBsWlpqRmlybkRvRnFIUjVNVUsyOThZc09iZmpfWWYwbjVxdmRJdGVDVDlGaklBQXJSMU5raVFERXB4dEoyeEZpUDFBZ3EzSHhqcXRqbkR4OGRfT2dRa2pYYk0wSg?oc=5",
+      "pubDate": "2026-09-18 02:20:00",
+      "author": "新浪财经",
+      "summary": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "862920236",
+      "title": "光大期货0917热点追踪：碳酸锂超跌反弹，期现价格见底了吗？ - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR1BCb2IwOHh0WXMtUjktMWNFcDFQSjF4MzJxMUFYMjhtRlVDajlqeFVrdVZpTU1BXzhoQVV5OG9KVTFiaFA0VHJoMFVXRWdmRlJ3V1RvZ3lFSTdtRktRS1J1N0lVOF95MERLT1llSzJ1RkIzcC1nWG1pdzkySHNGRXdoT2tDVkRwdG16SUl4QndYWGdDMW5KTA?oc=5",
+      "pubDate": "2026-09-17 18:06:34",
+      "author": "新浪财经_金融信息服务商",
+      "summary": "光大期货0917热点追踪：碳酸锂超跌反弹，期现价格见底了吗？ 新浪财经_金融信息服务商",
+      "lang": "zh",
+      "source": "新浪财经_金融信息服务商",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3689557490",
-      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - finance.sina.cn",
+      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - 新浪财经_金融信息服务商",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJqZHVwLTRGZUZwcjZoZnZQWWpHVjE5Z1NzVEI2TURSUzdlLXpqLV93cWo5TE5OTlk3bkdaRnZUaldHV0tOV253djF5Zm54SDZRWWhYZ1VlTDRjSUNTLTdWVTVZMkFjZm1Ga1llS2pDdHBSc2dEM3RpNTlNSlpybEVaaVNxQnc5UFEyMGprNVp2emxZdDZNcDdpVWR6N1BNSnNjeGllNW85bldFVFB1TQ?oc=5",
       "pubDate": "2026-09-17 13:19:21",
-      "author": "finance.sina.cn",
-      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 finance.sina.cn",
+      "author": "新浪财经_金融信息服务商",
+      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 新浪财经_金融信息服务商",
       "lang": "zh",
-      "source": "finance.sina.cn",
+      "source": "新浪财经_金融信息服务商",
       "categories": [
         "demand"
       ],
@@ -99138,20 +99305,6 @@
       "sentiment": 0
     },
     {
-      "id": "3872160600",
-      "title": "华泰期货：仓单数量下降，碳酸锂价格区间震荡 - finance.sina.cn",
-      "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxPVENXb2pVVVZFcmc1QmkxYi1WOFlwT3YteEROaTU3QXpmTk0zRlhCNzFZOEhFQ21KeGhIUUhQTHAzX2JReF9JdGU3Q0FxcTd3blJZTXgwUlJsU2IwWUJ4RS1wbGFCdmRQQTg2Rk8wR3RycHNpWFRTRlk0THhzSVU0U0JFT216cTBfSTVsV1NYbDYtemxjLVVLWi1jcUp1aS15c2JGV0VFNl9pN1N4VHpTWHBZaDZqVkpjN3pvai1MRzA5SmlhRm1GTWJlanhDSE9NRjY1clQ4Wm9zVXE5Vl9RNURTbEdlcGp4VjktdGwtYktHdy13cmtmeUZDeFdKNlpFWnhGaEdKd3oyUnZiTUlWZG85SXRDSXNNb0xGeTRNb3JPNmk2STk5cG5jV1BCMnZUWjJsWG5EQ3B0M0JyRUs1cTByMEhIc3FBVEdMZ3lzbWlhMnNraDJBZ3FDSUgtdUJSUGpPWDV1eEJEQkV5cDB0NG1nNmJRakp4eVdmT1FJR2REbTJyWGFaOTUwSUlTYkV2bnVKbmppSHRIZzdjV254WXotbWxJbTlNSFdLTDdPc054YXFOZmZzSkxWVy0xc0RBM3dLeFhKSHd0S096UnA0VXdodU1lT1NISW8zRUI2STRQeC1KMjQyTTVwUmhVaGhJNG83dWlzNTJoazdDaVp2cmlWMTdWSGhONGtDLVVrdzlkYldycml6c1Z5RzF5VEU4ZjgzU0ctaDJWdUxwS0VzX0UxazlZaEhxT2lWNWdiRDAtb1BJYXVWOFA0cTFJM241U2RVSmlZRWtSR1hDQmhmLTd5aTU5cFlFUUFlN0ltalVVVE1kdm9R?oc=5",
-      "pubDate": "2026-09-17 08:38:09",
-      "author": "finance.sina.cn",
-      "summary": "华泰期货：仓单数量下降，碳酸锂价格区间震荡 finance.sina.cn",
-      "lang": "zh",
-      "source": "finance.sina.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "672041556",
       "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
@@ -99166,40 +99319,12 @@
       "sentiment": 0
     },
     {
-      "id": "63157680",
-      "title": "宏观扰动主导行情 碳酸锂短期震荡寻支撑 - finance.sina.cn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDJmQmVweFhvbFNKZW1sOU9XY3JoSXVzdkJqUE9GU2NHVTYwUXlyTm9BQzNlZTZ3SjRMZXczZk5rRXBrUVhmd0VUZk41SUpKT2pkWmpVdFpZMjlZX1R6clIxM2dIbFh3T0lJWEJnM0VyTFQ5cElRMmFJd3p1Mjhya2Z4QlM1Q0pSRzU4UVJSc1ViZS12Zm1jb3p4ZjNoUk1BbEVFVjhCaW0yNmhyZXZQTQ?oc=5",
-      "pubDate": "2026-09-17 05:44:29",
-      "author": "finance.sina.cn",
-      "summary": "宏观扰动主导行情 碳酸锂短期震荡寻支撑 finance.sina.cn",
-      "lang": "zh",
-      "source": "finance.sina.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2699000141",
-      "title": "碳酸锂期货四个月回调超四成，年内供需料维持紧平衡 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rN0J5S0d4MHJYdGhfWGFoZjFXbnQ2LWctRmpRME4zQWVIcWNrME1HTXFDaUN1cEVtdDIwbFVSWmlNNVN3X1k5eDZSZjMwRzZseGQtenpmcWpFSGw0ZEMzUHpxTnpPWWo5Qm90RzVERHlTRHBheEh3bw?oc=5",
-      "pubDate": "2026-09-17 03:09:00",
-      "author": "新浪财经",
-      "summary": "碳酸锂期货四个月回调超四成，年内供需料维持紧平衡 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2045574634",
-      "title": "Zimbabwe Lithium Mining Women Breaking Barriers - industriall-union.org",
+      "title": "Zimbabwe Lithium Mining Women Breaking Barriers - industriall-union",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1RNY0Z3cnhUaWpncTZHaVltRWF5enE5ZFBORVl5NVg2TDIxZ3loNE45ekZZUTlqNnN5V1RyUlc4dGY0bDhfWHNEeUZxTW9rODYxX0hhUjZWRlB6X2U2S28zVUpHTGJ4ZnNDVkVvWlRPVUxZOXRHRG9FaC12QjR4QzdueUlJSEJaWW5jYm1UNWRYNXZDaS1Rag?oc=5",
       "pubDate": "2026-09-16 08:38:35",
       "author": "",
-      "summary": "Zimbabwe Lithium Mining Women Breaking Barriers industriall-union.org",
+      "summary": "Zimbabwe Lithium Mining Women Breaking Barriers industriall-union",
       "lang": "en",
       "source": "Global lithium news",
       "categories": [
@@ -99252,29 +99377,15 @@
     },
     {
       "id": "2420233079",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - miningweekly.com",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Mining Weekly",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS01BQ2FVRTdyaXNGSUlzbDhSWVhTamhodW9USmUwNE0xOVRJRk1pcnF2V1BrUlRBNG5OdEdoNmFlOGxZQU9meV95WTlQRXJOWTZUMVM3WkdYeGI0NEJ5N1M2YU4xTlVLVkhUMWJRd21ZaklyVGhOakxmU09jenl0OG1jRGhOOGhyck1KVGpMR1VTZUJVSDlLNDE1N3dTZlVxWXhFSHY2VUtJUzRjekVrS0t0ZzdUckNibUE?oc=5",
       "pubDate": "2026-09-15 06:58:00",
-      "author": "miningweekly.com",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM miningweekly.com",
+      "author": "Mining Weekly",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Mining Weekly",
       "lang": "en",
-      "source": "miningweekly.com",
+      "source": "Mining Weekly",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3325415495",
-      "title": "热点 | 碳酸锂盘中刷新2月以来新低 机构谨慎中偏向悲观 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXTmtKY3JCWXF4dHJBN253c3BXa00xWVJjUUZEM05kZ0lmNUttZ3hBVTNISmlMNFpXV2RzVUh1bVNkd1hESVAzUFNKMXhaeGY3ZDZFUXJVOC1WcDVIT0RPZg?oc=5",
-      "pubDate": "2026-09-15 03:23:51",
-      "author": "东方财富",
-      "summary": "热点 | 碳酸锂盘中刷新2月以来新低 机构谨慎中偏向悲观 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -99348,21 +99459,6 @@
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "2125934585",
-      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlRIY3AyUWIwVGRuS0M1Rl85SzZkcy00OS10UDMwUnpWWEdIQTN0dmxoUk9qNmFNZFFlMzlNM0J0VGg3ajVOZXBTYzVYS1RuOU94ZUtBdkRFY2k3blJ5ejFITDMycDZBV3ltajRPbmRWYkg4aWZRVFB6NTRiVTFteUhFUWdoLWJwZnZiMlBYQjkwc05KMVNMNg?oc=5",
-      "pubDate": "2026-08-27 07:00:00",
-      "author": "Mining.com",
-      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals Mining.com",
-      "lang": "en",
-      "source": "Mining.com",
-      "categories": [
-        "war",
-        "supply"
-      ],
-      "sentiment": 0
     }
   ],
   "sources": [
@@ -99394,8 +99490,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "No futures quote"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
