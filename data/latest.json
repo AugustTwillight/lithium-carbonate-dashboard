@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T21:05:24.379Z",
+  "generatedAt": "2026-09-18T23:27:03.990Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -49773,8 +49773,8 @@
       "role": "国际锂业",
       "price": 110.91,
       "changePct": -3.6,
-      "volume": 4967000,
-      "amount": 552543344,
+      "volume": 4967869,
+      "amount": 552640000,
       "klines": [
         {
           "d": "2024-01-02",
@@ -57942,8 +57942,8 @@
           "c": 110.91,
           "h": 115.128,
           "l": 110.42,
-          "v": 4967000,
-          "amount": 552543344,
+          "v": 4967869,
+          "amount": 552640000,
           "amp": 4.09,
           "chg": -3.6,
           "delta": -4.14
@@ -57958,8 +57958,8 @@
       "role": "国际锂业",
       "price": 67.72,
       "changePct": -5.68,
-      "volume": 1939276,
-      "amount": 131895535,
+      "volume": 1940162,
+      "amount": 131955794,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66127,8 +66127,8 @@
           "c": 67.72,
           "h": 70.99,
           "l": 67.67,
-          "v": 1939276,
-          "amount": 131895535,
+          "v": 1940162,
+          "amount": 131955794,
           "amp": 4.62,
           "chg": -5.68,
           "delta": -4.08
@@ -66144,7 +66144,7 @@
       "code": "NDX",
       "price": 26522.55,
       "changePct": 0.39,
-      "volume": 12709715200,
+      "volume": 12789451776,
       "amount": 0,
       "klines": [
         {
@@ -74313,7 +74313,7 @@
           "c": 26522.55,
           "h": 26544.93,
           "l": 26333.98,
-          "v": 12709715200,
+          "v": 12789451776,
           "amount": 0,
           "amp": 0.8,
           "chg": 0.39,
@@ -74326,9 +74326,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 95.46,
-      "changePct": -1.82,
-      "volume": 300018,
+      "price": 95.47,
+      "changePct": -1.81,
+      "volume": 300567,
       "amount": 0,
       "klines": [
         {
@@ -82746,14 +82746,14 @@
         {
           "d": "2026-09-18",
           "o": 96.48,
-          "c": 95.46,
+          "c": 95.47,
           "h": 98.01,
           "l": 94.83,
-          "v": 300018,
+          "v": 300567,
           "amount": 0,
           "amp": 3.27,
-          "chg": -1.82,
-          "delta": -1.77
+          "chg": -1.81,
+          "delta": -1.76
         }
       ]
     },
@@ -99283,6 +99283,34 @@
       "sentiment": 0
     },
     {
+      "id": "823687944",
+      "title": "广期所：调整碳酸锂期货相关合约交易指令交易手续费标准及交易限额等 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWll2Qjk3c1NrU1Q1Z010Wmhkc0lSQ2NkMlF0alFwelRYY1oyWlRqQlI5R0JUd0dkaUtad1phcWVNdWdaOHRQaENSMWtKS3FsVU9DQk5VLUtUMnh3U0lCb0tuWEJ0cGdPOUcwR19YVFp4NnNRWDRsb2loaGZXaGJSWm9QOXA3clRXNTBzVg?oc=5",
+      "pubDate": "2026-09-18 08:48:00",
+      "author": "Sohu",
+      "summary": "广期所：调整碳酸锂期货相关合约交易指令交易手续费标准及交易限额等 Sohu",
+      "lang": "zh",
+      "source": "Sohu",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "863544480",
+      "title": "碳酸锂大跌8.3%，溶剂却涨疯了！ - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTTk4enc3dEVLeVB5MjdocGRyMnpHQVBmZzNLcnJBaWZ0eUxxZmU3VTViZ1VJTzE3ZDJJVGdMZzlUY2gtekgzNFlnSEVwR1poR2R6b1A1NGg5Ykc4RVhCbEx0ZjYxNEdBdUNSSGplblVyZ0Q1YVdNZXJzLS03X25lS25BazM3bTBhTVpz?oc=5",
+      "pubDate": "2026-09-18 08:31:30",
+      "author": "新浪财经",
+      "summary": "碳酸锂大跌8.3%，溶剂却涨疯了！ 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3813159103",
       "title": "Copper, Uranium and Lithium Price Forecast: Copper Leads as Lithium Weakens - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdzJJQk54UlQtUmJFQlBGTFNFcWRoRHZQS0RRdjVFaHNZRFk4dHNUWS1lczZndmJuc0F1ZFB2czZHS1d2RjhFMjdnT3VsYnYwWGtuakhFNnRCYy1UVlJRY2dkZWRVQUdMbGZBbUFWNjJHWGFjQi0tYWxBTlVFa2V4VklnSnB1a3ZsTnU0ZHpRNkJtd0hPQ1lfR2pxdDY3dV9ieWZqem5jOFZlMUFyQldUWjJORlMxWm1ReFdObzR3UjQ1Y19ab21Nc2dLTTM?oc=5",
@@ -99291,34 +99319,6 @@
       "summary": "Copper, Uranium and Lithium Price Forecast: Copper Leads as Lithium Weakens FXEmpire",
       "lang": "en",
       "source": "FXEmpire",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4129623238",
-      "title": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOMXF4UFl1YnFwaWdzNUdURTVyR3NwcWZ6Sk01TEx6OXk2NGJuWTA4MWhzUlRHQVBsaDZLbW1GNmJ4bFJXY281SkVKZXdCVlNfZ3NVVy1hbmUzb0piMldQZEFkdm10WkFWQl9BRzhFUnZfZTZZdVBHRjRhcno3RVBQX0Z2Q3NPUTN0amJ5N0lfNGozdHdaMU1vY3cyN0Vnc1FkYVlMZGprNDdYSy1VQzlCRDNwNW1ZMG4yVkJhSEhRZG5FTFNLR0ZUYWF5U2E3ZTBaa0NDa0IwcTJpclpwLWxqV0ZUSnVQSmJyVWc1RjJDRXpfeDZKY3ZUS3FBd2RuTVg2YjRQRE5NNU00bF9TdVNUTVFzRzQ5SDBfVmZBbWdfNEwtV1VCZFZzR2wxcG5sREplQWJkMjEwZkxyeDlI?oc=5",
-      "pubDate": "2026-09-18 04:48:35",
-      "author": "新浪财经",
-      "summary": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2339670042",
-      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQNldWbWExeVFraTVBWndXaHhUcWQtSXhLMkpFcV9pN3BKOC1vU0N5WUFFMjRrM0VHS0dyRFZ0Y3hIODdUMmZMeGxpcTRKUF9kbm9SLS1EeG96M0FjemtPcWNLbm81Q0ltYVZsRXA4WEdpdE9TRHEyMjJUOURoYUV5bnNNRXZ6MzJhTy1TMlBFN3NxRjhlMUdOUHdIV1FsX1JzYjUydHhTMVFXS1k2N1hVYmJOdEFJWUo3UXNNRlFUV1l1YXRkUnNfT3hOOVRmNHRLMFU5VEdwMTk3WDR0bFZ2MXlIS3BSTGhvYXk2NkF2OFZNR0RXdk9pWGZNZmttWTZubGVVS1FfQkFrWldMZkNpRm5rbG5BUVVhQWlTZmhTeFg5OElJbVllX3JRNU1yTFgyeEFKWHhOSjc5a3J6RFhrRTEwU1JpOXp6b1BmSUR5X3ZpR1QzVHpuTjdLeFVyQ3FHN3k0MnJ3?oc=5",
-      "pubDate": "2026-09-18 04:29:10",
-      "author": "新浪财经",
-      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -99341,13 +99341,13 @@
     },
     {
       "id": "1942282255",
-      "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺",
+      "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbS04cW9JcjI4WmNSQ3F2VS1QeldIYmN2cGRBRjhmTGxUOTFud3k0emhjdUVGMU9yMUN4dlBTWlNQbWU1cTVNSTVkTGdCWnNxTjJGNGVCeDZ1VTNLQlE?oc=5",
       "pubDate": "2026-09-18 03:23:00",
-      "author": "同花顺",
-      "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺",
+      "author": "同花顺财经",
+      "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺财经",
       "lang": "zh",
-      "source": "同花顺",
+      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
@@ -99368,14 +99368,28 @@
       "sentiment": 0
     },
     {
+      "id": "1878471547",
+      "title": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUlsSmp5TVRkaG9JTFE4STZVVVdiTExRY3ZSOFh5R1RGZENVbm4wdjBsWlpqRmlybkRvRnFIUjVNVUsyOThZc09iZmpfWWYwbjVxdmRJdGVDVDlGaklBQXJSMU5raVFERXB4dEoyeEZpUDFBZ3EzSHhqcXRqbkR4OGRfT2dRa2pYYk0wSg?oc=5",
+      "pubDate": "2026-09-18 02:20:00",
+      "author": "finance.sina.com.cn",
+      "summary": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹 finance.sina.com.cn",
+      "lang": "zh",
+      "source": "finance.sina.com.cn",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "672041556",
-      "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺",
+      "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
       "pubDate": "2026-09-17 07:05:52",
-      "author": "同花顺",
-      "summary": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% 同花顺",
+      "author": "同花顺财经",
+      "summary": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% 同花顺财经",
       "lang": "zh",
-      "source": "同花顺",
+      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
@@ -99396,20 +99410,6 @@
       "sentiment": 0
     },
     {
-      "id": "3294260838",
-      "title": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nVjRHSy0yd2JZb1hqMDlDSm9CbmF3WFlLenNFc2JKMWV4NXNRSzAzcldYNUZmNjFVb0QzVUtVYW5iWjdWUFYtTWt0dnRDMHR5REhxWW84R3hpOUdsUy1kM2Ricw?oc=5",
-      "pubDate": "2026-09-16 05:01:02",
-      "author": "金融界",
-      "summary": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2237947757",
       "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
@@ -99423,20 +99423,6 @@
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "2674392202",
-      "title": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TT3FYeUNGWnJMd0pLVHMyVktia0J3WFUyS3lNSFlvMU83b3BXZnJqbkhTeVc5TUtJUWhBYkFuRmFxMmRPMlVSLTRtU0pENVBKaV9ld3pUdzllbHlyRm5FSA?oc=5",
-      "pubDate": "2026-09-15 07:41:15",
-      "author": "东方财富",
-      "summary": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
     },
     {
       "id": "996481025",
@@ -99475,6 +99461,20 @@
       "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Waste360",
       "lang": "en",
       "source": "Waste360",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1051355911",
+      "title": "广期所锚定绿色期货高质量发展 - 经济参考报",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXVTTnFpU250YWVhZzEyMjRMOFhKUUNGdEVWSXNpdTJ4NndmNFdNeU52WVBEakUzelhQTHJrQlRULUdUOTAtUXN0M3o0Q2oxSHhvZTFBNFc5Nlp1S0ZfeUxYaDNadkVva213bWJ2UnJRTVhWTi0yUDlKRnlhS1o3Rg?oc=5",
+      "pubDate": "2026-09-14 00:33:41",
+      "author": "经济参考报",
+      "summary": "广期所锚定绿色期货高质量发展 经济参考报",
+      "lang": "zh",
+      "source": "经济参考报",
       "categories": [
         "demand"
       ],
