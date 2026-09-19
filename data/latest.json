@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T17:44:26.626Z",
+  "generatedAt": "2026-09-19T19:58:49.417Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99226,14 +99226,14 @@
       "sentiment": 0
     },
     {
-      "id": "83902698",
-      "title": "TDK Ventures Backs R3 Lithium to Boost US Lithium Carbonate Supply - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGxKc24xaU5lN1ZseGpaUWRmcFNaVVA2T2REeGZqT19QdTFHTTdGcmJKZExsNTJNZHVKMF8zdFhYX1o3a045aGtlNFhHdUJHaGx4Mm5MbmJqWTUzNzhNeHJVYzQ3ZzJNQnJzOGptY1FKcXg0Q2Z5Q0VzUmFTMDhDdUpVU1pXaDN3VTVLSG9MUjVmTnh1dlJSMm1reUpXM3JURVp2cnRkc256enZOdU5PVURQM2dhWTA5VHc?oc=5",
-      "pubDate": "2026-09-18 13:36:53",
-      "author": "ChemAnalyst",
-      "summary": "TDK Ventures Backs R3 Lithium to Boost US Lithium Carbonate Supply ChemAnalyst",
+      "id": "3635369135",
+      "title": "LG Energy Solution Secures Multi-Year Supply of US-Produced Lithium Carbonate from Smackover Lithium - Batteries News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcU1nNzFXYkIwUG8waGZiM2JhSXlMZHVua294clpRckY4WWhjZFZrZDdIRHlrRzZEWXVQOHZmaW1uR2dTeHpfYjFFUS1UbHBwV0ExTk5BLVJWX00wMTdaMnFQV0VxM3dKa1lkNXhFbTF6WmFVOUxkSlRqeHA4MEF1ZDk5X21ON2gxclZsVjVxWmNQRFRtazNGTXZpcEdWcjhkU2k3YzRfRDE3ajR5NC05bFVYSGZnaFFEUzZKd2ZtcElibnM2cEE?oc=5",
+      "pubDate": "2026-09-19 09:59:29",
+      "author": "Batteries News",
+      "summary": "LG Energy Solution Secures Multi-Year Supply of US-Produced Lithium Carbonate from Smackover Lithium Batteries News",
       "lang": "en",
-      "source": "ChemAnalyst",
+      "source": "Batteries News",
       "categories": [
         "supply"
       ],
@@ -99268,6 +99268,20 @@
       "sentiment": 0
     },
     {
+      "id": "2251434568",
+      "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1J1UVVpbXlkQzFwYWVlRXJ1TFpOMXl0TjdKVU50SDg5emtxX3BoeGFSa0VzQnBoY3BzV2lNYkRBWTB2WkUwZVVtenlsazNub1p1VEp5XzlTajF2d1VKZklWNEJpUVNra0dId1lzQUplRUJSUHFhZ3RfeDRFN2w0aW9ZMkNyVktUWDZMdmZoaGs0QmN4QWlyN1dtY3lrOS1fOWM3WHIwNnNUZDB5Q3RYQnpJdlhfQ0VjdHg0cVE0b3J1NXZxVkNjVEZnMDhIRkFwc3NnY3RHR3hEcDA?oc=5",
+      "pubDate": "2026-09-18 08:50:00",
+      "author": "新浪财经",
+      "summary": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1942282255",
       "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbS04cW9JcjI4WmNSQ3F2VS1QeldIYmN2cGRBRjhmTGxUOTFud3k0emhjdUVGMU9yMUN4dlBTWlNQbWU1cTVNSTVkTGdCWnNxTjJGNGVCeDZ1VTNLQlE?oc=5",
@@ -99276,20 +99290,6 @@
       "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺财经",
       "lang": "zh",
       "source": "同花顺财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1914304572",
-      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - finance.sina.cn",
-      "link": "https://news.google.com/rss/articles/CBMi-AVBVV95cUxNLVh0SW01LTlaVHdnc1RZVFdVMHE2SGM0RUUtZnFhaFhTa2FUNlpwUU1IZ05kLTdtWHV6M0JibnluVVFhX1pDSkJ2a3NGYUI4bzJ1ZVlBZjJXTVdjb3dsNG9meUg1SWUwN2ZWLWtka1BFYm1yVVFpb3lDcUowaWF3Q1hCdUIzNlp2Xzk0RGtMWVc0U3dKSEgxVzROVlZBeV9odDljcUw1RG16TGxIQTVlQlZtOWVfc01yeURxZGVIb3VBUm9tSzM1bTR5WTJDOERzbGRIb1ZZVXA5eUMzNTVHVDVZM192QXl5SmI0S0lTNm81TGtHNGNLUFlwSzRGWk1CVmNTOFJsRlh1bVBnSThXek8xMEtxb0huMEFLa0I0X0JXb0t3Q3VxdFlQY3VIR25sYlE5cjNheU80SWVJN1V0Y0ZLMUxrV2pVaWhhaW5rbnNlMjVSdTY4Z2NJWHM5NDVkeU1mdmZRY0lrdHBweTFSNURDRjdpb1FESFpHWlVPcFdBTWNVcTJTR0RMYVlMeGJwVWVUbG9XQ1lKblE4dXhSVE5WX0RwbktOM2poMzJQaFJnLVR4Y1c2SUg1QVlyR3BVUVUyVTJLWUZpN2VsczZZbTM2TnhLbElBeElxVGtrOUpUTUh5eGVoZ3FTM1dtRU5Xa2t5aWZMMmpWaS1XMjNBeDZLUDREVGxfSWo0ak9tNnVrcEVzNXQ1WEF5V3VIMHgxRnp6ZUtTX3FDNTNpVVgtbVZEbjBKNG9LSnNTaTlic0F0Y0hVTWZEV3BXUjV2SWE3RWFoa29uTVZuMDJJVXI2bVZYOGtHdlFhMGQ5ZlZpRW5vYWJabFpyZVpQZS0xR3B4UFV4VkVZYlhPVjhZZjZaM1JsbkVUMG0wbjdzMWpyb0pNSkVmOEJGTDZHaVZ5U05VQ3RDWlZJOXhNcGV2dm1oRTJMSG1TRU1OSzE5aFJlMUhyaE1ERUJfT1cxTHdYUUhjUHJhcUp4MFJQTjNXVS1hQmxFRTFJREZz?oc=5",
-      "pubDate": "2026-09-17 19:19:48",
-      "author": "finance.sina.cn",
-      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 finance.sina.cn",
-      "lang": "zh",
-      "source": "finance.sina.cn",
       "categories": [
         "demand"
       ],
@@ -99311,6 +99311,20 @@
       "sentiment": 0
     },
     {
+      "id": "3689557490",
+      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWJqZHVwLTRGZUZwcjZoZnZQWWpHVjE5Z1NzVEI2TURSUzdlLXpqLV93cWo5TE5OTlk3bkdaRnZUaldHV0tOV253djF5Zm54SDZRWWhYZ1VlTDRjSUNTLTdWVTVZMkFjZm1Ga1llS2pDdHBSc2dEM3RpNTlNSlpybEVaaVNxQnc5UFEyMGprNVp2emxZdDZNcDdpVWR6N1BNSnNjeGllNW85bldFVFB1TQ?oc=5",
+      "pubDate": "2026-09-17 13:19:21",
+      "author": "新浪财经",
+      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "672041556",
       "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
@@ -99325,60 +99339,30 @@
       "sentiment": 0
     },
     {
-      "id": "2952254984",
-      "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - businesswire.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWJWSU4xWldNbG9EeFM4N0NEcHo0UERXUHZoRlYyZ2FOWTlwajFQTnFPaVp4U3gwWFU1TERVa0FTVEJNOG1PajBVVGlfLW5pT0ZZaXZFLXFsQmdkbUxMQTNGYWhfXzlEcVFPdkFpU0M1RG9ZcUl2OHNJQkZaT1dYb3RicFk4YW5feG5HSWN2bFJsNUpxSHFaTVdyYVA2a3ZZa25yS2d1N2pHdy15dGR2Y201Z0FmZlJWaUZkUWczQkRqZ1hobWR4Rm1DbElNcGtmcDg1Tlo4RklxU0pUMXc?oc=5",
-      "pubDate": "2026-09-16 13:00:00",
-      "author": "businesswire.com",
-      "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate businesswire.com",
-      "lang": "en",
-      "source": "businesswire.com",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1505461348",
-      "title": "SunSirs: Lithium Carbonate Prices See Short-Term Pullback During Peak Season, and Tight Supply-Demand Balance Remains Unchanged - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WQVpuYnNOZnhXTmR5UG1nS3hibF9ndGstNVBYNVZwWi02TVFkOWxCREtCQV9yNlhOekZVdzA1RFJZWmh6bFFMZUtsek1Ld2st?oc=5",
-      "pubDate": "2026-09-16 08:25:02",
-      "author": "ChemNet News",
-      "summary": "SunSirs: Lithium Carbonate Prices See Short-Term Pullback During Peak Season, and Tight Supply-Demand Balance Remains Unchanged ChemNet News",
-      "lang": "en",
-      "source": "ChemNet News",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "3294260838",
-      "title": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nVjRHSy0yd2JZb1hqMDlDSm9CbmF3WFlLenNFc2JKMWV4NXNRSzAzcldYNUZmNjFVb0QzVUtVYW5iWjdWUFYtTWt0dnRDMHR5REhxWW84R3hpOUdsUy1kM2Ricw?oc=5",
-      "pubDate": "2026-09-16 05:01:02",
-      "author": "金融界",
-      "summary": "又绿了！碳酸锂期价9月跌逾20%，跌到位了吗？ 金融界",
+      "id": "63157680",
+      "title": "宏观扰动主导行情 碳酸锂短期震荡寻支撑 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDJmQmVweFhvbFNKZW1sOU9XY3JoSXVzdkJqUE9GU2NHVTYwUXlyTm9BQzNlZTZ3SjRMZXczZk5rRXBrUVhmd0VUZk41SUpKT2pkWmpVdFpZMjlZX1R6clIxM2dIbFh3T0lJWEJnM0VyTFQ5cElRMmFJd3p1Mjhya2Z4QlM1Q0pSRzU4UVJSc1ViZS12Zm1jb3p4ZjNoUk1BbEVFVjhCaW0yNmhyZXZQTQ?oc=5",
+      "pubDate": "2026-09-17 05:44:29",
+      "author": "新浪财经",
+      "summary": "宏观扰动主导行情 碳酸锂短期震荡寻支撑 新浪财经",
       "lang": "zh",
-      "source": "金融界",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "4154909519",
-      "title": "广期所碳酸锂主力合约跌超4% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wTlJvMjN0SlNPam12LXJKcVptNzZjdHVLZ0NLcmozSUZPWUlwNVphM255bS1NcnFISUwzZFZlV1k0UTZUUUZXb3BZdUVWNm9RbHNBbkNnSVo1d3RRTUxkTw?oc=5",
-      "pubDate": "2026-09-16 02:06:30",
-      "author": "东方财富",
-      "summary": "广期所碳酸锂主力合约跌超4% 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
+      "id": "2045574634",
+      "title": "Zimbabwe Lithium Mining Women Breaking Barriers - industriall-union",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1RNY0Z3cnhUaWpncTZHaVltRWF5enE5ZFBORVl5NVg2TDIxZ3loNE45ekZZUTlqNnN5V1RyUlc4dGY0bDhfWHNEeUZxTW9rODYxX0hhUjZWRlB6X2U2S28zVUpHTGJ4ZnNDVkVvWlRPVUxZOXRHRG9FaC12QjR4QzdueUlJSEJaWW5jYm1UNWRYNXZDaS1Rag?oc=5",
+      "pubDate": "2026-09-16 08:38:35",
+      "author": "",
+      "summary": "Zimbabwe Lithium Mining Women Breaking Barriers industriall-union",
+      "lang": "en",
+      "source": "Global lithium news",
       "categories": [
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
@@ -99399,13 +99383,13 @@
     },
     {
       "id": "3767417196",
-      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - finance.yahoo.com",
+      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHdWU083YWRISmFGc3A3N3JCeGZmYXUwOEl6Mk9Oc3ZSU0xWSXdvaFVJZHU2OVNXd2xGRkF6dmVEMDZwSm5SU1dqZkdsNlpHSF9PWW5NcVJaNFlLYmUtOUJoZkJXck1RMlhYcVVPaDlRbkpObmo4cFV2QVEtc3Y2MHB1cXZ1Q2NiZjY1NDBvTQ?oc=5",
       "pubDate": "2026-09-15 11:00:00",
-      "author": "finance.yahoo.com",
-      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North finance.yahoo.com",
+      "author": "Yahoo Finance",
+      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North Yahoo Finance",
       "lang": "en",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "categories": [
         "demand"
       ],
@@ -99441,13 +99425,13 @@
     },
     {
       "id": "1199175304",
-      "title": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale - globalminingreview.com",
+      "title": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale - Global Mining Review",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnZQUnR6aFB4bjB0Q1hlZm81QzIxaUg1RHFVNDdjOXRSMTZ5S3VBWWNvMnhhNHpSZmZEOHk1MHNmYkFFbWQ2Zi1TMWwyRlZhakJNODlGTU9FdWdzODdNd2JGVHdzVGZxNFF5YlRlSkRVVDNHWk5wY3lmeEFuS2oxMy1XRnBRSS1uM0hDV05GQndOdHdmOVM5Njdzemw3cFpjSFBHcE1aYzlWLWdtVWFGZFdTT0tRcXJVR1VPWkxwUXJ6aGprd1NwNWk2cGEzZWhsU0HSAdcBQVVfeXFMT0hSWWxqb1ZsSG5XOU5YdlJlb3huY2U4bTZldG5ZRHJOcmw5UllGVXBrdm4yNDZkTkVwQkpGVC1SZjZERmZfN0V3S3hPVXY4TGtBXzMtV3ZUbGgwUjdfS1RGX0V3a1FKcFZySUxPTzIzdEFtNjBQcHVKWkpHVHhZRHBJVHROVjNJQnRnX3NXUGtPMWxDUkhkMXc3OUlGWmFhN25sRmJockZQczdzRUdLRFdONmJIbGpRaTR4S3RWVlpBX3EyR21lN0F3WklnYmxneU9FZUI4MGM?oc=5",
       "pubDate": "2026-09-14 14:00:29",
-      "author": "globalminingreview.com",
-      "summary": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale globalminingreview.com",
+      "author": "Global Mining Review",
+      "summary": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale Global Mining Review",
       "lang": "en",
-      "source": "globalminingreview.com",
+      "source": "Global Mining Review",
       "categories": [
         "supply",
         "demand"
@@ -99465,6 +99449,20 @@
       "source": "Reuters",
       "categories": [
         "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1684652243",
+      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - Waste360",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzZQaWNFWE1ERWw0UWJ0cHB5cElRTjhaczRRZjllSTVXcW1ickJRNzFPWGwtRGRtaHJQZXU5R3lPSjBHZzJuX2tYN0pMX2hFV2FzajJDTUpXN0pENUhNOF9NWnFFQWxaNzhtMmpWTXlKMkQ3ejg2aUR0LVM0LVBoYzNTcE9kVGhoY2JJV1dPLS1Za2Z1QVUwZUM1Xzh6RURVOXFLVDZWZElsM3ZMV1ctNy13UGtDSzhEcjNSOEJFREwwMXc?oc=5",
+      "pubDate": "2026-09-14 10:02:59",
+      "author": "Waste360",
+      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Waste360",
+      "lang": "en",
+      "source": "Waste360",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     },
