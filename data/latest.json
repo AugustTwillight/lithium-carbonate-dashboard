@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:09:54.701Z",
+  "generatedAt": "2026-09-20T09:56:26.431Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99212,14 +99212,98 @@
   ],
   "news": [
     {
-      "id": "1918284743",
-      "title": "【碳酸锂周报】现货承接尚可，悲观预期延续，锂价继续破位 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWEpJYjlCRV9ad0ktNTB2c0gybTJpVzloMTFoQldpZVJBeDRrODZtcE8xQUpjQU9IRjBHejJiZDlLWk5kVTM0RmtuLXdYaXhQdUNuaEhTYVB4WlhPTFRjeXotQlpGdkJuZnkwRlA5T3NoUl9mX2tfQTFROUlWcktSU1FSX3N1dlc2eEE?oc=5",
-      "pubDate": "2026-09-19 13:45:00",
+      "id": "1682437986",
+      "title": "锂矿供给变量落地：枧下窝项目重启环评，锂云母产能即将释放 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2NIYXJpVU9BRXdVMUJpMk9QUmRBcElZTzFFbFJSdkJnWjRYYkNTUGxRUFlFT1c5bGd1UkpyU3daM0xuT0xWMHEyekswX2xmNGpSQzk5YU1wVVRra194LUxTLUFCLWZPTEJfQlgtRzl6a1dUb0pVSmxpdTh6NjRycUg3X0t1X3BLTWc?oc=5",
+      "pubDate": "2026-09-20 05:36:35",
       "author": "新浪财经",
-      "summary": "【碳酸锂周报】现货承接尚可，悲观预期延续，锂价继续破位 新浪财经",
+      "summary": "锂矿供给变量落地：枧下窝项目重启环评，锂云母产能即将释放 新浪财经",
       "lang": "zh",
       "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3618393182",
+      "title": "宁德时代枧下窝锂矿重启环评公示，公众意见采纳率提升 - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZTd0X3Y2NTFaTzRqVUNycm5CbHVMNFRXTW9ibFg2TG1CWVF0QmlPZWpBM2NKQkVpb2dXM2lnazhnaGNEVHVqOFBYRzN3WjIteHI4Z256UGxLMDhkVnpv?oc=5",
+      "pubDate": "2026-09-20 05:30:01",
+      "author": "ChemNet News",
+      "summary": "宁德时代枧下窝锂矿重启环评公示，公众意见采纳率提升 ChemNet News",
+      "lang": "zh",
+      "source": "ChemNet News",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1486558704",
+      "title": "宁德时代拟14亿雅安建4万吨碳酸锂产能 - 手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCelJSX1pqV0JBV2F3S3psXzNRQnpTV3ZrempoRFBsZHVkanJGYndkdVA4eVprUmdNRnlhd1djdzNVMWc3eng4d3EwcEtjdWhGZlBtYzEtVmpQWENZbG5tV21uWE5GNll0Z2ZiMVZzaEVRZw?oc=5",
+      "pubDate": "2026-09-20 05:12:15",
+      "author": "手机新浪网",
+      "summary": "宁德时代拟14亿雅安建4万吨碳酸锂产能 手机新浪网",
+      "lang": "zh",
+      "source": "手机新浪网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2162858870",
+      "title": "宁德时代江西锂矿，采矿项目环评重启 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nR1V2STJySks4ekJGRlFQM1ZQalpaaFhZMGlwbjVzd0ZUOXNjYVlyVWdDTTZJOE1mRlJmNmhWTnFMamFmV09xRVFxWnZiUFRoWHpsYWwwMTVCSkY1ckY2Yg?oc=5",
+      "pubDate": "2026-09-20 04:19:05",
+      "author": "同花顺",
+      "summary": "宁德时代江西锂矿，采矿项目环评重启 同花顺",
+      "lang": "zh",
+      "source": "同花顺",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3778397995",
+      "title": "ESG成为锂供应链“新通行证”碳酸锂出海有哪些关要闯？国际锂业协会马增光确认出席 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8xaTBSYjB2cjYyWmkxak5qR1lYWnZXUmktdG9QN0kxWHJFYXVZeW9NcU90ZnVVcFlqNlBzQ1FXbmN4WWhKUE5sOUxR?oc=5",
+      "pubDate": "2026-09-19 17:52:00",
+      "author": "上海有色金属网",
+      "summary": "ESG成为锂供应链“新通行证”碳酸锂出海有哪些关要闯？国际锂业协会马增光确认出席 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2050171214",
+      "title": "广期所调整碳酸锂期货相关合约风控措施 - eastmoney.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRnpSSi1QTzF4YXBZaTYtUURjY0FGbmFETjRWUVJ6cklBYW5FUGFqS0lZdnlJNXhKSkxLbVgtUC1PaWZpU05yUlZlVUoxUU1nT3c3emszQXBqWjJ0LUpPcA?oc=5",
+      "pubDate": "2026-09-19 17:34:32",
+      "author": "eastmoney.com",
+      "summary": "广期所调整碳酸锂期货相关合约风控措施 eastmoney.com",
+      "lang": "zh",
+      "source": "eastmoney.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "694678499",
+      "title": "四川“十五五”规划：2030年锂矿年开采量达350万吨以上 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCVG1GdTNoZTBTVGhjMWRIWjRPSFpwLWZYZTFoakNDc0x4azR0dS1YUjNkM0lfWTNuUXpKQ2s4NU9qeDJneW1fNWR3?oc=5",
+      "pubDate": "2026-09-19 12:25:00",
+      "author": "上海有色金属网",
+      "summary": "四川“十五五”规划：2030年锂矿年开采量达350万吨以上 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
       "categories": [
         "demand"
       ],
@@ -99240,20 +99324,6 @@
       "sentiment": 0
     },
     {
-      "id": "1900601788",
-      "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMEhSbmRaLTU4M2RWdTdDQWVib19nb3ZCbFM2dDZGdkZ1bzlIU3JuamU4djg0MTlhOWtpRWZQcnB2QW10cmlpT1ppeUhUMm5iSEhQUGF5cEFwd0t0YmhubA?oc=5",
-      "pubDate": "2026-09-18 13:27:16",
-      "author": "东方财富",
-      "summary": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3174618447",
       "title": "广期所调整碳酸锂期货合约交易规则 最小开仓下单数量调整为2手 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UT3cxVmk1N0tTUlhVTTUyY0V2cFEzR21iUDRhVHJzMUQtbTFPWFpuc1VtOG80R09YV2xLMG5NcjJuS0hZMlBWZGtGVDFadVZqWmtVUjdScm9IcEtaVC15dy1n?oc=5",
@@ -99268,20 +99338,6 @@
       "sentiment": 0
     },
     {
-      "id": "2251434568",
-      "title": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1J1UVVpbXlkQzFwYWVlRXJ1TFpOMXl0TjdKVU50SDg5emtxX3BoeGFSa0VzQnBoY3BzV2lNYkRBWTB2WkUwZVVtenlsazNub1p1VEp5XzlTajF2d1VKZklWNEJpUVNra0dId1lzQUplRUJSUHFhZ3RfeDRFN2w0aW9ZMkNyVktUWDZMdmZoaGs0QmN4QWlyN1dtY3lrOS1fOWM3WHIwNnNUZDB5Q3RYQnpJdlhfQ0VjdHg0cVE0b3J1NXZxVkNjVEZnMDhIRkFwc3NnY3RHR3hEcDA?oc=5",
-      "pubDate": "2026-09-18 08:50:00",
-      "author": "新浪财经",
-      "summary": "广期所调整碳酸锂期货相关合约交易指令每次最小开仓下单数量、交易手续费标准及交易限额 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1942282255",
       "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbS04cW9JcjI4WmNSQ3F2VS1QeldIYmN2cGRBRjhmTGxUOTFud3k0emhjdUVGMU9yMUN4dlBTWlNQbWU1cTVNSTVkTGdCWnNxTjJGNGVCeDZ1VTNLQlE?oc=5",
@@ -99290,34 +99346,6 @@
       "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺财经",
       "lang": "zh",
       "source": "同花顺财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "890064323",
-      "title": "碳酸锂主力合约日内跌超2.00% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYkF2LVl6cmliNGsySUtSVWlselhJa2t3enpYbVFaSzQ3cFJuWkJjZElVVndicjVsbGtHUE9GQVJTTDRFTTVSZWJoRXFQTmItdzZ1Z1o2QnVFbkg0WjY4Rw?oc=5",
-      "pubDate": "2026-09-18 02:50:54",
-      "author": "东方财富",
-      "summary": "碳酸锂主力合约日内跌超2.00% 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1914304572",
-      "title": "碳酸锂：去库边际改善，估值低位韧性显现 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi-AVBVV95cUxNLVh0SW01LTlaVHdnc1RZVFdVMHE2SGM0RUUtZnFhaFhTa2FUNlpwUU1IZ05kLTdtWHV6M0JibnluVVFhX1pDSkJ2a3NGYUI4bzJ1ZVlBZjJXTVdjb3dsNG9meUg1SWUwN2ZWLWtka1BFYm1yVVFpb3lDcUowaWF3Q1hCdUIzNlp2Xzk0RGtMWVc0U3dKSEgxVzROVlZBeV9odDljcUw1RG16TGxIQTVlQlZtOWVfc01yeURxZGVIb3VBUm9tSzM1bTR5WTJDOERzbGRIb1ZZVXA5eUMzNTVHVDVZM192QXl5SmI0S0lTNm81TGtHNGNLUFlwSzRGWk1CVmNTOFJsRlh1bVBnSThXek8xMEtxb0huMEFLa0I0X0JXb0t3Q3VxdFlQY3VIR25sYlE5cjNheU80SWVJN1V0Y0ZLMUxrV2pVaWhhaW5rbnNlMjVSdTY4Z2NJWHM5NDVkeU1mdmZRY0lrdHBweTFSNURDRjdpb1FESFpHWlVPcFdBTWNVcTJTR0RMYVlMeGJwVWVUbG9XQ1lKblE4dXhSVE5WX0RwbktOM2poMzJQaFJnLVR4Y1c2SUg1QVlyR3BVUVUyVTJLWUZpN2VsczZZbTM2TnhLbElBeElxVGtrOUpUTUh5eGVoZ3FTM1dtRU5Xa2t5aWZMMmpWaS1XMjNBeDZLUDREVGxfSWo0ak9tNnVrcEVzNXQ1WEF5V3VIMHgxRnp6ZUtTX3FDNTNpVVgtbVZEbjBKNG9LSnNTaTlic0F0Y0hVTWZEV3BXUjV2SWE3RWFoa29uTVZuMDJJVXI2bVZYOGtHdlFhMGQ5ZlZpRW5vYWJabFpyZVpQZS0xR3B4UFV4VkVZYlhPVjhZZjZaM1JsbkVUMG0wbjdzMWpyb0pNSkVmOEJGTDZHaVZ5U05VQ3RDWlZJOXhNcGV2dm1oRTJMSG1TRU1OSzE5aFJlMUhyaE1ERUJfT1cxTHdYUUhjUHJhcUp4MFJQTjNXVS1hQmxFRTFJREZz?oc=5",
-      "pubDate": "2026-09-17 19:19:48",
-      "author": "新浪财经",
-      "summary": "碳酸锂：去库边际改善，估值低位韧性显现 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -99339,14 +99367,14 @@
       "sentiment": 0
     },
     {
-      "id": "672041556",
-      "title": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYnBiUEppdFZTT3I2YkF1cGxKdTRhTjJTbTZfSnUySHNGaFgtMWYtLTg1MlFfQmN1OGR5TWd4ZFlDLUd1cWdScjlfbDI2LXczb0hvWGh6MmNXZTM4Z3c?oc=5",
-      "pubDate": "2026-09-17 07:05:52",
-      "author": "同花顺财经",
-      "summary": "期货收评：能化大跌！原油暴跌超6%，碳酸锂涨近4% 同花顺财经",
+      "id": "1900601788",
+      "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 - eastmoney.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMEhSbmRaLTU4M2RWdTdDQWVib19nb3ZCbFM2dDZGdkZ1bzlIU3JuamU4djg0MTlhOWtpRWZQcnB2QW10cmlpT1ppeUhUMm5iSEhQUGF5cEFwd0t0YmhubA?oc=5",
+      "pubDate": "2026-09-17 10:11:06",
+      "author": "eastmoney.com",
+      "summary": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 eastmoney.com",
       "lang": "zh",
-      "source": "同花顺财经",
+      "source": "eastmoney.com",
       "categories": [
         "demand"
       ],
@@ -99382,32 +99410,18 @@
       "sentiment": 0
     },
     {
-      "id": "3767417196",
-      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHdWU083YWRISmFGc3A3N3JCeGZmYXUwOEl6Mk9Oc3ZSU0xWSXdvaFVJZHU2OVNXd2xGRkF6dmVEMDZwSm5SU1dqZkdsNlpHSF9PWW5NcVJaNFlLYmUtOUJoZkJXck1RMlhYcVVPaDlRbkpObmo4cFV2QVEtc3Y2MHB1cXZ1Q2NiZjY1NDBvTQ?oc=5",
+      "id": "1039787828",
+      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - TMX Newsfile",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmR1Umd5S1JVTW1fSVJKU3FQaEFka3ZiNHVhQ21aWTVHVW91eXJzNEdoREx3Z2lJS2FET3FQLU1rclp1c3o1NDE4N294a1pZbVdGUHBleFIzZndnMkJsaS1WLTdVQjZuMzlGbkEtUFY2VmM3YWFUNm40Q3NBRDc1aWJHZWdVcExHOEdCS3BrcE5yRmZjOXF6WTV4aDdfVGFVNUdHdXV1UTh4UTBFSVcxRE44MXM?oc=5",
       "pubDate": "2026-09-15 11:00:00",
-      "author": "Yahoo Finance",
-      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North Yahoo Finance",
+      "author": "TMX Newsfile",
+      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North TMX Newsfile",
       "lang": "en",
-      "source": "Yahoo Finance",
+      "source": "TMX Newsfile",
       "categories": [
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "2674392202",
-      "title": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TT3FYeUNGWnJMd0pLVHMyVktia0J3WFUyS3lNSFlvMU83b3BXZnJqbkhTeVc5TUtJUWhBYkFuRmFxMmRPMlVSLTRtU0pENVBKaV9ld3pUdzllbHlyRm5FSA?oc=5",
-      "pubDate": "2026-09-15 07:41:15",
-      "author": "东方财富",
-      "summary": "期市收评 | 商品期货多数下跌 碳酸锂跌幅居前 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
     },
     {
       "id": "2420233079",
@@ -99467,20 +99481,6 @@
       "sentiment": 0
     },
     {
-      "id": "1051355911",
-      "title": "广期所锚定绿色期货高质量发展 - 经济参考报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeXVTTnFpU250YWVhZzEyMjRMOFhKUUNGdEVWSXNpdTJ4NndmNFdNeU52WVBEakUzelhQTHJrQlRULUdUOTAtUXN0M3o0Q2oxSHhvZTFBNFc5Nlp1S0ZfeUxYaDNadkVva213bWJ2UnJRTVhWTi0yUDlKRnlhS1o3Rg?oc=5",
-      "pubDate": "2026-09-14 00:33:41",
-      "author": "经济参考报",
-      "summary": "广期所锚定绿色期货高质量发展 经济参考报",
-      "lang": "zh",
-      "source": "经济参考报",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2125934585",
       "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - Mining.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlRIY3AyUWIwVGRuS0M1Rl85SzZkcy00OS10UDMwUnpWWEdIQTN0dmxoUk9qNmFNZFFlMzlNM0J0VGg3ajVOZXBTYzVYS1RuOU94ZUtBdkRFY2k3blJ5ejFITDMycDZBV3ltajRPbmRWYkg4aWZRVFB6NTRiVTFteUhFUWdoLWJwZnZiMlBYQjkwc05KMVNMNg?oc=5",
@@ -99526,7 +99526,7 @@
     {
       "label": "期货主力",
       "ok": false,
-      "message": "fetch failed"
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -99541,62 +99541,62 @@
     {
       "label": "股价 赣锋锂业",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 SQM",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 美元指数",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 沪深300",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 纳斯达克",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 NYMEX原油",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     }
   ]
 }
