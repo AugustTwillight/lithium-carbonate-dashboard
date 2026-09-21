@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:09:16.543Z",
+  "generatedAt": "2026-09-21T00:23:09.175Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2026,7 +2026,7 @@
   },
   "spot": {
     "price": 134300,
-    "date": "2026-09-20",
+    "date": "2026-09-21",
     "dayPct": 0.83,
     "monthPct": -11.44,
     "yearPct": 82.72,
@@ -74326,9 +74326,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 95.47,
-      "changePct": -1.81,
-      "volume": 300567,
+      "price": 95.72,
+      "changePct": -0.37,
+      "volume": 12265,
       "amount": 0,
       "klines": [
         {
@@ -82751,9 +82751,21 @@
           "l": 94.83,
           "v": 300567,
           "amount": 0,
-          "amp": 3.27,
-          "chg": -1.81,
-          "delta": -1.76
+          "amp": 3.12,
+          "chg": -6.32,
+          "delta": -6.44
+        },
+        {
+          "d": "2026-09-21",
+          "o": 96.75,
+          "c": 95.72,
+          "h": 97.22,
+          "l": 95.54,
+          "v": 12265,
+          "amount": 0,
+          "amp": 1.75,
+          "chg": -0.37,
+          "delta": -0.36
         }
       ]
     },
@@ -82762,8 +82774,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 100.22,
-      "changePct": 0,
+      "price": 100.28,
+      "changePct": 0.06,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -85398,14 +85410,14 @@
         {
           "d": "2024-11-01",
           "o": 103.88,
-          "c": 104.28,
+          "c": 104.32,
           "h": 104.35,
           "l": 103.67,
           "v": 0,
           "amount": 0,
           "amp": 0.65,
-          "chg": 0.37,
-          "delta": 0.38
+          "chg": 0.4,
+          "delta": 0.42
         },
         {
           "d": "2024-11-04",
@@ -85416,8 +85428,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.39,
-          "chg": -0.36,
-          "delta": -0.38
+          "chg": -0.4,
+          "delta": -0.42
         },
         {
           "d": "2024-11-05",
@@ -86526,14 +86538,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.86,
+          "c": 103.83,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.26,
-          "delta": 0.27
+          "chg": 0.23,
+          "delta": 0.24
         },
         {
           "d": "2025-03-14",
@@ -86544,8 +86556,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.13,
-          "delta": -0.13
+          "chg": -0.1,
+          "delta": -0.1
         },
         {
           "d": "2025-03-17",
@@ -91290,14 +91302,14 @@
         {
           "d": "2026-09-21",
           "o": 100.22,
-          "c": 100.21,
-          "h": 100.27,
+          "c": 100.28,
+          "h": 100.3,
           "l": 100.2,
           "v": 0,
           "amount": 0,
-          "amp": 0.07,
-          "chg": -0.01,
-          "delta": -0.01
+          "amp": 0.1,
+          "chg": 0.06,
+          "delta": 0.06
         }
       ]
     },
@@ -99224,6 +99236,36 @@
   ],
   "news": [
     {
+      "id": "3133719265",
+      "title": "能源早报｜盛和资源否认控股股东拟对外转让公司控股权；宁德时代枧下窝锂矿项目重启环评审批程序 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1dHcmtZNy1aaV9FWi1wSE5Jb29sOVZIVVJ4ZGlNVHRvY1lEV19nREJadExKRFdsMlZ0TDdkNXpnNUhmelRqb3VZbTh0UlpYMlZiN09BTWo0OThwX0U3Wl9UVk91RnhLcmQ0N1lDWHRldU5pdWtOSHRfWVdOajktMkJkQjIzVnBn?oc=5",
+      "pubDate": "2026-09-21 00:10:20",
+      "author": "Sohu",
+      "summary": "能源早报｜盛和资源否认控股股东拟对外转让公司控股权；宁德时代枧下窝锂矿项目重启环评审批程序 Sohu",
+      "lang": "zh",
+      "source": "Sohu",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3106369514",
+      "title": "CATL Restarts Environmental Review for Jiangxi Lithium Mine; Guangzhou Futures Exchange Eases Position Threshold for Lithium Carbonate Futures - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5POXp6dWdGRDdodFFoSlRXQWxZT3MxUjEtbDk1OWhBdkJxak5xcmNQcWdCOE96SEx4eERqX2R0V2psQmtkalJYb0lNUlNLbE1WRXRVU3BrY3FmYkw1MWpnNTBuOGRVbmdCSzlSV3ZtcmoyWEhCREE?oc=5",
+      "pubDate": "2026-09-20 23:55:00",
+      "author": "finance.biggo.com",
+      "summary": "CATL Restarts Environmental Review for Jiangxi Lithium Mine; Guangzhou Futures Exchange Eases Position Threshold for Lithium Carbonate Futures finance.biggo.com",
+      "lang": "en",
+      "source": "finance.biggo.com",
+      "categories": [
+        "environment",
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1282081343",
       "title": "宁德时代拟在雅安新建4万吨碳酸锂年产能 - 中国能源新闻网",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YckczazBPYV9kNXJlQ0VuRk9qM25aUUVRUGxZX1g5MnBKdzRnN09LZGJIVXhWOXZTbFdzU1B3Q01ISDhDTXhyQWdNeTFDRGU0ZHFBVUFNQzNfMW1tU29QWXJLa21iZmFlUnVSWnpR?oc=5",
@@ -99266,14 +99308,14 @@
       "sentiment": 0
     },
     {
-      "id": "1682437986",
-      "title": "锂矿供给变量落地：枧下窝项目重启环评，锂云母产能即将释放 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2NIYXJpVU9BRXdVMUJpMk9QUmRBcElZTzFFbFJSdkJnWjRYYkNTUGxRUFlFT1c5bGd1UkpyU3daM0xuT0xWMHEyekswX2xmNGpSQzk5YU1wVVRra194LUxTLUFCLWZPTEJfQlgtRzl6a1dUb0pVSmxpdTh6NjRycUg3X0t1X3BLTWc?oc=5",
-      "pubDate": "2026-09-20 05:36:35",
-      "author": "新浪财经",
-      "summary": "锂矿供给变量落地：枧下窝项目重启环评，锂云母产能即将释放 新浪财经",
+      "id": "963338365",
+      "title": "宁德时代江西锂矿 采矿项目环评重启 - 中国金融信息网",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRGd3ZUVUQ0VhSWhFMmVkMkVvOU9DRDg3bGI0b1Y0c0lIZWU1dU4xVU9PZDc2eWZ2UXdicUlIQXR5c2JnT1lqOEFsT1NBS0tpZnBpdWdoQ09XSERKcXVDSmVDWnZZbmM?oc=5",
+      "pubDate": "2026-09-20 06:17:00",
+      "author": "中国金融信息网",
+      "summary": "宁德时代江西锂矿 采矿项目环评重启 中国金融信息网",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "中国金融信息网",
       "categories": [
         "demand"
       ],
@@ -99288,20 +99330,6 @@
       "summary": "宁德时代拟14亿雅安建4万吨碳酸锂产能 手机新浪网",
       "lang": "zh",
       "source": "手机新浪网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2162858870",
-      "title": "宁德时代江西锂矿，采矿项目环评重启 - news.10jqka.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nR1V2STJySks4ekJGRlFQM1ZQalpaaFhZMGlwbjVzd0ZUOXNjYVlyVWdDTTZJOE1mRlJmNmhWTnFMamFmV09xRVFxWnZiUFRoWHpsYWwwMTVCSkY1ckY2Yg?oc=5",
-      "pubDate": "2026-09-20 04:19:05",
-      "author": "news.10jqka.com.cn",
-      "summary": "宁德时代江西锂矿，采矿项目环评重启 news.10jqka.com.cn",
-      "lang": "zh",
-      "source": "news.10jqka.com.cn",
       "categories": [
         "demand"
       ],
@@ -99336,14 +99364,14 @@
       "sentiment": 0
     },
     {
-      "id": "83902698",
-      "title": "TDK Ventures Backs R3 Lithium to Boost US Lithium Carbonate Supply - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGxKc24xaU5lN1ZseGpaUWRmcFNaVVA2T2REeGZqT19QdTFHTTdGcmJKZExsNTJNZHVKMF8zdFhYX1o3a045aGtlNFhHdUJHaGx4Mm5MbmJqWTUzNzhNeHJVYzQ3ZzJNQnJzOGptY1FKcXg0Q2Z5Q0VzUmFTMDhDdUpVU1pXaDN3VTVLSG9MUjVmTnh1dlJSMm1reUpXM3JURVp2cnRkc256enZOdU5PVURQM2dhWTA5VHc?oc=5",
-      "pubDate": "2026-09-18 13:36:53",
-      "author": "ChemAnalyst",
-      "summary": "TDK Ventures Backs R3 Lithium to Boost US Lithium Carbonate Supply ChemAnalyst",
+      "id": "3635369135",
+      "title": "LG Energy Solution Secures Multi-Year Supply of US-Produced Lithium Carbonate from Smackover Lithium - Batteries News",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcU1nNzFXYkIwUG8waGZiM2JhSXlMZHVua294clpRckY4WWhjZFZrZDdIRHlrRzZEWXVQOHZmaW1uR2dTeHpfYjFFUS1UbHBwV0ExTk5BLVJWX00wMTdaMnFQV0VxM3dKa1lkNXhFbTF6WmFVOUxkSlRqeHA4MEF1ZDk5X21ON2gxclZsVjVxWmNQRFRtazNGTXZpcEdWcjhkU2k3YzRfRDE3ajR5NC05bFVYSGZnaFFEUzZKd2ZtcElibnM2cEE?oc=5",
+      "pubDate": "2026-09-19 09:59:29",
+      "author": "Batteries News",
+      "summary": "LG Energy Solution Secures Multi-Year Supply of US-Produced Lithium Carbonate from Smackover Lithium Batteries News",
       "lang": "en",
-      "source": "ChemAnalyst",
+      "source": "Batteries News",
       "categories": [
         "supply"
       ],
@@ -99364,14 +99392,14 @@
       "sentiment": 0
     },
     {
-      "id": "4234123848",
-      "title": "TDK Ventures invests in R3 Lithium to accelerate US domestic supply of lithium carbonate - renewableenergymagazine.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVhQUnV5VjVBNHhUVlJURHhUUzdWaTZ0RjdsYlh6V05Ja1I3THdjT1RsOFEtM2lfNVgxQThkYms1MHZTSlk0a29yYlA5NW82S2RUQnNyXzM4dDJzNHFaZnUwQ3lNdDRoM2xUNUwtbGQ2NUxCX2hHeDV5aWxvVUdPaE92Wlc5STJ0SUJELThuTG5MSzMybjJWRFJPZE1Ga2czMHVILVpfMjhRRW1JbE8wYg?oc=5",
-      "pubDate": "2026-09-17 13:07:01",
-      "author": "renewableenergymagazine.com",
-      "summary": "TDK Ventures invests in R3 Lithium to accelerate US domestic supply of lithium carbonate renewableenergymagazine.com",
+      "id": "727782091",
+      "title": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHBVTnpHWjBoVTJOVjlKZS1XU25CVGFrUEZhVTNVSnJnWlNtMGtOaGNCd2dOUXRacmtsaTJhbWxCSW96S3FFSzVRM19POXRQOFRDQXFCOXR5ai1BS3lQWnIzbXEybDN3ZDhWLUJROEY5b2hfeE1LejJvS2l2WXRZdXp3czdjYXROUVFybFhnZ3l3SU5vaXMzVkFna3lDWVd4S0JBZ051MU1nNDFMNWc?oc=5",
+      "pubDate": "2026-09-17 16:30:00",
+      "author": "Moomoo",
+      "summary": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks Moomoo",
       "lang": "en",
-      "source": "renewableenergymagazine.com",
+      "source": "Moomoo",
       "categories": [
         "supply",
         "macro"
@@ -99393,6 +99421,21 @@
       "sentiment": 0
     },
     {
+      "id": "2952254984",
+      "title": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate - Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeWJWSU4xWldNbG9EeFM4N0NEcHo0UERXUHZoRlYyZ2FOWTlwajFQTnFPaVp4U3gwWFU1TERVa0FTVEJNOG1PajBVVGlfLW5pT0ZZaXZFLXFsQmdkbUxMQTNGYWhfXzlEcVFPdkFpU0M1RG9ZcUl2OHNJQkZaT1dYb3RicFk4YW5feG5HSWN2bFJsNUpxSHFaTVdyYVA2a3ZZa25yS2d1N2pHdy15dGR2Y201Z0FmZlJWaUZkUWczQkRqZ1hobWR4Rm1DbElNcGtmcDg1Tlo4RklxU0pUMXc?oc=5",
+      "pubDate": "2026-09-16 13:00:00",
+      "author": "Business Wire",
+      "summary": "TDK Ventures Invests in R3 Lithium to Accelerate US Domestic Supply of Lithium Carbonate Business Wire",
+      "lang": "en",
+      "source": "Business Wire",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2045574634",
       "title": "Zimbabwe Lithium Mining Women Breaking Barriers - industriall-union",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1RNY0Z3cnhUaWpncTZHaVltRWF5enE5ZFBORVl5NVg2TDIxZ3loNE45ekZZUTlqNnN5V1RyUlc4dGY0bDhfWHNEeUZxTW9rODYxX0hhUjZWRlB6X2U2S28zVUpHTGJ4ZnNDVkVvWlRPVUxZOXRHRG9FaC12QjR4QzdueUlJSEJaWW5jYm1UNWRYNXZDaS1Rag?oc=5",
@@ -99408,28 +99451,27 @@
     },
     {
       "id": "2237947757",
-      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
+      "title": "Lithium Mining in Chile - iisd.org",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
       "pubDate": "2026-09-15 15:14:30",
-      "author": "International Institute for Sustainable Development",
-      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
+      "author": "iisd.org",
+      "summary": "Lithium Mining in Chile iisd.org",
       "lang": "en",
-      "source": "International Institute for Sustainable Development",
+      "source": "iisd.org",
       "categories": [
-        "supply",
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
     {
       "id": "3767417196",
-      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - finance.yahoo.com",
+      "title": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHdWU083YWRISmFGc3A3N3JCeGZmYXUwOEl6Mk9Oc3ZSU0xWSXdvaFVJZHU2OVNXd2xGRkF6dmVEMDZwSm5SU1dqZkdsNlpHSF9PWW5NcVJaNFlLYmUtOUJoZkJXck1RMlhYcVVPaDlRbkpObmo4cFV2QVEtc3Y2MHB1cXZ1Q2NiZjY1NDBvTQ?oc=5",
       "pubDate": "2026-09-15 11:00:00",
-      "author": "finance.yahoo.com",
-      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North finance.yahoo.com",
+      "author": "Yahoo Finance",
+      "summary": "Surge Announces 99.95% Battery-Grade Lithium Carbonate from Nevada North Yahoo Finance",
       "lang": "en",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "categories": [
         "demand"
       ],
@@ -99437,30 +99479,15 @@
     },
     {
       "id": "2420233079",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Mining Weekly",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - miningweekly.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS01BQ2FVRTdyaXNGSUlzbDhSWVhTamhodW9USmUwNE0xOVRJRk1pcnF2V1BrUlRBNG5OdEdoNmFlOGxZQU9meV95WTlQRXJOWTZUMVM3WkdYeGI0NEJ5N1M2YU4xTlVLVkhUMWJRd21ZaklyVGhOakxmU09jenl0OG1jRGhOOGhyck1KVGpMR1VTZUJVSDlLNDE1N3dTZlVxWXhFSHY2VUtJUzRjekVrS0t0ZzdUckNibUE?oc=5",
       "pubDate": "2026-09-15 06:58:00",
-      "author": "Mining Weekly",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Mining Weekly",
+      "author": "miningweekly.com",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM miningweekly.com",
       "lang": "en",
-      "source": "Mining Weekly",
+      "source": "miningweekly.com",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1199175304",
-      "title": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale - Global Mining Review",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnZQUnR6aFB4bjB0Q1hlZm81QzIxaUg1RHFVNDdjOXRSMTZ5S3VBWWNvMnhhNHpSZmZEOHk1MHNmYkFFbWQ2Zi1TMWwyRlZhakJNODlGTU9FdWdzODdNd2JGVHdzVGZxNFF5YlRlSkRVVDNHWk5wY3lmeEFuS2oxMy1XRnBRSS1uM0hDV05GQndOdHdmOVM5Njdzemw3cFpjSFBHcE1aYzlWLWdtVWFGZFdTT0tRcXJVR1VPWkxwUXJ6aGprd1NwNWk2cGEzZWhsU0HSAdcBQVVfeXFMT0hSWWxqb1ZsSG5XOU5YdlJlb3huY2U4bTZldG5ZRHJOcmw5UllGVXBrdm4yNDZkTkVwQkpGVC1SZjZERmZfN0V3S3hPVXY4TGtBXzMtV3ZUbGgwUjdfS1RGX0V3a1FKcFZySUxPTzIzdEFtNjBQcHVKWkpHVHhZRHBJVHROVjNJQnRnX3NXUGtPMWxDUkhkMXc3OUlGWmFhN25sRmJockZQczdzRUdLRFdONmJIbGpRaTR4S3RWVlpBX3EyR21lN0F3WklnYmxneU9FZUI4MGM?oc=5",
-      "pubDate": "2026-09-14 14:00:29",
-      "author": "Global Mining Review",
-      "summary": "GEL to deliver Europe’s first ‘technical grade’ lithium carbonate on a commercial scale Global Mining Review",
-      "lang": "en",
-      "source": "Global Mining Review",
-      "categories": [
-        "supply",
-        "demand"
       ],
       "sentiment": 0
     },
@@ -99479,28 +99506,14 @@
       "sentiment": 0
     },
     {
-      "id": "1684652243",
-      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - Waste360",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQXzZQaWNFWE1ERWw0UWJ0cHB5cElRTjhaczRRZjllSTVXcW1ickJRNzFPWGwtRGRtaHJQZXU5R3lPSjBHZzJuX2tYN0pMX2hFV2FzajJDTUpXN0pENUhNOF9NWnFFQWxaNzhtMmpWTXlKMkQ3ejg2aUR0LVM0LVBoYzNTcE9kVGhoY2JJV1dPLS1Za2Z1QVUwZUM1Xzh6RURVOXFLVDZWZElsM3ZMV1ctNy13UGtDSzhEcjNSOEJFREwwMXc?oc=5",
-      "pubDate": "2026-09-14 10:02:59",
-      "author": "Waste360",
-      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Waste360",
-      "lang": "en",
-      "source": "Waste360",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2125934585",
-      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - Mining.com",
+      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - mining.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlRIY3AyUWIwVGRuS0M1Rl85SzZkcy00OS10UDMwUnpWWEdIQTN0dmxoUk9qNmFNZFFlMzlNM0J0VGg3ajVOZXBTYzVYS1RuOU94ZUtBdkRFY2k3blJ5ejFITDMycDZBV3ltajRPbmRWYkg4aWZRVFB6NTRiVTFteUhFUWdoLWJwZnZiMlBYQjkwc05KMVNMNg?oc=5",
       "pubDate": "2026-08-27 07:00:00",
-      "author": "Mining.com",
-      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals Mining.com",
+      "author": "mining.com",
+      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals mining.com",
       "lang": "en",
-      "source": "Mining.com",
+      "source": "mining.com",
       "categories": [
         "war",
         "supply"
