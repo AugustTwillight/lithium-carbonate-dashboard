@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:14:59.349Z",
+  "generatedAt": "2026-09-21T10:57:01.738Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99332,14 +99332,140 @@
   ],
   "news": [
     {
-      "id": "3133719265",
-      "title": "能源早报｜盛和资源否认控股股东拟对外转让公司控股权；宁德时代枧下窝锂矿项目重启环评审批程序 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1dHcmtZNy1aaV9FWi1wSE5Jb29sOVZIVVJ4ZGlNVHRvY1lEV19nREJadExKRFdsMlZ0TDdkNXpnNUhmelRqb3VZbTh0UlpYMlZiN09BTWo0OThwX0U3Wl9UVk91RnhLcmQ0N1lDWHRldU5pdWtOSHRfWVdOajktMkJkQjIzVnBn?oc=5",
-      "pubDate": "2026-09-21 00:10:20",
-      "author": "Sohu",
-      "summary": "能源早报｜盛和资源否认控股股东拟对外转让公司控股权；宁德时代枧下窝锂矿项目重启环评审批程序 Sohu",
+      "id": "2681627684",
+      "title": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOV2pTNm5NdTNXVzd2YkxqTjJnWEtSQjNaU1RvQ3AycEJyMUtWbkJweFAwWV9RUFZxRXZQVGJtVUN2dUFKSW1LZk1OTnQ5NHVsR210OTdUYi14aVlqLUkxUUdR?oc=5",
+      "pubDate": "2026-09-21 09:46:32",
+      "author": "观点网",
+      "summary": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 观点网",
       "lang": "zh",
-      "source": "Sohu",
+      "source": "观点网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3292948496",
+      "title": "【碳酸锂季报】需求降速，估值回归 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXN1b2ZDWWZYcXIwLTlwXzRwUjRZMFRNQzAxbHlHTk9TNXF1RU1hVUZVRzN2NExxVzVtdEphNG15enBOS1dzc2dTd1lNY0tvaVgtSWpBbS1yRDRPbllwM0x4TlFadzJSeElDTk45TzJVZUZTVk91SFBXNE00QkJ4YktoUGhvOExxZGFGcXdMWkdxMXFIUGpZM0lCMk5iemlmQ2hHUjF6TXozT0FIOEdoUw?oc=5",
+      "pubDate": "2026-09-21 09:40:16",
+      "author": "新浪财经",
+      "summary": "【碳酸锂季报】需求降速，估值回归 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1124274585",
+      "title": "宁德时代江西锂矿采矿项目环评重启 - jx.ifeng.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VWGwwVFVuR24yZDJXWUFaSFRkLTREUWhlTEpZMDFDZnpwYnczWVczM3lXcjBSTEU0OGtuZXQtWmIyb3l4NllMTExB?oc=5",
+      "pubDate": "2026-09-21 08:52:45",
+      "author": "jx.ifeng.com",
+      "summary": "宁德时代江西锂矿采矿项目环评重启 jx.ifeng.com",
+      "lang": "zh",
+      "source": "jx.ifeng.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2089300154",
+      "title": "广期所：国庆节假期调整相关期货合约涨跌停板幅度和交易保证金标准 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91U1JjbmhXSm5hbTk2anJJWHIwWGN6VkVNX29sakU3dzNZdWlicm5takZkdGhJU3prSnNmaFJvSmlCQXBQaGJDdllfOVN1cE5oT0hLUzBsTFFtMHo0TkE?oc=5",
+      "pubDate": "2026-09-21 08:26:47",
+      "author": "同花顺",
+      "summary": "广期所：国庆节假期调整相关期货合约涨跌停板幅度和交易保证金标准 同花顺",
+      "lang": "zh",
+      "source": "同花顺",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3101576252",
+      "title": "With Multiple Bearish Factors Converging, Lithium Carbonate Continued Its Weak Trend - Sunsirs",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRUV6MUhJSl9Na2JUZHlTbjRyYWN1NFdXZUx5MndteUIzcWoyQXpaaGFEajhPSUdNU3dLZE5jNWVYUktyczB5MDNKdFdSak9RTWpHSkRKak5CbXNpclE?oc=5",
+      "pubDate": "2026-09-21 06:30:39",
+      "author": "Sunsirs",
+      "summary": "With Multiple Bearish Factors Converging, Lithium Carbonate Continued Its Weak Trend Sunsirs",
+      "lang": "en",
+      "source": "Sunsirs",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1447351527",
+      "title": "锂业分会：8月国内碳酸锂价格小幅上涨下游电池排产超出预期_期市动态 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15cUF2eF93dkR0T2xONFZRLVp1d0QtM3h1UU1yRlpIa2t2dlB5eXBibHAwTmpwZlBDdEV4MW93bEQtX25QTkZfY2dsYnB5R2NZbmdiaDRqdVJ1b0pNbDJhc21kTFlSRDhCSDFmSTdB?oc=5",
+      "pubDate": "2026-09-21 04:29:06",
+      "author": "中金在线",
+      "summary": "锂业分会：8月国内碳酸锂价格小幅上涨下游电池排产超出预期_期市动态 中金在线",
+      "lang": "zh",
+      "source": "中金在线",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3403563779",
+      "title": "招商期货:《新能源ESG碳酸锂周报：仓单去化持续，悲观预期下期货买盘偏弱》 - 发现报告",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZU0FzVUFFVU9FODBWMm1Gb0VRQlBFcWhobE9BYXpvUHE1QjhfUlZ1LVd5UXdZc1QwVTczSkNvTWpWMmNJN0VuazMzS0FZbmpU?oc=5",
+      "pubDate": "2026-09-21 03:28:02",
+      "author": "发现报告",
+      "summary": "招商期货:《新能源ESG碳酸锂周报：仓单去化持续，悲观预期下期货买盘偏弱》 发现报告",
+      "lang": "zh",
+      "source": "发现报告",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2840463733",
+      "title": "广期所碳酸锂主力合约涨超3% - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uY3Z5WXNtekg4ZFB4T09MWVVlbkZkSjVIXzMxYnZLOXA4dU1sTERwYTNaUWdmZDRXS3IzcFdiX05FdVpzcktIcFJzNWtQcDhxbG5vTXEtcTRVa1ZDcTU4MUZzcHNEMkJqU0x4X1prNA?oc=5",
+      "pubDate": "2026-09-21 02:55:45",
+      "author": "金融界",
+      "summary": "广期所碳酸锂主力合约涨超3% 金融界",
+      "lang": "zh",
+      "source": "金融界",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3612314522",
+      "title": "今日MMLC电池级碳酸锂（早盘）价格较昨日上涨200元/吨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jN3NvTUJSVlpaZ1dPWEdJQnBVQlliOU1pTTBZQ2ludXpvN0NINTlLSTEzQU45TE9rVkI2NTZsV0o4bk0wV1FuaG1TblBLSFhHRk11ajRHMnRWRW1BbFZyTXU2Tnl6Zw?oc=5",
+      "pubDate": "2026-09-21 02:41:50",
+      "author": "东方财富",
+      "summary": "今日MMLC电池级碳酸锂（早盘）价格较昨日上涨200元/吨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2818427201",
+      "title": "宁德时代枧下窝锂矿环评重启 项目建设单位最新回应 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGIwSmVsbTBnVmR1NzkzSXEzd0xqWHREaUNLU1F1VURZWlp6d01qUVlINU9vNXRZTFpDOHQzVDh4LUxBNm8yYXE0YURWUjRad3FXa3dlM2o4VjR6VzJ3eUN2RnZqUUVIWnhOTW5fRVJGV2xMQVZxbU1mMG85N2tELVlpU2RfQ3pmSUxIQw?oc=5",
+      "pubDate": "2026-09-21 00:17:00",
+      "author": "搜狐网",
+      "summary": "宁德时代枧下窝锂矿环评重启 项目建设单位最新回应 搜狐网",
+      "lang": "zh",
+      "source": "搜狐网",
       "categories": [
         "demand"
       ],
@@ -99376,90 +99502,6 @@
       "sentiment": 0
     },
     {
-      "id": "2502965578",
-      "title": "海量财经丨宁德时代枧下窝锂矿环评重启，项目建设单位最新回应 - 海报新闻",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05eTJZQ2pCOWlMM3FrVE1ENkpxaUMzNEEybFhjRndYQ3Z5T2pmX290b1ZvenFnT0hHbk53bURacjZ3Z0lGU19ZOXd0TzJEMTQ?oc=5",
-      "pubDate": "2026-09-20 11:12:00",
-      "author": "海报新闻",
-      "summary": "海量财经丨宁德时代枧下窝锂矿环评重启，项目建设单位最新回应 海报新闻",
-      "lang": "zh",
-      "source": "海报新闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1696510482",
-      "title": "碳酸锂新旧口径切换 现货强势暗藏韧性 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFNxc0JDcW9kMk9XRWJBTFIzaFdjNUtvUVF0Tl9JY0ZmY2JManV3cWJNY0xyV1pSTEdETTBqSThhVmk4ekc2ZFRiSlZSd0cwNHdqOG80eUFja2Vnd1piOU1GQXROVTN3b1JqbjNtWW5oZWZfRmZqM0JXVnVHS2FQV0xFeUxRUktnRzZ3?oc=5",
-      "pubDate": "2026-09-20 09:03:57",
-      "author": "新浪财经",
-      "summary": "碳酸锂新旧口径切换 现货强势暗藏韧性 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "963338365",
-      "title": "宁德时代江西锂矿 采矿项目环评重启 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRGd3ZUVUQ0VhSWhFMmVkMkVvOU9DRDg3bGI0b1Y0c0lIZWU1dU4xVU9PZDc2eWZ2UXdicUlIQXR5c2JnT1lqOEFsT1NBS0tpZnBpdWdoQ09XSERKcXVDSmVDWnZZbmM?oc=5",
-      "pubDate": "2026-09-20 06:17:00",
-      "author": "中国金融信息网",
-      "summary": "宁德时代江西锂矿 采矿项目环评重启 中国金融信息网",
-      "lang": "zh",
-      "source": "中国金融信息网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1486558704",
-      "title": "宁德时代拟14亿雅安建4万吨碳酸锂产能 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCelJSX1pqV0JBV2F3S3psXzNRQnpTV3ZrempoRFBsZHVkanJGYndkdVA4eVprUmdNRnlhd1djdzNVMWc3eng4d3EwcEtjdWhGZlBtYzEtVmpQWENZbG5tV21uWE5GNll0Z2ZiMVZzaEVRZw?oc=5",
-      "pubDate": "2026-09-20 05:12:15",
-      "author": "手机新浪网",
-      "summary": "宁德时代拟14亿雅安建4万吨碳酸锂产能 手机新浪网",
-      "lang": "zh",
-      "source": "手机新浪网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2050171214",
-      "title": "广期所调整碳酸锂期货相关合约风控措施 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRnpSSi1QTzF4YXBZaTYtUURjY0FGbmFETjRWUVJ6cklBYW5FUGFqS0lZdnlJNXhKSkxLbVgtUC1PaWZpU05yUlZlVUoxUU1nT3c3emszQXBqWjJ0LUpPcA?oc=5",
-      "pubDate": "2026-09-19 17:34:32",
-      "author": "东方财富",
-      "summary": "广期所调整碳酸锂期货相关合约风控措施 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "694678499",
-      "title": "四川“十五五”规划：2030年锂矿年开采量达350万吨以上 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBCVG1GdTNoZTBTVGhjMWRIWjRPSFpwLWZYZTFoakNDc0x4azR0dS1YUjNkM0lfWTNuUXpKQ2s4NU9qeDJneW1fNWR3?oc=5",
-      "pubDate": "2026-09-19 12:25:00",
-      "author": "上海有色金属网",
-      "summary": "四川“十五五”规划：2030年锂矿年开采量达350万吨以上 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3635369135",
       "title": "LG Energy Solution Secures Multi-Year Supply of US-Produced Lithium Carbonate from Smackover Lithium - Batteries News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcU1nNzFXYkIwUG8waGZiM2JhSXlMZHVua294clpRckY4WWhjZFZrZDdIRHlrRzZEWXVQOHZmaW1uR2dTeHpfYjFFUS1UbHBwV0ExTk5BLVJWX00wMTdaMnFQV0VxM3dKa1lkNXhFbTF6WmFVOUxkSlRqeHA4MEF1ZDk5X21ON2gxclZsVjVxWmNQRFRtazNGTXZpcEdWcjhkU2k3YzRfRDE3ajR5NC05bFVYSGZnaFFEUzZKd2ZtcElibnM2cEE?oc=5",
@@ -99470,49 +99512,6 @@
       "source": "Batteries News",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1942282255",
-      "title": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jbS04cW9JcjI4WmNSQ3F2VS1QeldIYmN2cGRBRjhmTGxUOTFud3k0emhjdUVGMU9yMUN4dlBTWlNQbWU1cTVNSTVkTGdCWnNxTjJGNGVCeDZ1VTNLQlE?oc=5",
-      "pubDate": "2026-09-18 03:23:00",
-      "author": "同花顺",
-      "summary": "【期股联动】碳酸锂主力合约盘中跌超3% 报价跌至125560元/吨 同花顺",
-      "lang": "zh",
-      "source": "同花顺",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "727782091",
-      "title": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHBVTnpHWjBoVTJOVjlKZS1XU25CVGFrUEZhVTNVSnJnWlNtMGtOaGNCd2dOUXRacmtsaTJhbWxCSW96S3FFSzVRM19POXRQOFRDQXFCOXR5ai1BS3lQWnIzbXEybDN3ZDhWLUJROEY5b2hfeE1LejJvS2l2WXRZdXp3czdjYXROUVFybFhnZ3l3SU5vaXMzVkFna3lDWVd4S0JBZ051MU1nNDFMNWc?oc=5",
-      "pubDate": "2026-09-17 16:30:00",
-      "author": "Moomoo",
-      "summary": "Trending Industry Today: Lithium Argentina AG Leads Gains In Lithium Mining Stocks Moomoo",
-      "lang": "en",
-      "source": "Moomoo",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1900601788",
-      "title": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DMEhSbmRaLTU4M2RWdTdDQWVib19nb3ZCbFM2dDZGdkZ1bzlIU3JuamU4djg0MTlhOWtpRWZQcnB2QW10cmlpT1ppeUhUMm5iSEhQUGF5cEFwd0t0YmhubA?oc=5",
-      "pubDate": "2026-09-17 10:11:06",
-      "author": "东方财富",
-      "summary": "宁德时代拟以14亿元在雅安新建4万吨碳酸锂年产能 锂价9月回调已逾两成 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -99547,15 +99546,16 @@
     },
     {
       "id": "2237947757",
-      "title": "Lithium Mining in Chile - iisd.org",
+      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
       "pubDate": "2026-09-15 15:14:30",
-      "author": "iisd.org",
-      "summary": "Lithium Mining in Chile iisd.org",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
       "lang": "en",
-      "source": "iisd.org",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "supply"
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     },
@@ -99575,13 +99575,13 @@
     },
     {
       "id": "2420233079",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - miningweekly.com",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Mining Weekly",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS01BQ2FVRTdyaXNGSUlzbDhSWVhTamhodW9USmUwNE0xOVRJRk1pcnF2V1BrUlRBNG5OdEdoNmFlOGxZQU9meV95WTlQRXJOWTZUMVM3WkdYeGI0NEJ5N1M2YU4xTlVLVkhUMWJRd21ZaklyVGhOakxmU09jenl0OG1jRGhOOGhyck1KVGpMR1VTZUJVSDlLNDE1N3dTZlVxWXhFSHY2VUtJUzRjekVrS0t0ZzdUckNibUE?oc=5",
       "pubDate": "2026-09-15 06:58:00",
-      "author": "miningweekly.com",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM miningweekly.com",
+      "author": "Mining Weekly",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Mining Weekly",
       "lang": "en",
-      "source": "miningweekly.com",
+      "source": "Mining Weekly",
       "categories": [
         "supply"
       ],
@@ -99603,13 +99603,13 @@
     },
     {
       "id": "2125934585",
-      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - mining.com",
+      "title": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals - Mining.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVlRIY3AyUWIwVGRuS0M1Rl85SzZkcy00OS10UDMwUnpWWEdIQTN0dmxoUk9qNmFNZFFlMzlNM0J0VGg3ajVOZXBTYzVYS1RuOU94ZUtBdkRFY2k3blJ5ejFITDMycDZBV3ltajRPbmRWYkg4aWZRVFB6NTRiVTFteUhFUWdoLWJwZnZiMlBYQjkwc05KMVNMNg?oc=5",
       "pubDate": "2026-08-27 07:00:00",
-      "author": "mining.com",
-      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals mining.com",
+      "author": "Mining.com",
+      "summary": "Lithium price: BMI raises forecast, warns rally has outrun fundamentals Mining.com",
       "lang": "en",
-      "source": "mining.com",
+      "source": "Mining.com",
       "categories": [
         "war",
         "supply"
@@ -99646,8 +99646,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -99661,63 +99661,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     }
   ]
 }
