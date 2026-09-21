@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:46:10.223Z",
+  "generatedAt": "2026-09-21T23:47:45.028Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99648,7 +99648,7 @@
     {
       "label": "期货主力",
       "ok": false,
-      "message": "fetch failed"
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
