@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T10:57:01.738Z",
+  "generatedAt": "2026-09-21T16:48:45.927Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99717,7 +99717,7 @@
     {
       "label": "宏观 NYMEX原油",
       "ok": false,
-      "message": "HTTP 502"
+      "message": "fetch failed"
     }
   ]
 }
