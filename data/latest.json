@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T17:41:10.861Z",
+  "generatedAt": "2026-09-23T21:00:45.279Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50023,10 +50023,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 114.13,
-      "changePct": -2.29,
-      "volume": 812536,
-      "amount": 92605764,
+      "price": 113.47,
+      "changePct": -2.85,
+      "volume": 2199266,
+      "amount": 250325401,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58227,14 +58227,14 @@
         {
           "d": "2026-09-23",
           "o": 114.17,
-          "c": 114.13,
-          "h": 114.94,
+          "c": 113.47,
+          "h": 115.075,
           "l": 112.308,
-          "v": 812536,
-          "amount": 92605764,
-          "amp": 2.25,
-          "chg": -2.29,
-          "delta": -2.67
+          "v": 2199266,
+          "amount": 250325401,
+          "amp": 2.37,
+          "chg": -2.85,
+          "delta": -3.33
         }
       ]
     },
@@ -58244,10 +58244,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 69.365,
-      "changePct": -1.18,
-      "volume": 438863,
-      "amount": 30413172,
+      "price": 69.08,
+      "changePct": -1.58,
+      "volume": 736056,
+      "amount": 51006165,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66447,15 +66447,15 @@
         },
         {
           "d": "2026-09-23",
-          "o": 68.56,
-          "c": 69.365,
+          "o": 68.5,
+          "c": 69.08,
           "h": 70.15,
           "l": 68.15,
-          "v": 438863,
-          "amount": 30413172,
+          "v": 736056,
+          "amount": 51006165,
           "amp": 2.85,
-          "chg": -1.18,
-          "delta": -0.825
+          "chg": -1.58,
+          "delta": -1.11
         }
       ]
     }
@@ -66466,9 +66466,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26911.33,
-      "changePct": -1.22,
-      "volume": 4778737920,
+      "price": 26936.04,
+      "changePct": -1.13,
+      "volume": 7494202880,
       "amount": 0,
       "klines": [
         {
@@ -74670,14 +74670,14 @@
         {
           "d": "2026-09-23",
           "o": 27213.52,
-          "c": 26911.62,
+          "c": 26936.04,
           "h": 27217.33,
           "l": 26873.54,
-          "v": 4778737920,
+          "v": 7494202880,
           "amount": 0,
           "amp": 1.26,
-          "chg": -1.22,
-          "delta": -332.66
+          "chg": -1.13,
+          "delta": -308.24
         }
       ]
     },
@@ -74686,9 +74686,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 91.68,
-      "changePct": 1.28,
-      "volume": 288144,
+      "price": 92.73,
+      "changePct": 2.44,
+      "volume": 350177,
       "amount": 0,
       "klines": [
         {
@@ -83142,14 +83142,14 @@
         {
           "d": "2026-09-23",
           "o": 89.89,
-          "c": 91.68,
-          "h": 92.89,
+          "c": 92.73,
+          "h": 93.06,
           "l": 88.71,
-          "v": 288130,
+          "v": 350177,
           "amount": 0,
-          "amp": 4.62,
-          "chg": 1.28,
-          "delta": 1.16
+          "amp": 4.81,
+          "chg": 2.44,
+          "delta": 2.21
         }
       ]
     },
@@ -83158,8 +83158,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.17,
-      "changePct": 0.63,
+      "price": 101.15,
+      "changePct": 0.02,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91710,14 +91710,26 @@
         {
           "d": "2026-09-23",
           "o": 100.53,
-          "c": 101.17,
+          "c": 101.13,
           "h": 101.23,
           "l": 100.52,
           "v": 0,
           "amount": 0,
           "amp": 0.71,
-          "chg": 0.63,
-          "delta": 0.63
+          "chg": 0.59,
+          "delta": 0.59
+        },
+        {
+          "d": "2026-09-24",
+          "o": 101.13,
+          "c": 101.15,
+          "h": 101.16,
+          "l": 101.13,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.03,
+          "chg": 0.02,
+          "delta": 0.02
         }
       ]
     },
@@ -99750,28 +99762,14 @@
       "sentiment": 0
     },
     {
-      "id": "3537744062",
-      "title": "Bridge Green Upcycle signs $1 billion deal for lithium carbonate supply - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV0VQbzNuUlFZVy03UmFoUmNtb3JyX1JsV0tXd2hJdTdNdGRsOGoxU0JhbE5temlyYzdKRzZBQ3lKODRWWm1EUDEzVDgyUjV1bWxINlJPMlpmYnJHU2RTOUlZeGlFYVdMRHU3bElxZ19LaXVyR0xtbTFHNmpDTlA0OS1wVXVQSGJnUjFRSml2TnAtZEVNZV9EdE5WY2xrb1BQNnhuTThkX2xnU2ZNTUN2c3RGTHF6dWtyR1BkTExJUmJyaVZMSmk3NWtHM3ZCMVhqeUtz0gHaAUFVX3lxTE4ybTdPZXFjeWpmay03YjhRZXdxcDFUQ1ZPVWlJX3JoaDU2T1pjVkZLcHZDU09NcllIZ2hXNXEyeTY0cVhDOEpkRllDNUp3b0RmbFRwcFdyV3dZN0hpeHZlVU13OGhwM2FIMmFGOGphUkNWV1h0U1A5VEFkSE82N29OVHAwMG54R1hhTmpQY3ZFNmM0eEZFYWthaUEzSFIzaEJzUU9QSjlub2hDblp0aVpTeGVpOEtMTWE4ZjhjbHVwZ193cUJDelkyZnM5azNaWXBPcng2WGVfR3hR?oc=5",
-      "pubDate": "2026-09-22 14:32:46",
-      "author": "BusinessLine",
-      "summary": "Bridge Green Upcycle signs $1 billion deal for lithium carbonate supply BusinessLine",
-      "lang": "en",
-      "source": "BusinessLine",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2321330604",
-      "title": "Bridge Green Lands 8-Year Lithium Carbonate Deal With Hartree - chemanalyst.com",
+      "title": "Bridge Green Lands 8-Year Lithium Carbonate Deal With Hartree - ChemAnalyst",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazNPdi1XWGRiU0ZpXzdDdk05Mm94aG9OR0pEQjhXRWVDZlB4ZlVoM3BvaVY3V0NndmtqRl9QVnpFdFhBenJxVXlncFNrZ2Fqcm8xSUFxWmFZZ0dTRWktNElpWUJ0Q1JEa2ZRWjgzVjEtZ0syUnhUa0dBWW5vUTItMndocjR6N3BxZHFQU2dLQm5fb2RjdXBqSzZ4VjJ6NVcwbmFVYmdQQk5PVFU?oc=5",
       "pubDate": "2026-09-22 13:15:07",
-      "author": "chemanalyst.com",
-      "summary": "Bridge Green Lands 8-Year Lithium Carbonate Deal With Hartree chemanalyst.com",
+      "author": "ChemAnalyst",
+      "summary": "Bridge Green Lands 8-Year Lithium Carbonate Deal With Hartree ChemAnalyst",
       "lang": "en",
-      "source": "chemanalyst.com",
+      "source": "ChemAnalyst",
       "categories": [
         "demand"
       ],
@@ -99835,13 +99833,13 @@
     },
     {
       "id": "3345672694",
-      "title": "碳酸锂期货节前波动加剧，供给端压制锂价上行空间？ - 同花顺",
+      "title": "碳酸锂期货节前波动加剧，供给端压制锂价上行空间？ - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1razBtUmRxeVkxQ3lyXy0xR040bk5ELVA1T0RCVDc1STh2b05TRk12RFVHaGFiUEFTUV9falZ0cXVZamZ1NFQxRWxOajc5RjRHQzZNTmpiVTh5d3hGeUE?oc=5",
       "pubDate": "2026-09-21 13:57:58",
-      "author": "同花顺",
-      "summary": "碳酸锂期货节前波动加剧，供给端压制锂价上行空间？ 同花顺",
+      "author": "同花顺财经",
+      "summary": "碳酸锂期货节前波动加剧，供给端压制锂价上行空间？ 同花顺财经",
       "lang": "zh",
-      "source": "同花顺",
+      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
@@ -99877,13 +99875,13 @@
     },
     {
       "id": "3240027369",
-      "title": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 - 同花顺",
+      "title": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3S2xXaU94elhsTWtNSjdEanZlNFN5d1BlM3o5V2dTSmJKemRYeVRxR3Jrdm9vTEhWWGFGeWJHM0FQcWxUc0dVTzV5UTNnWDU3SUVtUDF4ZnN1OFgwdEE?oc=5",
       "pubDate": "2026-09-21 07:13:43",
-      "author": "同花顺",
-      "summary": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 同花顺",
+      "author": "同花顺财经",
+      "summary": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 同花顺财经",
       "lang": "zh",
-      "source": "同花顺",
+      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
@@ -99959,6 +99957,20 @@
         "supply"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "1889388814",
+      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1FpUjNSdTFwZDRoaWNLSEdIalVsTDFuMUE0V01HXzdxeG1ESzFMOWFVeEszeS1uOW93cFVGdk5icl9saUdGT0tPa2VEZFN1X2h2SzltUnp0U2xSTHBtNEJMbG5XXzQ4NVdGSHdQbjhrcGpJRnRFQ2dYUXBxRHBYMmUzVlVLQzZlbVNZVVRRMko?oc=5",
+      "pubDate": "2026-09-10 07:00:00",
+      "author": "Interesting Engineering",
+      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Interesting Engineering",
+      "lang": "en",
+      "source": "Interesting Engineering",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     }
   ],
   "sources": [
@@ -100005,13 +100017,13 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
