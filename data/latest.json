@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T02:57:23.297Z",
+  "generatedAt": "2026-09-24T08:11:20.310Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2073,11 +2073,11 @@
     ]
   },
   "spot": {
-    "price": 135200,
+    "price": 133150,
     "date": "2026-09-24",
-    "dayPct": 0.56,
-    "monthPct": -15.76,
-    "yearPct": 83.07,
+    "dayPct": -1.52,
+    "monthPct": -15.19,
+    "yearPct": 80.54,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -99800,38 +99800,96 @@
   ],
   "news": [
     {
-      "id": "1875425137",
-      "title": "生意社2026年9月23日碳酸锂趋势分析：震荡 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVRydk5qUkplSmx0elluMWEycFB5Ukc0RU1MakhHaUZZTlhJZWp0SE53NHZkSW5iRGs4YVNUR241bkNkSnJtNVh5aHNVY1A5S2pmcWRMYy1XUUJlYnVDUjhUcDEwT1lKWTZ3cjZMd0xDQ2o2aDR0SHZ4Z3RBVjF4LXdnbG13Z0U1M2cyQTlCX1JMWXc?oc=5",
-      "pubDate": "2026-09-23 12:07:07",
-      "author": "新浪财经",
-      "summary": "生意社2026年9月23日碳酸锂趋势分析：震荡 新浪财经",
+      "id": "847924976",
+      "title": "期货收评：大宗商品涨跌分化，原油暴涨超6%！碳酸锂重挫超4% - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94R09zMUdKQTE2MnUxYzlqSFo3M1FUc1oxbm9JYVlVU0lrOU1CUjdIX0xwa25iNWVmWUtZWU5TOWU5akxxbHJ5am1zeDhyLUc0b05hb3BVTW1yd0RvVVE?oc=5",
+      "pubDate": "2026-09-24 07:03:52",
+      "author": "同花顺财经",
+      "summary": "期货收评：大宗商品涨跌分化，原油暴涨超6%！碳酸锂重挫超4% 同花顺财经",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "4103857246",
-      "title": "Crude oil falls for six consecutive days, metals mostly fall, lithium carbonate drops over 3%, SHFE nickel rises more than 1%, coking coal falls over 1% [SMM midday comment] - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZDBVT2dRSzBiVGFDcjJLNWlITl96czAzSnJUZkZWeWNEcjlmdFUxTVdsODFRM01QSVlkM3JzemZUNVdKMm9QY2VPYnlDOVE0dWJXRlVWcEY2SFBiUFhhQ2JsSVhOdVVtaDVxdy1hQUh3RFpYMlFxZ2JjdzRzNUwwRDFlb2ZMR0puaGpmUHZHMm9EbklaQjFfMGZCLS1VZm05LWJkZld6SThRc2Q5ZlRzRm9YT3hFRGdNZkRyTHAtaEVKaF9BODJPWThsTXVoSFAwU3FkQ20wZ3RBTWxEa1NkT29NTVdfaWxmNE90TFA1NklncjI3VHR6NHZ4d0w1SjhIMElpSWNadl9nOFFwLU5JeFdKa0E2RC1nZUVCX0ZiTERMY1p1dlNKcGpJckhIVWdUdU9n?oc=5",
-      "pubDate": "2026-09-23 06:31:00",
+      "id": "4022304092",
+      "title": "港股异动| 碳酸锂供应回升与需求弱化预期共振赣锋锂业(01772)、天齐锂业(09696)跌超4%_股市直播_市场 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yR2l1UnVmX1BtUUhwUlRqcTRmV3FhQl9RNzdkM01GRGN1MlpDUEdfbTBkNW9lSlNIQmFLcWs0U25PNHNvZ3ZRN0UzUHBDUjdsaUZMLTZhMFB5TDY5YWxVTVFUN0xPUEJYM1pPdQ?oc=5",
+      "pubDate": "2026-09-24 04:27:02",
+      "author": "中金在线",
+      "summary": "港股异动| 碳酸锂供应回升与需求弱化预期共振赣锋锂业(01772)、天齐锂业(09696)跌超4%_股市直播_市场 中金在线",
+      "lang": "zh",
+      "source": "中金在线",
+      "categories": [
+        "supply",
+        "demand",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1605687492",
+      "title": "Metals broadly weakened, lithium carbonate fell over 4%, SHFE silver, platinum-palladium, polysilicon, and European shipping futures led declines [SMM midday comment] - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQWGRtVGFtNHVaT1k4QVFDSzdsd0xUMjFJOVY3elpCTUhQYVVQUXVfOWF4WS1CeXItcWlzVnhaQVE1V252SHNNN015ODZYUUpucG5yaU1OcW9GSkp1UGh1bktyaUd3YnRJMFdGT3BBRDhWZ0RfcDRfNE9zMERnOHYtSmFRS2NFb2J4T1hrOEwwcGszR185eEI1SEdoaEVhQ1NQTEZIX3NJUC1aQmlNX2hRa1E5SkVRTE5OMzU1SDFwMUxvdE85R0tZQy1aQ2w5Tjk0QWY3bl93WXRCbkhZb2g0RHZUOGF0OGVSZ2JKWV8zX1Vwd1REZklLYXNNZVY2QXdsTHo4VkQwY0lUUlROR05feU5DdUszU2NMQXVkMHJWWFY0bVlpQlI4TV80TQ?oc=5",
+      "pubDate": "2026-09-24 03:56:00",
       "author": "Shanghai Metals Market",
-      "summary": "Crude oil falls for six consecutive days, metals mostly fall, lithium carbonate drops over 3%, SHFE nickel rises more than 1%, coking coal falls over 1% [SMM midday comment] Shanghai Metals Market",
+      "summary": "Metals broadly weakened, lithium carbonate fell over 4%, SHFE silver, platinum-palladium, polysilicon, and European shipping futures led declines [SMM midday comment] Shanghai Metals Market",
       "lang": "en",
       "source": "Shanghai Metals Market",
       "categories": [
         "macro"
       ],
-      "sentiment": 0.3333333333333333
+      "sentiment": 0
+    },
+    {
+      "id": "3549547059",
+      "title": "碳酸锂连续主力合约日内跌4%，现报125420.00元。 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WbUFFb1hRMFhCYmI3MUdBUU9rbFloNUhNY0hiUVZ0VDFkaVNuWWNzNFVoclA3OGdqVjYxYng1WkJPWl80MFVLQW9hZndscUU?oc=5",
+      "pubDate": "2026-09-24 03:21:43",
+      "author": "新浪财经_金融信息服务商",
+      "summary": "碳酸锂连续主力合约日内跌4%，现报125420.00元。 新浪财经_金融信息服务商",
+      "lang": "zh",
+      "source": "新浪财经_金融信息服务商",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "197201926",
+      "title": "今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2250元/吨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Rb2VhdGRub1BjVUtqaHJvckUxYzhqWUQyaWJnY0Z3cUZLR2hDaVVLeFBQWFNReUZEZks5d3phSXpOb0pwUGJBS08yazJYUm5tWjJsenJBbVhCYTg2RXgwLTdJQ2J3UQ?oc=5",
+      "pubDate": "2026-09-24 02:44:11",
+      "author": "东方财富",
+      "summary": "今日MMLC电池级碳酸锂（早盘）价格较昨日下跌2250元/吨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "3638787914",
+      "title": "2.1亿美元收购加纳锂矿！华友钴业拿到澳大利亚外资审批 - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lVkdBaGlFclRuZUZ0VzcxWkUxTjJqYVhWb0VtNDBLbXpCS2FpaDZRV0o3TGZyaGg5WkJkUjZhOTdnR2JxaFM5WUVTakFBbEhBak4xQkR1VF9RVHdJZ2pv?oc=5",
+      "pubDate": "2026-09-24 01:26:30",
+      "author": "ChemNet News",
+      "summary": "2.1亿美元收购加纳锂矿！华友钴业拿到澳大利亚外资审批 ChemNet News",
+      "lang": "zh",
+      "source": "ChemNet News",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
     },
     {
       "id": "1602900665",
       "title": "今日MMLC电池级碳酸锂（早盘）价格较昨日下跌250元/吨 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XMHFUOGY1b3hCNUJiNS00bGFYc1hSX0ExaUVCNDdHTS10b0pQeDI3Z3lycTVfUXRLQmY0TzdUWkJPTHliSnhvWWNzYnd0RzVpeS1Ic1hWYUowaW5EcmpGVw?oc=5",
-      "pubDate": "2026-09-23 04:18:35",
+      "pubDate": "2026-09-23 19:18:55",
       "author": "东方财富",
       "summary": "今日MMLC电池级碳酸锂（早盘）价格较昨日下跌250元/吨 东方财富",
       "lang": "zh",
@@ -99842,6 +99900,21 @@
       "sentiment": -0.3333333333333333
     },
     {
+      "id": "1307583571",
+      "title": "津巴布韦拟融资1.15亿美元升级铁路，锂矿出口物流迎新通道 - 上海有色金属",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5nRXZEWm1SNFdCMHRJZUJTeGtNRVE0c0lVVmZhSk5iaHgxWDdhOXpzeXJzWmx5VUtNcW9TUWJJTk1qNXcwQXpqVjdR?oc=5",
+      "pubDate": "2026-09-23 14:40:00",
+      "author": "上海有色金属",
+      "summary": "津巴布韦拟融资1.15亿美元升级铁路，锂矿出口物流迎新通道 上海有色金属",
+      "lang": "zh",
+      "source": "上海有色金属",
+      "categories": [
+        "policy",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3794213768",
       "title": "从卤水中生产碳酸锂的生命周期评价与物料流分析 - 生物通",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04SE5HbHI1cE1Famw5UV9JSkVwTEhFMFQ5SElkQUM3YW9Ock1kWmVnLWhzVW9MZmtFYlJoaGxKeEo5d0szbS1ja010c0Vjd3ZBVFh6S1F4dVJJbUp2Y1F4TFVzdnpKeWRyQ2w1Mg?oc=5",
@@ -99850,20 +99923,6 @@
       "summary": "从卤水中生产碳酸锂的生命周期评价与物料流分析 生物通",
       "lang": "zh",
       "source": "生物通",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2997887108",
-      "title": "仓单流出基差走强 碳酸锂盘面迎超跌修复 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1VsRTJYcE9RUUgwXzY3ams4TjV3OUYtYk5VaFk2cVA1SXZSQmlzbXpNX2k2NmVRTjB4Vm1Zbll5SGlubUNaVFk5S1paZWFrVFZKQjAxV0czcFBKWWNHMGJVdlJBaEd2ZGI1dXhNUTdGeWNHWnZxaFA2OF9wOExXMC1JUEFLaDV1LWVzVGdleFpORmUtYjFTZ1BxQzRNd21pR0l3dWY4ZnA2elhZdWZlRA?oc=5",
-      "pubDate": "2026-09-23 01:47:03",
-      "author": "新浪财经",
-      "summary": "仓单流出基差走强 碳酸锂盘面迎超跌修复 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -99927,27 +99986,13 @@
     },
     {
       "id": "469662494",
-      "title": "China lithium carbonate futures rebound on import surge data - S&amp;P Global",
+      "title": "China lithium carbonate futures rebound on import surge data - spglobal.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzQ1M01VVWp4X19EdU9Gem5vTEQtcE9QS1pkNnZ3Q1BvOGZWS0RNYVB5R1JSM2Izd2NRQ05ROXk5dmlkb1F6RkRMdzlrd1p0WUJHbFNWeklMbGtON3RqbllyNTFPTWZRbWc3YjRMa2cwRHBxTzhYRkViN2gtYUtnZmhuTkpDZ05hQmRLWDNOZmRuRXBMajlhckZmVjZkdE1Rc2t3SUNqN3pIT0hZMlc3anJkUG5IWWZxYXVtSnJVam5FdnNGLXFXUkdIWjVVLXg1?oc=5",
       "pubDate": "2026-09-22 01:03:05",
-      "author": "S&amp;P Global",
-      "summary": "China lithium carbonate futures rebound on import surge data S&P Global",
+      "author": "spglobal.com",
+      "summary": "China lithium carbonate futures rebound on import surge data spglobal.com",
       "lang": "en",
-      "source": "S&amp;P Global",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3345672694",
-      "title": "碳酸锂期货节前波动加剧，供给端压制锂价上行空间？ - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1razBtUmRxeVkxQ3lyXy0xR040bk5ELVA1T0RCVDc1STh2b05TRk12RFVHaGFiUEFTUV9falZ0cXVZamZ1NFQxRWxOajc5RjRHQzZNTmpiVTh5d3hGeUE?oc=5",
-      "pubDate": "2026-09-21 13:57:58",
-      "author": "同花顺财经",
-      "summary": "碳酸锂期货节前波动加剧，供给端压制锂价上行空间？ 同花顺财经",
-      "lang": "zh",
-      "source": "同花顺财经",
+      "source": "spglobal.com",
       "categories": [
         "demand"
       ],
@@ -99968,9 +100013,9 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "id": "2681627684",
+      "id": "1494396043",
       "title": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOV2pTNm5NdTNXVzd2YkxqTjJnWEtSQjNaU1RvQ3AycEJyMUtWbkJweFAwWV9RUFZxRXZQVGJtVUN2dUFKSW1LZk1OTnQ5NHVsR210OTdUYi14aVlqLUkxUUdR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZWNKcXhPSER0bDdIVHFMWTI0cTR1N0Z2MXVGckIwbkNCMjhrX1dUcERwSGh4R2VKZmprR2JQd2pyV3pjS3ppVkhXZkhHdw?oc=5",
       "pubDate": "2026-09-21 09:46:32",
       "author": "观点网",
       "summary": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 观点网",
@@ -99982,56 +100027,14 @@
       "sentiment": 0
     },
     {
-      "id": "3240027369",
-      "title": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3S2xXaU94elhsTWtNSjdEanZlNFN5d1BlM3o5V2dTSmJKemRYeVRxR3Jrdm9vTEhWWGFGeWJHM0FQcWxUc0dVTzV5UTNnWDU3SUVtUDF4ZnN1OFgwdEE?oc=5",
-      "pubDate": "2026-09-21 07:13:43",
-      "author": "同花顺财经",
-      "summary": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 同花顺财经",
-      "lang": "zh",
-      "source": "同花顺财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2119836879",
-      "title": "锂业分会：8月国内碳酸锂价格小幅上涨 下游电池排产超出预期 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcXljLS1vcVNxYjlvQThXODB4UnF6ZUdkTnlNSm94Nmlwb3dKQ0tqQ0wyRm9obG1KRjhDdXhQX24xeFRWNkdRd3c5RzYyUURWMVNuNXlMcDlBTFpPVXN0X05lR0h6WmVBbG9ZWkhBejZGMzBGWFJvREIzZUc4TVpndE9qTlNvS0pXMENDalJpdTVGZ2k0?oc=5",
-      "pubDate": "2026-09-21 03:14:00",
-      "author": "新浪财经",
-      "summary": "锂业分会：8月国内碳酸锂价格小幅上涨 下游电池排产超出预期 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2627254017",
-      "title": "宁德时代枧下窝锂矿采矿项目重启环评审批程序 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWkFqeGpkbmQyTXBSUWFMYXlBOTlwQ3NCLXhuUl9razQxZmczZEZLbVluMGJoMGVCTi16UkJtNFlYLUFlcUlnM2dpZzVlYlB4UzlsdFQtaWlOdTJmR2RfbA?oc=5",
-      "pubDate": "2026-09-20 22:23:31",
-      "author": "东方财富",
-      "summary": "宁德时代枧下窝锂矿采矿项目重启环评审批程序 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1282081343",
-      "title": "宁德时代拟在雅安新建4万吨碳酸锂年产能 - 中国能源新闻网",
+      "title": "宁德时代拟在雅安新建4万吨碳酸锂年产能 - cpnn.com.cn",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YckczazBPYV9kNXJlQ0VuRk9qM25aUUVRUGxZX1g5MnBKdzRnN09LZGJIVXhWOXZTbFdzU1B3Q01ISDhDTXhyQWdNeTFDRGU0ZHFBVUFNQzNfMW1tU29QWXJLa21iZmFlUnVSWnpR?oc=5",
       "pubDate": "2026-09-20 12:22:51",
-      "author": "中国能源新闻网",
-      "summary": "宁德时代拟在雅安新建4万吨碳酸锂年产能 中国能源新闻网",
+      "author": "cpnn.com.cn",
+      "summary": "宁德时代拟在雅安新建4万吨碳酸锂年产能 cpnn.com.cn",
       "lang": "zh",
-      "source": "中国能源新闻网",
+      "source": "cpnn.com.cn",
       "categories": [
         "demand"
       ],
@@ -100068,13 +100071,13 @@
     },
     {
       "id": "1889388814",
-      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - Interesting Engineering",
+      "title": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries - interestingengineering.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT1FpUjNSdTFwZDRoaWNLSEdIalVsTDFuMUE0V01HXzdxeG1ESzFMOWFVeEszeS1uOW93cFVGdk5icl9saUdGT0tPa2VEZFN1X2h2SzltUnp0U2xSTHBtNEJMbG5XXzQ4NVdGSHdQbjhrcGpJRnRFQ2dYUXBxRHBYMmUzVlVLQzZlbVNZVVRRMko?oc=5",
       "pubDate": "2026-09-10 07:00:00",
-      "author": "Interesting Engineering",
-      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries Interesting Engineering",
+      "author": "interestingengineering.com",
+      "summary": "New 154,000-square-foot US plant makes lithium carbonate from 100% recycled batteries interestingengineering.com",
       "lang": "en",
-      "source": "Interesting Engineering",
+      "source": "interestingengineering.com",
       "categories": [
         "demand"
       ],
@@ -100110,8 +100113,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -100125,63 +100128,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
