@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T19:24:23.961Z",
+  "generatedAt": "2026-09-25T22:37:14.052Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50131,10 +50131,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 111.28,
-      "changePct": 2.8,
-      "volume": 524717,
-      "amount": 57685585,
+      "price": 109.73,
+      "changePct": 1.37,
+      "volume": 1989851,
+      "amount": 219156221,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58358,15 +58358,15 @@
         },
         {
           "d": "2026-09-25",
-          "o": 108.3,
-          "c": 111.28,
-          "h": 111.42,
+          "o": 108.79,
+          "c": 109.73,
+          "h": 112.07,
           "l": 108.3,
-          "v": 524717,
-          "amount": 57685585,
-          "amp": 2.88,
-          "chg": 2.8,
-          "delta": 3.03
+          "v": 1989851,
+          "amount": 219156221,
+          "amp": 3.48,
+          "chg": 1.37,
+          "delta": 1.48
         }
       ]
     },
@@ -58376,10 +58376,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 67.07,
-      "changePct": -0.07,
-      "volume": 145686,
-      "amount": 9790152,
+      "price": 66.89,
+      "changePct": -0.34,
+      "volume": 540275,
+      "amount": 36207419,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66603,15 +66603,15 @@
         },
         {
           "d": "2026-09-25",
-          "o": 67.48,
-          "c": 67.07,
+          "o": 67.32,
+          "c": 66.89,
           "h": 67.65,
-          "l": 66.98,
-          "v": 145686,
-          "amount": 9790152,
-          "amp": 1,
-          "chg": -0.07,
-          "delta": -0.05
+          "l": 66.65,
+          "v": 540275,
+          "amount": 36207419,
+          "amp": 1.49,
+          "chg": -0.34,
+          "delta": -0.23
         }
       ]
     }
@@ -66622,9 +66622,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26993.56,
-      "changePct": 0.2,
-      "volume": 2637523696,
+      "price": 27068.72,
+      "changePct": 0.48,
+      "volume": 6299972864,
       "amount": 0,
       "klines": [
         {
@@ -74850,14 +74850,14 @@
         {
           "d": "2026-09-25",
           "o": 26970.95,
-          "c": 26994.75,
-          "h": 27077.95,
+          "c": 27068.72,
+          "h": 27122.76,
           "l": 26876.27,
-          "v": 2637523696,
+          "v": 6299972864,
           "amount": 0,
-          "amp": 0.75,
-          "chg": 0.21,
-          "delta": 55.38
+          "amp": 0.91,
+          "chg": 0.48,
+          "delta": 129.35
         }
       ]
     },
@@ -74866,9 +74866,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 94.04,
-      "changePct": -0.6,
-      "volume": 157143,
+      "price": 92.44,
+      "changePct": -2.29,
+      "volume": 323945,
       "amount": 0,
       "klines": [
         {
@@ -83346,14 +83346,14 @@
         {
           "d": "2026-09-25",
           "o": 94.75,
-          "c": 94.04,
+          "c": 92.44,
           "h": 94.75,
-          "l": 92.04,
-          "v": 157143,
+          "l": 91.51,
+          "v": 323945,
           "amount": 0,
-          "amp": 2.86,
-          "chg": -0.6,
-          "delta": -0.57
+          "amp": 3.42,
+          "chg": -2.29,
+          "delta": -2.17
         }
       ]
     },
@@ -83362,8 +83362,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.02,
-      "changePct": -0.22,
+      "price": 101.03,
+      "changePct": -0.21,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91938,14 +91938,14 @@
         {
           "d": "2026-09-25",
           "o": 101.26,
-          "c": 101.02,
+          "c": 101.03,
           "h": 101.31,
-          "l": 100.91,
+          "l": 100.87,
           "v": 0,
           "amount": 0,
-          "amp": 0.4,
-          "chg": -0.22,
-          "delta": -0.22
+          "amp": 0.43,
+          "chg": -0.21,
+          "delta": -0.21
         }
       ]
     },
@@ -99920,6 +99920,34 @@
   ],
   "news": [
     {
+      "id": "2631602232",
+      "title": "欧盟法规推动电池回收再生碳酸锂市场2035年复合年增长率达18.5% - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVZMek9BUWtRUHo0N0M2Q1h4VzFFdnNmT1pCVTZHWGRPaF9UWW52V0piZVloMmFaSGtlM05LS0VNVzAyU0FCNVhKNUJHQUVybGFsSlM4U3BLMG10TEN5UmtncXNHWDhncGZLdkxON0pfd3FwTWpodHFaS3FPOWctd0dHTzBrb3d1aE5IS2JhQlk0aW0zNnZ3WnZFYlZxZmNka0JpbkxJUzNUaTJ3WnRHMUdWTkNRb3NZaExjaWxwLUhjUnVSNzl0N0FNejM0RU9RNEhz?oc=5",
+      "pubDate": "2026-09-25 20:36:04",
+      "author": "IndexBox",
+      "summary": "欧盟法规推动电池回收再生碳酸锂市场2035年复合年增长率达18.5% IndexBox",
+      "lang": "zh",
+      "source": "IndexBox",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1991209430",
+      "title": "中天期货:橡胶强势上涨 碳酸锂继续走弱 - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGxuUlhya0RqR2h4TmZONTRfbVNKclhnR2g5a29qQ0trMnpQV21kTjFnVHZuRU1rNUVla2R6TUJfVXNOd3c0a2VURmFXTWp0ZnZYVWttaTVaVjl1UTAtYkFCRFBCVzBQSC11RE9JakZaWmxGOTdUajJrZFFVZ0ZrRVhsejVoUUNueVhTaU1sbEVGOXJYUnRlb0VDbDE2Zw?oc=5",
+      "pubDate": "2026-09-25 09:30:24",
+      "author": "finance.sina.cn",
+      "summary": "中天期货:橡胶强势上涨 碳酸锂继续走弱 finance.sina.cn",
+      "lang": "zh",
+      "source": "finance.sina.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3052256561",
       "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals - FXEmpire",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk9UUHRwcGJpQzdNOGtaY1d1ZmdIT3BrYXltYnQtRWV5Z0VrWEFxTE1uVTRBQXVoeG5TeXJtQzRFME5kVG9wUVg4N0d0cnh6Y1RwbmU1WlZ3Wll4cV9RYUNiTl9GWEF2aUZIR01kTzVQOUxzZThKNVF1ZXNnSVVKQXZqSm5aNUpBSWZ5Q0R3clRydUZ1TklTYnFZX2pfaG9OakZFSTBzclFFeWhqd1lwLXJBb2lGbGp2UXFLN1lVYnhzVVE?oc=5",
@@ -99928,6 +99956,90 @@
       "summary": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals FXEmpire",
       "lang": "en",
       "source": "FXEmpire",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1760486790",
+      "title": "广期所铂、钯期货和期权引入合格境外投资者 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFZwM194MHdBWkdJQVNSSlhuYVBUWG5YdWJOSmdIeTRGdURVeGNsUDkzZEdDWUl0d0xkR0tWTlEtWEZlZWJPNElUUzN0b0EyaF9vQ0d6WGRDX0VZSTZKeFJYMTdCS2U0Y1Q5NmFRVTNiVWFSOERlTnhUMllBY2JPM3hBSlVOUmYyaXdLdw?oc=5",
+      "pubDate": "2026-09-25 08:36:00",
+      "author": "搜狐网",
+      "summary": "广期所铂、钯期货和期权引入合格境外投资者 搜狐网",
+      "lang": "zh",
+      "source": "搜狐网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4245493814",
+      "title": "宁德时代枧下窝锂矿，复产迎关键期！ - finance.sina.cn",
+      "link": "https://news.google.com/rss/articles/CBMiggVBVV95cUxOdms5R1RMcTFFTnJJSl9YZXJSOTRTMTh6cFRib0k4LXlEcUk3VG9zTnNtTV80YS03U1dWWW51RWprcTRoZkVGeGg4MW14RWQ4MXdqbnpIYjY4eHlGQzV5NFVfckp4NjdSUmZsOEY4MlhNaHRSd0FxUmhXLUIwSnIyb2VMVEpKZ09XOWZ3Z1VER2thM25FVDBocVVLMkZLZDBQcE5WbVhKXzBJVVgzMEI2OWM2XzVZUnRlVXQ4dzc5ZzZBa040RkRjbC1SNk1mTXRyQlhydHhVS05iV2JPWFRleUtyWi1nMUM3NHdoTDdJVEstdjVfNk1SeHJReV9DaDdIMVVZSmhDaGJPcUc3OGdjT1RjelZXaUljaXltbHBRNGNVZFBkcjQxMWxlQnV6bFAzZ1NkcXpBMGxBaGY4X2hpX0ZxTEVuaUxCdFBaeUFvcW5GVlVSdHVfcVlPUWptRmwzejIwY01UMXFIaFp3T0xMV2hrYU5lUWNGRDZ4M0pWbk1EQXQ0WElEQ2dUSnc3V1o0clB3M3RWQnlXTnlHOTg1Q3JRVDBJemFVZkdVaDlqVW1rbTA5WlJ0Zl9FQUpFWVNiUTcwZy1aMDVxRzVNWmZOc0xGcUk3WC1uLVloYUxIRnZuSWdURW1DaGFJbnM5MTh0dllfRTF6U2RvSVVCSF9IMEctNkttcUY4RVBVZ0J0aU82NXJvVnJFWFJHOFl2SzgxX1JJX3BGYzVaYU1xblowUHI3bDYzSVE5Z2xRZHJtZ0hIYXZ5X3pCZzc3QTY2Xzd4a214bzRETlUxWTdzS0lwcEgzNGRrZUIxVDBnT29oQ01sbWhRSWtrX2hFQmhCODVkcmc?oc=5",
+      "pubDate": "2026-09-25 02:39:38",
+      "author": "finance.sina.cn",
+      "summary": "宁德时代枧下窝锂矿，复产迎关键期！ finance.sina.cn",
+      "lang": "zh",
+      "source": "finance.sina.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1597778906",
+      "title": "碳酸锂期货主力合约日内跌4%，现报125700元/吨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfLWpBa1VIQ0pRLXFfdVZqTlJ1YXFWRTZINmtFTkIwQzljUUFoeF9FeUk2RXpMWEZ5aEVpTmMzdklRck05V1FzUGt6T3ZVQnhESnU0enhvQ1kxSER3dnpFRA?oc=5",
+      "pubDate": "2026-09-24 16:23:17",
+      "author": "东方财富",
+      "summary": "碳酸锂期货主力合约日内跌4%，现报125700元/吨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3853481730",
+      "title": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多头退场意愿弱于空头 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4STA3ZUJjejI3dDd5RVJwV0RYc2tPZmtkZ1VHeGhDNW9BMk80UUpqbW93MHZ4djk5LTVWcDBGYzFIT1BkZVMxTXhyVHJGcXZBZGFKNHlGYURqbnZjcFVvdQ?oc=5",
+      "pubDate": "2026-09-24 11:27:22",
+      "author": "东方财富",
+      "summary": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多头退场意愿弱于空头 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2715056080",
+      "title": "广期所9月28日起扩大合格境外投资者商品期货期权交易范围 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wY0ZPaE1Bbmd3QUNCYUxDeE9TVXRadnhQLTUyaktOMnd5LUJMdmNLNENzX3BnNXZERFNBaVZyejlQZVMyX3BOUXUtbzhKZw?oc=5",
+      "pubDate": "2026-09-24 11:24:08",
+      "author": "观点网",
+      "summary": "广期所9月28日起扩大合格境外投资者商品期货期权交易范围 观点网",
+      "lang": "zh",
+      "source": "观点网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3134607379",
+      "title": "首创期货：碳酸锂再跌4.7%跌破12.5万元/吨 后续恐继续下探 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xTFpqWnNULXE1Q0hRdEc3NVZVbUtFb29GZm04NFgxTVg4M2JHOVZ6czRlYmI1WEphNUhuUVFlU1M2bXhQMjZqem4ycjNacVJsRGx3OVU0SjNHUUliY1pwMVpB?oc=5",
+      "pubDate": "2026-09-24 10:39:51",
+      "author": "观点网",
+      "summary": "首创期货：碳酸锂再跌4.7%跌破12.5万元/吨 后续恐继续下探 观点网",
+      "lang": "zh",
+      "source": "观点网",
       "categories": [
         "demand"
       ],
@@ -99945,6 +100057,20 @@
       "categories": [
         "supply",
         "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "204579197",
+      "title": "江特电机：将继续推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 - 上海有色金属",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FYzJKU0FYYzNFQS1BVVA1aHJtNF8yZHpUVGs0b2ljWW1Ma0pxb1RMZXB1ajlLT3NJcnRZYllPVUpvTTN2VHZsSDlR?oc=5",
+      "pubDate": "2026-09-23 19:47:00",
+      "author": "上海有色金属",
+      "summary": "江特电机：将继续推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 上海有色金属",
+      "lang": "zh",
+      "source": "上海有色金属",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     },
@@ -100019,6 +100145,20 @@
       "sentiment": 0.3333333333333333
     },
     {
+      "id": "1282081343",
+      "title": "宁德时代拟在雅安新建4万吨碳酸锂年产能 - 中国能源新闻网",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YckczazBPYV9kNXJlQ0VuRk9qM25aUUVRUGxZX1g5MnBKdzRnN09LZGJIVXhWOXZTbFdzU1B3Q01ISDhDTXhyQWdNeTFDRGU0ZHFBVUFNQzNfMW1tU29QWXJLa21iZmFlUnVSWnpR?oc=5",
+      "pubDate": "2026-09-20 12:22:51",
+      "author": "中国能源新闻网",
+      "summary": "宁德时代拟在雅安新建4万吨碳酸锂年产能 中国能源新闻网",
+      "lang": "zh",
+      "source": "中国能源新闻网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2237947757",
       "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
@@ -100091,8 +100231,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -100106,63 +100246,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
