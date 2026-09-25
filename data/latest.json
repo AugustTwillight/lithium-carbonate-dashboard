@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:11:02.161Z",
+  "generatedAt": "2026-09-25T10:22:54.592Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99884,6 +99884,20 @@
   ],
   "news": [
     {
+      "id": "3052256561",
+      "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk9UUHRwcGJpQzdNOGtaY1d1ZmdIT3BrYXltYnQtRWV5Z0VrWEFxTE1uVTRBQXVoeG5TeXJtQzRFME5kVG9wUVg4N0d0cnh6Y1RwbmU1WlZ3Wll4cV9RYUNiTl9GWEF2aUZIR01kTzVQOUxzZThKNVF1ZXNnSVVKQXZqSm5aNUpBSWZ5Q0R3clRydUZ1TklTYnFZX2pfaG9OakZFSTBzclFFeWhqd1lwLXJBb2lGbGp2UXFLN1lVYnhzVVE?oc=5",
+      "pubDate": "2026-09-25 08:40:05",
+      "author": "FXEmpire",
+      "summary": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals FXEmpire",
+      "lang": "en",
+      "source": "FXEmpire",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1597778906",
       "title": "碳酸锂期货主力合约日内跌4%，现报125700元/吨 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfLWpBa1VIQ0pRLXFfdVZqTlJ1YXFWRTZINmtFTkIwQzljUUFoeF9FeUk2RXpMWEZ5aEVpTmMzdklRck05V1FzUGt6T3ZVQnhESnU0enhvQ1kxSER3dnpFRA?oc=5",
@@ -100150,21 +100164,6 @@
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "3847838595",
-      "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
-      "pubDate": "2026-05-12 07:00:00",
-      "author": "Amnesty International",
-      "summary": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples Amnesty International",
-      "lang": "en",
-      "source": "Amnesty International",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
     }
   ],
   "sources": [
@@ -100196,8 +100195,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -100211,63 +100210,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     }
   ]
 }
