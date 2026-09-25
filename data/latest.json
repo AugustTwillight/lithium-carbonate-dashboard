@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:14:26.691Z",
+  "generatedAt": "2026-09-25T05:11:02.161Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2089,10 +2089,10 @@
       "name": "天齐锂业",
       "code": "09696",
       "role": "上游锂矿",
-      "price": 29.2,
-      "changePct": -4.58,
-      "volume": 3055036,
-      "amount": 90057774,
+      "price": 28.54,
+      "changePct": -2.26,
+      "volume": 179800,
+      "amount": 5136336,
       "klines": [
         {
           "d": "2024-01-02",
@@ -10145,6 +10145,18 @@
           "amp": 4.18,
           "chg": -4.58,
           "delta": -1.4
+        },
+        {
+          "d": "2026-09-25",
+          "o": 29.06,
+          "c": 28.54,
+          "h": 29.06,
+          "l": 28.3,
+          "v": 179800,
+          "amount": 5136336,
+          "amp": 2.6,
+          "chg": -2.26,
+          "delta": -0.66
         }
       ]
     },
@@ -42030,10 +42042,10 @@
       "name": "赣锋锂业",
       "code": "01772",
       "role": "上游锂盐",
-      "price": 31.42,
-      "changePct": -4.96,
-      "volume": 10979811,
-      "amount": 347512656,
+      "price": 30.5,
+      "changePct": -2.93,
+      "volume": 1462645,
+      "amount": 44660386,
       "klines": [
         {
           "d": "2024-01-02",
@@ -50098,6 +50110,18 @@
           "amp": 5.44,
           "chg": -4.96,
           "delta": -1.64
+        },
+        {
+          "d": "2026-09-25",
+          "o": 31.42,
+          "c": 30.5,
+          "h": 31.46,
+          "l": 30.32,
+          "v": 1462645,
+          "amount": 44660386,
+          "amp": 3.63,
+          "chg": -2.93,
+          "delta": -0.92
         }
       ]
     },
@@ -74806,9 +74830,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 93.86,
-      "changePct": -0.79,
-      "volume": 5347,
+      "price": 93.03,
+      "changePct": -1.67,
+      "volume": 25116,
       "amount": 0,
       "klines": [
         {
@@ -83286,14 +83310,14 @@
         {
           "d": "2026-09-25",
           "o": 94.75,
-          "c": 93.86,
+          "c": 93.03,
           "h": 94.75,
-          "l": 93.81,
-          "v": 5347,
+          "l": 92.72,
+          "v": 25116,
           "amount": 0,
-          "amp": 0.99,
-          "chg": -0.79,
-          "delta": -0.75
+          "amp": 2.15,
+          "chg": -1.67,
+          "delta": -1.58
         }
       ]
     },
@@ -83302,8 +83326,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.29,
-      "changePct": 0.05,
+      "price": 101.25,
+      "changePct": 0.01,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91878,14 +91902,14 @@
         {
           "d": "2026-09-25",
           "o": 101.26,
-          "c": 101.29,
-          "h": 101.3,
-          "l": 101.24,
+          "c": 101.25,
+          "h": 101.31,
+          "l": 101.21,
           "v": 0,
           "amount": 0,
-          "amp": 0.06,
-          "chg": 0.05,
-          "delta": 0.05
+          "amp": 0.1,
+          "chg": 0.01,
+          "delta": 0.01
         }
       ]
     },
@@ -99860,14 +99884,28 @@
   ],
   "news": [
     {
+      "id": "1597778906",
+      "title": "碳酸锂期货主力合约日内跌4%，现报125700元/吨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfLWpBa1VIQ0pRLXFfdVZqTlJ1YXFWRTZINmtFTkIwQzljUUFoeF9FeUk2RXpMWEZ5aEVpTmMzdklRck05V1FzUGt6T3ZVQnhESnU0enhvQ1kxSER3dnpFRA?oc=5",
+      "pubDate": "2026-09-24 16:23:17",
+      "author": "东方财富",
+      "summary": "碳酸锂期货主力合约日内跌4%，现报125700元/吨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3853481730",
-      "title": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多头退场意愿弱于空头 - eastmoney.com",
+      "title": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多头退场意愿弱于空头 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4STA3ZUJjejI3dDd5RVJwV0RYc2tPZmtkZ1VHeGhDNW9BMk80UUpqbW93MHZ4djk5LTVWcDBGYzFIT1BkZVMxTXhyVHJGcXZBZGFKNHlGYURqbnZjcFVvdQ?oc=5",
       "pubDate": "2026-09-24 11:27:22",
-      "author": "eastmoney.com",
-      "summary": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多头退场意愿弱于空头 eastmoney.com",
+      "author": "东方财富",
+      "summary": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多头退场意愿弱于空头 东方财富",
       "lang": "zh",
-      "source": "eastmoney.com",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
@@ -99903,13 +99941,13 @@
     },
     {
       "id": "3058029753",
-      "title": "广期所铂、钯期货和期权引入合格境外投资者 - 21财经",
+      "title": "广期所铂、钯期货和期权引入合格境外投资者 - 21jingji.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGVzZFpwaXVYal8zaUxaQVBYMTNMYW5ITlZLRm03VWd3U3lFemN4Y3dBbHFOOS1EZVRDeVhVRS01SThoc3hEUVM0bzdHZ05vTTNzV2pkYjg2RVFJa0FrOXR6TXprM0NKM2pVdlhoaGdQUDBQd2VoMGhYVWgzbGRUeERrZFlGZTlYNEFaYmdDSQ?oc=5",
       "pubDate": "2026-09-24 10:32:00",
-      "author": "21财经",
-      "summary": "广期所铂、钯期货和期权引入合格境外投资者 21财经",
+      "author": "21jingji.com",
+      "summary": "广期所铂、钯期货和期权引入合格境外投资者 21jingji.com",
       "lang": "zh",
-      "source": "21财经",
+      "source": "21jingji.com",
       "categories": [
         "demand"
       ],
@@ -99931,44 +99969,14 @@
       "sentiment": 0
     },
     {
-      "id": "4022304092",
-      "title": "港股异动| 碳酸锂供应回升与需求弱化预期共振赣锋锂业(01772)、天齐锂业(09696)跌超4%_股市直播_市场 - 中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yR2l1UnVmX1BtUUhwUlRqcTRmV3FhQl9RNzdkM01GRGN1MlpDUEdfbTBkNW9lSlNIQmFLcWs0U25PNHNvZ3ZRN0UzUHBDUjdsaUZMLTZhMFB5TDY5YWxVTVFUN0xPUEJYM1pPdQ?oc=5",
-      "pubDate": "2026-09-24 04:27:02",
-      "author": "中金在线",
-      "summary": "港股异动| 碳酸锂供应回升与需求弱化预期共振赣锋锂业(01772)、天齐锂业(09696)跌超4%_股市直播_市场 中金在线",
-      "lang": "zh",
-      "source": "中金在线",
-      "categories": [
-        "supply",
-        "demand",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "204579197",
-      "title": "江特电机：将继续推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 - 上海有色金属",
+      "title": "江特电机：将继续推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 - news.smm.cn",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FYzJKU0FYYzNFQS1BVVA1aHJtNF8yZHpUVGs0b2ljWW1Ma0pxb1RMZXB1ajlLT3NJcnRZYllPVUpvTTN2VHZsSDlR?oc=5",
       "pubDate": "2026-09-23 19:47:00",
-      "author": "上海有色金属",
-      "summary": "江特电机：将继续推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 上海有色金属",
+      "author": "news.smm.cn",
+      "summary": "江特电机：将继续推进茜坑锂矿开发以提升锂矿自给率、降低原料成本 news.smm.cn",
       "lang": "zh",
-      "source": "上海有色金属",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3794213768",
-      "title": "从卤水中生产碳酸锂的生命周期评价与物料流分析 - ebiotrade.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04SE5HbHI1cE1Famw5UV9JSkVwTEhFMFQ5SElkQUM3YW9Ock1kWmVnLWhzVW9MZmtFYlJoaGxKeEo5d0szbS1ja010c0Vjd3ZBVFh6S1F4dVJJbUp2Y1F4TFVzdnpKeWRyQ2w1Mg?oc=5",
-      "pubDate": "2026-09-23 02:33:15",
-      "author": "ebiotrade.com",
-      "summary": "从卤水中生产碳酸锂的生命周期评价与物料流分析 ebiotrade.com",
-      "lang": "zh",
-      "source": "ebiotrade.com",
+      "source": "news.smm.cn",
       "categories": [
         "demand"
       ],
@@ -99976,13 +99984,13 @@
     },
     {
       "id": "2997887108",
-      "title": "仓单流出基差走强 碳酸锂盘面迎超跌修复 - 新浪财经",
+      "title": "仓单流出基差走强 碳酸锂盘面迎超跌修复 - 新浪财经_金融信息服务商",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM1VsRTJYcE9RUUgwXzY3ams4TjV3OUYtYk5VaFk2cVA1SXZSQmlzbXpNX2k2NmVRTjB4Vm1Zbll5SGlubUNaVFk5S1paZWFrVFZKQjAxV0czcFBKWWNHMGJVdlJBaEd2ZGI1dXhNUTdGeWNHWnZxaFA2OF9wOExXMC1JUEFLaDV1LWVzVGdleFpORmUtYjFTZ1BxQzRNd21pR0l3dWY4ZnA2elhZdWZlRA?oc=5",
       "pubDate": "2026-09-23 01:47:03",
-      "author": "新浪财经",
-      "summary": "仓单流出基差走强 碳酸锂盘面迎超跌修复 新浪财经",
+      "author": "新浪财经_金融信息服务商",
+      "summary": "仓单流出基差走强 碳酸锂盘面迎超跌修复 新浪财经_金融信息服务商",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "新浪财经_金融信息服务商",
       "categories": [
         "demand"
       ],
@@ -100071,6 +100079,20 @@
         "supply"
       ],
       "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "3240027369",
+      "title": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3S2xXaU94elhsTWtNSjdEanZlNFN5d1BlM3o5V2dTSmJKemRYeVRxR3Jrdm9vTEhWWGFGeWJHM0FQcWxUc0dVTzV5UTNnWDU3SUVtUDF4ZnN1OFgwdEE?oc=5",
+      "pubDate": "2026-09-21 07:13:43",
+      "author": "同花顺财经",
+      "summary": "期货收评：原油暴跌超4%！纸浆、碳酸锂强势上扬 商品多空分化 同花顺财经",
+      "lang": "zh",
+      "source": "同花顺财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "1282081343",
