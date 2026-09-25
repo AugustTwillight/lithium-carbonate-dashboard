@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:40:04.107Z",
+  "generatedAt": "2026-09-25T00:14:26.691Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2074,7 +2074,7 @@
   },
   "spot": {
     "price": 133150,
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "dayPct": -1.52,
     "monthPct": -15.19,
     "yearPct": 80.54,
@@ -50107,10 +50107,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 108.77,
-      "changePct": -4.14,
-      "volume": 1159672,
-      "amount": 126433305,
+      "price": 108.25,
+      "changePct": -4.6,
+      "volume": 2502517,
+      "amount": 272190992,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58322,15 +58322,15 @@
         },
         {
           "d": "2026-09-24",
-          "o": 110.25,
-          "c": 108.77,
+          "o": 110,
+          "c": 108.25,
           "h": 110.5,
-          "l": 108.23,
-          "v": 1159672,
-          "amount": 126433305,
-          "amp": 2,
-          "chg": -4.14,
-          "delta": -4.7
+          "l": 108.21,
+          "v": 2502517,
+          "amount": 272190992,
+          "amp": 2.02,
+          "chg": -4.6,
+          "delta": -5.22
         }
       ]
     },
@@ -58340,10 +58340,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 67.42,
-      "changePct": -2.4,
-      "volume": 527448,
-      "amount": 35689622,
+      "price": 67.12,
+      "changePct": -2.84,
+      "volume": 861542,
+      "amount": 58162689,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66555,15 +66555,15 @@
         },
         {
           "d": "2026-09-24",
-          "o": 68.15,
-          "c": 67.42,
+          "o": 67.93,
+          "c": 67.12,
           "h": 68.32,
-          "l": 67.15,
-          "v": 527448,
-          "amount": 35689622,
-          "amp": 1.69,
-          "chg": -2.4,
-          "delta": -1.66
+          "l": 67,
+          "v": 861542,
+          "amount": 58162689,
+          "amp": 1.91,
+          "chg": -2.84,
+          "delta": -1.96
         }
       ]
     }
@@ -66574,9 +66574,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26864.03,
-      "changePct": -0.27,
-      "volume": 4799768320,
+      "price": 26939.37,
+      "changePct": 0.01,
+      "volume": 7111923456,
       "amount": 0,
       "klines": [
         {
@@ -74790,14 +74790,14 @@
         {
           "d": "2026-09-24",
           "o": 26734.51,
-          "c": 26864.03,
+          "c": 26939.37,
           "h": 26971.04,
           "l": 26706.14,
-          "v": 4799768320,
+          "v": 7111923456,
           "amount": 0,
           "amp": 0.98,
-          "chg": -0.27,
-          "delta": -72.01
+          "chg": 0.01,
+          "delta": 3.33
         }
       ]
     },
@@ -74806,9 +74806,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 95.39,
-      "changePct": 3.5,
-      "volume": 336039,
+      "price": 93.86,
+      "changePct": -0.79,
+      "volume": 5347,
       "amount": 0,
       "klines": [
         {
@@ -83274,14 +83274,26 @@
         {
           "d": "2026-09-24",
           "o": 92.72,
-          "c": 95.38,
+          "c": 94.76,
           "h": 96.78,
           "l": 91.23,
-          "v": 336037,
+          "v": 390676,
           "amount": 0,
           "amp": 6.02,
-          "chg": 3.49,
-          "delta": 3.22
+          "chg": 2.82,
+          "delta": 2.6
+        },
+        {
+          "d": "2026-09-25",
+          "o": 94.75,
+          "c": 93.86,
+          "h": 94.75,
+          "l": 93.81,
+          "v": 5347,
+          "amount": 0,
+          "amp": 0.99,
+          "chg": -0.79,
+          "delta": -0.75
         }
       ]
     },
@@ -83290,8 +83302,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.35,
-      "changePct": 0.22,
+      "price": 101.29,
+      "changePct": 0.05,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91854,14 +91866,26 @@
         {
           "d": "2026-09-24",
           "o": 101.13,
-          "c": 101.35,
+          "c": 101.24,
           "h": 101.4,
           "l": 101,
           "v": 0,
           "amount": 0,
           "amp": 0.4,
-          "chg": 0.22,
-          "delta": 0.22
+          "chg": 0.11,
+          "delta": 0.11
+        },
+        {
+          "d": "2026-09-25",
+          "o": 101.26,
+          "c": 101.29,
+          "h": 101.3,
+          "l": 101.24,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.06,
+          "chg": 0.05,
+          "delta": 0.05
         }
       ]
     },
@@ -100007,20 +100031,6 @@
       "sentiment": 0
     },
     {
-      "id": "802833091",
-      "title": "Nano One and Standard Lithium Collaborate to Qualify Lithium Carbonate for LFP Cathodes - Batteries News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUJibkpBQXNhOVd5Y3VZT00zWTNvaThqNEtOSU1UZm5WRV9FUkFjOENEa0JHT2xzandTOWxOWXpQOUJPMkN6Vmp1WTZVR1NSRmJmS2RRRk5Ua2t2WFlNYjhZbXJCNkloSnlwMGJoSnJCV18ycVRWa3FnMVRJVWdMOU5PV1I1ZnlUZ2w5SEVfYWNMekE5V28tX0hfOEkycFpEQ1RnNng3SzNrNm5ZZGZWUkRUclE?oc=5",
-      "pubDate": "2026-09-22 06:36:33",
-      "author": "Batteries News",
-      "summary": "Nano One and Standard Lithium Collaborate to Qualify Lithium Carbonate for LFP Cathodes Batteries News",
-      "lang": "en",
-      "source": "Batteries News",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "469662494",
       "title": "China lithium carbonate futures rebound on import surge data - S&amp;P Global",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzQ1M01VVWp4X19EdU9Gem5vTEQtcE9QS1pkNnZ3Q1BvOGZWS0RNYVB5R1JSM2Izd2NRQ05ROXk5dmlkb1F6RkRMdzlrd1p0WUJHbFNWeklMbGtON3RqbllyNTFPTWZRbWc3YjRMa2cwRHBxTzhYRkViN2gtYUtnZmhuTkpDZ05hQmRLWDNOZmRuRXBMajlhckZmVjZkdE1Rc2t3SUNqN3pIT0hZMlc3anJkUG5IWWZxYXVtSnJVam5FdnNGLXFXUkdIWjVVLXg1?oc=5",
@@ -100093,13 +100103,13 @@
     },
     {
       "id": "734641481",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - reuters.com",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
       "pubDate": "2026-09-14 07:00:00",
-      "author": "reuters.com",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM reuters.com",
+      "author": "Reuters",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
       "lang": "en",
-      "source": "reuters.com",
+      "source": "Reuters",
       "categories": [
         "supply"
       ],
@@ -100115,6 +100125,21 @@
       "lang": "en",
       "source": "Interesting Engineering",
       "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3847838595",
+      "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
+      "pubDate": "2026-05-12 07:00:00",
+      "author": "Amnesty International",
+      "summary": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples Amnesty International",
+      "lang": "en",
+      "source": "Amnesty International",
+      "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -100149,8 +100174,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -100164,63 +100189,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
