@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:37:14.052Z",
+  "generatedAt": "2026-09-26T01:09:10.333Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2074,7 +2074,7 @@
   },
   "spot": {
     "price": 133150,
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "dayPct": -1.52,
     "monthPct": -15.19,
     "yearPct": 80.54,
@@ -50133,8 +50133,8 @@
       "role": "国际锂业",
       "price": 109.73,
       "changePct": 1.37,
-      "volume": 1989851,
-      "amount": 219156221,
+      "volume": 1990117,
+      "amount": 219185391,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58362,8 +58362,8 @@
           "c": 109.73,
           "h": 112.07,
           "l": 108.3,
-          "v": 1989851,
-          "amount": 219156221,
+          "v": 1990117,
+          "amount": 219185391,
           "amp": 3.48,
           "chg": 1.37,
           "delta": 1.48
@@ -58378,8 +58378,8 @@
       "role": "国际锂业",
       "price": 66.89,
       "changePct": -0.34,
-      "volume": 540275,
-      "amount": 36207419,
+      "volume": 540279,
+      "amount": 36207724,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66607,8 +66607,8 @@
           "c": 66.89,
           "h": 67.65,
           "l": 66.65,
-          "v": 540275,
-          "amount": 36207419,
+          "v": 540279,
+          "amount": 36207724,
           "amp": 1.49,
           "chg": -0.34,
           "delta": -0.23
@@ -99934,6 +99934,21 @@
       "sentiment": 0
     },
     {
+      "id": "817124389",
+      "title": "Lithium Carbonate Recovered From Battery Recycling Market to Reach 18.5% CAGR by 2035 on EU Mandates - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDZ6ODdLSUFGM092UmR6bzd3blRKcXh5VFlFWmI5eXhZZ2N2R3Rpa2R5eVByY2tsNjNKNHoyc1FHVlRkekZiRkphXzJPNFpMRUhLUmxqQWx6S3pyaEwtclgwRmZicm1ZZVotOHBmY1FaR0RWbDZRTDhTN01OSFZldFlyN3I1Q3psNnUwbkVXVEVsN1RHaTNVZjlzVW9zWFR3a1RuT2kxbmhENXlyLTZHN00yVXNHR1REdWUzajVmeXFJc0hpd3ZhdA?oc=5",
+      "pubDate": "2026-09-25 20:36:04",
+      "author": "IndexBox",
+      "summary": "Lithium Carbonate Recovered From Battery Recycling Market to Reach 18.5% CAGR by 2035 on EU Mandates IndexBox",
+      "lang": "en",
+      "source": "IndexBox",
+      "categories": [
+        "demand",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1991209430",
       "title": "中天期货:橡胶强势上涨 碳酸锂继续走弱 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGxuUlhya0RqR2h4TmZONTRfbVNKclhnR2g5a29qQ0trMnpQV21kTjFnVHZuRU1rNUVla2R6TUJfVXNOd3c0a2VURmFXTWp0ZnZYVWttaTVaVjl1UTAtYkFCRFBCVzBQSC11RE9JakZaWmxGOTdUajJrZFFVZ0ZrRVhsejVoUUNueVhTaU1sbEVGOXJYUnRlb0VDbDE2Zw?oc=5",
@@ -100042,21 +100057,6 @@
       "source": "观点网",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3512777861",
-      "title": "[SMM Analysis] Spot lithium carbonate prices drifted lower, with weekly production declining - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSWRjekRteG4tWEpkdE5aQ0ctSEtCMGxJS04zcE1QVFJidWd5b2pROC1EWmE2OU1lSFkwMG8wTDJEa0FvOXNnSE5QM1pyVnRGQ0Z1Zkd1NGFKTkJYVjlIWGQtUGlvbV8xNnQxMnM0OXliNjhsMmJ3Z2xvQWhET1N0SUJvSmZnRlJnTFhPOW1ic293aXUxQ0l1dUNXc3lXdElGYnlKdnRvakhpUmttbXh4N2Y0NXRRWW1qTF95V1FSdzFNSEVFY0hDeG91RTV1WUE?oc=5",
-      "pubDate": "2026-09-24 09:07:00",
-      "author": "Shanghai Metals Market",
-      "summary": "[SMM Analysis] Spot lithium carbonate prices drifted lower, with weekly production declining Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "supply",
-        "macro"
       ],
       "sentiment": 0
     },
@@ -100175,13 +100175,13 @@
     },
     {
       "id": "734641481",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
       "pubDate": "2026-09-14 07:00:00",
-      "author": "Reuters",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
+      "author": "reuters.com",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM reuters.com",
       "lang": "en",
-      "source": "Reuters",
+      "source": "reuters.com",
       "categories": [
         "supply"
       ],
