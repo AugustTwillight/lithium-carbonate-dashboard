@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:29:52.878Z",
+  "generatedAt": "2026-09-27T22:31:52.008Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2021,7 +2021,7 @@
         "h": 129380,
         "l": 123180,
         "v": 288475,
-        "amount": 36412088660,
+        "amount": 36412088576,
         "amp": 4.74,
         "chg": -4.79,
         "delta": -6260
@@ -74866,9 +74866,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 92.44,
-      "changePct": -2.29,
-      "volume": 323945,
+      "price": 93.34,
+      "changePct": 1.01,
+      "volume": 5232,
       "amount": 0,
       "klines": [
         {
@@ -83354,6 +83354,18 @@
           "amp": 3.42,
           "chg": -2.29,
           "delta": -2.17
+        },
+        {
+          "d": "2026-09-28",
+          "o": 93.58,
+          "c": 93.34,
+          "h": 93.8,
+          "l": 93.05,
+          "v": 5232,
+          "amount": 0,
+          "amp": 0.81,
+          "chg": 1.01,
+          "delta": 0.93
         }
       ]
     },
@@ -83362,8 +83374,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.03,
-      "changePct": -0.21,
+      "price": 101.15,
+      "changePct": 0.12,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -91946,6 +91958,18 @@
           "amp": 0.43,
           "chg": -0.21,
           "delta": -0.21
+        },
+        {
+          "d": "2026-09-28",
+          "o": 101.1,
+          "c": 101.15,
+          "h": 101.15,
+          "l": 101.06,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.09,
+          "chg": 0.12,
+          "delta": 0.12
         }
       ]
     },
@@ -99920,24 +99944,10 @@
   ],
   "news": [
     {
-      "id": "1024135136",
-      "title": "国内商品期货多数收跌 碳酸锂、沪锡跌超4% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qNDQwTTJGdDQ0aUVlM1ozNm9pMjRPZ3dEeTZzVklSSktCNlpYVTVkZXNhZUVheFY3NFRVVWljYTJJSGRKUEtWVmJZRzJqMEFqcjF2RHBGZzBSUDBHMkc0TTRFdUIxdw?oc=5",
-      "pubDate": "2026-09-26 18:51:47",
-      "author": "东方财富",
-      "summary": "国内商品期货多数收跌 碳酸锂、沪锡跌超4% 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4093897045",
+      "id": "73509743",
       "title": "宁德时代枧下窝锂矿，复产迎关键期！ - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxNLUN6bE9pbFhkc3VrRVpjT1dzV1k3dC1yV29rZmFtSkRpY1NER2gxRFdkODE0LXVVQnFaanl2RTJFakVwczNFLWY0WExXYWN3WV9ac2hWNjZLZ1F6alZZLUVUdU1GaER6dlhTOG1SOWhteTg4WmxqMmk0Vi1xVFZzMWVuLXBOaWF3V2VRNndrMm9nTjhLeW1jVzJPQjhLTzU4dTNqbDRJZW0yLW93bW9fVWJMaFJXVExHSXYxcU5TOHR0QjR1d2ZYS3Jrdy1QdmdoTnlTWUtnTm5qWmVlZ0xUeVZIcUY5MUJxWkJLNWxwYVpNV3NRcElLWEZOaXpZbnpJUndoTW1kcXNXXzBPSWdTa2N2aUZKSmc4TjBpMUNnRGxiSjlLWkRKYXFwaEgxRHpBemF4NnpEbnJ5S3dIVk9BOW9NdDV2eXFKZV9XR3p1WTFhMEwxTFFZUlRMRE9wSC1nQ1p6ZGxHMjMzMzRBSFE4dkh2Z1RvTTZJMmlxZlhoUDNCdWF0Ry1SZ3B6QU13MTFuV0p3YXBqRU9TdlFvWnREYkhHS0djVFhFZW9LY0hXdVBJYUM5WUktMC1EZUo3MnlzUTUxbGFYamtuTzFzT2RDOTJUXzhYck5nb1dWc2NuQnlXQ21yalNlRFBkdDlRZ1FsaHh5cTgwN04yUW9Fb3pGMDhJckJ4d1AzT3ZDNVVQbEpURUtOMFluOE01YXJ2WF9jTzBrdWp2dkNfWnpzUkJhQjVUeEhXTnpBajBnNUR1OFY3VjJDamxXeUJJSzc5Ni1lSnRwNnRSdGtlcnVVb2xRUTVvQlBYZlVQTVVKSzZ6VVlqMEl0ZUhVNVRBS3EyUEk?oc=5",
-      "pubDate": "2026-09-26 10:08:48",
+      "link": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOS2JBWmU2NmszRWtldURCZmpJVjVRQ0dSS3BhNl95TFJDNm5zR0wyek1wOGRaTU5QY1V6ZmtRQ2xfYUZUY2hZamlCQ25ibGw5bGlvMFNEOXdQQWxYVDdRdjdTMFhLQ2xnS1hjVEdmTGo2XzlFVUJocGNiY3hkYXY2RWdqUDhtSDdfUlNFd1FXdWZhUW5iYUY1N2RMYjNZODVFOS1UUERWd1M3ajlINEVWOFpKLVFoR1dvdGV6eGlLN0hzMk1ISHhrN2JGMDJFNzN4WFV2ZUhyLXo0Y3g3NDlTSHZLSHRFQkV1SWFWRnVrd0YtdWVGdzJTMThGZDAzcTkzdk13YXBBb05Cc3RqYkZPeV9ITHBYY2dHekNZU1BvSVQ3QXh4YzJ6S0JVTk9UNFJsMkFHU3VHMHZHbkVObG9LckRVYXpiamJ6T09JcHZyQjlfSHEyNHVCZGEyNHJwZWg1X1NZS0Jta0JkblhwaVR6Yng5LThBX3Fra1JhTFFFRzllNmhQY3dURmo0WXNmeUZYZUJOd2FJa2FWaGw0V0tYOHFMS2RYMTZjTXRSLW5FOExGcDZJcV9QczlsWWFBNkxURE4xZ0NxS0dqWjhQenBMbnp6S25FUEp0RWhaRU5kWQ?oc=5",
+      "pubDate": "2026-09-26 20:31:25",
       "author": "finance.sina.com.cn",
       "summary": "宁德时代枧下窝锂矿，复产迎关键期！ finance.sina.com.cn",
       "lang": "zh",
@@ -99970,6 +99980,20 @@
       "summary": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals FXEmpire",
       "lang": "en",
       "source": "FXEmpire",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "437308309",
+      "title": "广期所：扩大合格境外投资者参与商品期货、期权交易范围 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CRUd1QzAtX3Q1ZmpKNmRPZF9haWxwOXJYX24xV3JiSGpGek5IWGRNWUNDRUNDb3ZORVBFdmx1VllRZE9uSzBDcTNKcWlWd3FJS1JuTmxZUkhUSERUcXNfcg?oc=5",
+      "pubDate": "2026-09-24 22:13:46",
+      "author": "东方财富",
+      "summary": "广期所：扩大合格境外投资者参与商品期货、期权交易范围 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
@@ -100117,15 +100141,16 @@
     },
     {
       "id": "2237947757",
-      "title": "Lithium Mining in Chile - iisd.org",
+      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
       "pubDate": "2026-09-15 07:00:00",
-      "author": "iisd.org",
-      "summary": "Lithium Mining in Chile iisd.org",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
       "lang": "en",
-      "source": "iisd.org",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "supply"
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     },
@@ -100232,8 +100257,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -100247,63 +100272,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
