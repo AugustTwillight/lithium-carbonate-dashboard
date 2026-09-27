@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T11:18:39.945Z",
+  "generatedAt": "2026-09-27T15:44:19.874Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -99920,20 +99920,6 @@
   ],
   "news": [
     {
-      "id": "1938922598",
-      "title": "KoBold拟在刚果（金）投入超5000万美元推进锂矿勘探 - 维度网",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95T0FILU1mOVJXc3lCQ0Fkc0lLV2VoLVVCdEtUYVR1dG1SNG9idTA4eDVJNG1TekdiMjRkT0Jfa2JWdHYzYWVRLXk0VUZwc2I5ZGR4T0VPS2M?oc=5",
-      "pubDate": "2026-09-27 04:25:00",
-      "author": "维度网",
-      "summary": "KoBold拟在刚果（金）投入超5000万美元推进锂矿勘探 维度网",
-      "lang": "zh",
-      "source": "维度网",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1024135136",
       "title": "国内商品期货多数收跌 碳酸锂、沪锡跌超4% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qNDQwTTJGdDQ0aUVlM1ozNm9pMjRPZ3dEeTZzVklSSktCNlpYVTVkZXNhZUVheFY3NFRVVWljYTJJSGRKUEtWVmJZRzJqMEFqcjF2RHBGZzBSUDBHMkc0TTRFdUIxdw?oc=5",
@@ -99954,6 +99940,20 @@
       "pubDate": "2026-09-26 10:08:48",
       "author": "finance.sina.com.cn",
       "summary": "宁德时代枧下窝锂矿，复产迎关键期！ finance.sina.com.cn",
+      "lang": "zh",
+      "source": "finance.sina.com.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1991209430",
+      "title": "中天期货:橡胶强势上涨 碳酸锂继续走弱 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSGxuUlhya0RqR2h4TmZONTRfbVNKclhnR2g5a29qQ0trMnpQV21kTjFnVHZuRU1rNUVla2R6TUJfVXNOd3c0a2VURmFXTWp0ZnZYVWttaTVaVjl1UTAtYkFCRFBCVzBQSC11RE9JakZaWmxGOTdUajJrZFFVZ0ZrRVhsejVoUUNueVhTaU1sbEVGOXJYUnRlb0VDbDE2Zw?oc=5",
+      "pubDate": "2026-09-25 09:30:24",
+      "author": "finance.sina.com.cn",
+      "summary": "中天期货:橡胶强势上涨 碳酸锂继续走弱 finance.sina.com.cn",
       "lang": "zh",
       "source": "finance.sina.com.cn",
       "categories": [
@@ -100018,14 +100018,14 @@
       "sentiment": 0
     },
     {
-      "id": "2238652789",
-      "title": "碳酸锂：中性估值后的无序博弈 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNbzJxbGJHZVZwek14TkZYNmZSTnFreEJrdVgweXNqYUlnVE9WLVJsbFdHNDJic3JWSVlPWms3UEhYQnNadzJhVWxZODNFQ1lCQUlMNmlsSVNsOGkxWnd0djMwZW9nMVVnWURzRzdVc0JvM2xOcDZYeVA1Tjl1R09BNExsZXYtVVFWTVVtd3RPdlAtTkFrLUdCUUpqdzVBdnpvc1gtX0JMb25rUjZqSjdJLWZpbzhveXlDMElNTXByT21wRkdpVjZIZDVwWjRCNFhxUVRENGlQOENwODlPMWdrTmlxOE53UHZIeGppaTNkUWZ1aXFaRTZud0lqcnBXQWtHZFBZb2dlbWxBNzFPY0t0ejVfQWIybmE2UTYySXREbEZfQ0NBQm1GeV9XNUZlQQ?oc=5",
-      "pubDate": "2026-09-23 22:21:15",
-      "author": "finance.sina.com.cn",
-      "summary": "碳酸锂：中性估值后的无序博弈 finance.sina.com.cn",
+      "id": "408855463",
+      "title": "碳酸锂期货主力合约日内跌4% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FMWpnZ2dPU3NjY2tRd0dEcWFSRndaQzNJam1sVnM2ZXpFeXRCcER4c1VqV3dwdkNEY3g4ajY0Vm56VDZMQUtQSTZCUEZhdVEzNHlBMV9iOWVveU5fWlV5Rw?oc=5",
+      "pubDate": "2026-09-24 04:21:56",
+      "author": "东方财富",
+      "summary": "碳酸锂期货主力合约日内跌4% 东方财富",
       "lang": "zh",
-      "source": "finance.sina.com.cn",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
@@ -100102,20 +100102,6 @@
       "sentiment": 0
     },
     {
-      "id": "231923044",
-      "title": "Brazil: Court suspends Sigma Lithium mining operations pending consultation with Quilombo do Baú community - Business and Human Rights Centre",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTmo3TVItX3p0azZ1ejZ1eGFmdHBnNVczZE9yLV9nMkI2SldvMGF2NlAyeEtBd2dvQS14Z01Zdjh3NkxxUVRMa1pkTDB0ZEVpa25nTzJmZFBWM2tzOVJ2U1Z0ZXZ4NUdhdkxzaWszU2NnRzNHdjNZRUV5d3hWV0hzUl8tOXQ4alZBTEVfcndHdVh0dDNIN0Z2ZG1lYWc3dkNoYXlWVlE2OGNpYlY1N2xxWGpXLXRLUzBCOWNwVDZRM0ZPRHBqXzBSSS11TloyUDhiamJ5MVBhY3ZFbXVwSXZGR3phS3FGdXZXQ1ZIaGtzc3lwOUJyT2NWQnF3?oc=5",
-      "pubDate": "2026-09-21 11:14:12",
-      "author": "Business and Human Rights Centre",
-      "summary": "Brazil: Court suspends Sigma Lithium mining operations pending consultation with Quilombo do Baú community Business and Human Rights Centre",
-      "lang": "en",
-      "source": "Business and Human Rights Centre",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
       "id": "1494396043",
       "title": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZWNKcXhPSER0bDdIVHFMWTI0cTR1N0Z2MXVGckIwbkNCMjhrX1dUcERwSGh4R2VKZmprR2JQd2pyV3pjS3ppVkhXZkhHdw?oc=5",
@@ -100131,16 +100117,15 @@
     },
     {
       "id": "2237947757",
-      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
+      "title": "Lithium Mining in Chile - iisd.org",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
       "pubDate": "2026-09-15 07:00:00",
-      "author": "International Institute for Sustainable Development",
-      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
+      "author": "iisd.org",
+      "summary": "Lithium Mining in Chile iisd.org",
       "lang": "en",
-      "source": "International Institute for Sustainable Development",
+      "source": "iisd.org",
       "categories": [
-        "supply",
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
@@ -100160,15 +100145,30 @@
     },
     {
       "id": "734641481",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
       "pubDate": "2026-09-14 07:00:00",
-      "author": "Reuters",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
+      "author": "reuters.com",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM reuters.com",
       "lang": "en",
-      "source": "Reuters",
+      "source": "reuters.com",
       "categories": [
         "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "818158352",
+      "title": "LibertyStream Produces Battery-Grade Lithium Carbonate From Produced Water in West Texas Pilot - JPT Homepage",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzF2QXB5Qzdvc2w2NmlucXRJd0RxTDFSYThWUmt3R3RuOFM1QXVOR0lORjBFMEpfTmxrTTdNNTNFNGVVeFRFeEtna08zZllCWkk2R3lMeWE5Z2VXeGw4WTZZeXFrTXg1dEhXWE5IQkdaWk1OQ2JfNGUtcnJuOVplWTJWOW9PYTA1TG1MZHp5NDJCa2tEY1llb0FKMHExZDZsTTRHaHZRUG4xenVPR254UVFRckk?oc=5",
+      "pubDate": "2026-09-09 01:54:39",
+      "author": "JPT Homepage",
+      "summary": "LibertyStream Produces Battery-Grade Lithium Carbonate From Produced Water in West Texas Pilot JPT Homepage",
+      "lang": "en",
+      "source": "JPT Homepage",
+      "categories": [
+        "environment",
+        "demand"
       ],
       "sentiment": 0
     },
@@ -100232,8 +100232,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "No futures quote"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -100247,63 +100247,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
