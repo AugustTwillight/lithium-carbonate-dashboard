@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:26:13.589Z",
+  "generatedAt": "2026-09-29T07:16:20.630Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2090,11 +2090,11 @@
     ]
   },
   "spot": {
-    "price": 126350,
+    "price": 123400,
     "date": "2026-09-29",
-    "dayPct": -5.11,
-    "monthPct": -20.28,
-    "yearPct": 71.79,
+    "dayPct": -2.33,
+    "monthPct": -22.15,
+    "yearPct": 67.78,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -100189,28 +100189,98 @@
   ],
   "news": [
     {
-      "id": "1024000881",
-      "title": "碳酸锂期货价格跌破12万元关口四季度市场有望“筑底+重构”_期货视点 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GV0dQdkJqcE9WTy0tMEpXZ0o4M1pVNXdJV0VpbXU0dmxreWNBNDFmUUpYTDljeVVVTUd1cG5GMHhra0M1ZGlIdGNNb0pIa1hvYzdiS3ZtdC1HTmcxY0ZlTDNad3g?oc=5",
-      "pubDate": "2026-09-28 19:09:51",
-      "author": "证券之星",
-      "summary": "碳酸锂期货价格跌破12万元关口四季度市场有望“筑底+重构”_期货视点 证券之星",
+      "id": "2896838872",
+      "title": "备案碳酸锂当量升至253万吨，大中矿业加达锂矿增储落地【SMM分析】 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaNUp2blFlQ0ZsTmU1RjRJS0ZKWlRvZHg0LTZwY2cwSTRiQ09aS1FXVUh3aV93U1l0TTBaSGpKdUxJamdlTjNrZVRuUTg2Nm4tT1ZScDd6cVFlTW9vMVVIazNB?oc=5",
+      "pubDate": "2026-09-29 06:01:38",
+      "author": "同花顺",
+      "summary": "备案碳酸锂当量升至253万吨，大中矿业加达锂矿增储落地【SMM分析】 同花顺",
       "lang": "zh",
-      "source": "证券之星",
+      "source": "同花顺",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "323776173",
-      "title": "碳酸锂大跌 什么情况？ - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb0s4Z21xWGgzVWFhZzY3R2MtMXNCdTR4ZWctWFE1QWZwclVHS29NemIzd2dkZDRFRjJDcHRWRW5JamR2bDVybHN4RTV6UWdfLTJIZy14LXROTGNCSUlmVGJuR3Q1d2ZpZTlrclB1aWJrY0lfdG5XTkExbmVsT2VuZFE3MlZQdw?oc=5",
-      "pubDate": "2026-09-28 17:15:33",
+      "id": "3214001081",
+      "title": "【四季报】碳酸锂：强现实、弱预期下的估值重塑 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDhIYmc4YVA1VFhILUxrUS1lYlVrWTBGZW80RWRKeEhhUkZYRUZZa3lTV2dySmc4OFdGejdpRjZWVlFJYUJRZFFuNHJ3dnJibXhiY3o4Uy1vNnFYZWhyRk5ubDdEWlFoejNPUnp6LWRlbGRaMUtoZHJXSmQ1ZTFXMnRqQkNtX1NxbGlkVlZ1YzZjWEhQVXBzdjRhY3VUUWIxcS1rMEp6Q0xZVjdIMV9rZw?oc=5",
+      "pubDate": "2026-09-29 06:00:00",
+      "author": "新浪财经",
+      "summary": "【四季报】碳酸锂：强现实、弱预期下的估值重塑 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3262618037",
+      "title": "大中矿业：公司两大锂矿均处于在建阶段_公司新闻 - stock.stockstar.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53TE9GdzRBZWhsVUlzU0tCMUp5Z2pvUHFSYUk1cVJuQzMtUjVzcDJDZ0hLc0JTb3VwenBsRlFXcmlSbHdmNUNzdVJYaGN4Y2tqSlhsQ1JiazF1Um1hUmlJdQ?oc=5",
+      "pubDate": "2026-09-29 04:00:21",
+      "author": "stock.stockstar.com",
+      "summary": "大中矿业：公司两大锂矿均处于在建阶段_公司新闻 stock.stockstar.com",
+      "lang": "zh",
+      "source": "stock.stockstar.com",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "731054226",
+      "title": "碳酸锂主力跌破12万元/吨 分析师：定价被远期悲观预期主导 - caiwennews.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44REZDaEVGcm01NFV0bXg3X2ZseFJTSVBxMTN4azJUUUZJRE1Wckx6TG5jNEtuUk5UT0Y2ZVRXMmJNakpBS1RIM1NDb2doUm45c2s1UVYyZEloTXBu?oc=5",
+      "pubDate": "2026-09-29 03:16:34",
+      "author": "caiwennews.com",
+      "summary": "碳酸锂主力跌破12万元/吨 分析师：定价被远期悲观预期主导 caiwennews.com",
+      "lang": "zh",
+      "source": "caiwennews.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "6466327",
+      "title": "碳酸锂主力合约日内跌超2.00% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hRExNd1Vqeno4RGRkY3JQN0hxNy1wMmFfZFpZRlVlLXFianNDeUJ0dFNkcTluNnJiV25EaHNkNVBuVEkyMWtTNjFEQllQYmFKN0t2NEFMdXhXS19HMlNNWDJLdw?oc=5",
+      "pubDate": "2026-09-29 02:38:33",
+      "author": "东方财富",
+      "summary": "碳酸锂主力合约日内跌超2.00% 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "75335551",
+      "title": "9月29日生意社碳酸锂(电池级)基准价为123000.00元/吨 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNajJNekFGU3JxbDZZR0lxd0xrR1c5ODVkN0Foa2VpM29aQVFSbHVOcXRGZ0t6cDBVeTlZa21kVnBKWXJQOFprSzgtTWZoMXlNLXoxdTJWRTQ2aGhpdV9tTGJSUTNrelplRHZybXc1LWJMMDBrRTJiZ19TNC1SRFVMUGs0aWwxRmxua3c?oc=5",
+      "pubDate": "2026-09-29 00:30:00",
       "author": "finance.sina.com.cn",
-      "summary": "碳酸锂大跌 什么情况？ finance.sina.com.cn",
+      "summary": "9月29日生意社碳酸锂(电池级)基准价为123000.00元/吨 finance.sina.com.cn",
       "lang": "zh",
       "source": "finance.sina.com.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1827216963",
+      "title": "加达锂矿首采区外围资源储量评审备案通过 大中矿业锂资源版图再次扩容 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rYnMxTmwtM0xhNWpjak93blJNb2YyNWV5ZHpBWktPaDRFdkFoX1BWcWllMTFFYzctaVZrY0w1NlJES3BBT2VCcFNDNzFlZEw0Uk45c2FuazRpdkZ5S1dZQlBJcTg3RlBodkxFazNkb3Fsdw?oc=5",
+      "pubDate": "2026-09-29 00:00:20",
+      "author": "中金在线",
+      "summary": "加达锂矿首采区外围资源储量评审备案通过 大中矿业锂资源版图再次扩容 中金在线",
+      "lang": "zh",
+      "source": "中金在线",
       "categories": [
         "demand"
       ],
@@ -100232,13 +100302,13 @@
     },
     {
       "id": "891041126",
-      "title": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence - prnewswire.com",
+      "title": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence - PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYzhjNU9sX3BnU29RcnBsZWdHSno0UWU2S05BeVUtUVM2Z2RQcjAzaUs4Qno1NU8tRFN6Zm9EblJSa192MUVjMHRtaWhKMGtfVjhyVFV0V2VwZDlTaDBEMGpveUpXeUNDQ1pwYVFvNUxRWFZ2YUkxS2NJZEpockp0WUFJTVZLMG9oWWhyWm1RZ3gtQ1JWaUV0bE1SQ0hNTjdPNXhka0FqQUc5TzZoaTB6bWZpYkRhUDJhUE81SnNDWFFYUHVpbG9RNkQyQ2t1WENiU2F0Sk5mVzhfajNUQVVhRUFqT2xpdksxSGhkQUVBeGwyYi1scGFLWlA3Y1FsSVFSSUc1aw?oc=5",
       "pubDate": "2026-09-28 15:06:00",
-      "author": "prnewswire.com",
-      "summary": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence prnewswire.com",
+      "author": "PR Newswire",
+      "summary": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence PR Newswire",
       "lang": "en",
-      "source": "prnewswire.com",
+      "source": "PR Newswire",
       "categories": [
         "demand",
         "macro"
@@ -100274,30 +100344,16 @@
       "sentiment": 0
     },
     {
-      "id": "3046860935",
-      "title": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多方呈进场态势 空方呈退场态势 - futures.eastmoney.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16QXdlT1RDeFM3RlY5YWNDTzJBZDlkYVdMTU1fTXBaLVZIbG1MU0NUaWEyY2MxTVM3YUFaUXNJZC1tMVdoTThBbDdDX3lTeHZXaWRKTmo1dnpEYWliYW5rSWtMVWo?oc=5",
-      "pubDate": "2026-09-28 12:53:32",
-      "author": "futures.eastmoney.com",
-      "summary": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多方呈进场态势 空方呈退场态势 futures.eastmoney.com",
-      "lang": "zh",
-      "source": "futures.eastmoney.com",
+      "id": "1445631421",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Futures Settlements - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDFNbXJIcHZiTF9OQ01lSEVGX1M1TXdiX2hmRWxwQWloWWIwRm94OGtOd3Frc09hUTJxdTZNUHQ5QjM3YnF6aFRDRS0zdHgzaWVKclFRQ0ttUEViLTgySmpjVEZsYlNrSkl5WFU2eENlZHUyMzNSOTFRZTZYbTU1Y1pScXRzVW9vN0hPU3pPdVpEYW5tR2tlZVNxM3dHcmxjX09vRThNS0kzTm8zeXBXQndkaWNDWmU3Z2l6MGhsOE1oTmU3UXlMX3NVRQ?oc=5",
+      "pubDate": "2026-09-28 12:40:22",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Futures Settlements CME Group",
+      "lang": "en",
+      "source": "CME Group",
       "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2623862388",
-      "title": "加达锂矿首采区外围资源储量评审备案通过 大中矿业锂资源版图再次扩容 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mYXNicXp5RV9RS3hRdHdlcjJJT0d5dnZwVlBxVFFBNUQzWm1DTUlMY0ROSjRuTEZWT1dsdEhJQ2tlZWNzNFYzSC1sT0pvNVFPVFZoLVlJSGtCNWUzakFXeWhjUQ?oc=5",
-      "pubDate": "2026-09-28 12:08:58",
-      "author": "东方财富",
-      "summary": "加达锂矿首采区外围资源储量评审备案通过 大中矿业锂资源版图再次扩容 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
+        "macro"
       ],
       "sentiment": 0
     },
@@ -100331,42 +100387,14 @@
       "sentiment": 0
     },
     {
-      "id": "3137967143",
-      "title": "9月28日收盘：集运指数主力涨近7% 碳酸锂、沪银主力跌超5% - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTW9EQVA3ZzZMZVJ6NnhTTmlGTi01ZDVYZW9QM3otQnUySGZDS2gyS3UzWUx4RTZqMFQwNEdmTThRUmU3dnk1bE9Yam9tRXVmNVowZmZkYVp2ZDVzNGxyeGllUWZYX1ppTnp6YXB4TGw1dkhBQk80Smk3emNjX2lUQzhxQkREN20yVnNOa0tDX3pOYndZZnZOS2pUSTNUaTdvdFpoX2hUNjVvTlhKQ0dBVw?oc=5",
-      "pubDate": "2026-09-28 08:20:23",
-      "author": "finance.sina.com.cn",
-      "summary": "9月28日收盘：集运指数主力涨近7% 碳酸锂、沪银主力跌超5% finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1991819496",
-      "title": "【四季报】碳酸锂：强现实、弱预期下的估值重塑 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSk5YRFo1OWkzNGcyOHdyMFFNczRWNzlyU3ZmWVRISEctSDJvRWxiVWdiTDgzYzltMVNKNzl3SzVYc29CRGVZaGsxbVBZdnZka0FsT2JaTFNuV0VTVFk2eHVwUFJkM3ZiNzIydUFlTy1YN1RmaXZhMXFoR19pTFlqUEVQcEdXTHFVS1lRWDhIamdMMHVDTVpnbVBib2NVbXFfd0JmZHBMcjJXU2NTZTJxSU16a2N2MDFJUDBQSUxuYWVJTEdmR28ySzhlUU92SU1PR05HUkNYVy1UOG8?oc=5",
-      "pubDate": "2026-09-28 08:15:00",
-      "author": "新浪财经",
-      "summary": "【四季报】碳酸锂：强现实、弱预期下的估值重塑 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "597392017",
-      "title": "国内期市收盘涨跌不一 碳酸锂、沪银跌超5% - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90bkF1dkN6YUptZEtNVU9OTnpvMEpmUkMxQlNOT1F2TllzRHNlMFJQYUxGOUZLUWw0bU5LTE5NM0FtWVBVUWk0N1RicXpwYTluQXV4anBER3lDUVkzSHNZVzJn?oc=5",
-      "pubDate": "2026-09-28 07:06:20",
-      "author": "证券之星",
-      "summary": "国内期市收盘涨跌不一 碳酸锂、沪银跌超5% 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
+      "id": "562779994",
+      "title": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGE1TFpXM0d1THRDMVJVNmM2UUR1S2ctV1g0T3A5WjkzcjNVTGNmT0JucEF5MlJIQlhrNE5ZaHZ4QjNYUVJ0c21FalBLR1FOOVJYUERBbkljX1J6LWpJa0hpQ0luQXlaYVVoajk1MVVObjFqWEFvWFZjYXBDUkJNa3BFRGdqdUpuYlU2Z3dhMDltSXVkYmwtaWU4SDA3TVNpeXNIdEowcw?oc=5",
+      "pubDate": "2026-09-26 07:00:00",
+      "author": "Moomoo",
+      "summary": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) Moomoo",
+      "lang": "en",
+      "source": "Moomoo",
       "categories": [
         "demand"
       ],
@@ -100388,20 +100416,6 @@
       "sentiment": 0
     },
     {
-      "id": "3052256561",
-      "title": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbk9UUHRwcGJpQzdNOGtaY1d1ZmdIT3BrYXltYnQtRWV5Z0VrWEFxTE1uVTRBQXVoeG5TeXJtQzRFME5kVG9wUVg4N0d0cnh6Y1RwbmU1WlZ3Wll4cV9RYUNiTl9GWEF2aUZIR01kTzVQOUxzZThKNVF1ZXNnSVVKQXZqSm5aNUpBSWZ5Q0R3clRydUZ1TklTYnFZX2pfaG9OakZFSTBzclFFeWhqd1lwLXJBb2lGbGp2UXFLN1lVYnhzVVE?oc=5",
-      "pubDate": "2026-09-25 08:40:05",
-      "author": "FXEmpire",
-      "summary": "Copper, Uranium and Lithium Price Forecast: 5% Yields Weigh on Metals FXEmpire",
-      "lang": "en",
-      "source": "FXEmpire",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3621125457",
       "title": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report - Cureus",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORzVCb2RuQWh3Y2dHSFBBVGkwV2IzYVJpWXZ2b1JCeDhHbkU4RkF2aFJXbWdlR2RIMnNRU2dDbkIxWjRkV3BSa0E0QjJBaDQ3UmxsdWZFVTBWVnZBbXBhLXdFZWhzNzc1YmFjZzdXQnhsT2dTZVMyNEU2VWExc0E2NjBxMzVDLVRvXzVOc0ZmcFdXMEFOaWZNRGo0RVBnRFVPLXlzb3hkcno1dE5TNlUxT1lST09BVHRQLTMzS1NMR1EyRG1nUHZVd2NtZzV0SlVZelBSNlMzUTRIdmlTSTlIY1BIeWlCSU1rYktnVVAwUEdjb0tDYWtEOTAyTExVVWxPYUhPSklwTXpnVDVYc28zNU85bFZJbkJL?oc=5",
@@ -100412,20 +100426,6 @@
       "source": "Cureus",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2297824245",
-      "title": "R3 Lithium focusing on lithium carbonate refining to tackle western black mass bottleneck, CEO Austin says - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR09CTEE2d2EzTVhSa1JiRVZtVjUwT1FnY0JQUWM1R0N1blVtcEt0UnpVT3EyNGRYcWRFbDNmU3ZZSFBnNXh2ZVk2c1dqQ0xTWWNmZVY4bkFId2g3Sm5qYWF4VUM3YXkwdEdGNHd3UDBXRzdKUEFCMkNtYV9uN1A2dkJvcjgtaFBLNWtONG4xQklxc1l5bjRnUU81NHJ5VDJETWRpR3NNTDFHRVZILTM2LUhyRzNDTmlKOUVSejVodVRaZ2lvWDIwZHRUVjVCdFRIcTJDR1NFTl9BeHc?oc=5",
-      "pubDate": "2026-09-22 11:42:44",
-      "author": "Fastmarkets",
-      "summary": "R3 Lithium focusing on lithium carbonate refining to tackle western black mass bottleneck, CEO Austin says Fastmarkets",
-      "lang": "en",
-      "source": "Fastmarkets",
-      "categories": [
-        "macro"
       ],
       "sentiment": 0
     },
@@ -100502,8 +100502,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -100517,63 +100517,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
