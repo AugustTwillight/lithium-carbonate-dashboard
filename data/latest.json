@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T23:24:30.439Z",
+  "generatedAt": "2026-09-30T02:15:44.730Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2091,7 +2091,7 @@
   },
   "spot": {
     "price": 123400,
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "dayPct": -2.33,
     "monthPct": -22.15,
     "yearPct": 67.78,
@@ -100263,6 +100263,36 @@
       "sentiment": 0
     },
     {
+      "id": "1283039139",
+      "title": "Lithium Carbonate Market Outlook 2026-2031: 22.74% CAGR, Energy Storage Demand - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzhiRi1icDk3dHpUS29OaUdRV0JpcG1pdWVnS3h0Ujh6X2lZcnNxZ2dFMldhd25meFdDbFQ3RGhZY1dxZ1hJSnZQZ2dqZDY0Z0lzZVc3SU9FQ05vaGFEYmxad0JzVVlsNDU3enp1NWhvbzFaSEZoYm5WMTBvWmpsLWZ3RHlOTGR2STRCeGpIcWNvR1Uxd1VveElQNVI5NjNRZHJERUJGSm1TNnRjSmRwR0FYSS1FMDVCdGxGQ3JHOThIZGM?oc=5",
+      "pubDate": "2026-09-29 11:21:30",
+      "author": "IndexBox",
+      "summary": "Lithium Carbonate Market Outlook 2026-2031: 22.74% CAGR, Energy Storage Demand - News and Statistics IndexBox",
+      "lang": "en",
+      "source": "IndexBox",
+      "categories": [
+        "demand",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3736222274",
+      "title": "North American energy storage to drive lithium carbonate demand through 2031 - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
+      "pubDate": "2026-09-29 08:44:00",
+      "author": "Mining Weekly",
+      "summary": "North American energy storage to drive lithium carbonate demand through 2031 Mining Weekly",
+      "lang": "en",
+      "source": "Mining Weekly",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3088693919",
       "title": "碳酸锂现货价格下跌2800元/吨，富宝电池级碳酸锂报119600元/吨_期市动态 - 中金在线",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DVWNpMEo3SWFzTG5LRmVmanNTUHpyUnAya3ZiVldDYzdUVDRQaEFpeHZ0UVNBUHA3T2JRakJlODNnM3BjYXptOEc1b3Axb1NEalI4LXpmWW05TWlOX29sUFpiVTFPdS1SeGZta3NB?oc=5",
@@ -100275,6 +100305,20 @@
         "demand"
       ],
       "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "1932117868",
+      "title": "SunSirs: Lithium Carbonate Futures Drop Below 120,000-Yuan Mark; Market Poised for \"Bottoming Out and Restructuring\" in Q4 - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrSmxBMVA1ZW82X1lFRWhqbFJDMC01SmxBTnBFcVJaVUM4Z0gtUzRZMHRQb1B2WFJXX19DY1dnOXZDUFRYUEJQa2syOWg1MThKdEE?oc=5",
+      "pubDate": "2026-09-29 08:25:02",
+      "author": "ChemNet News",
+      "summary": "SunSirs: Lithium Carbonate Futures Drop Below 120,000-Yuan Mark; Market Poised for \"Bottoming Out and Restructuring\" in Q4 ChemNet News",
+      "lang": "en",
+      "source": "ChemNet News",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
     },
     {
       "id": "503888499",
@@ -100333,6 +100377,35 @@
       "sentiment": 0
     },
     {
+      "id": "1936377431",
+      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - CGEP",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
+      "pubDate": "2026-09-28 17:01:42",
+      "author": "CGEP",
+      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement CGEP",
+      "lang": "en",
+      "source": "CGEP",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "891041126",
+      "title": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYzhjNU9sX3BnU29RcnBsZWdHSno0UWU2S05BeVUtUVM2Z2RQcjAzaUs4Qno1NU8tRFN6Zm9EblJSa192MUVjMHRtaWhKMGtfVjhyVFV0V2VwZDlTaDBEMGpveUpXeUNDQ1pwYVFvNUxRWFZ2YUkxS2NJZEpockp0WUFJTVZLMG9oWWhyWm1RZ3gtQ1JWaUV0bE1SQ0hNTjdPNXhka0FqQUc5TzZoaTB6bWZpYkRhUDJhUE81SnNDWFFYUHVpbG9RNkQyQ2t1WENiU2F0Sk5mVzhfajNUQVVhRUFqT2xpdksxSGhkQUVBeGwyYi1scGFLWlA3Y1FsSVFSSUc1aw?oc=5",
+      "pubDate": "2026-09-28 15:06:00",
+      "author": "PR Newswire",
+      "summary": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence PR Newswire",
+      "lang": "en",
+      "source": "PR Newswire",
+      "categories": [
+        "demand",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1463982084",
       "title": "大中矿业加达锂矿新增备案42.38万吨氧化锂 累计突破百万吨 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MVjRnUkFpYkQ2dG00UUFvcGdQRTFfZW8zUHlTLXZRakt3M1lwalVBMFR4TjVwa1hHOHFHV1RYVVloMHdhM2NhbkZ5VzAyZw?oc=5",
@@ -100361,6 +100434,20 @@
       "sentiment": 0
     },
     {
+      "id": "1445631421",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Futures Settlements - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDFNbXJIcHZiTF9OQ01lSEVGX1M1TXdiX2hmRWxwQWloWWIwRm94OGtOd3Frc09hUTJxdTZNUHQ5QjM3YnF6aFRDRS0zdHgzaWVKclFRQ0ttUEViLTgySmpjVEZsYlNrSkl5WFU2eENlZHUyMzNSOTFRZTZYbTU1Y1pScXRzVW9vN0hPU3pPdVpEYW5tR2tlZVNxM3dHcmxjX09vRThNS0kzTm8zeXBXQndkaWNDWmU3Z2l6MGhsOE1oTmU3UXlMX3NVRQ?oc=5",
+      "pubDate": "2026-09-28 12:40:22",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Futures Settlements CME Group",
+      "lang": "en",
+      "source": "CME Group",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3914037102",
       "title": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多方呈进场态势 空方呈退场态势 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KUUVYeG5TNjUwQkIyb1dyT2xNTFA1Nm50cW5nUEZQWHdlUEtMYUYxX3I3eU1VZHFjMnVoNVI2Wm9VRFAwTjlFWk51QnNFcVJJOVhmMEZRdDhZbjhoOTgxYzdyUTVRQQ?oc=5",
@@ -100384,6 +100471,63 @@
       "lang": "zh",
       "source": "中国金融信息网",
       "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "562779994",
+      "title": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGE1TFpXM0d1THRDMVJVNmM2UUR1S2ctV1g0T3A5WjkzcjNVTGNmT0JucEF5MlJIQlhrNE5ZaHZ4QjNYUVJ0c21FalBLR1FOOVJYUERBbkljX1J6LWpJa0hpQ0luQXlaYVVoajk1MVVObjFqWEFvWFZjYXBDUkJNa3BFRGdqdUpuYlU2Z3dhMDltSXVkYmwtaWU4SDA3TVNpeXNIdEowcw?oc=5",
+      "pubDate": "2026-09-26 07:00:00",
+      "author": "Moomoo",
+      "summary": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) Moomoo",
+      "lang": "en",
+      "source": "Moomoo",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3621125457",
+      "title": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report - cureus.com",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORzVCb2RuQWh3Y2dHSFBBVGkwV2IzYVJpWXZ2b1JCeDhHbkU4RkF2aFJXbWdlR2RIMnNRU2dDbkIxWjRkV3BSa0E0QjJBaDQ3UmxsdWZFVTBWVnZBbXBhLXdFZWhzNzc1YmFjZzdXQnhsT2dTZVMyNEU2VWExc0E2NjBxMzVDLVRvXzVOc0ZmcFdXMEFOaWZNRGo0RVBnRFVPLXlzb3hkcno1dE5TNlUxT1lST09BVHRQLTMzS1NMR1EyRG1nUHZVd2NtZzV0SlVZelBSNlMzUTRIdmlTSTlIY1BIeWlCSU1rYktnVVAwUEdjb0tDYWtEOTAyTExVVWxPYUhPSklwTXpnVDVYc28zNU85bFZJbkJL?oc=5",
+      "pubDate": "2026-09-22 13:34:57",
+      "author": "cureus.com",
+      "summary": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report cureus.com",
+      "lang": "en",
+      "source": "cureus.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "469662494",
+      "title": "China lithium carbonate futures rebound on import surge data - spglobal.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzQ1M01VVWp4X19EdU9Gem5vTEQtcE9QS1pkNnZ3Q1BvOGZWS0RNYVB5R1JSM2Izd2NRQ05ROXk5dmlkb1F6RkRMdzlrd1p0WUJHbFNWeklMbGtON3RqbllyNTFPTWZRbWc3YjRMa2cwRHBxTzhYRkViN2gtYUtnZmhuTkpDZ05hQmRLWDNOZmRuRXBMajlhckZmVjZkdE1Rc2t3SUNqN3pIT0hZMlc3anJkUG5IWWZxYXVtSnJVam5FdnNGLXFXUkdIWjVVLXg1?oc=5",
+      "pubDate": "2026-09-22 01:03:05",
+      "author": "spglobal.com",
+      "summary": "China lithium carbonate futures rebound on import surge data spglobal.com",
+      "lang": "en",
+      "source": "spglobal.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2237947757",
+      "title": "Lithium Mining in Chile - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SY3NDSkxuZU14b1BYSUNVNjFsaHpBcFVnSDVqYUZwTGM3UzZnN2RXbVc4RjUyWno4NWJSdTcwcVdsM05MQlpMQkpobS1VNXR5d2FxT1l4aUJTdF9VMHV1cHo4X1l5UjJybWVoblN3?oc=5",
+      "pubDate": "2026-09-15 07:00:00",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Chile International Institute for Sustainable Development",
+      "lang": "en",
+      "source": "International Institute for Sustainable Development",
+      "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -100418,8 +100562,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -100433,63 +100577,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
