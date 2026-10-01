@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T06:18:59.294Z",
+  "generatedAt": "2026-10-01T13:42:01.504Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50390,10 +50390,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 105.78,
-      "changePct": -1.71,
-      "volume": 1697663,
-      "amount": 180380249,
+      "price": 103.44,
+      "changePct": -2.21,
+      "volume": 161403,
+      "amount": 16878920,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58662,6 +58662,18 @@
           "amp": 2.01,
           "chg": -1.71,
           "delta": -1.84
+        },
+        {
+          "d": "2026-10-01",
+          "o": 103.83,
+          "c": 103.45,
+          "h": 104.75,
+          "l": 103.25,
+          "v": 161240,
+          "amount": 16862082,
+          "amp": 1.42,
+          "chg": -2.2,
+          "delta": -2.33
         }
       ]
     },
@@ -58671,10 +58683,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 64.87,
-      "changePct": -1.83,
-      "volume": 783903,
-      "amount": 51040943,
+      "price": 63,
+      "changePct": -2.88,
+      "volume": 58226,
+      "amount": 3684220,
       "klines": [
         {
           "d": "2024-01-02",
@@ -66943,6 +66955,18 @@
           "amp": 2.41,
           "chg": -1.83,
           "delta": -1.21
+        },
+        {
+          "d": "2026-10-01",
+          "o": 63.47,
+          "c": 63,
+          "h": 63.55,
+          "l": 63,
+          "v": 58226,
+          "amount": 3684220,
+          "amp": 0.85,
+          "chg": -2.88,
+          "delta": -1.87
         }
       ]
     }
@@ -66953,9 +66977,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26861.06,
-      "changePct": 0.24,
-      "volume": 7822640896,
+      "price": 26956.16,
+      "changePct": 0.35,
+      "volume": 838127568,
       "amount": 0,
       "klines": [
         {
@@ -75225,6 +75249,18 @@
           "amp": 0.92,
           "chg": 0.24,
           "delta": 63.52
+        },
+        {
+          "d": "2026-10-01",
+          "o": 26992.31,
+          "c": 26958.19,
+          "h": 27014.47,
+          "l": 26927.14,
+          "v": 838127568,
+          "amount": 0,
+          "amp": 0.33,
+          "chg": 0.36,
+          "delta": 97.13
         }
       ]
     },
@@ -75233,9 +75269,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 89.68,
-      "changePct": -0.82,
-      "volume": 23034,
+      "price": 90.56,
+      "changePct": 0.15,
+      "volume": 142760,
       "amount": 0,
       "klines": [
         {
@@ -83761,14 +83797,14 @@
         {
           "d": "2026-10-01",
           "o": 90.4,
-          "c": 89.68,
-          "h": 90.69,
+          "c": 90.57,
+          "h": 92.9,
           "l": 88.79,
-          "v": 23034,
+          "v": 142757,
           "amount": 0,
-          "amp": 2.1,
-          "chg": -0.82,
-          "delta": -0.74
+          "amp": 4.55,
+          "chg": 0.17,
+          "delta": 0.15
         }
       ]
     },
@@ -83777,8 +83813,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.59,
-      "changePct": 0.12,
+      "price": 101.81,
+      "changePct": 0.34,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92401,14 +92437,14 @@
         {
           "d": "2026-10-01",
           "o": 101.47,
-          "c": 101.59,
-          "h": 101.66,
+          "c": 101.81,
+          "h": 102,
           "l": 101.43,
           "v": 0,
           "amount": 0,
-          "amp": 0.23,
-          "chg": 0.12,
-          "delta": 0.12
+          "amp": 0.56,
+          "chg": 0.34,
+          "delta": 0.34
         }
       ]
     },
@@ -100419,26 +100455,26 @@
   ],
   "news": [
     {
-      "id": "144112832",
-      "title": "我国“亚洲锂腰带”找矿再获突破 - 大河财立方",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IYWdhSDVmUDQtWl8xRUptdllDYkFSUnJYcDRpNkh6NXVsQUctcGZWSlNpVVZPUGN2dWNuZ3dlSmxMdGlZYV93SU04NndYdUJVRVlIVlQzWXJzaWhJSVlsbFdSME5xN0cxNVE?oc=5",
-      "pubDate": "2026-10-01 06:06:41",
-      "author": "大河财立方",
-      "summary": "我国“亚洲锂腰带”找矿再获突破 大河财立方",
+      "id": "1310958600",
+      "title": "前瞻性生命周期评价（prospective LCA）支持创新电池级碳酸锂（Li - 生物通",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rOWVmS3Z3SDQ3VUo4N1NBV0tyRXZvRkZXSFppQlAtUlhJbVZGTDVTUTFvZ0tFck5EZ0RiOTNOdG55T19TSWprN2JKTXotSmlsczZXXzhVZUVKc3NSZEZiRFhRR1hXOTExS292NXVn?oc=5",
+      "pubDate": "2026-10-01 11:58:11",
+      "author": "生物通",
+      "summary": "前瞻性生命周期评价（prospective LCA）支持创新电池级碳酸锂（Li 生物通",
       "lang": "zh",
-      "source": "大河财立方",
+      "source": "生物通",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "1709292314",
-      "title": "10月1日生意社碳酸锂(工业级)基准价为118000.00元/吨 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEoxVVJmeHkwdWdQcFJzY1VJbEthRHU3bHlxZXdnbzZUd05GVmRPMGxtdGE2ZW5LSkRXVzk0ZVVFQmxlM1dLeVJCaXJCeGF2cDNaaC10S1hIdHVTOEZwYWI4bmlsY0JCUC02ODg3aTNHU0RfbXREZ2JUaHJuRFN5SW4zMU1CalJBT3c?oc=5",
-      "pubDate": "2026-10-01 00:34:44",
+      "id": "3565962979",
+      "title": "我国川西锂矿找矿突破，新增碳酸锂当量约104.68 万吨|自然资源部|新华社|四川省|加达|备案_手机新浪网 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQXZ2YjJSVHNvUmJCNHM1RVpneF80cUV3elljazN2ZmFpaV82VHFiSGJzbHExS09YaXNXRTFhWlVNWHdkdmJzd016YWhzS2FFQm4xZWNLNGFFcjhtcVdNeTBBR3d2Z1VvMEtESllzcS1hb212Vzk1UmMySzNHZlQ5SDRQYXB6NC0xMXYwT3dHRUJzUHgzQUdqRHlqOVpsenNwbmx4bC1oQTh3bDhNR0o0U3g3czdaWmd1OXpIdElFQ05nMmFtcE1PTE51ZzloZVVnNkc3cUtaRjI1d1k3Z1gxd1dHSHh4Y0N6TFpCZmxQVlVNbERUMmRucjl4Tm1scVFWODdFOXdvLUdzX2RkNWJlNzNGZw?oc=5",
+      "pubDate": "2026-10-01 11:52:42",
       "author": "新浪财经",
-      "summary": "10月1日生意社碳酸锂(工业级)基准价为118000.00元/吨 新浪财经",
+      "summary": "我国川西锂矿找矿突破，新增碳酸锂当量约104.68 万吨|自然资源部|新华社|四川省|加达|备案_手机新浪网 新浪财经",
       "lang": "zh",
       "source": "新浪财经",
       "categories": [
@@ -100447,14 +100483,28 @@
       "sentiment": 0
     },
     {
-      "id": "1310958600",
-      "title": "前瞻性生命周期评价（prospective LCA）支持创新电池级碳酸锂（Li - 生物通",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rOWVmS3Z3SDQ3VUo4N1NBV0tyRXZvRkZXSFppQlAtUlhJbVZGTDVTUTFvZ0tFck5EZ0RiOTNOdG55T19TSWprN2JKTXotSmlsczZXXzhVZUVKc3NSZEZiRFhRR1hXOTExS292NXVn?oc=5",
-      "pubDate": "2026-10-01 00:18:31",
-      "author": "生物通",
-      "summary": "前瞻性生命周期评价（prospective LCA）支持创新电池级碳酸锂（Li 生物通",
+      "id": "4190975427",
+      "title": "锂矿找矿，中国有了新突破 - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NalhuRVRjY2FZN01wN3otaVlNOFVCSGllRHdoUU5DN0FnTkhpbnpRNFdQSGczYzRGazBVZ1ZOTGJvSkxRbDlaWEZzZjA?oc=5",
+      "pubDate": "2026-10-01 09:02:02",
+      "author": "凤凰网",
+      "summary": "锂矿找矿，中国有了新突破 凤凰网",
       "lang": "zh",
-      "source": "生物通",
+      "source": "凤凰网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2618911422",
+      "title": "我国“亚洲锂腰带”找矿再获突破 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yVG1OVEhWYTVBczB6YVhEbERPa1NqRmhoRDJvTGJTa2dMMFhQdnBXdlBIYkNxZ2c3Z1A3X09odXJRT3dEQ0pQcXB2WkJzNUZaTDdEWHVhWVZSaXpQdVJudWlhYXBOdw?oc=5",
+      "pubDate": "2026-10-01 04:22:17",
+      "author": "东方财富",
+      "summary": "我国“亚洲锂腰带”找矿再获突破 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
@@ -100475,12 +100525,12 @@
       "sentiment": 0
     },
     {
-      "id": "1181984749",
-      "title": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDWmhabS10bk5oZGxBdUk4TnlBV25UbmVSYlRjYW9uMUV3TDZlUE9wMF83NnZNWHROc20yYTZ5c3lIM2tkOGJNbVdpb0tOYnZOOXVlcGhheGI4c01xMG5NQXlPeEhvSGFCeWhUZjFmemkzY3kwUWVwag?oc=5",
-      "pubDate": "2026-09-30 13:56:00",
+      "id": "2324550805",
+      "title": "【四季度展望】碳酸锂：弱预期强化 强现实待考 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1lzMXJZWlk5NEV1bXVwV3V5UlA1bWlnakpmZV9ScEFkdko1a0dLZUdWbEJXQnppa0MtamIwOU0yX3VicVg1bDlDN0NWOGRMb2dwSjd5b0F0cXd0aDZtV1NGNFZKNXlxVzRTVEJSU2VBLUY0T2M0dTdJdEtKSERDcGdEYk9tWHcwWDBMMw?oc=5",
+      "pubDate": "2026-09-30 06:30:00",
       "author": "新浪财经",
-      "summary": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ 新浪财经",
+      "summary": "【四季度展望】碳酸锂：弱预期强化 强现实待考 新浪财经",
       "lang": "zh",
       "source": "新浪财经",
       "categories": [
@@ -100489,42 +100539,14 @@
       "sentiment": 0
     },
     {
-      "id": "3009077829",
-      "title": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 - 金十数据",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbUNfaEVhY3BfWXk1VTEyVU5YX3d4MEVCWDFtck9hV1VBOVpXMWVFY3YwUFRWR0w5dkNkTzREYWhmSVAtTi1hVmVVRU9ia3M?oc=5",
-      "pubDate": "2026-09-30 09:02:31",
-      "author": "金十数据",
-      "summary": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 金十数据",
+      "id": "2084546632",
+      "title": "【市场聚焦】碳酸锂：节前备货落幕 弱预期再主导 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOGdwYWVpWV9jaGw0WWhmUWRWSEloeS1CcEVpc09YTE5JeGo0R3l5a0I2dVFibUVlb0xPYVRPb3AtSmVVYmpTTDkybW1zZXRrTExVMmxrY0gxcU44LVk0M1VrbFRkTnNYZFB4TTVMY0c0ZTF3bEVCOVNHN240cFhsUFcyMVpUazRIanFwbHlFSnNhS05BWjdjQ1FXUF84YlhfcXdMTGFGMThTT2FBWWtFUnc3VmZleEM5aU1sQjlRMlNQcHhMZS1iTkJWTXFxMEhxZG1VR1NaZHpQdTdXY01KN3FRNWRyakxVMHlqelQzNkowZXJVYk40MmxXQkc1UmlYd3RRVFdhVFVFQ0Q4c0VHbDhBWkVtUXNOdGNuX3IwQTZweEJtWnJBZ3FCRVZXV1dDZGVXdFQ2TGZlNEdQWG43RFdfMEpfLXVtUl9US2R3?oc=5",
+      "pubDate": "2026-09-30 02:04:45",
+      "author": "新浪财经",
+      "summary": "【市场聚焦】碳酸锂：节前备货落幕 弱预期再主导 新浪财经",
       "lang": "zh",
-      "source": "金十数据",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3888860884",
-      "title": "【市场聚焦】碳酸锂：节前备货落幕 弱预期再主导 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0JZa0pfSzJ5bkYtRE5rUWJJdU1VMll5dThUZ0ZnM3JabjJpbHQwR0lyV0RhcUlIeHJCVWZLcVdQY3NLQ3RTajBkV3FEelE5R0xaaTFWdUNzV2xZbG1pazBOR0JhVWtVbUJ0NDU4OUlIRjhtRF9fQmFSSkJ0aHlrOEh2bWN6LWFGYU5fSWxSS0FfTXlKXzBiYWN3Yy1mQUplaW5nTDhhVzBQMWtjTXhBbA?oc=5",
-      "pubDate": "2026-09-30 08:48:45",
-      "author": "finance.sina.com.cn",
-      "summary": "【市场聚焦】碳酸锂：节前备货落幕 弱预期再主导 finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3817508225",
-      "title": "【四季度展望】碳酸锂：弱预期强化 强现实待考 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2hVbm9tOWRqYnhxa0hRVzE5RmpyWTJTSEZqS2pfcWhTUjN6Q0Jva0FieVJBS3JaRHZveFppdjdzVjdBV0VrdkhxNGdpaU5UWl83aFVxRmhZQW5NZHZuTnJKVHBFMjRrSUMzdzdxcGlLeGxYelp2cE9USm1XZFJfNHRJczE5VlZBRjJxLXFHd2dmb3h4OHZPc2FidXltUmI0N2tOQy1TVFBJWXBWT2pLbw?oc=5",
-      "pubDate": "2026-09-30 08:19:35",
-      "author": "finance.sina.com.cn",
-      "summary": "【四季度展望】碳酸锂：弱预期强化 强现实待考 finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -100542,20 +100564,6 @@
       "categories": [
         "supply",
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1932117868",
-      "title": "SunSirs: Lithium Carbonate Futures Drop Below 120,000-Yuan Mark; Market Poised for \"Bottoming Out and Restructuring\" in Q4 - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrSmxBMVA1ZW82X1lFRWhqbFJDMC01SmxBTnBFcVJaVUM4Z0gtUzRZMHRQb1B2WFJXX19DY1dnOXZDUFRYUEJQa2syOWg1MThKdEE?oc=5",
-      "pubDate": "2026-09-29 08:25:02",
-      "author": "ChemNet News",
-      "summary": "SunSirs: Lithium Carbonate Futures Drop Below 120,000-Yuan Mark; Market Poised for \"Bottoming Out and Restructuring\" in Q4 ChemNet News",
-      "lang": "en",
-      "source": "ChemNet News",
-      "categories": [
-        "macro"
       ],
       "sentiment": 0
     },
@@ -100631,6 +100639,20 @@
       "sentiment": 0
     },
     {
+      "id": "3914037102",
+      "title": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多方呈进场态势 空方呈退场态势 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KUUVYeG5TNjUwQkIyb1dyT2xNTFA1Nm50cW5nUEZQWHdlUEtMYUYxX3I3eU1VZHFjMnVoNVI2Wm9VRFAwTjlFWk51QnNFcVJJOVhmMEZRdDhZbjhoOTgxYzdyUTVRQQ?oc=5",
+      "pubDate": "2026-09-28 12:16:36",
+      "author": "东方财富",
+      "summary": "碳酸锂龙虎榜 | 主力合约今日减仓下行 多方呈进场态势 空方呈退场态势 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3220382100",
       "title": "国内期货主力合约多数下跌 碳酸锂、沪银跌超4% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBibVNjUFV5VjhOUFUwUG9rQVVxQ3pTcEppRUUxb3pkZzVhZXRsbXc1TG5OYTc1bVJxRjZJUDVQSGJqUkpja0RzWEdTNDI5SWRiS2FkN0JvV0VwLVZjekhhXw?oc=5",
@@ -100646,13 +100668,13 @@
     },
     {
       "id": "3621125457",
-      "title": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report - Cureus",
+      "title": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report - The Cureus Journal of Medical Science",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORzVCb2RuQWh3Y2dHSFBBVGkwV2IzYVJpWXZ2b1JCeDhHbkU4RkF2aFJXbWdlR2RIMnNRU2dDbkIxWjRkV3BSa0E0QjJBaDQ3UmxsdWZFVTBWVnZBbXBhLXdFZWhzNzc1YmFjZzdXQnhsT2dTZVMyNEU2VWExc0E2NjBxMzVDLVRvXzVOc0ZmcFdXMEFOaWZNRGo0RVBnRFVPLXlzb3hkcno1dE5TNlUxT1lST09BVHRQLTMzS1NMR1EyRG1nUHZVd2NtZzV0SlVZelBSNlMzUTRIdmlTSTlIY1BIeWlCSU1rYktnVVAwUEdjb0tDYWtEOTAyTExVVWxPYUhPSklwTXpnVDVYc28zNU85bFZJbkJL?oc=5",
       "pubDate": "2026-09-22 13:34:57",
-      "author": "Cureus",
-      "summary": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report Cureus",
+      "author": "The Cureus Journal of Medical Science",
+      "summary": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report The Cureus Journal of Medical Science",
       "lang": "en",
-      "source": "Cureus",
+      "source": "The Cureus Journal of Medical Science",
       "categories": [
         "demand"
       ],
@@ -100698,6 +100720,21 @@
       "source": "Reuters",
       "categories": [
         "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3847838595",
+      "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
+      "pubDate": "2026-05-12 07:00:00",
+      "author": "Amnesty International",
+      "summary": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples Amnesty International",
+      "lang": "en",
+      "source": "Amnesty International",
+      "categories": [
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     }
