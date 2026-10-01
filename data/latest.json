@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:08:16.849Z",
+  "generatedAt": "2026-10-01T06:18:59.294Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -75233,9 +75233,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 89.98,
-      "changePct": -0.49,
-      "volume": 2216,
+      "price": 89.68,
+      "changePct": -0.82,
+      "volume": 23034,
       "amount": 0,
       "klines": [
         {
@@ -83761,14 +83761,14 @@
         {
           "d": "2026-10-01",
           "o": 90.4,
-          "c": 89.98,
-          "h": 90.51,
-          "l": 89.86,
-          "v": 2216,
+          "c": 89.68,
+          "h": 90.69,
+          "l": 88.79,
+          "v": 23034,
           "amount": 0,
-          "amp": 0.72,
-          "chg": -0.49,
-          "delta": -0.44
+          "amp": 2.1,
+          "chg": -0.82,
+          "delta": -0.74
         }
       ]
     },
@@ -83777,8 +83777,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.5,
-      "changePct": 0.03,
+      "price": 101.59,
+      "changePct": 0.12,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92401,14 +92401,14 @@
         {
           "d": "2026-10-01",
           "o": 101.47,
-          "c": 101.5,
-          "h": 101.51,
+          "c": 101.59,
+          "h": 101.66,
           "l": 101.43,
           "v": 0,
           "amount": 0,
-          "amp": 0.08,
-          "chg": 0.03,
-          "delta": 0.03
+          "amp": 0.23,
+          "chg": 0.12,
+          "delta": 0.12
         }
       ]
     },
@@ -100419,14 +100419,70 @@
   ],
   "news": [
     {
-      "id": "3966937040",
-      "title": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZWlg3bmZZbzRQeGpYWXNmV3NPN1oyVlhUcW4tVGl5VTZ6REdRY2IxU3VFUERhZTd1ZlI5VDhULWlYcWg0MHp0c2ZmclVzZkRLNHJkcDFkMVRIZWZfNWZ6WVJsS3VHUnNrRE1oUGVwTjMzR0s0SnpJUA?oc=5",
-      "pubDate": "2026-09-30 14:16:36",
-      "author": "finance.sina.com.cn",
-      "summary": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ finance.sina.com.cn",
+      "id": "144112832",
+      "title": "我国“亚洲锂腰带”找矿再获突破 - 大河财立方",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IYWdhSDVmUDQtWl8xRUptdllDYkFSUnJYcDRpNkh6NXVsQUctcGZWSlNpVVZPUGN2dWNuZ3dlSmxMdGlZYV93SU04NndYdUJVRVlIVlQzWXJzaWhJSVlsbFdSME5xN0cxNVE?oc=5",
+      "pubDate": "2026-10-01 06:06:41",
+      "author": "大河财立方",
+      "summary": "我国“亚洲锂腰带”找矿再获突破 大河财立方",
       "lang": "zh",
-      "source": "finance.sina.com.cn",
+      "source": "大河财立方",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1709292314",
+      "title": "10月1日生意社碳酸锂(工业级)基准价为118000.00元/吨 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEoxVVJmeHkwdWdQcFJzY1VJbEthRHU3bHlxZXdnbzZUd05GVmRPMGxtdGE2ZW5LSkRXVzk0ZVVFQmxlM1dLeVJCaXJCeGF2cDNaaC10S1hIdHVTOEZwYWI4bmlsY0JCUC02ODg3aTNHU0RfbXREZ2JUaHJuRFN5SW4zMU1CalJBT3c?oc=5",
+      "pubDate": "2026-10-01 00:34:44",
+      "author": "新浪财经",
+      "summary": "10月1日生意社碳酸锂(工业级)基准价为118000.00元/吨 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1310958600",
+      "title": "前瞻性生命周期评价（prospective LCA）支持创新电池级碳酸锂（Li - 生物通",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rOWVmS3Z3SDQ3VUo4N1NBV0tyRXZvRkZXSFppQlAtUlhJbVZGTDVTUTFvZ0tFck5EZ0RiOTNOdG55T19TSWprN2JKTXotSmlsczZXXzhVZUVKc3NSZEZiRFhRR1hXOTExS292NXVn?oc=5",
+      "pubDate": "2026-10-01 00:18:31",
+      "author": "生物通",
+      "summary": "前瞻性生命周期评价（prospective LCA）支持创新电池级碳酸锂（Li 生物通",
+      "lang": "zh",
+      "source": "生物通",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1931668633",
+      "title": "Lithium Argentina Announces Cauchari-Olaroz Stage 2 Scoping Study Results and Acceleration of Initial Phase of 10,000 tpa - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcDhYV3dNd044TS1ZRjBMZjlXLVgxSVE5bU5uaDl4WHRRYlhpaXctRjBQQVBzVmxOR0t6OUFLaGg4X0Z2cm9yb3Z6Y1B0UWlMQ0EtOVg1WWhQN29PV0tRZ3pidFk0SVFqQXAwbzc4a0NFOHVJd1o3Z3ZKem1OSjBQcl90VmRVcFIzMElta1dTbTVYaFB2eFFuX25YM0xjNmstQVJFSnJSbmtraU5rWnBHRTNTSzdEQ1VNay1yd0MxVnpHRmdJTjV3N08yT2UzS2dGaTU5eW0wZEtiMWpJbEFmYw?oc=5",
+      "pubDate": "2026-09-30 20:58:16",
+      "author": "Investing News Network",
+      "summary": "Lithium Argentina Announces Cauchari-Olaroz Stage 2 Scoping Study Results and Acceleration of Initial Phase of 10,000 tpa Investing News Network",
+      "lang": "en",
+      "source": "Investing News Network",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1181984749",
+      "title": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDWmhabS10bk5oZGxBdUk4TnlBV25UbmVSYlRjYW9uMUV3TDZlUE9wMF83NnZNWHROc20yYTZ5c3lIM2tkOGJNbVdpb0tOYnZOOXVlcGhheGI4c01xMG5NQXlPeEhvSGFCeWhUZjFmemkzY3kwUWVwag?oc=5",
+      "pubDate": "2026-09-30 13:56:00",
+      "author": "新浪财经",
+      "summary": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -100461,59 +100517,16 @@
       "sentiment": 0
     },
     {
-      "id": "3173492238",
-      "title": "广期所碳酸锂、多晶硅仓单减少 工业硅仓单持平 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBseFV1SkRXM1VRRDZLMVBJeGdsUkh1aHIzVnhHaE0wZ2ZTc3hDMjAwaS1zVHJJVGVKLWpZVlBfbkt0OGplRFFPZF9jb1hER1hDUjQyVS1Fd19xeDN1NXBzUmR2ZDFyZw?oc=5",
-      "pubDate": "2026-09-30 07:59:29",
-      "author": "东方财富",
-      "summary": "广期所碳酸锂、多晶硅仓单减少 工业硅仓单持平 东方财富",
+      "id": "3817508225",
+      "title": "【四季度展望】碳酸锂：弱预期强化 强现实待考 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2hVbm9tOWRqYnhxa0hRVzE5RmpyWTJTSEZqS2pfcWhTUjN6Q0Jva0FieVJBS3JaRHZveFppdjdzVjdBV0VrdkhxNGdpaU5UWl83aFVxRmhZQW5NZHZuTnJKVHBFMjRrSUMzdzdxcGlLeGxYelp2cE9USm1XZFJfNHRJczE5VlZBRjJxLXFHd2dmb3h4OHZPc2FidXltUmI0N2tOQy1TVFBJWXBWT2pLbw?oc=5",
+      "pubDate": "2026-09-30 08:19:35",
+      "author": "finance.sina.com.cn",
+      "summary": "【四季度展望】碳酸锂：弱预期强化 强现实待考 finance.sina.com.cn",
       "lang": "zh",
-      "source": "东方财富",
+      "source": "finance.sina.com.cn",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2593491975",
-      "title": "9月30日碳酸锂期货收盘下跌0.94%，报118420元_综合资讯 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MLUZmdFpSMDJ2X2hvWldKckpfaldtb2ZsVTdEaU1yNHg3UFFJb1JnVjBqLTBja2dQT0JyZ0s1YktDR1RQRVdORTF6SlM4WEduRjVQcW1sM2o3YUpYNnVRTmtIMVM?oc=5",
-      "pubDate": "2026-09-30 07:31:15",
-      "author": "证券之星",
-      "summary": "9月30日碳酸锂期货收盘下跌0.94%，报118420元_综合资讯 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "2324550805",
-      "title": "【四季度展望】碳酸锂：弱预期强化 强现实待考 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1lzMXJZWlk5NEV1bXVwV3V5UlA1bWlnakpmZV9ScEFkdko1a0dLZUdWbEJXQnppa0MtamIwOU0yX3VicVg1bDlDN0NWOGRMb2dwSjd5b0F0cXd0aDZtV1NGNFZKNXlxVzRTVEJSU2VBLUY0T2M0dTdJdEtKSERDcGdEYk9tWHcwWDBMMw?oc=5",
-      "pubDate": "2026-09-30 06:30:00",
-      "author": "新浪财经",
-      "summary": "【四季度展望】碳酸锂：弱预期强化 强现实待考 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1283039139",
-      "title": "Lithium Carbonate Market Outlook 2026-2031: 22.74% CAGR, Energy Storage Demand - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzhiRi1icDk3dHpUS29OaUdRV0JpcG1pdWVnS3h0Ujh6X2lZcnNxZ2dFMldhd25meFdDbFQ3RGhZY1dxZ1hJSnZQZ2dqZDY0Z0lzZVc3SU9FQ05vaGFEYmxad0JzVVlsNDU3enp1NWhvbzFaSEZoYm5WMTBvWmpsLWZ3RHlOTGR2STRCeGpIcWNvR1Uxd1VveElQNVI5NjNRZHJERUJGSm1TNnRjSmRwR0FYSS1FMDVCdGxGQ3JHOThIZGM?oc=5",
-      "pubDate": "2026-09-29 11:21:30",
-      "author": "IndexBox",
-      "summary": "Lithium Carbonate Market Outlook 2026-2031: 22.74% CAGR, Energy Storage Demand - News and Statistics IndexBox",
-      "lang": "en",
-      "source": "IndexBox",
-      "categories": [
-        "demand",
-        "macro"
       ],
       "sentiment": 0
     },
@@ -100533,28 +100546,42 @@
       "sentiment": 0
     },
     {
+      "id": "1932117868",
+      "title": "SunSirs: Lithium Carbonate Futures Drop Below 120,000-Yuan Mark; Market Poised for \"Bottoming Out and Restructuring\" in Q4 - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrSmxBMVA1ZW82X1lFRWhqbFJDMC01SmxBTnBFcVJaVUM4Z0gtUzRZMHRQb1B2WFJXX19DY1dnOXZDUFRYUEJQa2syOWg1MThKdEE?oc=5",
+      "pubDate": "2026-09-29 08:25:02",
+      "author": "ChemNet News",
+      "summary": "SunSirs: Lithium Carbonate Futures Drop Below 120,000-Yuan Mark; Market Poised for \"Bottoming Out and Restructuring\" in Q4 ChemNet News",
+      "lang": "en",
+      "source": "ChemNet News",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1936377431",
-      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - CGEP",
+      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - Columbia University",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
       "pubDate": "2026-09-28 17:01:42",
-      "author": "CGEP",
-      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement CGEP",
+      "author": "Columbia University",
+      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
       "lang": "en",
-      "source": "CGEP",
+      "source": "Columbia University",
       "categories": [
         "supply"
       ],
       "sentiment": 0
     },
     {
-      "id": "891041126",
-      "title": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYzhjNU9sX3BnU29RcnBsZWdHSno0UWU2S05BeVUtUVM2Z2RQcjAzaUs4Qno1NU8tRFN6Zm9EblJSa192MUVjMHRtaWhKMGtfVjhyVFV0V2VwZDlTaDBEMGpveUpXeUNDQ1pwYVFvNUxRWFZ2YUkxS2NJZEpockp0WUFJTVZLMG9oWWhyWm1RZ3gtQ1JWaUV0bE1SQ0hNTjdPNXhka0FqQUc5TzZoaTB6bWZpYkRhUDJhUE81SnNDWFFYUHVpbG9RNkQyQ2t1WENiU2F0Sk5mVzhfajNUQVVhRUFqT2xpdksxSGhkQUVBeGwyYi1scGFLWlA3Y1FsSVFSSUc1aw?oc=5",
+      "id": "1527885378",
+      "title": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence - PR Newswire UK",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQb0d4X1Z6M21DcHB2MElmSVg4T1k5bDNVaWFaRFdFV1M3QzZYVlJSZUFNQ1hIX29RZHMwcEdVbGZxWjA3U0NtZFBoLXNRYzhUWDVZOXJrdkRWSXJmRnhxSnZma2V0X1JNa25zQTdQYjN0U1NzUkFDY3JiNmlWdmdtRnBmT29KaFVPVnlOTUE3bVBhWEdVYVJaUGYtZmd3ZlNSX2padE9nNDk1SnQtS2RjU3N3NzBfOGU2TFMxZ3BILVBtdUZQZmcyWjczazltUXIzcHJaVDNjN2o3TU05TjdOSzIzckhVNUo3dXFCYXJWNUh4R0k0aFZXSVRkYS1EY1FJdEZhM3pISQ?oc=5",
       "pubDate": "2026-09-28 15:06:00",
-      "author": "PR Newswire",
-      "summary": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence PR Newswire",
+      "author": "PR Newswire UK",
+      "summary": "Lithium Carbonate Market to Register 22.74% CAGR Through 2031 as EV Battery Demand Accelerates, Says Mordor Intelligence PR Newswire UK",
       "lang": "en",
-      "source": "PR Newswire",
+      "source": "PR Newswire UK",
       "categories": [
         "demand",
         "macro"
@@ -100562,9 +100589,9 @@
       "sentiment": 0
     },
     {
-      "id": "1463982084",
+      "id": "2052064415",
       "title": "大中矿业加达锂矿新增备案42.38万吨氧化锂 累计突破百万吨 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MVjRnUkFpYkQ2dG00UUFvcGdQRTFfZW8zUHlTLXZRakt3M1lwalVBMFR4TjVwa1hHOHFHV1RYVVloMHdhM2NhbkZ5VzAyZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KWDJnNzEybmlvYVJvb3lDMGNMakFqdlBrYkwtV2VJd1F1ZUtVUVhQTTN6Q2M3NU9CbTR3eVBfUkZVZFhNdm1nSnZsYUNXeEVJbWdqUl9WWFhrbWJHQkV1WXdR?oc=5",
       "pubDate": "2026-09-28 14:27:20",
       "author": "观点网",
       "summary": "大中矿业加达锂矿新增备案42.38万吨氧化锂 累计突破百万吨 观点网",
@@ -100604,20 +100631,6 @@
       "sentiment": 0
     },
     {
-      "id": "4146669660",
-      "title": "今日MMLC电池级碳酸锂（早盘）价格较昨日下跌5000元/吨 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03clgySmMzc0Y2dWxxd3REa19RYVBVZHppVEtXd0Rpb0NWQUl5b0pDZEs2OFdUWXR5d0k2U2JlU0xvOFRpUkxoT1pvSFAzdERmMlNPUkZzSGpnSWhWRWQ4LQ?oc=5",
-      "pubDate": "2026-09-28 08:32:15",
-      "author": "东方财富",
-      "summary": "今日MMLC电池级碳酸锂（早盘）价格较昨日下跌5000元/吨 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
       "id": "3220382100",
       "title": "国内期货主力合约多数下跌 碳酸锂、沪银跌超4% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBibVNjUFV5VjhOUFUwUG9rQVVxQ3pTcEppRUUxb3pkZzVhZXRsbXc1TG5OYTc1bVJxRjZJUDVQSGJqUkpja0RzWEdTNDI5SWRiS2FkN0JvV0VwLVZjekhhXw?oc=5",
@@ -100630,20 +100643,6 @@
         "demand"
       ],
       "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "562779994",
-      "title": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGE1TFpXM0d1THRDMVJVNmM2UUR1S2ctV1g0T3A5WjkzcjNVTGNmT0JucEF5MlJIQlhrNE5ZaHZ4QjNYUVJ0c21FalBLR1FOOVJYUERBbkljX1J6LWpJa0hpQ0luQXlaYVVoajk1MVVObjFqWEFvWFZjYXBDUkJNa3BFRGdqdUpuYlU2Z3dhMDltSXVkYmwtaWU4SDA3TVNpeXNIdEowcw?oc=5",
-      "pubDate": "2026-09-26 07:00:00",
-      "author": "Moomoo",
-      "summary": "Citi: Bullish on lithium price outlook, raises target prices for Ganfeng Lithium (01772) and Tianqi Lithium (09696) Moomoo",
-      "lang": "en",
-      "source": "Moomoo",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     },
     {
       "id": "3621125457",
