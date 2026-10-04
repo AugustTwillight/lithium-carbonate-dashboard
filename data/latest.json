@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:19:19.561Z",
+  "generatedAt": "2026-10-04T23:26:00.749Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -75329,9 +75329,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 91.26,
-      "changePct": -1.73,
-      "volume": 326828,
+      "price": 91.15,
+      "changePct": 0.04,
+      "volume": 3880,
       "amount": 0,
       "klines": [
         {
@@ -83877,6 +83877,18 @@
           "amp": 5.87,
           "chg": -1.73,
           "delta": -1.61
+        },
+        {
+          "d": "2026-10-05",
+          "o": 91.77,
+          "c": 91.15,
+          "h": 91.88,
+          "l": 90.96,
+          "v": 3880,
+          "amount": 0,
+          "amp": 1.01,
+          "chg": 0.04,
+          "delta": 0.04
         }
       ]
     },
@@ -83885,8 +83897,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.93,
-      "changePct": -0.1,
+      "price": 101.88,
+      "changePct": -0.05,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92527,8 +92539,20 @@
           "v": 0,
           "amount": 0,
           "amp": 0.45,
-          "chg": -0.1,
-          "delta": -0.1
+          "chg": -0.11,
+          "delta": -0.11
+        },
+        {
+          "d": "2026-10-05",
+          "o": 101.9,
+          "c": 101.88,
+          "h": 101.94,
+          "l": 101.85,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.09,
+          "chg": -0.05,
+          "delta": -0.05
         }
       ]
     },
@@ -100540,13 +100564,13 @@
   "news": [
     {
       "id": "4105939037",
-      "title": "锂价创年内新低，超跌了吗？ - sohu.com",
+      "title": "锂价创年内新低，超跌了吗？ - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNejE5VHZqNmh6N2tiLWxnWEt0VEVwNnJfaHR5N2VDX29jaGFmUFdKSW1vVVdFUzFjVHZqOHFjVDlqSTVEZjVMdjVjNEE5V3picEpUUmVDNjhtZTRTbS1JRW9zc2V6eDBnNzdBd0dVMElHeTRGMVNGbFgyTEgyUXhXc3pRUWFYMEllTk16Y2RFbw?oc=5",
       "pubDate": "2026-10-04 12:16:51",
-      "author": "sohu.com",
-      "summary": "锂价创年内新低，超跌了吗？ sohu.com",
+      "author": "搜狐网",
+      "summary": "锂价创年内新低，超跌了吗？ 搜狐网",
       "lang": "zh",
-      "source": "sohu.com",
+      "source": "搜狐网",
       "categories": [
         "demand"
       ],
@@ -100598,13 +100622,13 @@
     },
     {
       "id": "2702601136",
-      "title": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 - 新浪财经",
+      "title": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3htb0NKdzJ1TzJRLW10ZzhYWnFFRFgxNEdYZ0Y1NW9qQUk1M0pTR1AxUnB2aDdYdlVCYWVBa2NaUmhRcVBNZWhRb21PdVpGLTJBOWQ0bVgwRnRJejRnc0JoTWpBbEhWNHFZX3FzczlNNnFGRnhmN3cyTXF3MmJBR29UZ3hQSWh3TWRYMjRYcVU4NGlaeEUwYQ?oc=5",
       "pubDate": "2026-10-02 11:26:15",
-      "author": "新浪财经",
-      "summary": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 新浪财经",
+      "author": "finance.sina.cn",
+      "summary": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 finance.sina.cn",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "finance.sina.cn",
       "categories": [
         "demand"
       ],
@@ -100612,13 +100636,13 @@
     },
     {
       "id": "2166241767",
-      "title": "碳酸锂：共识内震荡 - 新浪财经",
+      "title": "碳酸锂：共识内震荡 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxObW1UOVBGQVMzZUZzamtabktaSTk0RlNPUmdNSnVQMnh2VC1fSm01bnd4RHREVk5pVmFGNVoxMDVRYy1CYVVoU0ZMMWMyeGpoeHNIdXcyTUFOcnZ5WjZOLW1QVDU5SWh1eUM0cU5QVEN3cFBybktGQ3ZHaFh1SmFmWFRrdzN4MHJCdFVQRUsyVmtnUWFlWUlpLUhnTlB3VnFtdXhfY1JXRjIyNHBjUEowcy1Gd3B5d0g4QWJDNjlWNktnRERVX01makhjVXNSQnhiTXZ2SWZqVURFemloa0xCUGZVUHNWY2s4Q19KM3hMejN4ZUJ3ZWRjN2tUTERNVWFPVllGOEtHbzBFNWpvbUFXOWZVc2tEcEljRW55ejNnT1RMcXpUWmwwUkVMYkhmb3VINEVscFdadw?oc=5",
       "pubDate": "2026-10-02 09:50:59",
-      "author": "新浪财经",
-      "summary": "碳酸锂：共识内震荡 新浪财经",
+      "author": "finance.sina.cn",
+      "summary": "碳酸锂：共识内震荡 finance.sina.cn",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "finance.sina.cn",
       "categories": [
         "demand"
       ],
@@ -100696,6 +100720,20 @@
       "sentiment": 0
     },
     {
+      "id": "2366220685",
+      "title": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CSmFmbElPenFib1hFQU9BNFo4SzVNTjJabkpxYTUzZzVCRjBTWGRCamplMEFTWW1wUUtDUTlDNzRXWWJuSFEwRWkyUDhfVlVyeFhxWDlweEM2dWs2TXhMLTNwUHZXZw?oc=5",
+      "pubDate": "2026-09-30 15:47:28",
+      "author": "东方财富",
+      "summary": "【财经分析】碳酸锂价格失守12万元/吨 旺季为何不涨反跌？ 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3009077829",
       "title": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 - 金十数据",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbUNfaEVhY3BfWXk1VTEyVU5YX3d4MEVCWDFtck9hV1VBOVpXMWVFY3YwUFRWR0w5dkNkTzREYWhmSVAtTi1hVmVVRU9ia3M?oc=5",
@@ -100704,20 +100742,6 @@
       "summary": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 金十数据",
       "lang": "zh",
       "source": "金十数据",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2487712229",
-      "title": "增储落定，大中矿业的锂矿“资本”更厚了 - 财富号",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrT3JrYm9aVlVJdzlqMFQ4QUxlOFJYZEZoUi1YM011R0tsUFJOT09STkRZT2FuM2ZXS2JSS2xiT19RY050aFRFYXQtR0dBSGd1MWZDcjBEWHFFaC1iLUltWkx5YWg4aGNMV0t3?oc=5",
-      "pubDate": "2026-09-30 00:06:00",
-      "author": "财富号",
-      "summary": "增储落定，大中矿业的锂矿“资本”更厚了 财富号",
-      "lang": "zh",
-      "source": "财富号",
       "categories": [
         "demand"
       ],
@@ -100853,8 +100877,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "No futures quote"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -100868,63 +100892,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
