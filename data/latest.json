@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:15:47.223Z",
+  "generatedAt": "2026-10-04T20:19:19.561Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -100626,13 +100626,13 @@
     },
     {
       "id": "3018981742",
-      "title": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes - Panorama Minero",
+      "title": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes - panorama-minero.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09Za1JhRTgxaXl0WWdUTDJMejhaamNtc2tnWEEwTkhlRUl3ZXp4d25LM3BsRmJLdjBjSDgzZE1yelhJekt3bDdYZXRub0w0NWwwOGVsMy1RVDVlTUlsdm5MdWtPS3JldjJjZzExbEdyeGg1S0QxTTFSaXRlamI0RVl2UDVYdTZHNWdEQzllX3J1TEV5T2hGeXU2eFJmQ0x5UmxEN0N0OXphZDIyX1ZlelNqcDdlSF9nLWw5Zko0ZDJ2UkpqTjhKNmNWYkR1eTFFZVE?oc=5",
       "pubDate": "2026-10-02 09:48:01",
-      "author": "Panorama Minero",
-      "summary": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes Panorama Minero",
+      "author": "",
+      "summary": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes panorama-minero.com",
       "lang": "en",
-      "source": "Panorama Minero",
+      "source": "Global lithium news",
       "categories": [
         "supply",
         "macro"
@@ -100725,13 +100725,13 @@
     },
     {
       "id": "3736222274",
-      "title": "North American energy storage to drive lithium carbonate demand through 2031 - miningweekly.com",
+      "title": "North American energy storage to drive lithium carbonate demand through 2031 - Mining Weekly",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
       "pubDate": "2026-09-29 08:44:00",
-      "author": "miningweekly.com",
-      "summary": "North American energy storage to drive lithium carbonate demand through 2031 miningweekly.com",
+      "author": "Mining Weekly",
+      "summary": "North American energy storage to drive lithium carbonate demand through 2031 Mining Weekly",
       "lang": "en",
-      "source": "miningweekly.com",
+      "source": "Mining Weekly",
       "categories": [
         "supply",
         "demand"
@@ -100853,8 +100853,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -100868,63 +100868,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     }
   ]
 }
