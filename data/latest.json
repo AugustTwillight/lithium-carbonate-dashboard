@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:26:00.749Z",
+  "generatedAt": "2026-10-05T02:15:02.181Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2117,7 +2117,7 @@
   },
   "spot": {
     "price": 122800,
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "dayPct": -0.49,
     "monthPct": -22.52,
     "yearPct": 66.96,
@@ -100577,14 +100577,14 @@
       "sentiment": 0
     },
     {
-      "id": "877892815",
-      "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkVZbWpBU0k5b3BrSGplN3pQZEo5S21scFdKT1hqMC1rUkxQaVZ6Qlp2bDA1ODdIeWNtV3ZuYWFSYmJ1eDl2N04xS3I4cW5NNnpaa1JCMUMzWlpaODk1SUpMaUlaQzY2MVRtM183WEpwWkZNYnlaeHNqeWsxOTVuMUtMZXN4R2pvLW9yTnIxRDNmREJUTjVXMnVrUUdTOTd4MnE5WjJMTDdOYW1XRnpKeFhGclM1SldYV0dVVlVPZDBZaUZ5eWRDZXBRek44U2NL0gHQAUFVX3lxTFB5RkcyTHRBZnFpMnBEOU1HRGVxZG1GakRTa2pnTE42RU1XMG9ka3V1cDBDVko1bVgwb05fY2N0OW4wUW82RWVmYlo2emFiWlRadFp5amxvSk85Mng5eFE5NHF0Z2ZnX3NOYkpZQ1MxSjktdGhwTWNHTkx3RkFjRE9BZW5JY3BmaVRURTl2c25fMmczRlVObGt6djhIbjN5aEo2M014MmNWZW94azRSNF82U00wcUVRb0VCeE9HY3Fxd1BqdzFrcERaWUltQUpfMEk?oc=5",
+      "id": "1183203133",
+      "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply - scmp.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkVZbWpBU0k5b3BrSGplN3pQZEo5S21scFdKT1hqMC1rUkxQaVZ6Qlp2bDA1ODdIeWNtV3ZuYWFSYmJ1eDl2N04xS3I4cW5NNnpaa1JCMUMzWlpaODk1SUpMaUlaQzY2MVRtM183WEpwWkZNYnlaeHNqeWsxOTVuMUtMZXN4R2pvLW9yTnIxRDNmREJUTjVXMnVrUUdTOTd4MnE5WjJMTDdOYW1XRnpKeFhGclM1SldYV0dVVlVPZDBZaUZ5eWRDZXBRek44U2NL?oc=5",
       "pubDate": "2026-10-03 07:00:11",
-      "author": "South China Morning Post",
-      "summary": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply South China Morning Post",
+      "author": "scmp.com",
+      "summary": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply scmp.com",
       "lang": "en",
-      "source": "South China Morning Post",
+      "source": "scmp.com",
       "categories": [
         "supply",
         "demand"
@@ -100650,13 +100650,13 @@
     },
     {
       "id": "3018981742",
-      "title": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes - panorama-minero.com",
+      "title": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes - Panorama Minero",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09Za1JhRTgxaXl0WWdUTDJMejhaamNtc2tnWEEwTkhlRUl3ZXp4d25LM3BsRmJLdjBjSDgzZE1yelhJekt3bDdYZXRub0w0NWwwOGVsMy1RVDVlTUlsdm5MdWtPS3JldjJjZzExbEdyeGg1S0QxTTFSaXRlamI0RVl2UDVYdTZHNWdEQzllX3J1TEV5T2hGeXU2eFJmQ0x5UmxEN0N0OXphZDIyX1ZlelNqcDdlSF9nLWw5Zko0ZDJ2UkpqTjhKNmNWYkR1eTFFZVE?oc=5",
       "pubDate": "2026-10-02 09:48:01",
-      "author": "",
-      "summary": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes panorama-minero.com",
+      "author": "Panorama Minero",
+      "summary": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes Panorama Minero",
       "lang": "en",
-      "source": "Global lithium news",
+      "source": "Panorama Minero",
       "categories": [
         "supply",
         "macro"
@@ -100877,8 +100877,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -100892,63 +100892,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
