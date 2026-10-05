@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T09:25:16.968Z",
+  "generatedAt": "2026-10-05T18:42:34.782Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2132,10 +2132,10 @@
       "name": "天齐锂业",
       "code": "09696",
       "role": "上游锂矿",
-      "price": 28.2,
-      "changePct": -1.67,
-      "volume": 707000,
-      "amount": 19729152,
+      "price": 27.92,
+      "changePct": -0.99,
+      "volume": 411600,
+      "amount": 11436148,
       "klines": [
         {
           "d": "2024-01-02",
@@ -10248,6 +10248,18 @@
           "amp": 4.11,
           "chg": -1.67,
           "delta": -0.48
+        },
+        {
+          "d": "2026-10-05",
+          "o": 28.2,
+          "c": 27.92,
+          "h": 28.2,
+          "l": 27.62,
+          "v": 411600,
+          "amount": 11436148,
+          "amp": 2.06,
+          "chg": -0.99,
+          "delta": -0.28
         }
       ]
     },
@@ -42277,10 +42289,10 @@
       "name": "赣锋锂业",
       "code": "01772",
       "role": "上游锂盐",
-      "price": 30,
-      "changePct": -2.72,
-      "volume": 1816088,
-      "amount": 54565227,
+      "price": 30.16,
+      "changePct": 0.53,
+      "volume": 1802660,
+      "amount": 53945069,
       "klines": [
         {
           "d": "2024-01-02",
@@ -50405,6 +50417,18 @@
           "amp": 4.22,
           "chg": -2.72,
           "delta": -0.84
+        },
+        {
+          "d": "2026-10-05",
+          "o": 30,
+          "c": 30.16,
+          "h": 30.18,
+          "l": 29.56,
+          "v": 1802660,
+          "amount": 53945069,
+          "amp": 2.07,
+          "chg": 0.53,
+          "delta": 0.16
         }
       ]
     },
@@ -50414,10 +50438,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 104.59,
-      "changePct": -0.42,
-      "volume": 2004939,
-      "amount": 209455707,
+      "price": 104.652,
+      "changePct": 0.06,
+      "volume": 1039972,
+      "amount": 108870822,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58710,6 +58734,18 @@
           "amp": 2.95,
           "chg": -0.42,
           "delta": -0.44
+        },
+        {
+          "d": "2026-10-05",
+          "o": 105.19,
+          "c": 104.652,
+          "h": 105.665,
+          "l": 103.59,
+          "v": 1039972,
+          "amount": 108870822,
+          "amp": 1.98,
+          "chg": 0.06,
+          "delta": 0.062
         }
       ]
     },
@@ -58719,10 +58755,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 64.52,
-      "changePct": 0.62,
-      "volume": 534936,
-      "amount": 34413355,
+      "price": 66.175,
+      "changePct": 2.57,
+      "volume": 407366,
+      "amount": 26768799,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67015,6 +67051,18 @@
           "amp": 1.77,
           "chg": 0.62,
           "delta": 0.4
+        },
+        {
+          "d": "2026-10-05",
+          "o": 65.11,
+          "c": 66.175,
+          "h": 66.175,
+          "l": 64.53,
+          "v": 407366,
+          "amount": 26768799,
+          "amp": 2.55,
+          "chg": 2.57,
+          "delta": 1.655
         }
       ]
     }
@@ -67025,9 +67073,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 27190.86,
-      "changePct": 1.19,
-      "volume": 6857506048,
+      "price": 27484.41,
+      "changePct": 1.08,
+      "volume": 4361008128,
       "amount": 0,
       "klines": [
         {
@@ -75321,6 +75369,18 @@
           "amp": 0.9,
           "chg": 1.19,
           "delta": 319.26
+        },
+        {
+          "d": "2026-10-05",
+          "o": 27225.93,
+          "c": 27484.18,
+          "h": 27484.63,
+          "l": 27223.49,
+          "v": 4361008128,
+          "amount": 0,
+          "amp": 0.96,
+          "chg": 1.08,
+          "delta": 293.32
         }
       ]
     },
@@ -75329,9 +75389,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 91.15,
-      "changePct": 0.04,
-      "volume": 3880,
+      "price": 89.3,
+      "changePct": -1.99,
+      "volume": 228938,
       "amount": 0,
       "klines": [
         {
@@ -83881,14 +83941,14 @@
         {
           "d": "2026-10-05",
           "o": 91.77,
-          "c": 91.15,
+          "c": 89.3,
           "h": 91.88,
-          "l": 90.96,
-          "v": 3880,
+          "l": 89.11,
+          "v": 228938,
           "amount": 0,
-          "amp": 1.01,
-          "chg": 0.04,
-          "delta": 0.04
+          "amp": 3.04,
+          "chg": -1.99,
+          "delta": -1.81
         }
       ]
     },
@@ -83897,8 +83957,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.88,
-      "changePct": -0.05,
+      "price": 102.19,
+      "changePct": 0.26,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92545,14 +92605,14 @@
         {
           "d": "2026-10-05",
           "o": 101.9,
-          "c": 101.88,
-          "h": 101.94,
+          "c": 102.19,
+          "h": 102.54,
           "l": 101.85,
           "v": 0,
           "amount": 0,
-          "amp": 0.09,
-          "chg": -0.05,
-          "delta": -0.05
+          "amp": 0.68,
+          "chg": 0.26,
+          "delta": 0.26
         }
       ]
     },
@@ -100563,6 +100623,20 @@
   ],
   "news": [
     {
+      "id": "2865670811",
+      "title": "锂价创年内新低 超跌了吗？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFE2UWczell4WFhtbEk5eExUM3pTTEt5dC1wM3dIWFZYblJNSWFGZVotZDBUbzAweWZ4R3ZoR05YTGpGRVVTVTFFcWQtY2FfOERkSVZ3Q003b1MxNTdzYU9kMkRHU2F1RzlPVXJfM1kwalFIT0hfZEFVU3VGdEVqNkN5SDRscHJCNGJ3cw?oc=5",
+      "pubDate": "2026-10-05 01:43:00",
+      "author": "搜狐网",
+      "summary": "锂价创年内新低 超跌了吗？ 搜狐网",
+      "lang": "zh",
+      "source": "搜狐网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3717593706",
       "title": "10月5日生意社碳酸锂(电池级)基准价为120000.00元/吨 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONlFGVnZpLWk5cVlIT0Y1aVJkTlNFa1VrakxXekh4YTdfUE1GR0liWGt0SV9zUHVYNFM5dElHYkRkYWxLUGFTYklJUDItUnFpc0VXMXNKZ0NYa1NrWGJtODJST0ZwamYtVHBxa3lZLXJ0NEZ3TEFfTklPZy0zTFR4RzdJYTVITDY1ZlE?oc=5",
@@ -100591,16 +100665,16 @@
       "sentiment": 0
     },
     {
-      "id": "4105939037",
-      "title": "锂价创年内新低，超跌了吗？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNejE5VHZqNmh6N2tiLWxnWEt0VEVwNnJfaHR5N2VDX29jaGFmUFdKSW1vVVdFUzFjVHZqOHFjVDlqSTVEZjVMdjVjNEE5V3picEpUUmVDNjhtZTRTbS1JRW9zc2V6eDBnNzdBd0dVMElHeTRGMVNGbFgyTEgyUXhXc3pRUWFYMEllTk16Y2RFbw?oc=5",
-      "pubDate": "2026-10-04 12:16:51",
-      "author": "搜狐网",
-      "summary": "锂价创年内新低，超跌了吗？ 搜狐网",
+      "id": "4141375015",
+      "title": "Liontown上调资本开支35%，扩建西澳Kathleen Valley锂矿至78万吨年产量 - 上海有色金属",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hYm9TWlZDaXc3V3dyc3dMb18tZFo4TzJkZDNIb1BMdVlFTnY1ZFZ4YUt4TUNjcE9GSnVPdWtlVGlIaWdFbFZIV2ZR?oc=5",
+      "pubDate": "2026-10-04 22:12:00",
+      "author": "上海有色金属",
+      "summary": "Liontown上调资本开支35%，扩建西澳Kathleen Valley锂矿至78万吨年产量 上海有色金属",
       "lang": "zh",
-      "source": "搜狐网",
+      "source": "上海有色金属",
       "categories": [
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
@@ -100635,28 +100709,14 @@
       "sentiment": 0
     },
     {
-      "id": "2702601136",
-      "title": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3htb0NKdzJ1TzJRLW10ZzhYWnFFRFgxNEdYZ0Y1NW9qQUk1M0pTR1AxUnB2aDdYdlVCYWVBa2NaUmhRcVBNZWhRb21PdVpGLTJBOWQ0bVgwRnRJejRnc0JoTWpBbEhWNHFZX3FzczlNNnFGRnhmN3cyTXF3MmJBR29UZ3hQSWh3TWRYMjRYcVU4NGlaeEUwYQ?oc=5",
-      "pubDate": "2026-10-02 11:26:15",
-      "author": "新浪财经",
-      "summary": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2166241767",
-      "title": "碳酸锂：共识内震荡 - 新浪财经",
+      "title": "碳酸锂：共识内震荡 - finance.sina.cn",
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxObW1UOVBGQVMzZUZzamtabktaSTk0RlNPUmdNSnVQMnh2VC1fSm01bnd4RHREVk5pVmFGNVoxMDVRYy1CYVVoU0ZMMWMyeGpoeHNIdXcyTUFOcnZ5WjZOLW1QVDU5SWh1eUM0cU5QVEN3cFBybktGQ3ZHaFh1SmFmWFRrdzN4MHJCdFVQRUsyVmtnUWFlWUlpLUhnTlB3VnFtdXhfY1JXRjIyNHBjUEowcy1Gd3B5d0g4QWJDNjlWNktnRERVX01makhjVXNSQnhiTXZ2SWZqVURFemloa0xCUGZVUHNWY2s4Q19KM3hMejN4ZUJ3ZWRjN2tUTERNVWFPVllGOEtHbzBFNWpvbUFXOWZVc2tEcEljRW55ejNnT1RMcXpUWmwwUkVMYkhmb3VINEVscFdadw?oc=5",
       "pubDate": "2026-10-02 09:50:59",
-      "author": "新浪财经",
-      "summary": "碳酸锂：共识内震荡 新浪财经",
+      "author": "finance.sina.cn",
+      "summary": "碳酸锂：共识内震荡 finance.sina.cn",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "finance.sina.cn",
       "categories": [
         "demand"
       ],
@@ -100720,14 +100780,14 @@
       "sentiment": 0
     },
     {
-      "id": "3009077829",
-      "title": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 - 金十数据",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbUNfaEVhY3BfWXk1VTEyVU5YX3d4MEVCWDFtck9hV1VBOVpXMWVFY3YwUFRWR0w5dkNkTzREYWhmSVAtTi1hVmVVRU9ia3M?oc=5",
-      "pubDate": "2026-09-30 09:02:31",
-      "author": "金十数据",
-      "summary": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 金十数据",
+      "id": "2684103524",
+      "title": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MNTJhZDU1Q3FsdE9zWFpGLWthd2pvMHlnRDZRSnhYQ0x6WFozSVhfRUtPZ1IwdUZQeTF4bFBRejR4NXZUVlRrMnBoV3IzOFU1NndNSnVWQUUwMTRUQXpxSg?oc=5",
+      "pubDate": "2026-10-01 03:32:09",
+      "author": "东方财富",
+      "summary": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 东方财富",
       "lang": "zh",
-      "source": "金十数据",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
@@ -100735,13 +100795,13 @@
     },
     {
       "id": "3736222274",
-      "title": "North American energy storage to drive lithium carbonate demand through 2031 - miningweekly.com",
+      "title": "North American energy storage to drive lithium carbonate demand through 2031 - Mining Weekly",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
       "pubDate": "2026-09-29 08:44:00",
-      "author": "miningweekly.com",
-      "summary": "North American energy storage to drive lithium carbonate demand through 2031 miningweekly.com",
+      "author": "Mining Weekly",
+      "summary": "North American energy storage to drive lithium carbonate demand through 2031 Mining Weekly",
       "lang": "en",
-      "source": "miningweekly.com",
+      "source": "Mining Weekly",
       "categories": [
         "supply",
         "demand"
@@ -100764,13 +100824,13 @@
     },
     {
       "id": "3671728753",
-      "title": "大中矿业：加达锂矿通过评审备案，碳酸锂当量253.1万吨 - 新京报",
+      "title": "大中矿业：加达锂矿通过评审备案，碳酸锂当量253.1万吨 - bjnews.com.cn",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SRTl6Z2ZLZVAyNGtaOEdmVFdmUklsQU15cWVrODQxYXk1a2Y0T1dQa0VvZUU4LXJNS0I1cGxXRFpXUGsyMXpVNWpZYlRFQUNQbUxFblkxSkNFNU52ZVRwZThR?oc=5",
       "pubDate": "2026-09-28 12:57:00",
-      "author": "新京报",
-      "summary": "大中矿业：加达锂矿通过评审备案，碳酸锂当量253.1万吨 新京报",
+      "author": "bjnews.com.cn",
+      "summary": "大中矿业：加达锂矿通过评审备案，碳酸锂当量253.1万吨 bjnews.com.cn",
       "lang": "zh",
-      "source": "新京报",
+      "source": "bjnews.com.cn",
       "categories": [
         "demand"
       ],
@@ -100821,13 +100881,13 @@
     },
     {
       "id": "734641481",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
+      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
       "pubDate": "2026-09-14 07:00:00",
-      "author": "Reuters",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
+      "author": "reuters.com",
+      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM reuters.com",
       "lang": "en",
-      "source": "Reuters",
+      "source": "reuters.com",
       "categories": [
         "supply"
       ],
@@ -100878,8 +100938,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -100893,63 +100953,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
