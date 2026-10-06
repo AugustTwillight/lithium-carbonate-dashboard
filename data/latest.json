@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:40:15.116Z",
+  "generatedAt": "2026-10-06T23:32:13.981Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50462,10 +50462,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 106.69,
-      "changePct": 2.22,
-      "volume": 202595,
-      "amount": 21570440,
+      "price": 106.35,
+      "changePct": 1.9,
+      "volume": 1497244,
+      "amount": 159309229,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58773,15 +58773,15 @@
         },
         {
           "d": "2026-10-06",
-          "o": 105.72,
-          "c": 106.69,
+          "o": 105.41,
+          "c": 106.35,
           "h": 107.59,
-          "l": 105.03,
-          "v": 202595,
-          "amount": 21570440,
-          "amp": 2.45,
-          "chg": 2.22,
-          "delta": 2.32
+          "l": 104.975,
+          "v": 1497244,
+          "amount": 159309229,
+          "amp": 2.51,
+          "chg": 1.9,
+          "delta": 1.98
         }
       ]
     },
@@ -58791,10 +58791,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 66.3,
-      "changePct": 0.71,
-      "volume": 116400,
-      "amount": 7738944,
+      "price": 66.17,
+      "changePct": 0.52,
+      "volume": 538796,
+      "amount": 35718064,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67103,14 +67103,14 @@
         {
           "d": "2026-10-06",
           "o": 67.1,
-          "c": 66.3,
+          "c": 66.17,
           "h": 67.1,
-          "l": 65.925,
-          "v": 116400,
-          "amount": 7738944,
-          "amp": 1.78,
-          "chg": 0.71,
-          "delta": 0.47
+          "l": 65.9,
+          "v": 538796,
+          "amount": 35718064,
+          "amp": 1.82,
+          "chg": 0.52,
+          "delta": 0.34
         }
       ]
     }
@@ -67121,9 +67121,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 27664.15,
-      "changePct": 0.68,
-      "volume": 2323056448,
+      "price": 27599.89,
+      "changePct": 0.45,
+      "volume": 7658736640,
       "amount": 0,
       "klines": [
         {
@@ -75433,14 +75433,14 @@
         {
           "d": "2026-10-06",
           "o": 27641.17,
-          "c": 27664.18,
-          "h": 27693.19,
-          "l": 27613.54,
-          "v": 2323056448,
+          "c": 27599.89,
+          "h": 27722.75,
+          "l": 27592.56,
+          "v": 7658736640,
           "amount": 0,
-          "amp": 0.29,
-          "chg": 0.68,
-          "delta": 186.87
+          "amp": 0.47,
+          "chg": 0.45,
+          "delta": 122.58
         }
       ]
     },
@@ -75449,9 +75449,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 87.82,
-      "changePct": -1.8,
-      "volume": 121234,
+      "price": 89.87,
+      "changePct": 0.48,
+      "volume": 1199,
       "amount": 0,
       "klines": [
         {
@@ -84013,14 +84013,26 @@
         {
           "d": "2026-10-06",
           "o": 89.27,
-          "c": 87.83,
+          "c": 89.91,
           "h": 90.05,
           "l": 86.86,
-          "v": 121229,
+          "v": 234969,
           "amount": 0,
           "amp": 3.57,
-          "chg": -1.79,
-          "delta": -1.6
+          "chg": 0.54,
+          "delta": 0.48
+        },
+        {
+          "d": "2026-10-07",
+          "o": 89.96,
+          "c": 89.87,
+          "h": 89.96,
+          "l": 89.62,
+          "v": 1199,
+          "amount": 0,
+          "amp": 0.38,
+          "chg": 0.48,
+          "delta": 0.43
         }
       ]
     },
@@ -84029,8 +84041,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.93,
-      "changePct": -0.19,
+      "price": 101.89,
+      "changePct": 0.05,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92689,14 +92701,26 @@
         {
           "d": "2026-10-06",
           "o": 102.11,
-          "c": 101.93,
+          "c": 101.84,
           "h": 102.29,
           "l": 101.75,
           "v": 0,
           "amount": 0,
           "amp": 0.53,
-          "chg": -0.19,
-          "delta": -0.19
+          "chg": -0.26,
+          "delta": -0.27
+        },
+        {
+          "d": "2026-10-07",
+          "o": 101.85,
+          "c": 101.89,
+          "h": 101.89,
+          "l": 101.82,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.07,
+          "chg": 0.05,
+          "delta": 0.05
         }
       ]
     },
@@ -100721,20 +100745,6 @@
       "sentiment": 0
     },
     {
-      "id": "2635512538",
-      "title": "CleanTech Lithium 在最终可行性研究前确认 Laguna Verde 工艺流程 - 新闻和统计 - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUhlUHNVS0R6RzBvWlgtUEtfNkxjUXllRk94Z2JuYzhRZ2tCSks3YmNXOW1RUUtKQWlWMVhLMGNYTGNhY3JBOG9teUp6ZF92eFY3Q1dXbklRanA2WWc1S3paaWh6LWdoVGhCZklVN1RfaVd3UFdiS0hFUU5ZNzdBd241MnliRVN6ekk3aWlVcWxncnY0cVlPY2JMa2JwYm9XT19WcGRzZHA5dmpVMXhuS0JwRFQxZlJ3VTBnOWgtZmZoZ2lCcFdrSlBUY1NIN0k?oc=5",
-      "pubDate": "2026-10-06 10:20:42",
-      "author": "IndexBox",
-      "summary": "CleanTech Lithium 在最终可行性研究前确认 Laguna Verde 工艺流程 - 新闻和统计 IndexBox",
-      "lang": "zh",
-      "source": "IndexBox",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3093734937",
       "title": "碳酸锂：共识内震荡 - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOdDc1SjVXTHMwbzdTM1B4Vm1fMHFqb3ZMM2FKRS1zcTNsdW5jYl9hMHhNcTdLSWQwaVNHQS1ud2F3Wkk5UFZZSm51b29YZG9qTHkxVXFCT1ZtLTRPWl9oZ0NQVFhfWEo5d2RJT1RTZ2o0NUJZNGZwbFhsRjVDMlZMRHFwZFk5LUFmM2EzX2Q2dWRIa1FkSlc4UTg1YWdIWXI4R1JzNGIyRFlCY0IwNGE0NTdfZExwbmhWNkp1TlhYcmRCc3lIRS1TZWREckVIVi14TEdMX2lldlB4dWx5bDBQaFhuNlo3RVNSRk5iTTQ0d0FqeExsbTFVblowM2ZzQ2FmVXI2MC1nUEhMa0RxZWpkOEdiQ2duLUh3aTZfZEZ1Z29ZdGFrOWpTQ3RsZzE1bmtCeC00VDZEa0lNYW5Obkc0ekoxUTE2azJzQml5bDVfTEZFLUJtRFJPMHBtUVN0SERCeXNDdy1vbE5NdzN3MG5fZE5zbzh0T2syX2N1ZUthR1J6Y05uQ1dXdG1rSF9rdFVPZUhwY2NZMnRBczFBaVc2cF9nOG5Fbi1VeWYwQjF3S2FwVFV5SFAwSTk0bWZJRUpSUmtoMC1uSm03cUs2Z1ZfUVhCa3owdkZlcHp6OVRpMGRfbWtaQS13QWFab2pQRDROLWZmWkZIMFZZMlNyMkVNZmFVTlQyNzhFVUdpQURuaE9RN2FQWmc2LUlwOGtoM1JYTlgxNGtwUFNZQVA3a1FYSmpRTGNsVmNLcDRxVDVHSHBEdUc3SjlpOU0tUk1hSUFlSEZvZXBwWmFNTXVSempPNw?oc=5",
@@ -100749,14 +100759,14 @@
       "sentiment": 0
     },
     {
-      "id": "4208798327",
-      "title": "10月5日生意社碳酸锂(工业级)基准价为118000.00元/吨 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1FaTzVTX1Y0M0ExT3dsTWtKWVpnS28wajB1ZG8xeVY2cFJualZBQ3paNjBkU2JuQkRMWXFUV0VFd3c0NURhMHg0VzJ3anBJOWw2TUFUb0xiYjY5UW5kR01kb3M3Q295eThuaFFxeS15VlBGQURXSjVJMTBaSDVjdUlzdTlHWHpTUUE?oc=5",
-      "pubDate": "2026-10-05 00:30:00",
-      "author": "新浪财经",
-      "summary": "10月5日生意社碳酸锂(工业级)基准价为118000.00元/吨 新浪财经",
+      "id": "2865670811",
+      "title": "锂价创年内新低 超跌了吗？ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFE2UWczell4WFhtbEk5eExUM3pTTEt5dC1wM3dIWFZYblJNSWFGZVotZDBUbzAweWZ4R3ZoR05YTGpGRVVTVTFFcWQtY2FfOERkSVZ3Q003b1MxNTdzYU9kMkRHU2F1RzlPVXJfM1kwalFIT0hfZEFVU3VGdEVqNkN5SDRscHJCNGJ3cw?oc=5",
+      "pubDate": "2026-10-05 01:43:00",
+      "author": "搜狐网",
+      "summary": "锂价创年内新低 超跌了吗？ 搜狐网",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "搜狐网",
       "categories": [
         "demand"
       ],
@@ -100792,13 +100802,13 @@
     },
     {
       "id": "877892815",
-      "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply - SCMP",
+      "title": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkVZbWpBU0k5b3BrSGplN3pQZEo5S21scFdKT1hqMC1rUkxQaVZ6Qlp2bDA1ODdIeWNtV3ZuYWFSYmJ1eDl2N04xS3I4cW5NNnpaa1JCMUMzWlpaODk1SUpMaUlaQzY2MVRtM183WEpwWkZNYnlaeHNqeWsxOTVuMUtMZXN4R2pvLW9yTnIxRDNmREJUTjVXMnVrUUdTOTd4MnE5WjJMTDdOYW1XRnpKeFhGclM1SldYV0dVVlVPZDBZaUZ5eWRDZXBRek44U2NL0gHQAUFVX3lxTFB5RkcyTHRBZnFpMnBEOU1HRGVxZG1GakRTa2pnTE42RU1XMG9ka3V1cDBDVko1bVgwb05fY2N0OW4wUW82RWVmYlo2emFiWlRadFp5amxvSk85Mng5eFE5NHF0Z2ZnX3NOYkpZQ1MxSjktdGhwTWNHTkx3RkFjRE9BZW5JY3BmaVRURTl2c25fMmczRlVObGt6djhIbjN5aEo2M014MmNWZW94azRSNF82U00wcUVRb0VCeE9HY3Fxd1BqdzFrcERaWUltQUpfMEk?oc=5",
       "pubDate": "2026-10-03 07:00:11",
-      "author": "SCMP",
-      "summary": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply SCMP",
+      "author": "South China Morning Post",
+      "summary": "Chinese lithium mine registers wider vein, bolstering Beijing’s battery supply South China Morning Post",
       "lang": "en",
-      "source": "SCMP",
+      "source": "South China Morning Post",
       "categories": [
         "supply",
         "demand"
@@ -100822,13 +100832,13 @@
     },
     {
       "id": "3018981742",
-      "title": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes - panorama-minero.com",
+      "title": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes - Panorama Minero",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09Za1JhRTgxaXl0WWdUTDJMejhaamNtc2tnWEEwTkhlRUl3ZXp4d25LM3BsRmJLdjBjSDgzZE1yelhJekt3bDdYZXRub0w0NWwwOGVsMy1RVDVlTUlsdm5MdWtPS3JldjJjZzExbEdyeGg1S0QxTTFSaXRlamI0RVl2UDVYdTZHNWdEQzllX3J1TEV5T2hGeXU2eFJmQ0x5UmxEN0N0OXphZDIyX1ZlelNqcDdlSF9nLWw5Zko0ZDJ2UkpqTjhKNmNWYkR1eTFFZVE?oc=5",
       "pubDate": "2026-10-02 09:48:01",
-      "author": "",
-      "summary": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes panorama-minero.com",
+      "author": "Panorama Minero",
+      "summary": "POSCO Inaugurates a New Lithium Carbonate Plant and Plans to Expand Sal de Oro to 100,000 Tonnes Panorama Minero",
       "lang": "en",
-      "source": "Global lithium news",
+      "source": "Panorama Minero",
       "categories": [
         "supply",
         "macro"
@@ -100858,6 +100868,20 @@
       "summary": "“透支”迹象明显，碳酸锂市场如何演绎？| 期势新洞察 东方财富",
       "lang": "zh",
       "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "500142834",
+      "title": "10月2日生意社碳酸锂(电池级)基准价为120000.00元/吨 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1ZUQ2JJYjM4M3lZLURkWl85ZXZDbHhOWDNJYVdyWktMX3FaNUhVZmtUZnpIV1hoRkJBaTdfV0FTUDE2QzJHZG1Ra3Z1cEM3QVdEVm5nMlRyQ29JeTZDUXpzZkF3c3Y0OUpSMzZOaHk5aEVwMjJYRHBnNC02SnFidkt1MEFVbThKa1E?oc=5",
+      "pubDate": "2026-10-02 00:30:00",
+      "author": "新浪财经",
+      "summary": "10月2日生意社碳酸锂(电池级)基准价为120000.00元/吨 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -100908,13 +100932,13 @@
     },
     {
       "id": "1936377431",
-      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - Columbia University",
+      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - CGEP",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
       "pubDate": "2026-09-28 17:01:42",
-      "author": "Columbia University",
-      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
+      "author": "CGEP",
+      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement CGEP",
       "lang": "en",
-      "source": "Columbia University",
+      "source": "CGEP",
       "categories": [
         "supply"
       ],
@@ -100936,13 +100960,13 @@
     },
     {
       "id": "469662494",
-      "title": "China lithium carbonate futures rebound on import surge data - spglobal.com",
+      "title": "China lithium carbonate futures rebound on import surge data - S&amp;P Global",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzQ1M01VVWp4X19EdU9Gem5vTEQtcE9QS1pkNnZ3Q1BvOGZWS0RNYVB5R1JSM2Izd2NRQ05ROXk5dmlkb1F6RkRMdzlrd1p0WUJHbFNWeklMbGtON3RqbllyNTFPTWZRbWc3YjRMa2cwRHBxTzhYRkViN2gtYUtnZmhuTkpDZ05hQmRLWDNOZmRuRXBMajlhckZmVjZkdE1Rc2t3SUNqN3pIT0hZMlc3anJkUG5IWWZxYXVtSnJVam5FdnNGLXFXUkdIWjVVLXg1?oc=5",
       "pubDate": "2026-09-21 07:00:00",
-      "author": "spglobal.com",
-      "summary": "China lithium carbonate futures rebound on import surge data spglobal.com",
+      "author": "S&amp;P Global",
+      "summary": "China lithium carbonate futures rebound on import surge data S&P Global",
       "lang": "en",
-      "source": "spglobal.com",
+      "source": "S&amp;P Global",
       "categories": [
         "demand"
       ],
@@ -100964,14 +100988,14 @@
       "sentiment": 0
     },
     {
-      "id": "734641481",
-      "title": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPci1oZy1HblN3MVRYNXdiMFVXT01HOUpWMVV2OUZRQnRtZzNrOW8wQTBEdURsS2w5ZlMwNHExUDhpZ1FTd2FkZ1hqc2t0SW4tZFJaeFJ3bXVGNVV4djZJa1VfLUYtUHVrQ1FINVdCNHhWNWRZbENJbHFjQV9WWXRHVDhTRDVyeUpoMjNPZXNINXh6WnlnV2Y1eEl0T1RnNDlXZWJwV0dSS0F2OE5lLVlBMENqN09kN1k?oc=5",
-      "pubDate": "2026-09-14 07:00:00",
-      "author": "Reuters",
-      "summary": "E3 Lithium signs MoU to supply lithium carbonate to India's Epsilon CAM Reuters",
+      "id": "148527581",
+      "title": "Lawmakers to debate lithium mining in 2027 session - Mississippi Today",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUZobjNadjVpN3FqZ3dXQkpNQnlLc2RXY2xvY2I0ZzJrai05OWZUS0Qya3FBMG9maFJFZldvVDkzZ2VMaTBrVXlRZExxUlRoSm5JZVNTWXktZmMwdkRqTUJnbHNDOTM3OUxyNnV6TVZKWDBmWUNKekJfYWdkSjBVOWpMbkJSMEU?oc=5",
+      "pubDate": "2026-08-19 07:00:00",
+      "author": "Mississippi Today",
+      "summary": "Lawmakers to debate lithium mining in 2027 session Mississippi Today",
       "lang": "en",
-      "source": "Reuters",
+      "source": "Mississippi Today",
       "categories": [
         "supply"
       ],
@@ -101022,8 +101046,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -101037,63 +101061,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
