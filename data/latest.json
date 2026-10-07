@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:03:57.474Z",
+  "generatedAt": "2026-10-07T11:14:06.809Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2132,10 +2132,10 @@
       "name": "天齐锂业",
       "code": "09696",
       "role": "上游锂矿",
-      "price": 27.74,
-      "changePct": -0.79,
-      "volume": 334600,
-      "amount": 9205692,
+      "price": 27.36,
+      "changePct": -2.15,
+      "volume": 953200,
+      "amount": 26201116,
       "klines": [
         {
           "d": "2024-01-02",
@@ -10276,14 +10276,14 @@
         {
           "d": "2026-10-07",
           "o": 28.1,
-          "c": 27.74,
+          "c": 27.36,
           "h": 28.12,
-          "l": 27.32,
-          "v": 334600,
-          "amount": 9205692,
-          "amp": 2.86,
-          "chg": -0.79,
-          "delta": -0.22
+          "l": 27.24,
+          "v": 953200,
+          "amount": 26201116,
+          "amp": 3.15,
+          "chg": -2.15,
+          "delta": -0.6
         }
       ]
     },
@@ -42313,10 +42313,10 @@
       "name": "赣锋锂业",
       "code": "01772",
       "role": "上游锂盐",
-      "price": 30,
-      "changePct": -0.53,
-      "volume": 527739,
-      "amount": 15789984,
+      "price": 29.9,
+      "changePct": -0.86,
+      "volume": 1316599,
+      "amount": 39414761,
       "klines": [
         {
           "d": "2024-01-02",
@@ -50469,14 +50469,14 @@
         {
           "d": "2026-10-07",
           "o": 30.3,
-          "c": 30,
+          "c": 29.9,
           "h": 30.48,
           "l": 29.7,
-          "v": 527739,
-          "amount": 15789984,
+          "v": 1316599,
+          "amount": 39414761,
           "amp": 2.59,
-          "chg": -0.53,
-          "delta": -0.16
+          "chg": -0.86,
+          "delta": -0.26
         }
       ]
     },
@@ -75473,9 +75473,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 90.15,
-      "changePct": 0.79,
-      "volume": 12165,
+      "price": 89.86,
+      "changePct": 0.47,
+      "volume": 51965,
       "amount": 0,
       "klines": [
         {
@@ -84049,14 +84049,14 @@
         {
           "d": "2026-10-07",
           "o": 89.96,
-          "c": 90.15,
+          "c": 89.86,
           "h": 90.61,
-          "l": 89.62,
-          "v": 12165,
+          "l": 89.33,
+          "v": 51965,
           "amount": 0,
-          "amp": 1.11,
-          "chg": 0.79,
-          "delta": 0.71
+          "amp": 1.43,
+          "chg": 0.47,
+          "delta": 0.42
         }
       ]
     },
@@ -84065,8 +84065,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.04,
-      "changePct": 0.2,
+      "price": 102.32,
+      "changePct": 0.47,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92737,14 +92737,14 @@
         {
           "d": "2026-10-07",
           "o": 101.85,
-          "c": 102.04,
-          "h": 102.06,
+          "c": 102.32,
+          "h": 102.34,
           "l": 101.82,
           "v": 0,
           "amount": 0,
-          "amp": 0.24,
-          "chg": 0.2,
-          "delta": 0.2
+          "amp": 0.51,
+          "chg": 0.47,
+          "delta": 0.48
         }
       ]
     },
@@ -100755,72 +100755,17 @@
   ],
   "news": [
     {
-      "id": "1106980105",
-      "title": "杰富瑞：Wodgina锂矿产量强劲，铁矿石表现参差不齐 提供者 Investing.com - 英为财情 Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11cTJiMTZWR1NIQmZvOUtMS083cXJxSndLcXFUUzZDdG9ZWW41eFQ3UDV4RnBRNmVVOGl6WHJTOVRhN3lKMENnRnlLLVgxMzB6dExnQTFScEs5aUNqb1IwM3BGV1Z1YlJ6S2E0eXl5emFEOU5yUVhJ?oc=5",
-      "pubDate": "2026-10-06 13:56:00",
-      "author": "英为财情 Investing.com",
-      "summary": "杰富瑞：Wodgina锂矿产量强劲，铁矿石表现参差不齐 提供者 Investing.com 英为财情 Investing.com",
-      "lang": "zh",
-      "source": "英为财情 Investing.com",
+      "id": "4138222996",
+      "title": "[SMM Analysis] Lithium Carbonate Market Review During the National Day Holiday and Market Outlook - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0hwTFpDSkNpU0o1T1h3TU0wTmdrYU9aRjRkZDVPVERUcTJTWmFJN0FIcWZFc0hNUEVqUlpJcFFoRUdNUy15czc0YWFiTC1rdVRac0xLWlp0U1FyNGFIV00yXzZHcENjNVNMbVVTWHZWeEloTmphcnhlVWNLQTc3MzBjenFVVl9WYkZDT0UxWllKSUUtb3BibXZRMUFjcWxGclI5dVRoZHpSanBfbzhFSHQyeWp6dUhIYmplNW53cnZUYUI0bXNaMHJIeWxHcElRXzFPbTY2bw?oc=5",
+      "pubDate": "2026-10-07 09:12:00",
+      "author": "Shanghai Metals Market",
+      "summary": "[SMM Analysis] Lithium Carbonate Market Review During the National Day Holiday and Market Outlook Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
       "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3093734937",
-      "title": "碳酸锂：共识内震荡 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOdDc1SjVXTHMwbzdTM1B4Vm1fMHFqb3ZMM2FKRS1zcTNsdW5jYl9hMHhNcTdLSWQwaVNHQS1ud2F3Wkk5UFZZSm51b29YZG9qTHkxVXFCT1ZtLTRPWl9oZ0NQVFhfWEo5d2RJT1RTZ2o0NUJZNGZwbFhsRjVDMlZMRHFwZFk5LUFmM2EzX2Q2dWRIa1FkSlc4UTg1YWdIWXI4R1JzNGIyRFlCY0IwNGE0NTdfZExwbmhWNkp1TlhYcmRCc3lIRS1TZWREckVIVi14TEdMX2lldlB4dWx5bDBQaFhuNlo3RVNSRk5iTTQ0d0FqeExsbTFVblowM2ZzQ2FmVXI2MC1nUEhMa0RxZWpkOEdiQ2duLUh3aTZfZEZ1Z29ZdGFrOWpTQ3RsZzE1bmtCeC00VDZEa0lNYW5Obkc0ekoxUTE2azJzQml5bDVfTEZFLUJtRFJPMHBtUVN0SERCeXNDdy1vbE5NdzN3MG5fZE5zbzh0T2syX2N1ZUthR1J6Y05uQ1dXdG1rSF9rdFVPZUhwY2NZMnRBczFBaVc2cF9nOG5Fbi1VeWYwQjF3S2FwVFV5SFAwSTk0bWZJRUpSUmtoMC1uSm03cUs2Z1ZfUVhCa3owdkZlcHp6OVRpMGRfbWtaQS13QWFab2pQRDROLWZmWkZIMFZZMlNyMkVNZmFVTlQyNzhFVUdpQURuaE9RN2FQWmc2LUlwOGtoM1JYTlgxNGtwUFNZQVA3a1FYSmpRTGNsVmNLcDRxVDVHSHBEdUc3SjlpOU0tUk1hSUFlSEZvZXBwWmFNTXVSempPNw?oc=5",
-      "pubDate": "2026-10-05 08:59:27",
-      "author": "新浪财经",
-      "summary": "碳酸锂：共识内震荡 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2865670811",
-      "title": "锂价创年内新低 超跌了吗？ - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFE2UWczell4WFhtbEk5eExUM3pTTEt5dC1wM3dIWFZYblJNSWFGZVotZDBUbzAweWZ4R3ZoR05YTGpGRVVTVTFFcWQtY2FfOERkSVZ3Q003b1MxNTdzYU9kMkRHU2F1RzlPVXJfM1kwalFIT0hfZEFVU3VGdEVqNkN5SDRscHJCNGJ3cw?oc=5",
-      "pubDate": "2026-10-05 01:43:00",
-      "author": "搜狐网",
-      "summary": "锂价创年内新低 超跌了吗？ 搜狐网",
-      "lang": "zh",
-      "source": "搜狐网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1333702372",
-      "title": "新增百万吨 LCE！国内锂矿家底大幅刷新？ - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyWFpUdkRzclNmRU0tSUJoMzc4Ml96VDY2aHV5TFpjVmQ3eUUtSzhOOU5XRnhCUFRZYzRJTHlBNExoVnBBaHctNTNfTHZyUDgtb25n?oc=5",
-      "pubDate": "2026-10-05 00:00:00",
-      "author": "电子工程专辑",
-      "summary": "新增百万吨 LCE！国内锂矿家底大幅刷新？ 电子工程专辑",
-      "lang": "zh",
-      "source": "电子工程专辑",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4141375015",
-      "title": "Liontown上调资本开支35%，扩建西澳Kathleen Valley锂矿至78万吨年产量 - 上海有色金属",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hYm9TWlZDaXc3V3dyc3dMb18tZFo4TzJkZDNIb1BMdVlFTnY1ZFZ4YUt4TUNjcE9GSnVPdWtlVGlIaWdFbFZIV2ZR?oc=5",
-      "pubDate": "2026-10-04 22:12:00",
-      "author": "上海有色金属",
-      "summary": "Liontown上调资本开支35%，扩建西澳Kathleen Valley锂矿至78万吨年产量 上海有色金属",
-      "lang": "zh",
-      "source": "上海有色金属",
-      "categories": [
-        "supply"
+        "demand",
+        "macro"
       ],
       "sentiment": 0
     },
@@ -100866,76 +100811,6 @@
       "categories": [
         "supply",
         "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2551882383",
-      "title": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vcVU0bmZvejhnOExPVUFIQ3NrdnNxRDRTVGZiU2VKcXFick1vdDNSOXk4NnhiMmh0S0R1dmZXeXRIek1zOFBvZXNkNk9IZE93QWVlVjBR?oc=5",
-      "pubDate": "2026-10-02 06:52:00",
-      "author": "搜狐网",
-      "summary": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 搜狐网",
-      "lang": "zh",
-      "source": "搜狐网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3546143301",
-      "title": "“透支”迹象明显，碳酸锂市场如何演绎？| 期势新洞察 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkeWVsZkpzV0hYekw3d1lnb3dOb3RCYmtPSG9rdURrbmU5TnB0d0pZR1pYMkdHOWU5dFFxUHk1aHFWbVdjMmJqYVY4R1RlX19reE9LZHJoS3B1V1VCa3c0Zw?oc=5",
-      "pubDate": "2026-10-02 05:44:04",
-      "author": "东方财富",
-      "summary": "“透支”迹象明显，碳酸锂市场如何演绎？| 期势新洞察 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "500142834",
-      "title": "10月2日生意社碳酸锂(电池级)基准价为120000.00元/吨 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1ZUQ2JJYjM4M3lZLURkWl85ZXZDbHhOWDNJYVdyWktMX3FaNUhVZmtUZnpIV1hoRkJBaTdfV0FTUDE2QzJHZG1Ra3Z1cEM3QVdEVm5nMlRyQ29JeTZDUXpzZkF3c3Y0OUpSMzZOaHk5aEVwMjJYRHBnNC02SnFidkt1MEFVbThKa1E?oc=5",
-      "pubDate": "2026-10-02 00:30:00",
-      "author": "新浪财经",
-      "summary": "10月2日生意社碳酸锂(电池级)基准价为120000.00元/吨 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "730816567",
-      "title": "关于碳酸锂，最新利好 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOODVpVWdtWWQtTVRjM19QdWx6VjdQYXNHc0hheTNiNmdZUGlMWnRmY2lCcWY1ZjZtWFRQVFdsNWNqaEpISmEyNnA3OUExY0hLRXhxS0p0T09pdnhxTW1ZOS1uVUthbEFnNmwxbFdUblNDTnM3MFhGcHBBOWZZTEJvRkxIUERCQ3phV2NNdFdLMA?oc=5",
-      "pubDate": "2026-10-01 23:48:47",
-      "author": "21财经",
-      "summary": "关于碳酸锂，最新利好 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3795744316",
-      "title": "我国锂矿找矿，有新突破 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlQ0UzNMSlBYZWFqa2d0Z1ZPRlJOVnlVeEhXc0dYVVNmaTRuRkNQMllveTF6SjdPc1dtYnFsQ19nMlVxRnJUYjB2ZzhNMDVueVF4WTdzX2VNQjZrcHlIVzJCeXM5WUdJVDJLWWVXNm9HVmE1SHp4QUtLUzh3cW1KWnFRQWliRzJGd0xlLXZNMA?oc=5",
-      "pubDate": "2026-10-01 09:36:36",
-      "author": "21财经",
-      "summary": "我国锂矿找矿，有新突破 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -101012,20 +100887,6 @@
       "sentiment": 0
     },
     {
-      "id": "148527581",
-      "title": "Lawmakers to debate lithium mining in 2027 session - Mississippi Today",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUZobjNadjVpN3FqZ3dXQkpNQnlLc2RXY2xvY2I0ZzJrai05OWZUS0Qya3FBMG9maFJFZldvVDkzZ2VMaTBrVXlRZExxUlRoSm5JZVNTWXktZmMwdkRqTUJnbHNDOTM3OUxyNnV6TVZKWDBmWUNKekJfYWdkSjBVOWpMbkJSMEU?oc=5",
-      "pubDate": "2026-08-19 07:00:00",
-      "author": "Mississippi Today",
-      "summary": "Lawmakers to debate lithium mining in 2027 session Mississippi Today",
-      "lang": "en",
-      "source": "Mississippi Today",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3847838595",
       "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
@@ -101085,8 +100946,8 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
