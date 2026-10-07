@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T11:14:06.809Z",
+  "generatedAt": "2026-10-07T17:53:32.336Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -100755,6 +100755,34 @@
   ],
   "news": [
     {
+      "id": "310995020",
+      "title": "BPCC带您深入了解巴罗索锂矿项目——葡萄牙居民报 - Portugal Resident",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVlNmdXpJa2pmcXFHWnJBYURiUWlJcC1zb3ozU2paZFdfbEZZX0ZlYjBwSlVlSlplaUhDYlhDc3FETkZUeklfQVJacFZiNV9mVVV0bDlveVJKYmdLa09ZV2E1LVdjNzQtVVFkRk1sYjRGaGVCejNpQkNlQjNFY0xHMi0wTGdfMmV0WmZzMlVFdEJZa18xelBTTmUxUGplT2hubFhOZUhTenBCX1ZHc2lHci13ZVFqRUEtT05OMkxXTHVoaDhqaF9GYUlfbWpiYXd0d2pwZE1XcWt3dTg1bnRiNW9Jd3REQzdU?oc=5",
+      "pubDate": "2026-10-07 16:30:34",
+      "author": "Portugal Resident",
+      "summary": "BPCC带您深入了解巴罗索锂矿项目——葡萄牙居民报 Portugal Resident",
+      "lang": "zh",
+      "source": "Portugal Resident",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1072234068",
+      "title": "高盛：27-28年锂电需求崩盘，碳酸锂供给过剩！ - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVplV0NqdGFpTGlTN3JSVkRzYjd3MV85NUlUU2FPMDBkMUFVeGxJYlBRSVpvWGdlMkJDZllaY2gtUWlkUVotLTNkVUltVXdiWV85aW0tTGZUZ0l4cWluLXNKVkJVS3loUGZ2ZkN4QUlyS2IzUWJRV1lVaDQtMFB5a2xuVjk5dFV4VHk3YQ?oc=5",
+      "pubDate": "2026-10-07 11:34:58",
+      "author": "搜狐网",
+      "summary": "高盛：27-28年锂电需求崩盘，碳酸锂供给过剩！ 搜狐网",
+      "lang": "zh",
+      "source": "搜狐网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
       "id": "4138222996",
       "title": "[SMM Analysis] Lithium Carbonate Market Review During the National Day Holiday and Market Outlook - Shanghai Metals Market",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0hwTFpDSkNpU0o1T1h3TU0wTmdrYU9aRjRkZDVPVERUcTJTWmFJN0FIcWZFc0hNUEVqUlpJcFFoRUdNUy15czc0YWFiTC1rdVRac0xLWlp0U1FyNGFIV00yXzZHcENjNVNMbVVTWHZWeEloTmphcnhlVWNLQTc3MzBjenFVVl9WYkZDT0UxWllKSUUtb3BibXZRMUFjcWxGclI5dVRoZHpSanBfbzhFSHQyeWp6dUhIYmplNW53cnZUYUI0bXNaMHJIeWxHcElRXzFPbTY2bw?oc=5",
@@ -100766,6 +100794,76 @@
       "categories": [
         "demand",
         "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1615805270",
+      "title": "10月7日生意社碳酸锂(工业级)基准价为118000.00元/吨 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWHhIekROeDBHeG1HQnF5V0RrSE5Da3N5UjFJQTV0UnMtUmVESHZiMEVTTHhKb0Z0MXVZZ0V0SDMtd3dXUnhGUVgzdXVrd0tWeURhaDYyaTdPRHJhSXMxcEZuUjB1SExTeXp5eXJ0YlMzd0R2c01Fb21kNkRtVEpKZDFUQ2ZMY1p4MEE?oc=5",
+      "pubDate": "2026-10-07 00:30:00",
+      "author": "新浪财经",
+      "summary": "10月7日生意社碳酸锂(工业级)基准价为118000.00元/吨 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3093734937",
+      "title": "碳酸锂：共识内震荡 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOdDc1SjVXTHMwbzdTM1B4Vm1fMHFqb3ZMM2FKRS1zcTNsdW5jYl9hMHhNcTdLSWQwaVNHQS1ud2F3Wkk5UFZZSm51b29YZG9qTHkxVXFCT1ZtLTRPWl9oZ0NQVFhfWEo5d2RJT1RTZ2o0NUJZNGZwbFhsRjVDMlZMRHFwZFk5LUFmM2EzX2Q2dWRIa1FkSlc4UTg1YWdIWXI4R1JzNGIyRFlCY0IwNGE0NTdfZExwbmhWNkp1TlhYcmRCc3lIRS1TZWREckVIVi14TEdMX2lldlB4dWx5bDBQaFhuNlo3RVNSRk5iTTQ0d0FqeExsbTFVblowM2ZzQ2FmVXI2MC1nUEhMa0RxZWpkOEdiQ2duLUh3aTZfZEZ1Z29ZdGFrOWpTQ3RsZzE1bmtCeC00VDZEa0lNYW5Obkc0ekoxUTE2azJzQml5bDVfTEZFLUJtRFJPMHBtUVN0SERCeXNDdy1vbE5NdzN3MG5fZE5zbzh0T2syX2N1ZUthR1J6Y05uQ1dXdG1rSF9rdFVPZUhwY2NZMnRBczFBaVc2cF9nOG5Fbi1VeWYwQjF3S2FwVFV5SFAwSTk0bWZJRUpSUmtoMC1uSm03cUs2Z1ZfUVhCa3owdkZlcHp6OVRpMGRfbWtaQS13QWFab2pQRDROLWZmWkZIMFZZMlNyMkVNZmFVTlQyNzhFVUdpQURuaE9RN2FQWmc2LUlwOGtoM1JYTlgxNGtwUFNZQVA3a1FYSmpRTGNsVmNLcDRxVDVHSHBEdUc3SjlpOU0tUk1hSUFlSEZvZXBwWmFNTXVSempPNw?oc=5",
+      "pubDate": "2026-10-05 08:59:27",
+      "author": "新浪财经",
+      "summary": "碳酸锂：共识内震荡 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1333702372",
+      "title": "新增百万吨 LCE！国内锂矿家底大幅刷新？ - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyWFpUdkRzclNmRU0tSUJoMzc4Ml96VDY2aHV5TFpjVmQ3eUUtSzhOOU5XRnhCUFRZYzRJTHlBNExoVnBBaHctNTNfTHZyUDgtb25n?oc=5",
+      "pubDate": "2026-10-05 00:00:00",
+      "author": "电子工程专辑",
+      "summary": "新增百万吨 LCE！国内锂矿家底大幅刷新？ 电子工程专辑",
+      "lang": "zh",
+      "source": "电子工程专辑",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4141375015",
+      "title": "Liontown上调资本开支35%，扩建西澳Kathleen Valley锂矿至78万吨年产量 - 上海有色金属",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hYm9TWlZDaXc3V3dyc3dMb18tZFo4TzJkZDNIb1BMdVlFTnY1ZFZ4YUt4TUNjcE9GSnVPdWtlVGlIaWdFbFZIV2ZR?oc=5",
+      "pubDate": "2026-10-04 22:12:00",
+      "author": "上海有色金属",
+      "summary": "Liontown上调资本开支35%，扩建西澳Kathleen Valley锂矿至78万吨年产量 上海有色金属",
+      "lang": "zh",
+      "source": "上海有色金属",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3009077829",
+      "title": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JbUNfaEVhY3BfWXk1VTEyVU5YX3d4MEVCWDFtck9hV1VBOVpXMWVFY3YwUFRWR0w5dkNkTzREYWhmSVAtTi1hVmVVRU9ia3M?oc=5",
+      "pubDate": "2026-10-03 14:54:12",
+      "author": "金十数据",
+      "summary": "碳酸锂在什么情况下才能止跌？ | 金十期货热图-市场参考 金十数据",
+      "lang": "zh",
+      "source": "金十数据",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     },
@@ -100815,6 +100913,34 @@
       "sentiment": 0
     },
     {
+      "id": "730816567",
+      "title": "关于碳酸锂，最新利好 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOODVpVWdtWWQtTVRjM19QdWx6VjdQYXNHc0hheTNiNmdZUGlMWnRmY2lCcWY1ZjZtWFRQVFdsNWNqaEpISmEyNnA3OUExY0hLRXhxS0p0T09pdnhxTW1ZOS1uVUthbEFnNmwxbFdUblNDTnM3MFhGcHBBOWZZTEJvRkxIUERCQ3phV2NNdFdLMA?oc=5",
+      "pubDate": "2026-10-01 23:48:47",
+      "author": "21财经",
+      "summary": "关于碳酸锂，最新利好 21财经",
+      "lang": "zh",
+      "source": "21财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2684103524",
+      "title": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MNTJhZDU1Q3FsdE9zWFpGLWthd2pvMHlnRDZRSnhYQ0x6WFozSVhfRUtPZ1IwdUZQeTF4bFBRejR4NXZUVlRrMnBoV3IzOFU1NndNSnVWQUUwMTRUQXpxSg?oc=5",
+      "pubDate": "2026-10-01 03:32:09",
+      "author": "东方财富",
+      "summary": "“金九”落空，碳酸锂价格跌至12万元关口，下游10月排产增速或放缓 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3736222274",
       "title": "North American energy storage to drive lithium carbonate demand through 2031 - Mining Weekly",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
@@ -100847,11 +100973,25 @@
       "id": "3621125457",
       "title": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report - Cureus",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORzVCb2RuQWh3Y2dHSFBBVGkwV2IzYVJpWXZ2b1JCeDhHbkU4RkF2aFJXbWdlR2RIMnNRU2dDbkIxWjRkV3BSa0E0QjJBaDQ3UmxsdWZFVTBWVnZBbXBhLXdFZWhzNzc1YmFjZzdXQnhsT2dTZVMyNEU2VWExc0E2NjBxMzVDLVRvXzVOc0ZmcFdXMEFOaWZNRGo0RVBnRFVPLXlzb3hkcno1dE5TNlUxT1lST09BVHRQLTMzS1NMR1EyRG1nUHZVd2NtZzV0SlVZelBSNlMzUTRIdmlTSTlIY1BIeWlCSU1rYktnVVAwUEdjb0tDYWtEOTAyTExVVWxPYUhPSklwTXpnVDVYc28zNU85bFZJbkJL?oc=5",
-      "pubDate": "2026-09-22 13:34:57",
+      "pubDate": "2026-09-22 07:00:00",
       "author": "Cureus",
       "summary": "Lithium Carbonate as Treatment for Paliperidone Long-Acting Injection-Induced Leukopenia and Neutropenia in a Patient With Schizophrenia: A Case Report Cureus",
       "lang": "en",
       "source": "Cureus",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1494396043",
+      "title": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XZWNKcXhPSER0bDdIVHFMWTI0cTR1N0Z2MXVGckIwbkNCMjhrX1dUcERwSGh4R2VKZmprR2JQd2pyV3pjS3ppVkhXZkhHdw?oc=5",
+      "pubDate": "2026-09-21 09:46:32",
+      "author": "观点网",
+      "summary": "广期所调整工业硅多晶硅碳酸锂等期货合约涨跌停板幅度及保证金标准 观点网",
+      "lang": "zh",
+      "source": "观点网",
       "categories": [
         "demand"
       ],
@@ -100931,8 +101071,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -100951,58 +101091,58 @@
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
