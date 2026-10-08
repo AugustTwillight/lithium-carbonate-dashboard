@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:19:35.949Z",
+  "generatedAt": "2026-10-08T16:45:04.055Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50570,10 +50570,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 102.75,
-      "changePct": -3.39,
-      "volume": 1931384,
-      "amount": 199468720,
+      "price": 100.89,
+      "changePct": -1.81,
+      "volume": 837860,
+      "amount": 85008402,
       "klines": [
         {
           "d": "2024-01-02",
@@ -58902,6 +58902,18 @@
           "amp": 2.73,
           "chg": -3.39,
           "delta": -3.6
+        },
+        {
+          "d": "2026-10-08",
+          "o": 102.24,
+          "c": 100.89,
+          "h": 102.69,
+          "l": 100.52,
+          "v": 837860,
+          "amount": 85008402,
+          "amp": 2.11,
+          "chg": -1.81,
+          "delta": -1.86
         }
       ]
     },
@@ -58911,10 +58923,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 64.61,
-      "changePct": -2.36,
-      "volume": 849605,
-      "amount": 54970677,
+      "price": 64.34,
+      "changePct": -0.42,
+      "volume": 254105,
+      "amount": 16387866,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67243,6 +67255,18 @@
           "amp": 2.89,
           "chg": -2.36,
           "delta": -1.56
+        },
+        {
+          "d": "2026-10-08",
+          "o": 64.215,
+          "c": 64.34,
+          "h": 64.92,
+          "l": 64.1,
+          "v": 254105,
+          "amount": 16387866,
+          "amp": 1.27,
+          "chg": -0.42,
+          "delta": -0.27
         }
       ]
     }
@@ -67253,9 +67277,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 27538.69,
-      "changePct": -0.22,
-      "volume": 6457816832,
+      "price": 27362,
+      "changePct": -0.64,
+      "volume": 3886336832,
       "amount": 0,
       "klines": [
         {
@@ -75585,6 +75609,18 @@
           "amp": 0.75,
           "chg": -0.22,
           "delta": -61.2
+        },
+        {
+          "d": "2026-10-08",
+          "o": 27416.03,
+          "c": 27362,
+          "h": 27491.89,
+          "l": 27339.74,
+          "v": 3886336832,
+          "amount": 0,
+          "amp": 0.55,
+          "chg": -0.64,
+          "delta": -176.69
         }
       ]
     },
@@ -75593,9 +75629,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 91.78,
-      "changePct": 3.96,
-      "volume": 52930,
+      "price": 91.05,
+      "changePct": 3.14,
+      "volume": 211424,
       "amount": 0,
       "klines": [
         {
@@ -84181,14 +84217,14 @@
         {
           "d": "2026-10-08",
           "o": 89,
-          "c": 91.78,
-          "h": 92.03,
+          "c": 91.05,
+          "h": 93.2,
           "l": 88.77,
-          "v": 52930,
+          "v": 211424,
           "amount": 0,
-          "amp": 3.69,
-          "chg": 3.96,
-          "delta": 3.5
+          "amp": 5.02,
+          "chg": 3.14,
+          "delta": 2.77
         }
       ]
     },
@@ -84197,8 +84233,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.37,
-      "changePct": 0.1,
+      "price": 102.28,
+      "changePct": 0.01,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -92881,14 +92917,14 @@
         {
           "d": "2026-10-08",
           "o": 102.28,
-          "c": 102.37,
-          "h": 102.4,
-          "l": 102.13,
+          "c": 102.28,
+          "h": 102.47,
+          "l": 102.03,
           "v": 0,
           "amount": 0,
-          "amp": 0.26,
-          "chg": 0.1,
-          "delta": 0.1
+          "amp": 0.43,
+          "chg": 0.01,
+          "delta": 0.01
         }
       ]
     },
@@ -100911,6 +100947,48 @@
   ],
   "news": [
     {
+      "id": "2324751346",
+      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
+      "pubDate": "2026-10-08 16:11:16",
+      "author": "Fastmarkets",
+      "summary": "Delayed publication of lithium carbonate, hydroxide assessments Fastmarkets",
+      "lang": "en",
+      "source": "Fastmarkets",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "2055164368",
+      "title": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the holiday - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFV3QU44WmkwZGthaWcwZ2Naa3Z2bXc3RzZyZF9TV0RGWFJUV21JZVE0ODdMSFR1WnhuWms1VHpDaXdhYS1PYVF2a2lvWTRBWmdDeFNuYm9kS29jS0VtWUtwWTNFVXpWSkVCYXotbU82VlUxbjZmeWViT3I3OVByYk9jTnJYTmxHSWhydHRoa0VvaVZ3UkhlNmZlMm1JcHhod1llaHlUVWVTZElqaGlXT1pZN3JCSWV0SW5sVl9XTXFXenBEZXBwMl9abTBDUm9JejhWUUlRMk1HdFk?oc=5",
+      "pubDate": "2026-10-08 10:30:00",
+      "author": "Shanghai Metals Market",
+      "summary": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the holiday Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "171665151",
+      "title": "广期所氢氧化锂期货期权合约征求意见，锂电风险管理工具再扩容 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDODdCcmlNbHRCU2p4RXZodUJLVWRlYkxxc3ZvSFBtSEpNaEhEZ0pfY1pKdE1yME12d012UERLREpfdDRaR0J0RElKUkF1Rl9NdDhZSVNCYWM1bmNrVkhCNkdtN3dvZw?oc=5",
+      "pubDate": "2026-10-08 09:11:35",
+      "author": "东方财富",
+      "summary": "广期所氢氧化锂期货期权合约征求意见，锂电风险管理工具再扩容 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2404656553",
       "title": "广期所就氢氧化锂期货和期权合约及相关规则公开征求意见 - 证券之星",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GNHhxVUQxRy1SbWNFemJsVGpsTGtPRHpBU2s2a19UQm83UEpvd3c4TzVZTDRhWUI5d0Zoa2R6ZjFCUWJLNzRtWGZURUR6SXVreG9WbUd6ZWFEVWFPVWFyWA?oc=5",
@@ -100925,6 +101003,20 @@
       "sentiment": 0
     },
     {
+      "id": "2240017922",
+      "title": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDVVVLeWJYbVFCQW81SlM4Z2ZMcnlZaVpCMFRUQmR5MkF6bWc0SkZHVjBrdUVYM0lZTHVmV01WdzVkYkFOYWkxdXRfYU9sdVBHaWRtaHJMM1FoMmp0UlE?oc=5",
+      "pubDate": "2026-10-08 08:17:20",
+      "author": "同花顺",
+      "summary": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 同花顺",
+      "lang": "zh",
+      "source": "同花顺",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3389568118",
       "title": "生意社： 金九预期落空，碳酸锂月内跌幅23% - 新浪财经",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUjljZkFRa0xjYnppbkRtOWc2WmFhaXZYX2p1YWNURDRKMG1EVDhTaUZtQkIxZlp0TFdMTnBKTTMtTl9vWFkwdlJaUFM5SXE2ekd0U3Q5TEdIemVmejdpc3Z3bHNRNUJtY2hjZ1JnRmx3QmZuZ0ZKSEVyRmo5ZER0WGM3TEYtLWV6SEE?oc=5",
@@ -100933,20 +101025,6 @@
       "summary": "生意社： 金九预期落空，碳酸锂月内跌幅23% 新浪财经",
       "lang": "zh",
       "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4097083618",
-      "title": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告_7x24快讯_新浪财经 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyQmJWVmY5YUZzZ0hESmhOUUJDb21NbTdNV1VoWnlRSWUxaHpDMWtLT3NNdFRoWHRuV0NhMHBiNDV6Y3A5dUdnTzh4bw?oc=5",
-      "pubDate": "2026-10-08 08:10:28",
-      "author": "手机新浪网",
-      "summary": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告_7x24快讯_新浪财经 手机新浪网",
-      "lang": "zh",
-      "source": "手机新浪网",
       "categories": [
         "demand"
       ],
@@ -101012,7 +101090,7 @@
       "id": "3460241677",
       "title": "金属涨跌互现 碳酸锂领涨 沪铜、伦锌涨幅居前 钯暴跌 沪银铁矿领跌【SMM午评】 - 上海有色金属",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nbmZnQVVaSVdWQTdVWDUxVDNnRUsxNFNoR2N4d3hDR3NLc2dFa2k4enR0Y05aQ2RwdHIyVDNaRE10Q1d3YktWel93?oc=5",
-      "pubDate": "2026-10-07 14:13:00",
+      "pubDate": "2026-10-07 15:16:00",
       "author": "上海有色金属",
       "summary": "金属涨跌互现 碳酸锂领涨 沪铜、伦锌涨幅居前 钯暴跌 沪银铁矿领跌【SMM午评】 上海有色金属",
       "lang": "zh",
@@ -101023,43 +101101,14 @@
       "sentiment": 0
     },
     {
-      "id": "3359338287",
-      "title": "Andrada 纳米比亚 Lithium Ridge 项目再获高品位锂矿钻探结果 - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9weUxHRnZZWTk3RHF2VnBFUEt5UkRIQXRlN1otVnFGSE1PVFpuYmhOMzFaY2ZISm5NMjRSX2FSNzZGMGhqUDNYRkJXaTRZbi1rMTFrelB3cUE2NDk5dnpidXNGbmZ2c282V0pWSHJQdTVtUQ?oc=5",
-      "pubDate": "2026-10-07 12:12:55",
-      "author": "NAI500",
-      "summary": "Andrada 纳米比亚 Lithium Ridge 项目再获高品位锂矿钻探结果 NAI500",
+      "id": "3093734937",
+      "title": "碳酸锂：共识内震荡 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxOdDc1SjVXTHMwbzdTM1B4Vm1fMHFqb3ZMM2FKRS1zcTNsdW5jYl9hMHhNcTdLSWQwaVNHQS1ud2F3Wkk5UFZZSm51b29YZG9qTHkxVXFCT1ZtLTRPWl9oZ0NQVFhfWEo5d2RJT1RTZ2o0NUJZNGZwbFhsRjVDMlZMRHFwZFk5LUFmM2EzX2Q2dWRIa1FkSlc4UTg1YWdIWXI4R1JzNGIyRFlCY0IwNGE0NTdfZExwbmhWNkp1TlhYcmRCc3lIRS1TZWREckVIVi14TEdMX2lldlB4dWx5bDBQaFhuNlo3RVNSRk5iTTQ0d0FqeExsbTFVblowM2ZzQ2FmVXI2MC1nUEhMa0RxZWpkOEdiQ2duLUh3aTZfZEZ1Z29ZdGFrOWpTQ3RsZzE1bmtCeC00VDZEa0lNYW5Obkc0ekoxUTE2azJzQml5bDVfTEZFLUJtRFJPMHBtUVN0SERCeXNDdy1vbE5NdzN3MG5fZE5zbzh0T2syX2N1ZUthR1J6Y05uQ1dXdG1rSF9rdFVPZUhwY2NZMnRBczFBaVc2cF9nOG5Fbi1VeWYwQjF3S2FwVFV5SFAwSTk0bWZJRUpSUmtoMC1uSm03cUs2Z1ZfUVhCa3owdkZlcHp6OVRpMGRfbWtaQS13QWFab2pQRDROLWZmWkZIMFZZMlNyMkVNZmFVTlQyNzhFVUdpQURuaE9RN2FQWmc2LUlwOGtoM1JYTlgxNGtwUFNZQVA3a1FYSmpRTGNsVmNLcDRxVDVHSHBEdUc3SjlpOU0tUk1hSUFlSEZvZXBwWmFNTXVSempPNw?oc=5",
+      "pubDate": "2026-10-05 08:59:27",
+      "author": "新浪财经",
+      "summary": "碳酸锂：共识内震荡 新浪财经",
       "lang": "zh",
-      "source": "NAI500",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4138222996",
-      "title": "[SMM Analysis] Lithium Carbonate Market Review During the National Day Holiday and Market Outlook - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ0hwTFpDSkNpU0o1T1h3TU0wTmdrYU9aRjRkZDVPVERUcTJTWmFJN0FIcWZFc0hNUEVqUlpJcFFoRUdNUy15czc0YWFiTC1rdVRac0xLWlp0U1FyNGFIV00yXzZHcENjNVNMbVVTWHZWeEloTmphcnhlVWNLQTc3MzBjenFVVl9WYkZDT0UxWllKSUUtb3BibXZRMUFjcWxGclI5dVRoZHpSanBfbzhFSHQyeWp6dUhIYmplNW53cnZUYUI0bXNaMHJIeWxHcElRXzFPbTY2bw?oc=5",
-      "pubDate": "2026-10-07 09:12:00",
-      "author": "Shanghai Metals Market",
-      "summary": "[SMM Analysis] Lithium Carbonate Market Review During the National Day Holiday and Market Outlook Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "demand",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1333702372",
-      "title": "新增百万吨 LCE！国内锂矿家底大幅刷新？ - 电子工程专辑",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyWFpUdkRzclNmRU0tSUJoMzc4Ml96VDY2aHV5TFpjVmQ3eUUtSzhOOU5XRnhCUFRZYzRJTHlBNExoVnBBaHctNTNfTHZyUDgtb25n?oc=5",
-      "pubDate": "2026-10-05 00:00:00",
-      "author": "电子工程专辑",
-      "summary": "新增百万吨 LCE！国内锂矿家底大幅刷新？ 电子工程专辑",
-      "lang": "zh",
-      "source": "电子工程专辑",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -101164,20 +101213,6 @@
       "categories": [
         "supply",
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "148527581",
-      "title": "Lawmakers to debate lithium mining in 2027 session - Mississippi Today",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUZobjNadjVpN3FqZ3dXQkpNQnlLc2RXY2xvY2I0ZzJrai05OWZUS0Qya3FBMG9maFJFZldvVDkzZ2VMaTBrVXlRZExxUlRoSm5JZVNTWXktZmMwdkRqTUJnbHNDOTM3OUxyNnV6TVZKWDBmWUNKekJfYWdkSjBVOWpMbkJSMEU?oc=5",
-      "pubDate": "2026-08-19 07:00:00",
-      "author": "Mississippi Today",
-      "summary": "Lawmakers to debate lithium mining in 2027 session Mississippi Today",
-      "lang": "en",
-      "source": "Mississippi Today",
-      "categories": [
-        "supply"
       ],
       "sentiment": 0
     },
