@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:37:28.948Z",
+  "generatedAt": "2026-10-10T21:05:26.086Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -101103,6 +101103,20 @@
   ],
   "news": [
     {
+      "id": "3659807320",
+      "title": "【碳酸锂周报】弱预期主导趋势延续，碳酸锂偏弱运行 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakFrcTlJQnNvc09GTXFlOVpzSU1BSFdVRXVDVkJjdVNzYk4ySmVEOGUzblM4QkZYNmFrcFg3WHUwaF9pbl9mWUE4a1h0Nm9ZSXBVcWh3bnpyZXhzNzl6RmZkVHZDRkRna2Ewa1RkNnVoS1pWTnRkSjVBOXh5cWRId0dRUFBaSGZkMDB5bg?oc=5",
+      "pubDate": "2026-10-10 14:00:37",
+      "author": "搜狐",
+      "summary": "【碳酸锂周报】弱预期主导趋势延续，碳酸锂偏弱运行 搜狐",
+      "lang": "zh",
+      "source": "搜狐",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1994530053",
       "title": "安达科技：碳酸锂期货套期保值业务浮亏5860.19万元 - 新浪网",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY20yVTNkdThGNV9MdFFQN3ZPcVhIOS16bmxGRURKRWtCX2ZPMVFIWmRXRlVWZ0ZraWNobTZCMk1BdWQwVjRNWUxPVFd0ZDRUUXl1YU1BaE9JVUVzbXlkUzExUG02SThfd0Z1ZXJyWUN5U0M0bUFyVGtMMFhWUVpMQjFB?oc=5",
@@ -101125,20 +101139,6 @@
       "summary": "安达科技碳酸锂套保，确认损益及阶段性浮亏合计5860万元，占去年归母净利润绝对值22.82% 新浪财经",
       "lang": "zh",
       "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4148769637",
-      "title": "碳酸锂负反馈风险仍存 期价延续承压下挫 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVA1dTJFNjloSVRnTllCZFJPWk9NS0xuRW96akxEa2tCY0FMSk5YQ0dIUmZ4UTR5TnZ2VENVUDU0RWNnOWxoZWY3dlptQ1ozQ3VXLWVhcW5JUTdYUW9KRG5hMUtGMEVFb3Y5V0g1QVowVTY1RF91ckJTU1NabUFDNVFfT1pkM1VIZllLTg?oc=5",
-      "pubDate": "2026-10-10 03:46:59",
-      "author": "搜狐网",
-      "summary": "碳酸锂负反馈风险仍存 期价延续承压下挫 搜狐网",
-      "lang": "zh",
-      "source": "搜狐网",
       "categories": [
         "demand"
       ],
@@ -101245,11 +101245,11 @@
     },
     {
       "id": "2055164368",
-      "title": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the holiday - Shanghai Metals Market",
+      "title": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the National Day holiday - Shanghai Metals Market",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFV3QU44WmkwZGthaWcwZ2Naa3Z2bXc3RzZyZF9TV0RGWFJUV21JZVE0ODdMSFR1WnhuWms1VHpDaXdhYS1PYVF2a2lvWTRBWmdDeFNuYm9kS29jS0VtWUtwWTNFVXpWSkVCYXotbU82VlUxbjZmeWViT3I3OVByYk9jTnJYTmxHSWhydHRoa0VvaVZ3UkhlNmZlMm1JcHhod1llaHlUVWVTZElqaGlXT1pZN3JCSWV0SW5sVl9XTXFXenBEZXBwMl9abTBDUm9JejhWUUlRMk1HdFk?oc=5",
       "pubDate": "2026-10-08 10:30:00",
       "author": "Shanghai Metals Market",
-      "summary": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the holiday Shanghai Metals Market",
+      "summary": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the National Day holiday Shanghai Metals Market",
       "lang": "en",
       "source": "Shanghai Metals Market",
       "categories": [
@@ -101272,6 +101272,20 @@
       "sentiment": 0
     },
     {
+      "id": "1075435117",
+      "title": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nV29xblA4WGo3cWwzYW5yWTdUZkJFWEhKaDVseDJNbUNCWmlaUjRrRmlMMmxrZjNFM1daM1NKTlhSZEJiZDY0UTVXS3FObDZ0N1FPWHhJVkpUZ0VxSnVFdFl3?oc=5",
+      "pubDate": "2026-10-08 08:25:32",
+      "author": "同花顺财经",
+      "summary": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 同花顺财经",
+      "lang": "zh",
+      "source": "同花顺财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1554142018",
       "title": "广期所就氢氧化锂期货和期权合约及相关规则公开征求意见 - 证券之星",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSGk2RW15TTROS3BQS0NQSWgtQzJTcjI2cThZbGRyR05raG9CbVRvS0d1YUZ0czZ1OGphYm5KaW1RUEVlQ0JJQXlkMEpuUkE3Ml95MEJ1TmhTVzhTYVlIaWlB?oc=5",
@@ -101280,20 +101294,6 @@
       "summary": "广期所就氢氧化锂期货和期权合约及相关规则公开征求意见 证券之星",
       "lang": "zh",
       "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2240017922",
-      "title": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDVVVLeWJYbVFCQW81SlM4Z2ZMcnlZaVpCMFRUQmR5MkF6bWc0SkZHVjBrdUVYM0lZTHVmV01WdzVkYkFOYWkxdXRfYU9sdVBHaWRtaHJMM1FoMmp0UlE?oc=5",
-      "pubDate": "2026-10-08 08:17:20",
-      "author": "同花顺财经",
-      "summary": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 同花顺财经",
-      "lang": "zh",
-      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
@@ -101415,8 +101415,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -101430,63 +101430,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     }
   ]
 }
