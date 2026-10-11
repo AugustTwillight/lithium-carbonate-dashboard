@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:19:08.854Z",
+  "generatedAt": "2026-10-11T06:08:21.465Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -88093,14 +88093,14 @@
         {
           "d": "2025-03-10",
           "o": 103.9,
-          "c": 103.95,
+          "c": 103.93,
           "h": 104.07,
           "l": 103.56,
           "v": 0,
           "amount": 0,
           "amp": 0.49,
-          "chg": 0.06,
-          "delta": 0.06
+          "chg": 0.04,
+          "delta": 0.04
         },
         {
           "d": "2025-03-11",
@@ -88111,8 +88111,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.72,
-          "chg": -0.53,
-          "delta": -0.55
+          "chg": -0.51,
+          "delta": -0.53
         },
         {
           "d": "2025-03-12",
@@ -101415,8 +101415,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "No futures quote"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -101430,63 +101430,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
