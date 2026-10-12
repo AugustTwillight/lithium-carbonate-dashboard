@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:30:55.452Z",
+  "generatedAt": "2026-10-12T08:31:34.896Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2152,11 +2152,11 @@
     ]
   },
   "spot": {
-    "price": 122350,
+    "price": 115400,
     "date": "2026-10-12",
-    "dayPct": -2.08,
-    "monthPct": -15.48,
-    "yearPct": 66.35,
+    "dayPct": -5.68,
+    "monthPct": -16.77,
+    "yearPct": 57.87,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -101223,12 +101223,82 @@
   ],
   "news": [
     {
-      "id": "3036182768",
-      "title": "江特电机“一号工程”向开工建设推进 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zLXU5RFUxcVZpcnRlZkwzZnZOX0daRG1fRUllRWg1WlRUSTJ5UHl6akN5OHd5UUxHdXBLV3RFV0hFX1VTU0k2eFBMbGVtbElCb3hJWFZzdG9vNW5LNzlLeg?oc=5",
-      "pubDate": "2026-10-11 17:56:16",
+      "id": "4034929718",
+      "title": "狂泻逾11%！碳酸锂缘何崩了？ - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rTU9XMkR2aU91SXQ2QWRFRjdnU29iVG5rbnFEMU5Ud3c4LU1hNlZVRzJIYnJOUTM1cHhfTTZZVjY2bFljeXRPTWpOaDgxcVgwSGdZSWJKVmU1b0VyZlhiZTdTY3hxWk9CcFNzMGduV0g5Zw?oc=5",
+      "pubDate": "2026-10-12 08:14:46",
+      "author": "金融界",
+      "summary": "狂泻逾11%！碳酸锂缘何崩了？ 金融界",
+      "lang": "zh",
+      "source": "金融界",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "518143454",
+      "title": "国内商品期货收盘涨跌不一 碳酸锂跌超11% - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KcG1ULTBnU1UxbXVhY285NWNidkRtbEhZWlRQbnVUZl92aTVnVW85ODBVVzlHUHRydXowTy1nZGQyUDZHelpnUUlBMExERHpmanVfRTQ2TVdQemdsOU9UUg?oc=5",
+      "pubDate": "2026-10-12 07:06:27",
+      "author": "证券之星",
+      "summary": "国内商品期货收盘涨跌不一 碳酸锂跌超11% 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2094661560",
+      "title": "再度大跌！碳酸锂创年内新低，5月至今已近腰斩 - 华尔街见闻",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13UExIUGJrTWIzZmdQbWM0MHVNcUpiRG1sRF9Va3FkNE1tWUVlZUpQYWxOOVBuTk95U21RZlNzZlVrSFloaElJZ1VRZ1VHcVhXZzFj?oc=5",
+      "pubDate": "2026-10-12 06:11:31",
+      "author": "华尔街见闻",
+      "summary": "再度大跌！碳酸锂创年内新低，5月至今已近腰斩 华尔街见闻",
+      "lang": "zh",
+      "source": "华尔街见闻",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2641145673",
+      "title": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0hrNHJyUVlja0ZWRlZTdEhjTEpCemYyVXFFNGZzN21XMWVqVW1BNXl3Q3BTcEVPQkdmRzllOHJYSERVelhZLThXQmN2VDJHbWwwZ0dqSEhobVpxOWNHZlNVRUxiYUlGdjZ5bmloVzdkOVBYMzV4aXktM1JGOXNXbnY0NXA1ZEJiMHRxSXJjUQ?oc=5",
+      "pubDate": "2026-10-12 06:03:00",
+      "author": "21财经",
+      "summary": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 21财经",
+      "lang": "zh",
+      "source": "21财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2809605032",
+      "title": "碳酸锂期货，大跌10% - 凤凰网",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDamQzTGMtUmJheE00bkN1S2RmMVViMlpIdGpic2ZEMTRzMlVhUW9RWkpBbkdramFfeGZFQWFLYzhCNEU2enRjdzl3T1BOUlMz?oc=5",
+      "pubDate": "2026-10-12 05:46:30",
+      "author": "凤凰网",
+      "summary": "碳酸锂期货，大跌10% 凤凰网",
+      "lang": "zh",
+      "source": "凤凰网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2200465022",
+      "title": "广期所碳酸锂主力合约暴跌10% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oanBoblNGX1BsYkk5NUIwWFAtTFR5dnpMalhpYzNHd25TLUhjWTJZdTgzXzg5NXlMSHRGN0FQQWhhaktyQnZjTWdkcGw2U2JCMTdiSkQwaEl0c0NYZW5lbg?oc=5",
+      "pubDate": "2026-10-12 05:44:31",
       "author": "东方财富",
-      "summary": "江特电机“一号工程”向开工建设推进 东方财富",
+      "summary": "广期所碳酸锂主力合约暴跌10% 东方财富",
       "lang": "zh",
       "source": "东方财富",
       "categories": [
@@ -101237,26 +101307,26 @@
       "sentiment": 0
     },
     {
-      "id": "1775364082",
-      "title": "年产300万吨 江特电机茜坑锂矿向开工建设推进 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtMlZKaEU1X1l6VXBkRkpBT0x5TUFsa200aWIzUUNBcC1qQUlqMXVmR3p0UWNCT0FOMUgxS2dKWWJEUFV2c1l5RGFVeFVjU3BYRHY0cy13SW1SbFdncTR5SnhB?oc=5",
-      "pubDate": "2026-10-11 10:48:32",
-      "author": "证券之星",
-      "summary": "年产300万吨 江特电机茜坑锂矿向开工建设推进 证券之星",
+      "id": "4091733024",
+      "title": "碳酸锂期货跌破11万元，高盛预测2028年供应过剩 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EZjNHaWVqU0oyd0hONXVyeTlkTzJ1WXJJcmZxT2plWFRPbnY1am40ZURhQTRuSVdFMkZTVEMzdVFnUjQtT3JhUjZubnJEb2lVTkl4VUlRSjk1cm8wS2c?oc=5",
+      "pubDate": "2026-10-12 05:44:28",
+      "author": "同花顺",
+      "summary": "碳酸锂期货跌破11万元，高盛预测2028年供应过剩 同花顺",
       "lang": "zh",
-      "source": "证券之星",
+      "source": "同花顺",
       "categories": [
-        "demand"
+        "supply"
       ],
-      "sentiment": 0
+      "sentiment": -0.3333333333333333
     },
     {
-      "id": "2668110413",
-      "title": "江特电机：茜坑锂矿300万吨/年采矿工程安全设施设计通过审查|自然资源部|锂矿资源|江西省|宜丰县|宜春市 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96SHQzLVpWelZ3MEE3QW1iSlZTcFdmR1VMU01PdGtHNzNHeGtpMmh2OUp1akV6TUJUcThHRU8za203cmhyYXRmVWVZcUlZQVdGZHlpdzQzb1hIdjZ6dmI4RGMwYW8xZ2gtNmtlNndWYm10eFhVSEM2cw?oc=5",
-      "pubDate": "2026-10-11 08:57:38",
+      "id": "1165130764",
+      "title": "国泰君安期货：碳酸锂今年来首次失守11万关口 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWEyUGN3SENwVjZGVUlrWnBkbklxUHlzTGpjaG9wSmRRbDVNRUhSd3RNYnlPdW0zX3c2YjFVVUYwRUxDTzJubTU0RkYyWVdfSDBaVk96dnZuTklsWXctTWVEXzA2SFNxQ2hvVkdDX3l0N2M1QVFSZWswdGVZY2xXbmRtdEFiMlZiWFdaMQ?oc=5",
+      "pubDate": "2026-10-12 05:27:00",
       "author": "新浪财经",
-      "summary": "江特电机：茜坑锂矿300万吨/年采矿工程安全设施设计通过审查|自然资源部|锂矿资源|江西省|宜丰县|宜春市 新浪财经",
+      "summary": "国泰君安期货：碳酸锂今年来首次失守11万关口 新浪财经",
       "lang": "zh",
       "source": "新浪财经",
       "categories": [
@@ -101265,42 +101335,42 @@
       "sentiment": 0
     },
     {
-      "id": "1962099834",
-      "title": "江特电机(002176):收到《江西省宜丰县茜坑锂矿300万吨/年采矿工程安全设施设计审查意见书》 - 中财网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ia2ZyeDQ5YkpWUUlSQVEyMURQTHI1dzZBYU1DSDhFRDZfS3QzRkx5YTVWOHlsaEhKazZoMkRNb2llZVpobEtxc1NsS25mU0YtNC1PRXNR?oc=5",
-      "pubDate": "2026-10-11 08:41:40",
-      "author": "中财网",
-      "summary": "江特电机(002176):收到《江西省宜丰县茜坑锂矿300万吨/年采矿工程安全设施设计审查意见书》 中财网",
+      "id": "4272362778",
+      "title": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment] - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNaklvYTVpQ0VkRUNuT3JDNlZlSFJOQms4bFNINExZYkJ5RkhucWd2eHpVV2N3T3dOdVJvQVBiZkRrY25iczBEWWVKVlBUSFE5WVkxblkzajNLdzF5UFhBTU5TcEJLOXBIYldKdVNuSFp4WndndHE3VllFVng3U3I0cjBmOUxabzAxUWgyejdXMWxubnBtNWVqUzhRVjUyQ3BxOHJ1SllQeEF5d1BMaTluQVBVeUcwY1VpYVZCZ2ZOQk5FcDFDNWRjdGc2SmV0RWZjbFhIeVd5ZjJsR3ZUN1YxWDRQdnUtc201UzJpMlYycDY2bHNyNWJzMHQ3RjFPamM3N282cjVMNlNjN2dfRW5sWmVPS2JiUEpEaHEzUzJySXdNbHc4aXN5UlNpZDg5UVJNRXJjYnU4ajJaOTls?oc=5",
+      "pubDate": "2026-10-12 03:53:00",
+      "author": "Shanghai Metals Market",
+      "summary": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment] Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2191604751",
+      "title": "碳酸锂主力合约10月12日跌破11万关口 日内跌幅超7% - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GaWZXQnZDY1JIOWhxNFdSVDFsTHhLNXRiLXBTRDl3STVFVzZXbzNlNXRyRmN0R05NeTU4d21jaktoM21Bb3BKcHNJYV92WWd5eWNCVmQyaEd3dkVEbHBzSzl3?oc=5",
+      "pubDate": "2026-10-12 02:49:16",
+      "author": "观点网",
+      "summary": "碳酸锂主力合约10月12日跌破11万关口 日内跌幅超7% 观点网",
       "lang": "zh",
-      "source": "中财网",
+      "source": "观点网",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "3863301142",
-      "title": "江特电机：茜坑锂矿300万吨/年采矿工程安全设施设计通过审查 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOSzVOWTdIcVdxMlNTcGozWHRmUTJYM0VGWWZNRTRkNGExV042NEFzMElKcS1vckNkM3Ayc1dBWm9sV0RXajZrYzlLVWR4Mi1MSzUwbkI4ZXpjZm03RlFkbA?oc=5",
-      "pubDate": "2026-10-11 08:38:22",
-      "author": "证券之星",
-      "summary": "江特电机：茜坑锂矿300万吨/年采矿工程安全设施设计通过审查 证券之星",
+      "id": "3219810082",
+      "title": "碳酸锂主力合约跌超8% 今年以来首次跌破11万关口- 中国金融信息网 - 中国金融信息网",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yZzFIOWE4cWV6eVBySUF3eExIaWVXZmk0WHp3aFctSVlRMW5jdm85eTRXWDlNUU83dlA1QkJ1WTdPSkdvLU1pLVFudUoxYlJOcHVlS253MFgxNkwwekJFSkF5WHlUZXRBaFE?oc=5",
+      "pubDate": "2026-10-12 01:48:00",
+      "author": "中国金融信息网",
+      "summary": "碳酸锂主力合约跌超8% 今年以来首次跌破11万关口- 中国金融信息网 中国金融信息网",
       "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2551278155",
-      "title": "安达科技碳酸锂套保，确认损益及阶段性浮亏合计5860万元，占去年归母净利润绝对值22.82% - 新浪新闻",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5UWYyQ3kwUURVeW5NaF9lMmI4LXZWQzNhUlo0Nl9YdU41ajZJbVZRNjZYQm8tWnlXOE04TUgycWFhZHlxaW1WRzdSZUNRV0t5N1c2LXNsc0VWb0U5QWt2MWNEX0VTRVBhaUdwS3Y5Zkg?oc=5",
-      "pubDate": "2026-10-09 15:48:00",
-      "author": "新浪新闻",
-      "summary": "安达科技碳酸锂套保，确认损益及阶段性浮亏合计5860万元，占去年归母净利润绝对值22.82% 新浪新闻",
-      "lang": "zh",
-      "source": "新浪新闻",
+      "source": "中国金融信息网",
       "categories": [
         "demand"
       ],
@@ -101349,20 +101419,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3569007388",
-      "title": "Cleantech Lithium在智利Laguna Verde成功验证高纯度碳酸锂生产工艺流程 - 上海有色金属",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5UNDFXaDhFeVdtMkNRWTFfSTBaOVo1RmNON3FEa2JIaGZoalNpNWJHcU1ZcHJXUkVZYllvMkRlYzg4UlNRc2RPdFRB?oc=5",
-      "pubDate": "2026-10-08 20:32:00",
-      "author": "上海有色金属",
-      "summary": "Cleantech Lithium在智利Laguna Verde成功验证高纯度碳酸锂生产工艺流程 上海有色金属",
-      "lang": "zh",
-      "source": "上海有色金属",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2324751346",
       "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
@@ -101375,62 +101431,6 @@
         "macro"
       ],
       "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "2055164368",
-      "title": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the National Day holiday - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFV3QU44WmkwZGthaWcwZ2Naa3Z2bXc3RzZyZF9TV0RGWFJUV21JZVE0ODdMSFR1WnhuWms1VHpDaXdhYS1PYVF2a2lvWTRBWmdDeFNuYm9kS29jS0VtWUtwWTNFVXpWSkVCYXotbU82VlUxbjZmeWViT3I3OVByYk9jTnJYTmxHSWhydHRoa0VvaVZ3UkhlNmZlMm1JcHhod1llaHlUVWVTZElqaGlXT1pZN3JCSWV0SW5sVl9XTXFXenBEZXBwMl9abTBDUm9JejhWUUlRMk1HdFk?oc=5",
-      "pubDate": "2026-10-08 10:30:00",
-      "author": "Shanghai Metals Market",
-      "summary": "[SMM Analysis] Spot lithium carbonate prices drift higher on the first working day after the National Day holiday Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1075435117",
-      "title": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nV29xblA4WGo3cWwzYW5yWTdUZkJFWEhKaDVseDJNbUNCWmlaUjRrRmlMMmxrZjNFM1daM1NKTlhSZEJiZDY0UTVXS3FObDZ0N1FPWHhJVkpUZ0VxSnVFdFl3?oc=5",
-      "pubDate": "2026-10-08 08:25:32",
-      "author": "同花顺财经",
-      "summary": "广期所：关于就氢氧化锂期货和期权合约及相关规则公开征求意见的公告 同花顺财经",
-      "lang": "zh",
-      "source": "同花顺财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2356091213",
-      "title": "10月8日，广期所碳酸锂期货仓单31870手，环比上个交易日减少120手；多晶硅期货仓单23260手，环比上个交易日增加50手；工业硅期货仓单33190手，环比上个交易日减少7手。 - 21经济网 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWZ6RnFoWkFPNFZaZkZMZGZLUC12QWprRVludGw5Ri1laHMtQTMySkFzODhaM2prVkF2NjNJdXVsTDd1S0JLLUxBQ015VnZtN18teEFFZVRoZkZJVUZFQ09UNVg2RXc3UUQ3cW80Znlrc0N5UFNLMFhGUmlFUF9QdVd3RmZVbTYtLVhIZDFHRQ?oc=5",
-      "pubDate": "2026-10-08 08:07:03",
-      "author": "21财经",
-      "summary": "10月8日，广期所碳酸锂期货仓单31870手，环比上个交易日减少120手；多晶硅期货仓单23260手，环比上个交易日增加50手；工业硅期货仓单33190手，环比上个交易日减少7手。 - 21经济网 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1734709981",
-      "title": "高盛下调赣锋锂业目标价至31港元 预期碳酸锂基准价年内见顶 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ISGd2Um9Ua3B4OTQzUHVjRDhlNmhiNENrLXhXVm56NFltUDJmVjdKQS1CSTY1ZXM5MUpCTXV6R3RueGY1R2s4alprTnNnR20wZDNOdXFGZ09wdFVKTHY4Wk9R?oc=5",
-      "pubDate": "2026-10-08 07:08:24",
-      "author": "观点网",
-      "summary": "高盛下调赣锋锂业目标价至31港元 预期碳酸锂基准价年内见顶 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     },
     {
       "id": "3736222274",
@@ -101534,8 +101534,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -101549,63 +101549,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
