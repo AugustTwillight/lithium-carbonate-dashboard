@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T01:05:04.219Z",
+  "generatedAt": "2026-10-13T08:02:29.897Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2152,11 +2152,11 @@
     ]
   },
   "spot": {
-    "price": 115400,
+    "price": 111650,
     "date": "2026-10-13",
-    "dayPct": -5.68,
-    "monthPct": -16.77,
-    "yearPct": 57.87,
+    "dayPct": -3.25,
+    "monthPct": -19.47,
+    "yearPct": 52.95,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -101259,14 +101259,98 @@
   ],
   "news": [
     {
-      "id": "3390246093",
-      "title": "碳酸锂期货大跌近12%，价格逼近10万元关口！旺季行情为何突然熄火？ - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04TUh0NURvclZRUXhFai1aV3EtMXdhZHhkT1FNakhGRzBZX010dUU2UTJ0Rnc1MUhSVGdpNmFiMFFmcmpadEk4NEtEVG5jQmpDMFY3S0R2UE0zR2FCYUplVFl3?oc=5",
-      "pubDate": "2026-10-12 23:14:41",
+      "id": "1235939870",
+      "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
+      "pubDate": "2026-10-13 07:04:00",
+      "author": "AZoMining",
+      "summary": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? AZoMining",
+      "lang": "en",
+      "source": "AZoMining",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2701568711",
+      "title": "Metals mostly fall; lithium carbonate drops for ninth consecutive day; alumina, polysilicon, SHFE zinc, and palladium lead declines; crude oil pulls back [SMM Midday Commentary] - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQNWdqOEtRcmxRd1R2bUZuVWo1WVdHTmI1VGlaRzRWb0FtUE1rNnZnWWZsTnM1UmVKcm4wR0lJNGxLemtlNWtHOHdJQ0NUQW1QU21mMEFmUWljNmxxdzJhRlJMaXVqV1JlQWhoNkNqUlN2Q0tTeWFidVNHXzdYZzA0Q0EyN0s5VWFXRVN1SXk1NXBXVWQyd0J3MUZaNDZUYXR5akQwWGZ6LXJQaWNCOEVHeDUxT2x5OGRIblRYNG8tSm10R1NqRDhGZF90X19FVHBXRGMyVDZjU2dfRTJxYVIwaGVndXdtRmEwTDVNYk1SalhXUVRtVGZtQ3lzLVZRRkJnakU5MHFvNDdScnFoNWxXTW55VllqVVJsQlVpWllYZk5fSGh3NXdOc2phSUl1VU5GQkQycHZHVkRGZw?oc=5",
+      "pubDate": "2026-10-13 04:02:00",
+      "author": "Shanghai Metals Market",
+      "summary": "Metals mostly fall; lithium carbonate drops for ninth consecutive day; alumina, polysilicon, SHFE zinc, and palladium lead declines; crude oil pulls back [SMM Midday Commentary] Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "3923780836",
+      "title": "【热点解读】新能源车渗透率创61.6%新高！碳酸锂腰斩至10万关口，出口退税下调！ - Jiemian.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZYmhiLWxoWUNNNFNIMTQ2c09fdndSVVh3WVNibnA1V2pvSzNTTmlXbGJtaDV3Qk9BLTZqVnEzdThTeTllX1ZEWGpJdmpOMjhMU2tMbWdTd2Y?oc=5",
+      "pubDate": "2026-10-13 01:34:41",
+      "author": "Jiemian.com",
+      "summary": "【热点解读】新能源车渗透率创61.6%新高！碳酸锂腰斩至10万关口，出口退税下调！ Jiemian.com",
+      "lang": "zh",
+      "source": "Jiemian.com",
+      "categories": [
+        "policy"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1833010275",
+      "title": "天铁科技：旗下安徽天铁碳酸锂产能目前为每年1万吨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56b05BbmtBODJHVGR2ek9yVW5tWnlDbGVyM2FmZVVMekpyQ1RIRWp3T0loNTZRSDBid1BoUDV5WW9DYUl4bExQXzVxRi15UDNmcUtEWTZ0Rmd2bnpiWU1oVnNKcjBDQQ?oc=5",
+      "pubDate": "2026-10-13 01:31:40",
+      "author": "东方财富",
+      "summary": "天铁科技：旗下安徽天铁碳酸锂产能目前为每年1万吨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3179462396",
+      "title": "国内商品期货开盘 碳酸锂跌超4% - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pUGFsclpCR2lzczhrUnNnR1A3LUdpR0xBOFRiWmE2dHRfNXdfMktVT2I1WmFYUlRjNTMtTHJBeGNhUWtFb202YmZXNXRGQ0poOFp0Rjl3cllBQ1VyU3Fwdjdn?oc=5",
+      "pubDate": "2026-10-13 01:03:19",
       "author": "证券之星",
-      "summary": "碳酸锂期货大跌近12%，价格逼近10万元关口！旺季行情为何突然熄火？ 证券之星",
+      "summary": "国内商品期货开盘 碳酸锂跌超4% 证券之星",
       "lang": "zh",
       "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "468425706",
+      "title": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qeFZERUJiMTFHZUdkNWIxT2FKckF2bXNzc2gxeENrY0pOVWhhZ201U2JNc1E3elpWM1FHSXpfOUF5SHRZOElLLUFjdjQtNnMwbENDTkxtUjAtSFJFR1hKLQ?oc=5",
+      "pubDate": "2026-10-12 23:45:10",
+      "author": "东方财富",
+      "summary": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2712012545",
+      "title": "碳酸锂价格持续调整 刷新年内低点 - 证券时报网",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZcFRZQnRWMVpXS1JJemtuSm5ZM1JyTktUMjJCUnpTUzdHYzM2N2ZmSW44QUNUdDM4YU5kM2NJRFRvN1podkk3TFRRRUR4azZ2Rk82TUVHanhidXd5?oc=5",
+      "pubDate": "2026-10-12 22:46:00",
+      "author": "证券时报网",
+      "summary": "碳酸锂价格持续调整 刷新年内低点 证券时报网",
+      "lang": "zh",
+      "source": "证券时报网",
       "categories": [
         "demand"
       ],
@@ -101287,20 +101371,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3133005860",
-      "title": "碳酸锂主力合约日内跌幅达5.00% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjLW1SaXI0YUlfbXJCdWZsNkYwTW1LRzdmREJCb1dibDBuQjE4RTA4MG1zRlFKYUJzbExqRFczd1pJVkpzLWhZb2dqb0VNRGFnSXFFOTQ0TjBtR3ZHX1FIRw?oc=5",
-      "pubDate": "2026-10-12 14:49:10",
-      "author": "东方财富",
-      "summary": "碳酸锂主力合约日内跌幅达5.00% 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2089079272",
       "title": "Albemarle (ALB) Shares Drop Amid China Lithium Price Slump and M - GuruFocus",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0JxdjB2WHRzQ1lOX1V0UENmaWMyWWJjMUszMExlNUh5NHVDRnpTODJNX1BqOGhNbmIwNzlzSEliUThkNjk4ZWpKWS1xLXYxcjEyeWZuSS1zQzFiOEhKSDJSblRPS2lnUkx6ZUE4X1VXODRRQ2lrdTEyaHRoR2ctY0ZDYkJuaS1Ddk5KbXd3dVVqZ1ZDdUdlVHhUYTBHNWRYWFo1MGlrQUZXcFd4NXNNcVV1cThVS2JvdnhnbXlaRkI?oc=5",
@@ -101309,20 +101379,6 @@
       "summary": "Albemarle (ALB) Shares Drop Amid China Lithium Price Slump and M GuruFocus",
       "lang": "en",
       "source": "GuruFocus",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2920387920",
-      "title": "碳酸锂，暴跌11.79%！ - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUeFNyakswSUNGMlpOMHl3WFI5MUYwRFZvWmR4RTNnZC1STGVYUWRTVm9ack1CNkpYVXczY1dxRXFodXdmbWF1eTRfYks5MHNkN3BLM2IyNW8xaFBuUjMtRg?oc=5",
-      "pubDate": "2026-10-12 12:55:02",
-      "author": "证券之星",
-      "summary": "碳酸锂，暴跌11.79%！ 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
       "categories": [
         "demand"
       ],
@@ -101386,48 +101442,6 @@
       "sentiment": 0
     },
     {
-      "id": "1095796695",
-      "title": "[SMM Analysis] LFP Black Mass Prices Drop Significantly Post-National Day as Seller Hesitation Eases - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUMwVXlYVW5NMENGU0NDRG50S2x6N0NSV3h0UGVRUERUVVB4S2hlcDl3eG9LUUJZUlB1Uk5TMl8zcWZPR09Tb1hDZFVXcW8xOGZ6ZkV5dkgyT1JYbk9Db0gwaFFvNWdiaXpOTm03UkY0VVNYdWtPc1g2VlMwVzZjSDhxS2hQQVlDcVJfQUJoVjN1Ymc2dWQ1OVVjdDBKb2pNUm5rOUVnVGQtRXZqY0pIdHRMTmszYXNoY1k2UThaMkF3ZVA1NTlicmVZbzBUOVBySlF0ZGVVd2Y1RHc?oc=5",
-      "pubDate": "2026-10-12 10:23:00",
-      "author": "Shanghai Metals Market",
-      "summary": "[SMM Analysis] LFP Black Mass Prices Drop Significantly Post-National Day as Seller Hesitation Eases Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4057646569",
-      "title": "期货收评：碳酸锂重挫跌超11%！甲醇大跌逾7% 橡胶沪银逆势走强 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tdGJkYlM3TV9vRTNhcWRONGEzTmhjYnVIZ2haSVFsMHpGNXhaZmwtemZOb3JnT2FRdjVHX1VvQzZKN29uRmViS3RkVHRCWlI0ektaa0ZhWWQxYVdELXc?oc=5",
-      "pubDate": "2026-10-12 07:07:55",
-      "author": "同花顺财经",
-      "summary": "期货收评：碳酸锂重挫跌超11%！甲醇大跌逾7% 橡胶沪银逆势走强 同花顺财经",
-      "lang": "zh",
-      "source": "同花顺财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2094661560",
-      "title": "再度大跌！碳酸锂创年内新低，5月至今已近腰斩 - 华尔街见闻",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13UExIUGJrTWIzZmdQbWM0MHVNcUpiRG1sRF9Va3FkNE1tWUVlZUpQYWxOOVBuTk95U21RZlNzZlVrSFloaElJZ1VRZ1VHcVhXZzFj?oc=5",
-      "pubDate": "2026-10-12 06:11:31",
-      "author": "华尔街见闻",
-      "summary": "再度大跌！碳酸锂创年内新低，5月至今已近腰斩 华尔街见闻",
-      "lang": "zh",
-      "source": "华尔街见闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "740992081",
       "title": "暴跌11%创年内新低！碳酸锂击穿11万关口 锂矿股集体重挫 融捷股份、盛新锂能跌幅均超5% 周期底再度延后 - 金融界",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sZGdpWlhWUHU1M3h5NzRBb0ZUYjZVdVFVM093eE9XNEpmSTNJR0t6cDhtMWR6dDlGMFJobmp1X1pQTThmcy12a3pDaTVQRVlCQjl1T0xzUTNjUUI0bmV5VVR1UQ?oc=5",
@@ -101442,18 +101456,32 @@
       "sentiment": 0
     },
     {
-      "id": "2641145673",
-      "title": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0hrNHJyUVlja0ZWRlZTdEhjTEpCemYyVXFFNGZzN21XMWVqVW1BNXl3Q3BTcEVPQkdmRzllOHJYSERVelhZLThXQmN2VDJHbWwwZ0dqSEhobVpxOWNHZlNVRUxiYUlGdjZ5bmloVzdkOVBYMzV4aXktM1JGOXNXbnY0NXA1ZEJiMHRxSXJjUQ?oc=5",
-      "pubDate": "2026-10-12 06:03:00",
-      "author": "21财经",
-      "summary": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 21财经",
+      "id": "4091733024",
+      "title": "碳酸锂期货跌破11万元，高盛预测2028年供应过剩 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EZjNHaWVqU0oyd0hONXVyeTlkTzJ1WXJJcmZxT2plWFRPbnY1am40ZURhQTRuSVdFMkZTVEMzdVFnUjQtT3JhUjZubnJEb2lVTkl4VUlRSjk1cm8wS2c?oc=5",
+      "pubDate": "2026-10-12 05:44:28",
+      "author": "同花顺",
+      "summary": "碳酸锂期货跌破11万元，高盛预测2028年供应过剩 同花顺",
       "lang": "zh",
-      "source": "21财经",
+      "source": "同花顺",
       "categories": [
-        "demand"
+        "supply"
       ],
-      "sentiment": 0
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "4231154234",
+      "title": "supply-side resumption and expansion weigh on lithium prices - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZk95Qk82ZHhOczlvbUdydlpkUEwxcEtrTWhSUmdUcFpsVmswSEUyZmhfWTlINjNyUmpCcENqenZOUVlIcmFrX2M4M3FiYW9md0NPMDRQdURlT1hBck1uS0haTnEtZV84LXBqamtGbjJxd3UxMXZHVHlaTGFCT1FCUTNna2ZVYmVnQ2ZZNngtOG53aFFxb3RWOGNoOFZra0ZJdXVSRVRuRnJBQQ?oc=5",
+      "pubDate": "2026-10-12 03:18:27",
+      "author": "Moomoo",
+      "summary": "supply-side resumption and expansion weigh on lithium prices Moomoo",
+      "lang": "en",
+      "source": "Moomoo",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": -0.3333333333333333
     },
     {
       "id": "1106385805",
@@ -101508,34 +101536,6 @@
       "source": "Columbia University",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3904992338",
-      "title": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? - Crux Investor",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2hOTTZPd3FCb2E5el9VczI0UnVwVFl6MEZFb1JFa0ttNUwxdnRkcTdkSWN5Zmlob3VNRFdSQWFkSUZDZlJuRk1INWhDSzR2UTQtclV6LUxsLWNuUlNNODNJSDd5RU5DX294VmtkS0d0ZXdYY2NWY2RSNmlNekJBdzN6NW1uQ3RfNVFpWWNZSkwteUY1anFWQ2dMSnhSdmhReUE?oc=5",
-      "pubDate": "2026-09-23 07:00:00",
-      "author": "Crux Investor",
-      "summary": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? Crux Investor",
-      "lang": "en",
-      "source": "Crux Investor",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "469662494",
-      "title": "China lithium carbonate futures rebound on import surge data - S&amp;P Global",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzQ1M01VVWp4X19EdU9Gem5vTEQtcE9QS1pkNnZ3Q1BvOGZWS0RNYVB5R1JSM2Izd2NRQ05ROXk5dmlkb1F6RkRMdzlrd1p0WUJHbFNWeklMbGtON3RqbllyNTFPTWZRbWc3YjRMa2cwRHBxTzhYRkViN2gtYUtnZmhuTkpDZ05hQmRLWDNOZmRuRXBMajlhckZmVjZkdE1Rc2t3SUNqN3pIT0hZMlc3anJkUG5IWWZxYXVtSnJVam5FdnNGLXFXUkdIWjVVLXg1?oc=5",
-      "pubDate": "2026-09-21 07:00:00",
-      "author": "S&amp;P Global",
-      "summary": "China lithium carbonate futures rebound on import surge data S&P Global",
-      "lang": "en",
-      "source": "S&amp;P Global",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     }
