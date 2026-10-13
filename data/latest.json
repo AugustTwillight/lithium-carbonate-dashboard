@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:32:06.957Z",
+  "generatedAt": "2026-10-13T01:05:04.219Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2153,7 +2153,7 @@
   },
   "spot": {
     "price": 115400,
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "dayPct": -5.68,
     "monthPct": -16.77,
     "yearPct": 57.87,
@@ -101259,18 +101259,46 @@
   ],
   "news": [
     {
-      "id": "2316180597",
-      "title": "碳酸锂期货跌近12%，较5月高点已“腰斩” 锂企高管：价格下跌影响预期 - www.mrjjxw.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YWTdHMnE4MnJxOTlJTkVPSXRMeW11TnZ2cHBsVTZVTU4yeGJ6ZFFYNE1rcEhBVjVwY2ZLeVBtMWk1Y3pCZEd0WkJQa0p2eTVzQzhhNTFYRVd4enFOU3JfQjVobXV4dw?oc=5",
-      "pubDate": "2026-10-12 13:45:59",
-      "author": "www.mrjjxw.com",
-      "summary": "碳酸锂期货跌近12%，较5月高点已“腰斩” 锂企高管：价格下跌影响预期 www.mrjjxw.com",
+      "id": "3390246093",
+      "title": "碳酸锂期货大跌近12%，价格逼近10万元关口！旺季行情为何突然熄火？ - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04TUh0NURvclZRUXhFai1aV3EtMXdhZHhkT1FNakhGRzBZX010dUU2UTJ0Rnc1MUhSVGdpNmFiMFFmcmpadEk4NEtEVG5jQmpDMFY3S0R2UE0zR2FCYUplVFl3?oc=5",
+      "pubDate": "2026-10-12 23:14:41",
+      "author": "证券之星",
+      "summary": "碳酸锂期货大跌近12%，价格逼近10万元关口！旺季行情为何突然熄火？ 证券之星",
       "lang": "zh",
-      "source": "www.mrjjxw.com",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "973951188",
+      "title": "大跌34％！碳酸锂期货跌破11万元创年内新低，市场提前交易供给过剩预期｜大宗风云 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNczVyZWNPWVNoOFNfVGtoZlFldFpZUDdNWEVwMlBkVGIzeWs0NjFFWExtSy1iaWxPMEZVb0k0Q3I0VmRKNDVvWUQtcXBramFrSFI0YnA5WjIxUTVYbFpuMkV1N1NwLVYzZzh3UlBFRDluZXdnSEpVcHY0OFhMSWZPTXFn?oc=5",
+      "pubDate": "2026-10-12 21:51:00",
+      "author": "新浪网",
+      "summary": "大跌34％！碳酸锂期货跌破11万元创年内新低，市场提前交易供给过剩预期｜大宗风云 新浪网",
+      "lang": "zh",
+      "source": "新浪网",
       "categories": [
         "demand"
       ],
       "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "3133005860",
+      "title": "碳酸锂主力合约日内跌幅达5.00% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjLW1SaXI0YUlfbXJCdWZsNkYwTW1LRzdmREJCb1dibDBuQjE4RTA4MG1zRlFKYUJzbExqRFczd1pJVkpzLWhZb2dqb0VNRGFnSXFFOTQ0TjBtR3ZHX1FIRw?oc=5",
+      "pubDate": "2026-10-12 14:49:10",
+      "author": "东方财富",
+      "summary": "碳酸锂主力合约日内跌幅达5.00% 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "2089079272",
@@ -101316,18 +101344,32 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3511888555",
-      "title": "碳酸锂大跌背后：有企业称现实供需偏紧，市场已担忧明年过剩 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mME51YjgyWG9PaDZ2QWNjMl9QOUUxaUUtcGsyYjJGSkVLZndJVXpNWTlfaUxxdHRPLVpCc0hrNmQxdzY0Y3pfSWFINzBZaGZ6dURFY2JkNy1UeVZJV25XZk1aWjE?oc=5",
-      "pubDate": "2026-10-12 11:11:00",
-      "author": "新京报",
-      "summary": "碳酸锂大跌背后：有企业称现实供需偏紧，市场已担忧明年过剩 新京报",
+      "id": "3447048100",
+      "title": "碳酸锂大跌背后：有企业称现实供需偏紧，市场已担忧明年过剩 - 新浪新闻_手机新浪网",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0RqUm9lYTVEdjhtdmhmZUZsZEFsQzRUYzVDeE9YX1Q1MWRaUnp2VXVVTDZyWVlMTzZtdjRTNVNZUFpuUlI4bFZxNTJnN2xDWUJkZllTUHdzMWJ5amFua28tSDNudU02QkxDRnhVbVFGR1puMTNGdExkdzE3d2hMdThhNDRzdm9UUUhaRklzYzdXNU13cjNmY0RxVWFYdmVMRjNmQnh1TnQxZnFqdEE?oc=5",
+      "pubDate": "2026-10-12 11:28:14",
+      "author": "新浪新闻_手机新浪网",
+      "summary": "碳酸锂大跌背后：有企业称现实供需偏紧，市场已担忧明年过剩 新浪新闻_手机新浪网",
       "lang": "zh",
-      "source": "新京报",
+      "source": "新浪新闻_手机新浪网",
       "categories": [
         "demand"
       ],
       "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "4086966313",
+      "title": "茜坑锂矿开发“临门一脚”，江特电机长期盈利曲线或重塑 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZklwOC0tWExsZWtMSTZNeWxkWkJkb3owM21RcW9nTUk3ZVQ4dXc3QWRhUW8wYmx5TU9sYXZpa1ZSZkNPelBKMk5QLUJaNzRKU1kxN3dHVnFPZ2FqdGFOc2lOZnBYRDhKdlJxMEhhS01uOXVSTkN5UUJJdEVwUlFocUtZeWpCYk02ZXJjZHNfZw?oc=5",
+      "pubDate": "2026-10-12 10:34:00",
+      "author": "21财经",
+      "summary": "茜坑锂矿开发“临门一脚”，江特电机长期盈利曲线或重塑 21财经",
+      "lang": "zh",
+      "source": "21财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "2106103916",
@@ -101344,14 +101386,28 @@
       "sentiment": 0
     },
     {
+      "id": "1095796695",
+      "title": "[SMM Analysis] LFP Black Mass Prices Drop Significantly Post-National Day as Seller Hesitation Eases - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLUMwVXlYVW5NMENGU0NDRG50S2x6N0NSV3h0UGVRUERUVVB4S2hlcDl3eG9LUUJZUlB1Uk5TMl8zcWZPR09Tb1hDZFVXcW8xOGZ6ZkV5dkgyT1JYbk9Db0gwaFFvNWdiaXpOTm03UkY0VVNYdWtPc1g2VlMwVzZjSDhxS2hQQVlDcVJfQUJoVjN1Ymc2dWQ1OVVjdDBKb2pNUm5rOUVnVGQtRXZqY0pIdHRMTmszYXNoY1k2UThaMkF3ZVA1NTlicmVZbzBUOVBySlF0ZGVVd2Y1RHc?oc=5",
+      "pubDate": "2026-10-12 10:23:00",
+      "author": "Shanghai Metals Market",
+      "summary": "[SMM Analysis] LFP Black Mass Prices Drop Significantly Post-National Day as Seller Hesitation Eases Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "4057646569",
-      "title": "期货收评：碳酸锂重挫跌超11%！甲醇大跌逾7% 橡胶沪银逆势走强 - 同花顺",
+      "title": "期货收评：碳酸锂重挫跌超11%！甲醇大跌逾7% 橡胶沪银逆势走强 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tdGJkYlM3TV9vRTNhcWRONGEzTmhjYnVIZ2haSVFsMHpGNXhaZmwtemZOb3JnT2FRdjVHX1VvQzZKN29uRmViS3RkVHRCWlI0ektaa0ZhWWQxYVdELXc?oc=5",
       "pubDate": "2026-10-12 07:07:55",
-      "author": "同花顺",
-      "summary": "期货收评：碳酸锂重挫跌超11%！甲醇大跌逾7% 橡胶沪银逆势走强 同花顺",
+      "author": "同花顺财经",
+      "summary": "期货收评：碳酸锂重挫跌超11%！甲醇大跌逾7% 橡胶沪银逆势走强 同花顺财经",
       "lang": "zh",
-      "source": "同花顺",
+      "source": "同花顺财经",
       "categories": [
         "demand"
       ],
@@ -101372,40 +101428,12 @@
       "sentiment": 0
     },
     {
-      "id": "2641145673",
-      "title": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0hrNHJyUVlja0ZWRlZTdEhjTEpCemYyVXFFNGZzN21XMWVqVW1BNXl3Q3BTcEVPQkdmRzllOHJYSERVelhZLThXQmN2VDJHbWwwZ0dqSEhobVpxOWNHZlNVRUxiYUlGdjZ5bmloVzdkOVBYMzV4aXktM1JGOXNXbnY0NXA1ZEJiMHRxSXJjUQ?oc=5",
-      "pubDate": "2026-10-12 06:03:00",
-      "author": "21财经",
-      "summary": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2200465022",
-      "title": "广期所碳酸锂主力合约暴跌10% - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oanBoblNGX1BsYkk5NUIwWFAtTFR5dnpMalhpYzNHd25TLUhjWTJZdTgzXzg5NXlMSHRGN0FQQWhhaktyQnZjTWdkcGw2U2JCMTdiSkQwaEl0c0NYZW5lbg?oc=5",
-      "pubDate": "2026-10-12 05:44:31",
-      "author": "东方财富",
-      "summary": "广期所碳酸锂主力合约暴跌10% 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2201297360",
-      "title": "峰哥抄底碳酸锂再度被套，浮亏48万直呼“无能”：我总是从一个坑里刚爬出来，就马上掉到另一个坑里 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DUFNjeVU2Z3oxWHFqWEhGVHBPQXI3STMyd24yS1pwSE1BNnRDQW9ub0ZWWkVKakV2c01oMG5xRlFDLVJ1SFB2VXFTcnBlRU5lTW9ZQlhFaV9KZW9yMWgwZDRKaw?oc=5",
-      "pubDate": "2026-10-12 04:15:43",
+      "id": "740992081",
+      "title": "暴跌11%创年内新低！碳酸锂击穿11万关口 锂矿股集体重挫 融捷股份、盛新锂能跌幅均超5% 周期底再度延后 - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sZGdpWlhWUHU1M3h5NzRBb0ZUYjZVdVFVM093eE9XNEpmSTNJR0t6cDhtMWR6dDlGMFJobmp1X1pQTThmcy12a3pDaTVQRVlCQjl1T0xzUTNjUUI0bmV5VVR1UQ?oc=5",
+      "pubDate": "2026-10-12 06:09:29",
       "author": "金融界",
-      "summary": "峰哥抄底碳酸锂再度被套，浮亏48万直呼“无能”：我总是从一个坑里刚爬出来，就马上掉到另一个坑里 金融界",
+      "summary": "暴跌11%创年内新低！碳酸锂击穿11万关口 锂矿股集体重挫 融捷股份、盛新锂能跌幅均超5% 周期底再度延后 金融界",
       "lang": "zh",
       "source": "金融界",
       "categories": [
@@ -101414,42 +101442,14 @@
       "sentiment": 0
     },
     {
-      "id": "4272362778",
-      "title": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment] - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNaklvYTVpQ0VkRUNuT3JDNlZlSFJOQms4bFNINExZYkJ5RkhucWd2eHpVV2N3T3dOdVJvQVBiZkRrY25iczBEWWVKVlBUSFE5WVkxblkzajNLdzF5UFhBTU5TcEJLOXBIYldKdVNuSFp4WndndHE3VllFVng3U3I0cjBmOUxabzAxUWgyejdXMWxubnBtNWVqUzhRVjUyQ3BxOHJ1SllQeEF5d1BMaTluQVBVeUcwY1VpYVZCZ2ZOQk5FcDFDNWRjdGc2SmV0RWZjbFhIeVd5ZjJsR3ZUN1YxWDRQdnUtc201UzJpMlYycDY2bHNyNWJzMHQ3RjFPamM3N282cjVMNlNjN2dfRW5sWmVPS2JiUEpEaHEzUzJySXdNbHc4aXN5UlNpZDg5UVJNRXJjYnU4ajJaOTls?oc=5",
-      "pubDate": "2026-10-12 03:53:00",
-      "author": "Shanghai Metals Market",
-      "summary": "Metals broadly rose, lithium carbonate fell below the 110,000 mark, SHFE copper, SHFE zinc, SHFE tin, and SHFE gold led the gains, SHFE silver led the rally [SMM midday comment] Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2191604751",
-      "title": "碳酸锂主力合约10月12日跌破11万关口 日内跌幅超7% - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GaWZXQnZDY1JIOWhxNFdSVDFsTHhLNXRiLXBTRDl3STVFVzZXbzNlNXRyRmN0R05NeTU4d21jaktoM21Bb3BKcHNJYV92WWd5eWNCVmQyaEd3dkVEbHBzSzl3?oc=5",
-      "pubDate": "2026-10-12 02:49:16",
-      "author": "观点网",
-      "summary": "碳酸锂主力合约10月12日跌破11万关口 日内跌幅超7% 观点网",
+      "id": "2641145673",
+      "title": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0hrNHJyUVlja0ZWRlZTdEhjTEpCemYyVXFFNGZzN21XMWVqVW1BNXl3Q3BTcEVPQkdmRzllOHJYSERVelhZLThXQmN2VDJHbWwwZ0dqSEhobVpxOWNHZlNVRUxiYUlGdjZ5bmloVzdkOVBYMzV4aXktM1JGOXNXbnY0NXA1ZEJiMHRxSXJjUQ?oc=5",
+      "pubDate": "2026-10-12 06:03:00",
+      "author": "21财经",
+      "summary": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 21财经",
       "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3219810082",
-      "title": "碳酸锂主力合约跌超8% 今年以来首次跌破11万关口- 中国金融信息网 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yZzFIOWE4cWV6eVBySUF3eExIaWVXZmk0WHp3aFctSVlRMW5jdm85eTRXWDlNUU83dlA1QkJ1WTdPSkdvLU1pLVFudUoxYlJOcHVlS253MFgxNkwwekJFSkF5WHlUZXRBaFE?oc=5",
-      "pubDate": "2026-10-12 01:48:00",
-      "author": "中国金融信息网",
-      "summary": "碳酸锂主力合约跌超8% 今年以来首次跌破11万关口- 中国金融信息网 中国金融信息网",
-      "lang": "zh",
-      "source": "中国金融信息网",
+      "source": "21财经",
       "categories": [
         "demand"
       ],
@@ -101569,8 +101569,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -101584,63 +101584,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
