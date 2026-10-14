@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T21:24:11.785Z",
+  "generatedAt": "2026-10-14T00:27:27.344Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2165,7 +2165,7 @@
   },
   "spot": {
     "price": 111650,
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "dayPct": -3.25,
     "monthPct": -19.47,
     "yearPct": 52.95,
@@ -50824,8 +50824,8 @@
       "role": "国际锂业",
       "price": 97.65,
       "changePct": -0.87,
-      "volume": 2789461,
-      "amount": 271679856,
+      "volume": 2794804,
+      "amount": 272208384,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59197,8 +59197,8 @@
           "c": 97.65,
           "h": 98.519,
           "l": 96.095,
-          "v": 2789461,
-          "amount": 271679856,
+          "v": 2794804,
+          "amount": 272208384,
           "amp": 2.46,
           "chg": -0.87,
           "delta": -0.86
@@ -59213,8 +59213,8 @@
       "role": "国际锂业",
       "price": 62.83,
       "changePct": 0.58,
-      "volume": 910047,
-      "amount": 56912399,
+      "volume": 910049,
+      "amount": 56912497,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67586,8 +67586,8 @@
           "c": 62.83,
           "h": 63.1,
           "l": 61.75,
-          "v": 910047,
-          "amount": 56912399,
+          "v": 910049,
+          "amount": 56912497,
           "amp": 2.16,
           "chg": 0.58,
           "delta": 0.36
@@ -67603,7 +67603,7 @@
       "code": "NDX",
       "price": 27204.38,
       "changePct": -0.15,
-      "volume": 6246726656,
+      "volume": 6273913088,
       "amount": 0,
       "klines": [
         {
@@ -75976,7 +75976,7 @@
           "c": 27204.38,
           "h": 27277.88,
           "l": 27116.08,
-          "v": 6246726656,
+          "v": 6273913088,
           "amount": 0,
           "amp": 0.59,
           "chg": -0.15,
@@ -75989,9 +75989,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 94.79,
-      "changePct": 1.12,
-      "volume": 224970,
+      "price": 94.9,
+      "changePct": 0.81,
+      "volume": 3374,
       "amount": 0,
       "klines": [
         {
@@ -84621,6 +84621,18 @@
           "amp": 3.64,
           "chg": 1.12,
           "delta": 1.05
+        },
+        {
+          "d": "2026-10-14",
+          "o": 94.75,
+          "c": 94.9,
+          "h": 94.99,
+          "l": 94.51,
+          "v": 3374,
+          "amount": 0,
+          "amp": 0.51,
+          "chg": 0.81,
+          "delta": 0.76
         }
       ]
     },
@@ -84629,8 +84641,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.2,
-      "changePct": 0,
+      "price": 102.18,
+      "changePct": -0.02,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -93361,14 +93373,14 @@
         {
           "d": "2026-10-14",
           "o": 102.2,
-          "c": 102.2,
+          "c": 102.18,
           "h": 102.22,
-          "l": 102.18,
+          "l": 102.16,
           "v": 0,
           "amount": 0,
-          "amp": 0.04,
-          "chg": 0,
-          "delta": 0
+          "amp": 0.06,
+          "chg": -0.02,
+          "delta": -0.02
         }
       ]
     },
@@ -101427,6 +101439,90 @@
   ],
   "news": [
     {
+      "id": "1892338065",
+      "title": "茜坑锂矿开发“临门一脚” 江特电机长期盈利曲线或重塑 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnJfVGNkSmhacy1rcnF4WDctbzhpREdiZGRCUkZURUkxcWZHMS1GNllEd0ZzV3JnQUxKbnE4YVhYTFlSU3p2bVc1VjVjZmxSQXBMMnpvNnRCWDFnUExDZGJYY3dtc1NSX3BjQjZ0dWZGOWhtWHlIX0lmX3V4M2FpWWRGclUzazJXQ1pmaw?oc=5",
+      "pubDate": "2026-10-13 23:20:06",
+      "author": "搜狐",
+      "summary": "茜坑锂矿开发“临门一脚” 江特电机长期盈利曲线或重塑 搜狐",
+      "lang": "zh",
+      "source": "搜狐",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4012789361",
+      "title": "四川找矿成果上新，马尔康加达锂矿增储超42万吨丨川报早读 - 川观新闻",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRjBoWkFJZENhMlQzZThNX3RaTm82ZEZjOTFpcENpM3dhU3pVZVNTdjFOX0hvYXA4VWtZWkxoR2FLNTZ2bDhaZS1zTWRlZw?oc=5",
+      "pubDate": "2026-10-13 22:32:00",
+      "author": "川观新闻",
+      "summary": "四川找矿成果上新，马尔康加达锂矿增储超42万吨丨川报早读 川观新闻",
+      "lang": "zh",
+      "source": "川观新闻",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2762814341",
+      "title": "碳酸锂期货价格跌破11万关口！先导智能跌超11% - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkdKbURSUVdrWklwSW9USm9DOGFDY24xd2tfZW5Mckt0RE0tRGctcjRIcU41cEpSRlVjczl4dFMtT2U2NGNNeng3T1VnVmt1ejZXRzQtY3E4SE9pRDZrMlIxV2E0Z0xfWmk5cVZ0WF8wTFEzYUZrNzRiXzlVZk5qRGtR?oc=5",
+      "pubDate": "2026-10-13 17:06:00",
+      "author": "新浪网",
+      "summary": "碳酸锂期货价格跌破11万关口！先导智能跌超11% 新浪网",
+      "lang": "zh",
+      "source": "新浪网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3281488809",
+      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 - 上海证券报电子版",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SUZiVnAyalRyME8tVHVjN2ZQZlZBNndxTFhjT25EQmZKM2RPbWgyNFRzU3R2Q0tHcFNmbVhkQVRKYmNyM3VhZnlIRm1PbkZYQ1dPUTA3N1FkSFVGczFtUFhWSFJrNVJCZ2xXeEN3?oc=5",
+      "pubDate": "2026-10-13 16:50:04",
+      "author": "上海证券报电子版",
+      "summary": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 上海证券报电子版",
+      "lang": "zh",
+      "source": "上海证券报电子版",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "561941978",
+      "title": "碳酸锂期货承压 车价会跟着降吗？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FcFIyTHoycG1KQUUyaTNiTzNYblFlUUpRdGEyRjdZZDdXOUpnN05lUkJyb1VEVmhMQ1RHQ2RrdEQxdnZrUmtNdE9hTGJVVnprTV8zUG1iRE5kZWdYQllyYkxneEtOdw?oc=5",
+      "pubDate": "2026-10-13 12:13:17",
+      "author": "东方财富",
+      "summary": "碳酸锂期货承压 车价会跟着降吗？ 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1848165411",
+      "title": "碳酸锂期现价格断崖下跌，期货失守11万元/吨，市场担忧2027—2028年供应过剩 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaV3BIME5vSlRtaFBUeURJYnVxZ253c3Q3eHROaGlJcmxFclc1clhNX2RrZVllNENUV2Nzem1RVy1YRDItakpBWEpaeWtldVVMYjJfZQ?oc=5",
+      "pubDate": "2026-10-13 12:06:15",
+      "author": "虎嗅网",
+      "summary": "碳酸锂期现价格断崖下跌，期货失守11万元/吨，市场担忧2027—2028年供应过剩 虎嗅网",
+      "lang": "zh",
+      "source": "虎嗅网",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": -0.6666666666666666
+    },
+    {
       "id": "1170344789",
       "title": "碳酸锂期货创年内新低 - Jiemian.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FcXFHS0I1cFRiZ1UtR2xCNnJRQTVhT3NpZTJ3Smg5aEJqOUJybWIwVXZCcENkeS1GVGs1R2VHSng4WU13ajFRX29UUjZtd3VRQmdobWc4Wm8?oc=5",
@@ -101441,28 +101537,14 @@
       "sentiment": 0
     },
     {
-      "id": "4092790700",
-      "title": "碳酸锂期货价格近乎腰斩，什么情况？先导智能跌超9%，电池ETF汇添富(159796)标的指数跌超3%，资金连续4日坚定涌入超3.3亿元！ - Jiemian.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1all2Tzg3T0V0ckZ5c0ZuZFc2RlprdVp0aGpWcUNXUEhMTktRYXJ6Y203eXEydm1Ya1hRTXU3am5RdnV0alZueFlEUHZYY1ZSVjJLYVVlZW0?oc=5",
-      "pubDate": "2026-10-13 10:55:34",
-      "author": "Jiemian.com",
-      "summary": "碳酸锂期货价格近乎腰斩，什么情况？先导智能跌超9%，电池ETF汇添富(159796)标的指数跌超3%，资金连续4日坚定涌入超3.3亿元！ Jiemian.com",
+      "id": "3354031241",
+      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 - 钛媒体",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
+      "pubDate": "2026-10-13 11:25:00",
+      "author": "钛媒体",
+      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 钛媒体",
       "lang": "zh",
-      "source": "Jiemian.com",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1833010275",
-      "title": "天铁科技：旗下安徽天铁碳酸锂产能目前为每年1万吨 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56b05BbmtBODJHVGR2ek9yVW5tWnlDbGVyM2FmZVVMekpyQ1RIRWp3T0loNTZRSDBid1BoUDV5WW9DYUl4bExQXzVxRi15UDNmcUtEWTZ0Rmd2bnpiWU1oVnNKcjBDQQ?oc=5",
-      "pubDate": "2026-10-13 10:32:52",
-      "author": "东方财富",
-      "summary": "天铁科技：旗下安徽天铁碳酸锂产能目前为每年1万吨 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
+      "source": "钛媒体",
       "categories": [
         "demand"
       ],
@@ -101484,20 +101566,6 @@
       "sentiment": 0
     },
     {
-      "id": "417186056",
-      "title": "【市场聚焦】碳酸锂：利空敏感 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEZ2JQSmRsUFREemxZS1Vhd1FJSl9xOV94MFBLUVBZWTJpY096X0l2ZFNibEpyTV84WUhEZ1hyV3NLQlBWRlVib1llYlFKNmxEV2c0aGtUQ2tkWFpsWVRkWHBKYW9ndDlUakhQMW5talpGZw?oc=5",
-      "pubDate": "2026-10-13 09:44:00",
-      "author": "新浪网",
-      "summary": "【市场聚焦】碳酸锂：利空敏感 新浪网",
-      "lang": "zh",
-      "source": "新浪网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1235939870",
       "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
@@ -101508,34 +101576,6 @@
       "source": "AZoMining",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3989098923",
-      "title": "光大期货1012热点追踪：远期过剩叙事下，碳酸锂暴跌超10% - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQbGc5c0JJMzRRaW1fVnVhVjVIWVZNT0dyQ2VjRjVkUHNVdkNBZDlvNF91RlcxU2VIOHhMOXlxSUJTdHk5a2hZSlJIbXdYa0wzRldHUzFTc0RYaFY4N0swcG9DT093R1k0bzh2dVllZGgyTHo2MGZNWTZkYTBYOUp1ZDhGNEQxd3hMM2M2dTNhbGZBQmV1aUJkR2Frd0o3bWpHR1dLVFU0NUJrR3Y2cVFhYmlLUGY1dmYxRGxWTlI0cUlYWXNFMm5kOUVCdkRDZVNlTjZTcnNmYk9idzBsYjZVNzNFSzVFdll6aW9rc0dTSXQxNk9JcGt3TjQ0aGI0dmtJTTZCTndpLXJiX2VtSVBiVXJQMTdUZ0FrLWNJUjdLOURvN0otS2ZfNHNrMzE3ZFlrQWhiOE8xOGhHX21zTmNJSjBld1lzS2M3dFdidUlFRHJFNHVWWW9IQVZKdjllbUhJRXlxUk5R?oc=5",
-      "pubDate": "2026-10-13 08:56:48",
-      "author": "finance.sina.com.cn",
-      "summary": "光大期货1012热点追踪：远期过剩叙事下，碳酸锂暴跌超10% finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "1155872495",
-      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
-      "pubDate": "2026-10-13 07:55:03",
-      "author": "四川新闻",
-      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
-      "lang": "zh",
-      "source": "四川新闻",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -101552,34 +101592,6 @@
         "macro"
       ],
       "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "677601990",
-      "title": "江特电机：茜坑锂矿是公司最重要的锂矿资源_公司新闻 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RY051U0ozUEtUWGZMNDFnREE0Vm9WM282WDFISWJLSlp2bXZkenM4emJfbGhsbkgxcXlsZFE3LUMtWVBnV181MjF1VXpaUEZtcm4wcXZXRnloaG1uRTE1QVFB?oc=5",
-      "pubDate": "2026-10-13 04:00:30",
-      "author": "证券之星",
-      "summary": "江特电机：茜坑锂矿是公司最重要的锂矿资源_公司新闻 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "468425706",
-      "title": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qeFZERUJiMTFHZUdkNWIxT2FKckF2bXNzc2gxeENrY0pOVWhhZ201U2JNc1E3elpWM1FHSXpfOUF5SHRZOElLLUFjdjQtNnMwbENDTkxtUjAtSFJFR1hKLQ?oc=5",
-      "pubDate": "2026-10-12 23:45:10",
-      "author": "东方财富",
-      "summary": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     },
     {
       "id": "2712012545",
@@ -101610,20 +101622,6 @@
       "sentiment": 0
     },
     {
-      "id": "4086966313",
-      "title": "茜坑锂矿开发“临门一脚”，江特电机长期盈利曲线或重塑 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZklwOC0tWExsZWtMSTZNeWxkWkJkb3owM21RcW9nTUk3ZVQ4dXc3QWRhUW8wYmx5TU9sYXZpa1ZSZkNPelBKMk5QLUJaNzRKU1kxN3dHVnFPZ2FqdGFOc2lOZnBYRDhKdlJxMEhhS01uOXVSTkN5UUJJdEVwUlFocUtZeWpCYk02ZXJjZHNfZw?oc=5",
-      "pubDate": "2026-10-12 10:34:16",
-      "author": "21财经",
-      "summary": "茜坑锂矿开发“临门一脚”，江特电机长期盈利曲线或重塑 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2106103916",
       "title": "Chinese lithium prices fall to nearly 10-month low on demand concerns - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWktsYXdlSk9hNkZsQXB5WTZKX3pYSmlHSnZTZHlESi1tV1J1ekxJTXl1dnZUaF9FUlZHTklua0JtMjIyM0VhendSaFl2WWdLZTJtVXQ4NlYxSE90Z2x5aWhnRnFVdkgzT1dXMmNRdkZwLVhjUU92SU9BbnRyQW96NkI0d0lLQ2VuWTg2T21oaVRGU2htVlM5bkM5WmNxYld6?oc=5",
@@ -101632,6 +101630,20 @@
       "summary": "Chinese lithium prices fall to nearly 10-month low on demand concerns IndexBox",
       "lang": "en",
       "source": "IndexBox",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2641145673",
+      "title": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0hrNHJyUVlja0ZWRlZTdEhjTEpCemYyVXFFNGZzN21XMWVqVW1BNXl3Q3BTcEVPQkdmRzllOHJYSERVelhZLThXQmN2VDJHbWwwZ0dqSEhobVpxOWNHZlNVRUxiYUlGdjZ5bmloVzdkOVBYMzV4aXktM1JGOXNXbnY0NXA1ZEJiMHRxSXJjUQ?oc=5",
+      "pubDate": "2026-10-12 06:03:42",
+      "author": "21财经",
+      "summary": "重挫近10000点！碳酸锂期货年内首次跌破11万元，网友直呼亏了48万元 21财经",
+      "lang": "zh",
+      "source": "21财经",
       "categories": [
         "demand"
       ],
