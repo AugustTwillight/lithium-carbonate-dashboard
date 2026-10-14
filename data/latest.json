@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T10:25:42.871Z",
+  "generatedAt": "2026-10-14T15:20:02.145Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50906,10 +50906,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 97.65,
-      "changePct": -0.87,
-      "volume": 2794804,
-      "amount": 272208384,
+      "price": 99.17,
+      "changePct": 1.56,
+      "volume": 1113334,
+      "amount": 110860112,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59286,6 +59286,18 @@
           "amp": 2.46,
           "chg": -0.87,
           "delta": -0.86
+        },
+        {
+          "d": "2026-10-14",
+          "o": 98.32,
+          "c": 99.17,
+          "h": 100.76,
+          "l": 97.89,
+          "v": 1113334,
+          "amount": 110860112,
+          "amp": 2.94,
+          "chg": 1.56,
+          "delta": 1.52
         }
       ]
     },
@@ -59295,10 +59307,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 62.83,
-      "changePct": 0.58,
-      "volume": 910049,
-      "amount": 56912497,
+      "price": 61.98,
+      "changePct": -1.35,
+      "volume": 216897,
+      "amount": 13563752,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67675,6 +67687,18 @@
           "amp": 2.16,
           "chg": 0.58,
           "delta": 0.36
+        },
+        {
+          "d": "2026-10-14",
+          "o": 62.95,
+          "c": 61.98,
+          "h": 62.95,
+          "l": 61.915,
+          "v": 216897,
+          "amount": 13563752,
+          "amp": 1.65,
+          "chg": -1.35,
+          "delta": -0.85
         }
       ]
     }
@@ -67685,9 +67709,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 27204.38,
-      "changePct": -0.15,
-      "volume": 6273913088,
+      "price": 26916.77,
+      "changePct": -1.06,
+      "volume": 2795989232,
       "amount": 0,
       "klines": [
         {
@@ -76065,6 +76089,18 @@
           "amp": 0.59,
           "chg": -0.15,
           "delta": -41.52
+        },
+        {
+          "d": "2026-10-14",
+          "o": 27031.64,
+          "c": 26916.77,
+          "h": 27134.29,
+          "l": 26873.28,
+          "v": 2795989232,
+          "amount": 0,
+          "amp": 0.96,
+          "chg": -1.06,
+          "delta": -287.61
         }
       ]
     },
@@ -76073,9 +76109,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 95.27,
-      "changePct": 1.2,
-      "volume": 45745,
+      "price": 95.46,
+      "changePct": 1.4,
+      "volume": 123573,
       "amount": 0,
       "klines": [
         {
@@ -84709,14 +84745,14 @@
         {
           "d": "2026-10-14",
           "o": 94.75,
-          "c": 95.27,
-          "h": 95.41,
+          "c": 95.46,
+          "h": 95.99,
           "l": 93.97,
-          "v": 45745,
+          "v": 123573,
           "amount": 0,
-          "amp": 1.53,
-          "chg": 1.2,
-          "delta": 1.13
+          "amp": 2.15,
+          "chg": 1.4,
+          "delta": 1.32
         }
       ]
     },
@@ -84725,8 +84761,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.23,
-      "changePct": 0.03,
+      "price": 102.91,
+      "changePct": 0.69,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -93457,14 +93493,14 @@
         {
           "d": "2026-10-14",
           "o": 102.2,
-          "c": 102.23,
-          "h": 102.25,
+          "c": 102.91,
+          "h": 102.95,
           "l": 102.07,
           "v": 0,
           "amount": 0,
-          "amp": 0.18,
-          "chg": 0.03,
-          "delta": 0.03
+          "amp": 0.86,
+          "chg": 0.69,
+          "delta": 0.71
         }
       ]
     },
@@ -101577,6 +101613,20 @@
       "sentiment": 0
     },
     {
+      "id": "3867061724",
+      "title": "After Lithium Carbonate Prices Were Halved - Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ppS2ZmWEhPdlphTXdtbTdPRThhdlEyOUE3N2l3WHJVNUxWMU1TZjgtMXB6aG84OEgwRmxtVkZlLUpJbUh0Wi1TMUZfUTVQT3h4N0ZmVlBtY3dMZE5yRXJxb1F2V1dBVFR1SllZaDJIdFh3Z21mMi1uMjZQLWJmdXlNay0tMlFpTFhjZndFOW9GRWVrR2tFMm5xN1l6SXZJOTdERUtkSQ?oc=5",
+      "pubDate": "2026-10-14 07:03:44",
+      "author": "Gasgoo",
+      "summary": "After Lithium Carbonate Prices Were Halved Gasgoo",
+      "lang": "en",
+      "source": "Gasgoo",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3221776362",
       "title": "跌破11万元/吨 碳酸锂价格又到“十字路口”储能或成需求增长核心引擎 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTE4yZVBFU3ROczlfX3A1LXdsS2h5WktfaDVFYlFpZlJEaVZHcU1DbTRjUlliNWduRFJ1RG5abHVpbm94cnpzb09YYUxoNEJjbW4tdjlralRiUFpCMzRqR0xkVUx3S0R1VFBReFYtYzRmMG9Jb0taREk4X0hWazJtTE5IZ3dNYnROc0ZZMkRnenptU19wV3YxMw?oc=5",
@@ -101589,6 +101639,21 @@
         "demand"
       ],
       "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "2285678244",
+      "title": "SunSirs: China Lithium Carbonate Slumps to Annual Low Amid Supply-Demand Imbalance - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnS0p1TGVjc1pCaFU3LUdmbGsxZURQbENmanNsMkZuTmtLUl9GcUJzZWRqckJfWFFkY3ZLdlpFUjgzTDUyX191Wl9NSVdaY2RfUGc?oc=5",
+      "pubDate": "2026-10-14 02:25:02",
+      "author": "ChemNet News",
+      "summary": "SunSirs: China Lithium Carbonate Slumps to Annual Low Amid Supply-Demand Imbalance ChemNet News",
+      "lang": "en",
+      "source": "ChemNet News",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "243302781",
@@ -101671,6 +101736,119 @@
       "source": "钛媒体",
       "categories": [
         "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3514044744",
+      "title": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine - National Review",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTIyZlBTWUNWQmt6Y1U2LTdTcmxPcWRLUkZILTFfNkJoT015R3ctRWVLV2pDN05UbXdjUW5ndzNDT0ZxRm1sdW8tamNPdlBYS2w3Zm1oU2VFNVBsWGZITE8ySVFPZmxZV29NWU92OHJLWFhfTFhtenRKWFp2bmxqZHg1UlJpSUptam5nREtaRnJjY2FFaWRiTzJIMklMN1dKSWg1UlBpZUFTZFdaZEHSAbMBQVVfeXFMTmdfMWdsT0RWZWc4WXI4S1BfZXYycm9vT1NuUW1yOVZvRnBUalZ0cWhVY3dORDlIN1ZOYTMyTTZlYzh2SmZOZmJsSzBzZm9UdWRqb0E5Z2Zic3hvSmFSZHFzOHFSb2c3MVhhWUlrNmxyMGNxZ0NweHM3RjVOZlVPWWxvT0VwakEzYmdDTy1nVXItZ1FrQkNIeEVVYTZ3RjZxUkRCZlg3Ry1SX1ZHS0xhTFdiS28?oc=5",
+      "pubDate": "2026-10-13 10:30:47",
+      "author": "National Review",
+      "summary": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine National Review",
+      "lang": "en",
+      "source": "National Review",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1235939870",
+      "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
+      "pubDate": "2026-10-13 09:14:58",
+      "author": "AZoMining",
+      "summary": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? AZoMining",
+      "lang": "en",
+      "source": "AZoMining",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2089079272",
+      "title": "Albemarle (ALB) Shares Drop Amid China Lithium Price Slump and M - GuruFocus",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0JxdjB2WHRzQ1lOX1V0UENmaWMyWWJjMUszMExlNUh5NHVDRnpTODJNX1BqOGhNbmIwNzlzSEliUThkNjk4ZWpKWS1xLXYxcjEyeWZuSS1zQzFiOEhKSDJSblRPS2lnUkx6ZUE4X1VXODRRQ2lrdTEyaHRoR2ctY0ZDYkJuaS1Ddk5KbXd3dVVqZ1ZDdUdlVHhUYTBHNWRYWFo1MGlrQUZXcFd4NXNNcVV1cThVS2JvdnhnbXlaRkI?oc=5",
+      "pubDate": "2026-10-12 13:04:44",
+      "author": "GuruFocus",
+      "summary": "Albemarle (ALB) Shares Drop Amid China Lithium Price Slump and M GuruFocus",
+      "lang": "en",
+      "source": "GuruFocus",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4231154234",
+      "title": "supply-side resumption and expansion weigh on lithium prices - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZk95Qk82ZHhOczlvbUdydlpkUEwxcEtrTWhSUmdUcFpsVmswSEUyZmhfWTlINjNyUmpCcENqenZOUVlIcmFrX2M4M3FiYW9md0NPMDRQdURlT1hBck1uS0haTnEtZV84LXBqamtGbjJxd3UxMXZHVHlaTGFCT1FCUTNna2ZVYmVnQ2ZZNngtOG53aFFxb3RWOGNoOFZra0ZJdXVSRVRuRnJBQQ?oc=5",
+      "pubDate": "2026-10-12 03:18:27",
+      "author": "Moomoo",
+      "summary": "supply-side resumption and expansion weigh on lithium prices Moomoo",
+      "lang": "en",
+      "source": "Moomoo",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "1106385805",
+      "title": "U.S. Launches First Lithium Mining Project in Over 50 Years - Tomorrow's World Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVNGNXBOV0YxdzF0QmJjemtOWGp5OWx0UXVJSTR3Z2F0RnhiUWpNNHowX3o4ZmF0aGREMkMxQWZCd05sekFXUXZtRmJDMFdGaTRZUU5CSGVkeUhnamUzWWZZaEwtcXlybFlzY0lxUjNrZ1c3ZVpfMmZtbkVJelZGaEN3aHoySGV5eXhjcTZadXd5Y0loRmFjVktDckZPblMyVWxZeQ?oc=5",
+      "pubDate": "2026-10-09 15:05:10",
+      "author": "Tomorrow's World Today",
+      "summary": "U.S. Launches First Lithium Mining Project in Over 50 Years Tomorrow's World Today",
+      "lang": "en",
+      "source": "Tomorrow's World Today",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1654589624",
+      "title": "Lithium Price Crash 2026: Jianxiawo Mine &amp; Oversupply - Grand View Research",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDlGOXh2MTA0dUY1N29lSGRLTXY0RXFYUEoyQnNwekdmUEsxdE9VRnM3NkNFZ3dGcko3cldqWGNjQVFCclBGU0xfYm8zQ3ZJYTJSc01jTU5nb0NmNEpveVdBNjJ0STU3ZWdkcWRFdmZvSVMtVm9fNW5LM2RRczVmd2FnU0NhQmRjOXlyU0ZQaW9ZanRObzFpeVV4VHQ3R0JESDBVTw?oc=5",
+      "pubDate": "2026-10-09 08:59:25",
+      "author": "Grand View Research",
+      "summary": "Lithium Price Crash 2026: Jianxiawo Mine & Oversupply Grand View Research",
+      "lang": "en",
+      "source": "Grand View Research",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "2324751346",
+      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
+      "pubDate": "2026-10-08 16:11:55",
+      "author": "Fastmarkets",
+      "summary": "Delayed publication of lithium carbonate, hydroxide assessments Fastmarkets",
+      "lang": "en",
+      "source": "Fastmarkets",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "1936377431",
+      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - Columbia University",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
+      "pubDate": "2026-09-28 07:00:00",
+      "author": "Columbia University",
+      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
+      "lang": "en",
+      "source": "Columbia University",
+      "categories": [
+        "supply"
       ],
       "sentiment": 0
     }
