@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T19:33:37.536Z",
+  "generatedAt": "2026-10-14T22:56:59.722Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -50906,10 +50906,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 97.84,
-      "changePct": 0.19,
-      "volume": 2250301,
-      "amount": 222377287,
+      "price": 97.97,
+      "changePct": 0.33,
+      "volume": 3215815,
+      "amount": 316846592,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59289,15 +59289,15 @@
         },
         {
           "d": "2026-10-14",
-          "o": 98.32,
-          "c": 97.84,
+          "o": 99,
+          "c": 97.97,
           "h": 100.76,
-          "l": 96.58,
-          "v": 2250295,
-          "amount": 222376694,
-          "amp": 4.28,
-          "chg": 0.19,
-          "delta": 0.19
+          "l": 96.01,
+          "v": 3215815,
+          "amount": 316846592,
+          "amp": 4.86,
+          "chg": 0.33,
+          "delta": 0.32
         }
       ]
     },
@@ -59307,10 +59307,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 61.72,
-      "changePct": -1.77,
-      "volume": 674960,
-      "amount": 41901520,
+      "price": 61.64,
+      "changePct": -1.89,
+      "volume": 996247,
+      "amount": 61684526,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67691,14 +67691,14 @@
         {
           "d": "2026-10-14",
           "o": 62.95,
-          "c": 61.72,
+          "c": 61.64,
           "h": 62.95,
-          "l": 61.36,
-          "v": 674960,
-          "amount": 41901520,
-          "amp": 2.53,
-          "chg": -1.77,
-          "delta": -1.11
+          "l": 61.35,
+          "v": 996247,
+          "amount": 61684526,
+          "amp": 2.55,
+          "chg": -1.89,
+          "delta": -1.19
         }
       ]
     }
@@ -67709,9 +67709,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26718.16,
-      "changePct": -1.79,
-      "volume": 5779982592,
+      "price": 26692.87,
+      "changePct": -1.88,
+      "volume": 7640476928,
       "amount": 0,
       "klines": [
         {
@@ -76093,14 +76093,14 @@
         {
           "d": "2026-10-14",
           "o": 27031.64,
-          "c": 26718.16,
+          "c": 26692.87,
           "h": 27134.29,
           "l": 26602.12,
-          "v": 5779982592,
+          "v": 7640476928,
           "amount": 0,
           "amp": 1.96,
-          "chg": -1.79,
-          "delta": -486.22
+          "chg": -1.88,
+          "delta": -511.51
         }
       ]
     },
@@ -76109,9 +76109,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 95.09,
-      "changePct": 1.01,
-      "volume": 192020,
+      "price": 95.02,
+      "changePct": -0.07,
+      "volume": 774,
       "amount": 0,
       "klines": [
         {
@@ -84745,14 +84745,26 @@
         {
           "d": "2026-10-14",
           "o": 94.75,
-          "c": 95.09,
+          "c": 95.17,
           "h": 96.06,
           "l": 93.97,
-          "v": 192020,
+          "v": 198357,
           "amount": 0,
           "amp": 2.22,
-          "chg": 1.01,
-          "delta": 0.95
+          "chg": 1.09,
+          "delta": 1.03
+        },
+        {
+          "d": "2026-10-15",
+          "o": 95.19,
+          "c": 95.02,
+          "h": 95.31,
+          "l": 94.95,
+          "v": 774,
+          "amount": 0,
+          "amp": 0.38,
+          "chg": -0.07,
+          "delta": -0.07
         }
       ]
     },
@@ -84761,8 +84773,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.58,
-      "changePct": 0.37,
+      "price": 102.38,
+      "changePct": -0.15,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -93493,14 +93505,26 @@
         {
           "d": "2026-10-14",
           "o": 102.2,
-          "c": 102.58,
+          "c": 102.53,
           "h": 102.95,
           "l": 102.07,
           "v": 0,
           "amount": 0,
           "amp": 0.86,
-          "chg": 0.37,
-          "delta": 0.38
+          "chg": 0.32,
+          "delta": 0.33
+        },
+        {
+          "d": "2026-10-15",
+          "o": 102.53,
+          "c": 102.38,
+          "h": 102.57,
+          "l": 102.37,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.2,
+          "chg": -0.15,
+          "delta": -0.15
         }
       ]
     },
@@ -101684,6 +101708,21 @@
       "sentiment": 0
     },
     {
+      "id": "519765623",
+      "title": "Europe Lithium Mining Market Size, Share &amp; Growth Report 2026-2035 - SNS Insider",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVHNZSVZOTmo2QUQyLXNHU1g5dFhjbHgzQl9fUkhVejBQLW9SOTVwQklCWmg2U3BiX0puMmN1cDFYVHBHX0tzVHUtbmY0RGJONDgxa3NpS0xmVDdXblN3TDBoN0w5YnVkQmZwaGZNOGhMTGlJZ25ZUQ?oc=5",
+      "pubDate": "2026-10-13 18:30:00",
+      "author": "SNS Insider",
+      "summary": "Europe Lithium Mining Market Size, Share & Growth Report 2026-2035 SNS Insider",
+      "lang": "en",
+      "source": "SNS Insider",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1170344789",
       "title": "碳酸锂期货创年内新低 - Jiemian.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FcXFHS0I1cFRiZ1UtR2xCNnJRQTVhT3NpZTJ3Smg5aEJqOUJybWIwVXZCcENkeS1GVGs1R2VHSng4WU13ajFRX29UUjZtd3VRQmdobWc4Wm8?oc=5",
@@ -101712,21 +101751,6 @@
       "sentiment": 0
     },
     {
-      "id": "3514044744",
-      "title": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine - National Review",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTIyZlBTWUNWQmt6Y1U2LTdTcmxPcWRLUkZILTFfNkJoT015R3ctRWVLV2pDN05UbXdjUW5ndzNDT0ZxRm1sdW8tamNPdlBYS2w3Zm1oU2VFNVBsWGZITE8ySVFPZmxZV29NWU92OHJLWFhfTFhtenRKWFp2bmxqZHg1UlJpSUptam5nREtaRnJjY2FFaWRiTzJIMklMN1dKSWg1UlBpZUFTZFdaZEHSAbMBQVVfeXFMTmdfMWdsT0RWZWc4WXI4S1BfZXYycm9vT1NuUW1yOVZvRnBUalZ0cWhVY3dORDlIN1ZOYTMyTTZlYzh2SmZOZmJsSzBzZm9UdWRqb0E5Z2Zic3hvSmFSZHFzOHFSb2c3MVhhWUlrNmxyMGNxZ0NweHM3RjVOZlVPWWxvT0VwakEzYmdDTy1nVXItZ1FrQkNIeEVVYTZ3RjZxUkRCZlg3Ry1SX1ZHS0xhTFdiS28?oc=5",
-      "pubDate": "2026-10-13 10:30:47",
-      "author": "National Review",
-      "summary": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine National Review",
-      "lang": "en",
-      "source": "National Review",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1235939870",
       "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
@@ -101749,20 +101773,6 @@
       "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
       "lang": "zh",
       "source": "四川新闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2089079272",
-      "title": "Albemarle (ALB) Shares Drop Amid China Lithium Price Slump and M - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX0JxdjB2WHRzQ1lOX1V0UENmaWMyWWJjMUszMExlNUh5NHVDRnpTODJNX1BqOGhNbmIwNzlzSEliUThkNjk4ZWpKWS1xLXYxcjEyeWZuSS1zQzFiOEhKSDJSblRPS2lnUkx6ZUE4X1VXODRRQ2lrdTEyaHRoR2ctY0ZDYkJuaS1Ddk5KbXd3dVVqZ1ZDdUdlVHhUYTBHNWRYWFo1MGlrQUZXcFd4NXNNcVV1cThVS2JvdnhnbXlaRkI?oc=5",
-      "pubDate": "2026-10-12 13:04:44",
-      "author": "GuruFocus",
-      "summary": "Albemarle (ALB) Shares Drop Amid China Lithium Price Slump and M GuruFocus",
-      "lang": "en",
-      "source": "GuruFocus",
       "categories": [
         "demand"
       ],
@@ -101847,6 +101857,20 @@
       "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
       "lang": "en",
       "source": "Columbia University",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3904992338",
+      "title": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? - Crux Investor",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2hOTTZPd3FCb2E5el9VczI0UnVwVFl6MEZFb1JFa0ttNUwxdnRkcTdkSWN5Zmlob3VNRFdSQWFkSUZDZlJuRk1INWhDSzR2UTQtclV6LUxsLWNuUlNNODNJSDd5RU5DX294VmtkS0d0ZXdYY2NWY2RSNmlNekJBdzN6NW1uQ3RfNVFpWWNZSkwteUY1anFWQ2dMSnhSdmhReUE?oc=5",
+      "pubDate": "2026-09-23 07:00:00",
+      "author": "Crux Investor",
+      "summary": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? Crux Investor",
+      "lang": "en",
+      "source": "Crux Investor",
       "categories": [
         "supply"
       ],
