@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T22:56:59.722Z",
+  "generatedAt": "2026-10-15T01:15:15.415Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2177,7 +2177,7 @@
   },
   "spot": {
     "price": 108250,
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "dayPct": -3.05,
     "monthPct": -20.32,
     "yearPct": 48.29,
@@ -101593,290 +101593,7 @@
       ]
     }
   ],
-  "news": [
-    {
-      "id": "1260027215",
-      "title": "碳酸锂大跌，宁德下修10月排产？ - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQ3hfaGV1RnppZ3p1N012VkVNdDhGNlFFNFpRa2FnSS1fTVpYTjREQzFyOWotQTlEUUY5emJRTkhJM1BheEtEcFlfZlhrNzFsVkxlUllOd1MwbjBF?oc=5",
-      "pubDate": "2026-10-14 16:26:27",
-      "author": "Moomoo",
-      "summary": "碳酸锂大跌，宁德下修10月排产？ Moomoo",
-      "lang": "zh",
-      "source": "Moomoo",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2119409906",
-      "title": "碳酸锂跌麻了 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xM1VtQkRhWXJ0NlcwSTFmbEZhRUl4SVRrMk95blp0djU4bFU2VUNHUGpsMm1CS2lXaVZOR3RTSEtkQlVhWEhfdXVHZFVsaWtIZEpkc0NLUW1qRXZKRXRMd004dw?oc=5",
-      "pubDate": "2026-10-14 11:39:37",
-      "author": "金融界",
-      "summary": "碳酸锂跌麻了 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2616481938",
-      "title": "如梦一场？碳酸锂期货腰斩，鏖战10万元/吨关口！电池ETF汇添富(159796)标的指数再度跌超3%，弱势三连阴！电池产业链步入补库阶段？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ekYtNG5sTWFPRjFKVEotTC1xbHJWUWNkY09wSFRnMWRVbDJiNFhkSXhHMVpEV1ktMGNOWkR3Y2pINmx3UXRBUU9pemVBOHQxME9PYVQ0YnMwa1pxdXRvQTdiVFU?oc=5",
-      "pubDate": "2026-10-14 08:31:26",
-      "author": "东方财富",
-      "summary": "如梦一场？碳酸锂期货腰斩，鏖战10万元/吨关口！电池ETF汇添富(159796)标的指数再度跌超3%，弱势三连阴！电池产业链步入补库阶段？ 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "192155648",
-      "title": "10月14日碳酸锂期货收盘下跌4.34%，报100900元_综合资讯 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qaExRZnFWVnVtWDVPYzNYMG1GNDdzVGMyR3BzNWRjM0FJOTZzX2Jra3U0ZE1XZjFmLVd5MmkxSklTemxIZmhUTXhXeEJHZWQyUDBjbnJOMF9YdUpUTVJVd0x3Uk0?oc=5",
-      "pubDate": "2026-10-14 07:31:05",
-      "author": "证券之星",
-      "summary": "10月14日碳酸锂期货收盘下跌4.34%，报100900元_综合资讯 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "1018841340",
-      "title": "碳酸锂连续主力合约日内跌4% 报101240元/吨 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSLWZZaUc5TzN5ZWk2Ny1Iam9yWWR1QzlyLS1LN1lfNFI2YWNSNEppbGRwdnAyVUxsLWdvTnY4S2FiVFo3bURPUVZQZXg1VmFXRlU1STYwOHpRQnd3alNQQktR?oc=5",
-      "pubDate": "2026-10-14 07:06:42",
-      "author": "观点网",
-      "summary": "碳酸锂连续主力合约日内跌4% 报101240元/吨 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3867061724",
-      "title": "After Lithium Carbonate Prices Were Halved - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ppS2ZmWEhPdlphTXdtbTdPRThhdlEyOUE3N2l3WHJVNUxWMU1TZjgtMXB6aG84OEgwRmxtVkZlLUpJbUh0Wi1TMUZfUTVQT3h4N0ZmVlBtY3dMZE5yRXJxb1F2V1dBVFR1SllZaDJIdFh3Z21mMi1uMjZQLWJmdXlNay0tMlFpTFhjZndFOW9GRWVrR2tFMm5xN1l6SXZJOTdERUtkSQ?oc=5",
-      "pubDate": "2026-10-14 07:03:44",
-      "author": "Gasgoo",
-      "summary": "After Lithium Carbonate Prices Were Halved Gasgoo",
-      "lang": "en",
-      "source": "Gasgoo",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3221776362",
-      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口”储能或成需求增长核心引擎 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTE4yZVBFU3ROczlfX3A1LXdsS2h5WktfaDVFYlFpZlJEaVZHcU1DbTRjUlliNWduRFJ1RG5abHVpbm94cnpzb09YYUxoNEJjbW4tdjlralRiUFpCMzRqR0xkVUx3S0R1VFBReFYtYzRmMG9Jb0taREk4X0hWazJtTE5IZ3dNYnROc0ZZMkRnenptU19wV3YxMw?oc=5",
-      "pubDate": "2026-10-14 06:21:49",
-      "author": "finance.sina.com.cn",
-      "summary": "跌破11万元/吨 碳酸锂价格又到“十字路口”储能或成需求增长核心引擎 finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "2285678244",
-      "title": "SunSirs: China Lithium Carbonate Slumps to Annual Low Amid Supply-Demand Imbalance - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnS0p1TGVjc1pCaFU3LUdmbGsxZURQbENmanNsMkZuTmtLUl9GcUJzZWRqckJfWFFkY3ZLdlpFUjgzTDUyX191Wl9NSVdaY2RfUGc?oc=5",
-      "pubDate": "2026-10-14 02:25:02",
-      "author": "ChemNet News",
-      "summary": "SunSirs: China Lithium Carbonate Slumps to Annual Low Amid Supply-Demand Imbalance ChemNet News",
-      "lang": "en",
-      "source": "ChemNet News",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "519765623",
-      "title": "Europe Lithium Mining Market Size, Share &amp; Growth Report 2026-2035 - SNS Insider",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVHNZSVZOTmo2QUQyLXNHU1g5dFhjbHgzQl9fUkhVejBQLW9SOTVwQklCWmg2U3BiX0puMmN1cDFYVHBHX0tzVHUtbmY0RGJONDgxa3NpS0xmVDdXblN3TDBoN0w5YnVkQmZwaGZNOGhMTGlJZ25ZUQ?oc=5",
-      "pubDate": "2026-10-13 18:30:00",
-      "author": "SNS Insider",
-      "summary": "Europe Lithium Mining Market Size, Share & Growth Report 2026-2035 SNS Insider",
-      "lang": "en",
-      "source": "SNS Insider",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1170344789",
-      "title": "碳酸锂期货创年内新低 - Jiemian.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FcXFHS0I1cFRiZ1UtR2xCNnJRQTVhT3NpZTJ3Smg5aEJqOUJybWIwVXZCcENkeS1GVGs1R2VHSng4WU13ajFRX29UUjZtd3VRQmdobWc4Wm8?oc=5",
-      "pubDate": "2026-10-13 11:39:26",
-      "author": "Jiemian.com",
-      "summary": "碳酸锂期货创年内新低 Jiemian.com",
-      "lang": "zh",
-      "source": "Jiemian.com",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3354031241",
-      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 - 钛媒体",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
-      "pubDate": "2026-10-13 11:25:00",
-      "author": "钛媒体",
-      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 钛媒体",
-      "lang": "zh",
-      "source": "钛媒体",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1235939870",
-      "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
-      "pubDate": "2026-10-13 09:14:58",
-      "author": "AZoMining",
-      "summary": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? AZoMining",
-      "lang": "en",
-      "source": "AZoMining",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1155872495",
-      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
-      "pubDate": "2026-10-13 07:55:03",
-      "author": "四川新闻",
-      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
-      "lang": "zh",
-      "source": "四川新闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4231154234",
-      "title": "supply-side resumption and expansion weigh on lithium prices - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZk95Qk82ZHhOczlvbUdydlpkUEwxcEtrTWhSUmdUcFpsVmswSEUyZmhfWTlINjNyUmpCcENqenZOUVlIcmFrX2M4M3FiYW9md0NPMDRQdURlT1hBck1uS0haTnEtZV84LXBqamtGbjJxd3UxMXZHVHlaTGFCT1FCUTNna2ZVYmVnQ2ZZNngtOG53aFFxb3RWOGNoOFZra0ZJdXVSRVRuRnJBQQ?oc=5",
-      "pubDate": "2026-10-12 03:18:27",
-      "author": "Moomoo",
-      "summary": "supply-side resumption and expansion weigh on lithium prices Moomoo",
-      "lang": "en",
-      "source": "Moomoo",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "3219810082",
-      "title": "碳酸锂主力合约跌超8% 今年以来首次跌破11万关口- 中国金融信息网 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yZzFIOWE4cWV6eVBySUF3eExIaWVXZmk0WHp3aFctSVlRMW5jdm85eTRXWDlNUU83dlA1QkJ1WTdPSkdvLU1pLVFudUoxYlJOcHVlS253MFgxNkwwekJFSkF5WHlUZXRBaFE?oc=5",
-      "pubDate": "2026-10-12 01:48:00",
-      "author": "中国金融信息网",
-      "summary": "碳酸锂主力合约跌超8% 今年以来首次跌破11万关口- 中国金融信息网 中国金融信息网",
-      "lang": "zh",
-      "source": "中国金融信息网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1106385805",
-      "title": "U.S. Launches First Lithium Mining Project in Over 50 Years - Tomorrow's World Today",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVNGNXBOV0YxdzF0QmJjemtOWGp5OWx0UXVJSTR3Z2F0RnhiUWpNNHowX3o4ZmF0aGREMkMxQWZCd05sekFXUXZtRmJDMFdGaTRZUU5CSGVkeUhnamUzWWZZaEwtcXlybFlzY0lxUjNrZ1c3ZVpfMmZtbkVJelZGaEN3aHoySGV5eXhjcTZadXd5Y0loRmFjVktDckZPblMyVWxZeQ?oc=5",
-      "pubDate": "2026-10-09 15:05:10",
-      "author": "Tomorrow's World Today",
-      "summary": "U.S. Launches First Lithium Mining Project in Over 50 Years Tomorrow's World Today",
-      "lang": "en",
-      "source": "Tomorrow's World Today",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1654589624",
-      "title": "Lithium Price Crash 2026: Jianxiawo Mine &amp; Oversupply - Grand View Research",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDlGOXh2MTA0dUY1N29lSGRLTXY0RXFYUEoyQnNwekdmUEsxdE9VRnM3NkNFZ3dGcko3cldqWGNjQVFCclBGU0xfYm8zQ3ZJYTJSc01jTU5nb0NmNEpveVdBNjJ0STU3ZWdkcWRFdmZvSVMtVm9fNW5LM2RRczVmd2FnU0NhQmRjOXlyU0ZQaW9ZanRObzFpeVV4VHQ3R0JESDBVTw?oc=5",
-      "pubDate": "2026-10-09 08:59:25",
-      "author": "Grand View Research",
-      "summary": "Lithium Price Crash 2026: Jianxiawo Mine & Oversupply Grand View Research",
-      "lang": "en",
-      "source": "Grand View Research",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "2324751346",
-      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
-      "pubDate": "2026-10-08 16:11:55",
-      "author": "Fastmarkets",
-      "summary": "Delayed publication of lithium carbonate, hydroxide assessments Fastmarkets",
-      "lang": "en",
-      "source": "Fastmarkets",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "1936377431",
-      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - Columbia University",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
-      "pubDate": "2026-09-28 07:00:00",
-      "author": "Columbia University",
-      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
-      "lang": "en",
-      "source": "Columbia University",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3904992338",
-      "title": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? - Crux Investor",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2hOTTZPd3FCb2E5el9VczI0UnVwVFl6MEZFb1JFa0ttNUwxdnRkcTdkSWN5Zmlob3VNRFdSQWFkSUZDZlJuRk1INWhDSzR2UTQtclV6LUxsLWNuUlNNODNJSDd5RU5DX294VmtkS0d0ZXdYY2NWY2RSNmlNekJBdzN6NW1uQ3RfNVFpWWNZSkwteUY1anFWQ2dMSnhSdmhReUE?oc=5",
-      "pubDate": "2026-09-23 07:00:00",
-      "author": "Crux Investor",
-      "summary": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? Crux Investor",
-      "lang": "en",
-      "source": "Crux Investor",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    }
-  ],
+  "news": [],
   "sources": [
     {
       "name": "东方财富行情接口",
@@ -101906,8 +101623,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -101921,63 +101638,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     }
   ]
 }
