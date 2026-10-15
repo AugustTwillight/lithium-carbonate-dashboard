@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T16:13:13.294Z",
+  "generatedAt": "2026-10-15T19:58:19.724Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -101727,20 +101727,6 @@
   ],
   "news": [
     {
-      "id": "2062779729",
-      "title": "从碳酸锂到纯碱：供需之外，大宗商品为何屡现暴涨暴跌？ - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRGtyX1hzNndoek1fZnJQbmNsUzJ6aFdBMnhUQ1FsbUFrUDdyZEtSTjN2OUM5ZE40eWFCWjlrbWpPYjd3ZmxVZUtqWXR6TVZyY1BrY3RwR25YSnRGYnBtbmVBbWtPQlVZQlowUFQ2a2JXaC0yeWFZUElzdlNrNkVMWnZhdWtaNWpP?oc=5",
-      "pubDate": "2026-10-15 10:00:21",
-      "author": "搜狐",
-      "summary": "从碳酸锂到纯碱：供需之外，大宗商品为何屡现暴涨暴跌？ 搜狐",
-      "lang": "zh",
-      "source": "搜狐",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2261350388",
       "title": "SunSirs: Lithium Carbonate Fell to a New Low for the Year, Driven by the Convergence of Unmet Peak-Season Demand Expectations and Forecasts of Long-Term Oversupply - Sunsirs",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Oc2JvR2hERVdWY2ZuUTZFSUpoWTBOVnU4bmpNT3ZvV1NZZjBPSWg1RG5WaERFNUlHYVQ4NFJtenlaeVRnWWpoVEZVMkdQTTRhZWFuUVZXVTI5Yzhob2c?oc=5",
@@ -101756,100 +101742,30 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "2093775951",
-      "title": "【解盘】碳酸锂腰斩+退税下调双重冲击！电池ETF招商(561910)逆市净流入5连阳！如何解读？ - Jiemian.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpZjFsZGVLSWIzWGRIM1VyamdIUkVUR25Ud093RFlZZGpUTjcyVElUUFA4dkM5b2VnVm8yOHg1cDF5UU95T2tBdE9WLXJGM0JXelgxRzR6eHo?oc=5",
-      "pubDate": "2026-10-15 07:10:56",
-      "author": "Jiemian.com",
-      "summary": "【解盘】碳酸锂腰斩+退税下调双重冲击！电池ETF招商(561910)逆市净流入5连阳！如何解读？ Jiemian.com",
-      "lang": "zh",
-      "source": "Jiemian.com",
+      "id": "817081644",
+      "title": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VTkyS2xoYzdmQUNpVHMyOGQzZGllQUhWMWVzMU5Qc3Uxb29QRHhwN25CdUhFWU51RFl2N1Q0R1pPLUtXZmpRdHo3clZYMzRKRnc?oc=5",
+      "pubDate": "2026-10-15 06:25:01",
+      "author": "ChemNet News",
+      "summary": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong ChemNet News",
+      "lang": "en",
+      "source": "ChemNet News",
       "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "4206322188",
-      "title": "王海峰：碳酸锂供给增加 价格将延续震荡下行趋势 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mRlhQeEs3VmhaaUxLX0NvSlVjcjdqSWZxbGpUT05YSHV5cWJQUjJzaFZ0X0tLZVFpZG9FZWstMHJlWks4b3JUSmR0VG96c2JtOXFtYg?oc=5",
-      "pubDate": "2026-10-15 06:35:26",
-      "author": "第一财经",
-      "summary": "王海峰：碳酸锂供给增加 价格将延续震荡下行趋势 第一财经",
-      "lang": "zh",
-      "source": "第一财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2276516306",
-      "title": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CX1JaTGMzV1VBck0yWUJiSzJ0NUZSNkNHWUg0bDl5TURKSXV0R0VSTU5tNXQ1QlNHYmFGM0dUMVBfWF9kb0ZCdWxuekhUaDJtT295Q0NFWXNJMVlCUHZlVDl3?oc=5",
-      "pubDate": "2026-10-15 06:17:32",
-      "author": "观点网",
-      "summary": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3857448845",
-      "title": "碳酸锂持续下跌，锂产业链基本面真实现状几何？ - 财富号",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44MVYwY0FRLWhlUTVfSjNDZXRNY19CdC1lVEVIbDI1aWdTUVVGaW1oODVVTFc0dmhRQmowd2VTYjZEMXZRM2pQazkzYmZyaUZUa1Bpa0lHN0hrQlgtU043N1hqRmJjbXVrdTN3?oc=5",
-      "pubDate": "2026-10-15 03:53:00",
-      "author": "财富号",
-      "summary": "碳酸锂持续下跌，锂产业链基本面真实现状几何？ 财富号",
-      "lang": "zh",
-      "source": "财富号",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
     },
     {
       "id": "1120677844",
-      "title": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream - 36 Kr",
+      "title": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HRkVNYUJsbFdxdXdtc2RYejN4aFR6ek9TbHgweEVHM29SWWVVdkZnckFHcVR1YXRtOHM1ZWZudjNRQm1VNmFhMXZzXzJmMFB1MDBB?oc=5",
       "pubDate": "2026-10-15 03:31:49",
-      "author": "36 Kr",
-      "summary": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream 36 Kr",
+      "author": "36Kr",
+      "summary": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream 36Kr",
       "lang": "en",
-      "source": "36 Kr",
+      "source": "36Kr",
       "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "51750682",
-      "title": "电池概念盘中走弱，碳酸锂期货跌破10万大关丨异动情报 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yUEZpaWh3d0dHZ2c0dm1IV1RGbmY4QTBJYmFhdjktTDNDVHk1d1NPUzJ0MWMweEpqaVltWW5jRGw4clQxS3E1NnNjcDJjYk1yXzlxLXNIVkEyVGl3SldSVnBB?oc=5",
-      "pubDate": "2026-10-15 03:28:11",
-      "author": "证券之星",
-      "summary": "电池概念盘中走弱，碳酸锂期货跌破10万大关丨异动情报 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4243463669",
-      "title": "A股异动丨锂电池板块普跌碳酸锂期货跌破10万大关_股市直播_市场 - 中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zbl83VHp3ME9hRGdTMDZMUDFYY3VNM3JEWlZJYV9qMUJQVmhuTkItZE9NNjRxMWxGcF95NkNIems5QUlidER4TFRxbjhJOFloaVhzUnF6aVUwX2ZRRmtucGk2QjM4S1NpNmFMVQ?oc=5",
-      "pubDate": "2026-10-15 03:07:02",
-      "author": "中金在线",
-      "summary": "A股异动丨锂电池板块普跌碳酸锂期货跌破10万大关_股市直播_市场 中金在线",
-      "lang": "zh",
-      "source": "中金在线",
-      "categories": [
-        "demand",
         "macro"
       ],
       "sentiment": 0
@@ -101884,34 +101800,6 @@
       "sentiment": 0
     },
     {
-      "id": "3281488809",
-      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 - 上海证券报电子版",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SUZiVnAyalRyME8tVHVjN2ZQZlZBNndxTFhjT25EQmZKM2RPbWgyNFRzU3R2Q0tHcFNmbVhkQVRKYmNyM3VhZnlIRm1PbkZYQ1dPUTA3N1FkSFVGczFtUFhWSFJrNVJCZ2xXeEN3?oc=5",
-      "pubDate": "2026-10-13 16:50:04",
-      "author": "上海证券报电子版",
-      "summary": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 上海证券报电子版",
-      "lang": "zh",
-      "source": "上海证券报电子版",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "3354031241",
-      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 - 钛媒体",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
-      "pubDate": "2026-10-13 11:25:00",
-      "author": "钛媒体",
-      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 钛媒体",
-      "lang": "zh",
-      "source": "钛媒体",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3514044744",
       "title": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine - National Review",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTIyZlBTWUNWQmt6Y1U2LTdTcmxPcWRLUkZILTFfNkJoT015R3ctRWVLV2pDN05UbXdjUW5ndzNDT0ZxRm1sdW8tamNPdlBYS2w3Zm1oU2VFNVBsWGZITE8ySVFPZmxZV29NWU92OHJLWFhfTFhtenRKWFp2bmxqZHg1UlJpSUptam5nREtaRnJjY2FFaWRiTzJIMklMN1dKSWg1UlBpZUFTZFdaZEHSAbMBQVVfeXFMTmdfMWdsT0RWZWc4WXI4S1BfZXYycm9vT1NuUW1yOVZvRnBUalZ0cWhVY3dORDlIN1ZOYTMyTTZlYzh2SmZOZmJsSzBzZm9UdWRqb0E5Z2Zic3hvSmFSZHFzOHFSb2c3MVhhWUlrNmxyMGNxZ0NweHM3RjVOZlVPWWxvT0VwakEzYmdDTy1nVXItZ1FrQkNIeEVVYTZ3RjZxUkRCZlg3Ry1SX1ZHS0xhTFdiS28?oc=5",
@@ -101941,20 +101829,6 @@
       "sentiment": 0
     },
     {
-      "id": "1155872495",
-      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
-      "pubDate": "2026-10-13 07:55:03",
-      "author": "四川新闻",
-      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
-      "lang": "zh",
-      "source": "四川新闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "4231154234",
       "title": "supply-side resumption and expansion weigh on lithium prices - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZk95Qk82ZHhOczlvbUdydlpkUEwxcEtrTWhSUmdUcFpsVmswSEUyZmhfWTlINjNyUmpCcENqenZOUVlIcmFrX2M4M3FiYW9md0NPMDRQdURlT1hBck1uS0haTnEtZV84LXBqamtGbjJxd3UxMXZHVHlaTGFCT1FCUTNna2ZVYmVnQ2ZZNngtOG53aFFxb3RWOGNoOFZra0ZJdXVSRVRuRnJBQQ?oc=5",
@@ -101963,20 +101837,6 @@
       "summary": "supply-side resumption and expansion weigh on lithium prices Moomoo",
       "lang": "en",
       "source": "Moomoo",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "1654589624",
-      "title": "Lithium Price Crash 2026: Jianxiawo Mine &amp; Oversupply - Grand View Research",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDlGOXh2MTA0dUY1N29lSGRLTXY0RXFYUEoyQnNwekdmUEsxdE9VRnM3NkNFZ3dGcko3cldqWGNjQVFCclBGU0xfYm8zQ3ZJYTJSc01jTU5nb0NmNEpveVdBNjJ0STU3ZWdkcWRFdmZvSVMtVm9fNW5LM2RRczVmd2FnU0NhQmRjOXlyU0ZQaW9ZanRObzFpeVV4VHQ3R0JESDBVTw?oc=5",
-      "pubDate": "2026-10-09 08:59:25",
-      "author": "Grand View Research",
-      "summary": "Lithium Price Crash 2026: Jianxiawo Mine & Oversupply Grand View Research",
-      "lang": "en",
-      "source": "Grand View Research",
       "categories": [
         "supply"
       ],
@@ -102040,8 +101900,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -102055,63 +101915,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
