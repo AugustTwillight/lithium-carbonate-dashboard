@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T15:59:52.078Z",
+  "generatedAt": "2026-10-16T19:30:18.185Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -51074,10 +51074,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 96.665,
-      "changePct": -1.54,
-      "volume": 572500,
-      "amount": 55919340,
+      "price": 95.561,
+      "changePct": -2.67,
+      "volume": 1263701,
+      "amount": 122313819,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59482,14 +59482,14 @@
         {
           "d": "2026-10-16",
           "o": 97.1,
-          "c": 96.665,
+          "c": 95.561,
           "h": 98.99,
-          "l": 96.63,
-          "v": 572505,
-          "amount": 55919828,
-          "amp": 2.4,
-          "chg": -1.54,
-          "delta": -1.515
+          "l": 95.1,
+          "v": 1263701,
+          "amount": 122313819,
+          "amp": 3.96,
+          "chg": -2.67,
+          "delta": -2.619
         }
       ]
     },
@@ -59499,10 +59499,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 60.535,
-      "changePct": 0.11,
-      "volume": 299401,
-      "amount": 18076542,
+      "price": 60.375,
+      "changePct": -0.16,
+      "volume": 712728,
+      "amount": 43140122,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67907,14 +67907,14 @@
         {
           "d": "2026-10-16",
           "o": 60.51,
-          "c": 60.535,
-          "h": 60.64,
+          "c": 60.375,
+          "h": 61.03,
           "l": 59.835,
-          "v": 299401,
-          "amount": 18076542,
-          "amp": 1.33,
-          "chg": 0.11,
-          "delta": 0.065
+          "v": 712728,
+          "amount": 43140122,
+          "amp": 1.98,
+          "chg": -0.16,
+          "delta": -0.095
         }
       ]
     }
@@ -67925,9 +67925,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26365.82,
-      "changePct": -1.3,
-      "volume": 3783891680,
+      "price": 26146.96,
+      "changePct": -2.12,
+      "volume": 6360955392,
       "amount": 0,
       "klines": [
         {
@@ -76333,14 +76333,14 @@
         {
           "d": "2026-10-16",
           "o": 26652.98,
-          "c": 26365.82,
+          "c": 26146.96,
           "h": 26674.66,
-          "l": 26365.16,
-          "v": 3783891680,
+          "l": 26023.1,
+          "v": 6360955392,
           "amount": 0,
-          "amp": 1.16,
-          "chg": -1.3,
-          "delta": -347.21
+          "amp": 2.44,
+          "chg": -2.12,
+          "delta": -566.07
         }
       ]
     },
@@ -76349,9 +76349,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 96.54,
-      "changePct": 0.04,
-      "volume": 170007,
+      "price": 98.99,
+      "changePct": 2.58,
+      "volume": 290508,
       "amount": 0,
       "klines": [
         {
@@ -85009,14 +85009,14 @@
         {
           "d": "2026-10-16",
           "o": 96.14,
-          "c": 96.54,
-          "h": 96.64,
+          "c": 98.99,
+          "h": 99.34,
           "l": 95.29,
-          "v": 170000,
+          "v": 290508,
           "amount": 0,
-          "amp": 1.4,
-          "chg": 0.04,
-          "delta": 0.04
+          "amp": 4.2,
+          "chg": 2.58,
+          "delta": 2.49
         }
       ]
     },
@@ -85025,8 +85025,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.84,
-      "changePct": -0.16,
+      "price": 101.79,
+      "changePct": -0.21,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -93781,14 +93781,14 @@
         {
           "d": "2026-10-16",
           "o": 102,
-          "c": 101.84,
+          "c": 101.79,
           "h": 102.09,
           "l": 101.58,
           "v": 0,
           "amount": 0,
           "amp": 0.5,
-          "chg": -0.16,
-          "delta": -0.16
+          "chg": -0.21,
+          "delta": -0.21
         }
       ]
     },
@@ -101883,6 +101883,48 @@
   ],
   "news": [
     {
+      "id": "4276666181",
+      "title": "国城矿业：关于控股子公司签署碳酸锂购销合同暨关联交易的公告 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMy1fWHRzM2NsNjdsdkktUThGRWhXcFNwSTkxT0xRSkoxdXhtNjVJVnVMMm1vSk1Nc0c1VVNtekVpanpWNk5aLVNGdFdXbVZFNV9oTk1hT1NRUENGUGF6V29adnVqZw?oc=5",
+      "pubDate": "2026-10-16 13:44:28",
+      "author": "东方财富",
+      "summary": "国城矿业：关于控股子公司签署碳酸锂购销合同暨关联交易的公告 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1131252453",
+      "title": "碳酸锂期货跌破10万元／吨，万润新能套保“踩坑”，浮亏近亿元 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWxPOW5QQWN4dG4tZkYtcG9xV1dyd3AtUVYxd0ZOMXBzUHRJQi01MnIzSy1QbEgwZDl6b1JQSmYwbEJyR1hpX1BHckdWWE5tcEl3MXI5cjFpMHlSNGFBblE2N3NLSHdCMVgtUFJvaTd5SzRMM0RaX19EbXI1blRGbVNZaU5iSTk3?oc=5",
+      "pubDate": "2026-10-16 12:29:00",
+      "author": "搜狐",
+      "summary": "碳酸锂期货跌破10万元／吨，万润新能套保“踩坑”，浮亏近亿元 搜狐",
+      "lang": "zh",
+      "source": "搜狐",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3895741911",
+      "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnNKVmhKTWZ1VkREZDFzSDItSy1RenhNcHhTVjNHempUTFRXRzYwRG9obmwzd0R3cTZXVHNLLW1MemFIeFlfaVEwWTlPRHJDSjhNU3JiNzdLU2dXa1h5RnhfYk95UkVLVUltXzY0RDlLVUd6Y1ZKcVV5WU9RV21ZOTlpb0lZNXcwSkk3V2x0TnlTbmh0V3gzd1JBWFVhaWl5NEFodVNhM1ZEa1VGU3MzVg?oc=5",
+      "pubDate": "2026-10-16 12:07:07",
+      "author": "finance.sina.com.cn",
+      "summary": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 finance.sina.com.cn",
+      "lang": "zh",
+      "source": "finance.sina.com.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "4154509045",
       "title": "国城矿业(000688):控股子公司签署碳酸锂购销合同暨关联交易 - 中财网",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSEZfbTJIQUNIZjdkOHVMZGFLazdPYWpKLWhrbzEycmpFTHE2RDFFQ29jTGIwZGhLYlFkT1M2cU93M19HcHFrRVBVM0F0R1VBbnI3dTR3?oc=5",
@@ -101891,20 +101933,6 @@
       "summary": "国城矿业(000688):控股子公司签署碳酸锂购销合同暨关联交易 中财网",
       "lang": "zh",
       "source": "中财网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2279819987",
-      "title": "国城矿业：控股子公司签署碳酸锂购销合同 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYUx1akUtb21FS29GZERJbF9tY0FWWjU3ZWtWb2ZfOFA1NWIycVVkUTk3ZGFiUXYtT3BvVjRrSkdqVGp2bnRGVXgtbXY0endtVGJLLVloVWFyWnVlbVN6NUZGN04yWnYwbmhvemFDN2Y3ajdpaHpLOVZOM2hfYlIzeUkzWmJ4RGllQW9hcA?oc=5",
-      "pubDate": "2026-10-16 10:11:00",
-      "author": "搜狐",
-      "summary": "国城矿业：控股子公司签署碳酸锂购销合同 搜狐",
-      "lang": "zh",
-      "source": "搜狐",
       "categories": [
         "demand"
       ],
@@ -101953,20 +101981,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "2009074870",
-      "title": "期市收评 | 国内商品多数下跌 碳酸锂领跌期市 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wUzBQekVfdEpIby1DeWhnZzI0dVByeXVydE5aUUJ2ajA2aHowUVFrWkpSRURfaVVxOXJ3Y3V1aFNlY2t4aTI4TGMxX3ZmSzlFTEJDbkx1UzF1OXhVbFgwNA?oc=5",
-      "pubDate": "2026-10-16 07:24:41",
-      "author": "东方财富",
-      "summary": "期市收评 | 国内商品多数下跌 碳酸锂领跌期市 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
       "id": "4074312",
       "title": "跌破10万元关口，谁击碎了碳酸锂旺季行情？ - 中华网财经",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XNU1CcmxjZGdTdXdIUUpDb0FJYU1iYlNvSmVNcjhUbWpRUVpZMnBxLVVqdXJRWXkzcWpsNjF3WjJUQUVmRkQwWVdTZEltX3BYM0VaZ3E3cHBRQzBJVDhuR2pBYzN0RWR2UVpxeEZSZWdXWmM?oc=5",
@@ -101996,50 +102010,6 @@
       "sentiment": 0
     },
     {
-      "id": "1225141372",
-      "title": "【现货】10月15日各地区碳酸锂市场价格汇总 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9US1dXRnBJWUY5SzR5RWxKeWJhZjBpeEY2Y1p1bWw0NlRTWlNZMURWTWNfLU1oTEV6X1d5eEJyMXQxMktUYUQwV2phbjd3bU9ZRWZ5aXBYR0o3a2haaEVlag?oc=5",
-      "pubDate": "2026-10-15 20:07:50",
-      "author": "同花顺",
-      "summary": "【现货】10月15日各地区碳酸锂市场价格汇总 同花顺",
-      "lang": "zh",
-      "source": "同花顺",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2261350388",
-      "title": "SunSirs: Lithium Carbonate Fell to a New Low for the Year, Driven by the Convergence of Unmet Peak-Season Demand Expectations and Forecasts of Long-Term Oversupply - Sunsirs",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Oc2JvR2hERVdWY2ZuUTZFSUpoWTBOVnU4bmpNT3ZvV1NZZjBPSWg1RG5WaERFNUlHYVQ4NFJtenlaeVRnWWpoVEZVMkdQTTRhZWFuUVZXVTI5Yzhob2c?oc=5",
-      "pubDate": "2026-10-15 07:36:50",
-      "author": "Sunsirs",
-      "summary": "SunSirs: Lithium Carbonate Fell to a New Low for the Year, Driven by the Convergence of Unmet Peak-Season Demand Expectations and Forecasts of Long-Term Oversupply Sunsirs",
-      "lang": "en",
-      "source": "Sunsirs",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "817081644",
-      "title": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VTkyS2xoYzdmQUNpVHMyOGQzZGllQUhWMWVzMU5Qc3Uxb29QRHhwN25CdUhFWU51RFl2N1Q0R1pPLUtXZmpRdHo3clZYMzRKRnc?oc=5",
-      "pubDate": "2026-10-15 06:25:01",
-      "author": "ChemNet News",
-      "summary": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong ChemNet News",
-      "lang": "en",
-      "source": "ChemNet News",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1120677844",
       "title": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream - 36Kr",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HRkVNYUJsbFdxdXdtc2RYejN4aFR6ek9TbHgweEVHM29SWWVVdkZnckFHcVR1YXRtOHM1ZWZudjNRQm1VNmFhMXZzXzJmMFB1MDBB?oc=5",
@@ -102050,20 +102020,6 @@
       "source": "36Kr",
       "categories": [
         "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2119409906",
-      "title": "碳酸锂跌麻了 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xM1VtQkRhWXJ0NlcwSTFmbEZhRUl4SVRrMk95blp0djU4bFU2VUNHUGpsMm1CS2lXaVZOR3RTSEtkQlVhWEhfdXVHZFVsaWtIZEpkc0NLUW1qRXZKRXRMd004dw?oc=5",
-      "pubDate": "2026-10-14 11:39:37",
-      "author": "金融界",
-      "summary": "碳酸锂跌麻了 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -102125,6 +102081,34 @@
       "sentiment": 0
     },
     {
+      "id": "1155872495",
+      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
+      "pubDate": "2026-10-13 07:55:03",
+      "author": "四川新闻",
+      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
+      "lang": "zh",
+      "source": "四川新闻",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4249942629",
+      "title": "Lithium Mining Companies: The Biggest Producers - Farmonaut",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0l2cnkwelQwWGs1dGtyY1hvMnNrOHB6YUF4YmFWeDNiUjRnNXNMODFZT2hqUC1fbzZGYzdDZ1p6Nk8xZWt1N1Z3QTkxVndHRTMyY09IUXpDX3BPQlZPbnIwcEdudzctN050WEo5Z1VEOEFxRnBJSjVIZWFQTzllQ0N5NVVSdHkzbmc4?oc=5",
+      "pubDate": "2026-10-13 07:00:00",
+      "author": "Farmonaut",
+      "summary": "Lithium Mining Companies: The Biggest Producers Farmonaut",
+      "lang": "en",
+      "source": "Farmonaut",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "4231154234",
       "title": "supply-side resumption and expansion weigh on lithium prices - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZk95Qk82ZHhOczlvbUdydlpkUEwxcEtrTWhSUmdUcFpsVmswSEUyZmhfWTlINjNyUmpCcENqenZOUVlIcmFrX2M4M3FiYW9md0NPMDRQdURlT1hBck1uS0haTnEtZV84LXBqamtGbjJxd3UxMXZHVHlaTGFCT1FCUTNna2ZVYmVnQ2ZZNngtOG53aFFxb3RWOGNoOFZra0ZJdXVSRVRuRnJBQQ?oc=5",
@@ -102163,6 +102147,20 @@
       "source": "Crux Investor",
       "categories": [
         "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "469662494",
+      "title": "China lithium carbonate futures rebound on import surge data - S&amp;P Global",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzQ1M01VVWp4X19EdU9Gem5vTEQtcE9QS1pkNnZ3Q1BvOGZWS0RNYVB5R1JSM2Izd2NRQ05ROXk5dmlkb1F6RkRMdzlrd1p0WUJHbFNWeklMbGtON3RqbllyNTFPTWZRbWc3YjRMa2cwRHBxTzhYRkViN2gtYUtnZmhuTkpDZ05hQmRLWDNOZmRuRXBMajlhckZmVjZkdE1Rc2t3SUNqN3pIT0hZMlc3anJkUG5IWWZxYXVtSnJVam5FdnNGLXFXUkdIWjVVLXg1?oc=5",
+      "pubDate": "2026-09-21 07:00:00",
+      "author": "S&amp;P Global",
+      "summary": "China lithium carbonate futures rebound on import surge data S&P Global",
+      "lang": "en",
+      "source": "S&amp;P Global",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     }
