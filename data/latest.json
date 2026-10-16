@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T01:01:21.833Z",
+  "generatedAt": "2026-10-16T06:05:43.431Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
     "code": "lc2701",
-    "price": 101180,
-    "changePct": 0.64,
-    "volume": 17298,
-    "amount": 1738967600,
+    "price": 97880,
+    "changePct": -2.65,
+    "volume": 284219,
+    "amount": 28303032500,
     "contract": "lc2701",
     "klines": [
       {
@@ -2137,60 +2137,74 @@
       {
         "d": "2026-10-16",
         "o": 99900,
-        "c": 101180,
-        "h": 101280,
-        "l": 99760,
-        "v": 17428,
-        "amount": 1752120920,
-        "amp": 1.51,
-        "chg": 0.64,
-        "delta": 640
+        "c": 97820,
+        "h": 101760,
+        "l": 97320,
+        "v": 284263,
+        "amount": 28307337540,
+        "amp": 4.42,
+        "chg": -2.71,
+        "delta": -2720
       }
     ],
     "contracts": [
       {
         "contract": "lc2701",
         "name": "碳酸锂2701",
-        "price": 101180,
-        "changePct": 0.64,
-        "volume": 17298
+        "price": 97880,
+        "changePct": -2.65,
+        "volume": 284219
       },
       {
         "contract": "lc2611",
         "name": "碳酸锂2611",
-        "price": 102580,
-        "changePct": 0.51,
-        "volume": 1826
+        "price": 99040,
+        "changePct": -2.96,
+        "volume": 22552
       },
       {
         "contract": "lc2612",
         "name": "碳酸锂2612",
-        "price": 101820,
-        "changePct": 0.65,
-        "volume": 165
-      },
-      {
-        "contract": "lc2702",
-        "name": "碳酸锂2702",
-        "price": 99280,
-        "changePct": -0.28,
-        "volume": 6
+        "price": 98520,
+        "changePct": -2.61,
+        "volume": 8324
       },
       {
         "contract": "lc2703",
         "name": "碳酸锂2703",
-        "price": 98800,
-        "changePct": -0.46,
-        "volume": 4
+        "price": 95700,
+        "changePct": -3.59,
+        "volume": 2570
+      },
+      {
+        "contract": "lc2704",
+        "name": "碳酸锂2704",
+        "price": 95680,
+        "changePct": -3.41,
+        "volume": 1934
+      },
+      {
+        "contract": "lc2702",
+        "name": "碳酸锂2702",
+        "price": 96880,
+        "changePct": -2.69,
+        "volume": 443
+      },
+      {
+        "contract": "lc2610",
+        "name": "碳酸锂2610",
+        "price": 100340,
+        "changePct": -2.68,
+        "volume": 257
       }
     ]
   },
   "spot": {
-    "price": 104400,
+    "price": 102150,
     "date": "2026-10-16",
-    "dayPct": -3.56,
-    "monthPct": -21.03,
-    "yearPct": 43.01,
+    "dayPct": -2.16,
+    "monthPct": -23.31,
+    "yearPct": 39.26,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -2202,10 +2216,10 @@
       "name": "天齐锂业",
       "code": "09696",
       "role": "上游锂矿",
-      "price": 24.46,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 23.96,
+      "changePct": -2.04,
+      "volume": 3015947,
+      "amount": 72679012,
       "klines": [
         {
           "d": "2024-01-02",
@@ -10429,15 +10443,15 @@
         },
         {
           "d": "2026-10-16",
-          "o": 24.46,
-          "c": 24.46,
-          "h": 24.46,
-          "l": 24.46,
-          "v": 0,
-          "amount": 0,
-          "amp": 0,
-          "chg": 0,
-          "delta": 0
+          "o": 24.8,
+          "c": 23.96,
+          "h": 24.9,
+          "l": 23.76,
+          "v": 3015947,
+          "amount": 72679012,
+          "amp": 4.66,
+          "chg": -2.04,
+          "delta": -0.5
         }
       ]
     },
@@ -10447,10 +10461,10 @@
       "name": "赣锋锂业",
       "code": "002460",
       "role": "上游锂盐",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 38.98,
+      "changePct": -2.57,
+      "volume": 529072,
+      "amount": 2102928509.03,
       "klines": [
         {
           "d": "2024-01-02",
@@ -18515,6 +18529,18 @@
           "amp": 2.56,
           "chg": -2.41,
           "delta": -0.99
+        },
+        {
+          "d": "2026-10-16",
+          "o": 41,
+          "c": 38.97,
+          "h": 41.5,
+          "l": 38.84,
+          "v": 529049,
+          "amount": 2102838864.03,
+          "amp": 6.65,
+          "chg": -2.6,
+          "delta": -1.04
         }
       ]
     },
@@ -18524,10 +18550,10 @@
       "name": "天齐锂业",
       "code": "002466",
       "role": "上游锂矿",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 36.5,
+      "changePct": -0.82,
+      "volume": 212656,
+      "amount": 781233674.07,
       "klines": [
         {
           "d": "2024-01-02",
@@ -26592,6 +26618,18 @@
           "amp": 1.88,
           "chg": -2.39,
           "delta": -0.9
+        },
+        {
+          "d": "2026-10-16",
+          "o": 37.45,
+          "c": 36.5,
+          "h": 37.6,
+          "l": 36.22,
+          "v": 212656,
+          "amount": 781233674.07,
+          "amp": 3.75,
+          "chg": -0.82,
+          "delta": -0.3
         }
       ]
     },
@@ -26601,10 +26639,10 @@
       "name": "盐湖股份",
       "code": "000792",
       "role": "盐湖提锂",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 23,
+      "changePct": 0.22,
+      "volume": 297308,
+      "amount": 686972351.4,
       "klines": [
         {
           "d": "2024-01-02",
@@ -34669,6 +34707,18 @@
           "amp": 2.65,
           "chg": -0.22,
           "delta": -0.05
+        },
+        {
+          "d": "2026-10-16",
+          "o": 23.1,
+          "c": 23,
+          "h": 23.29,
+          "l": 22.97,
+          "v": 297308,
+          "amount": 686972351.4,
+          "amp": 1.39,
+          "chg": 0.22,
+          "delta": 0.05
         }
       ]
     },
@@ -34678,10 +34728,10 @@
       "name": "宁德时代",
       "code": "300750",
       "role": "下游电池",
-      "price": 0,
-      "changePct": 0,
-      "volume": 0,
-      "amount": 0,
+      "price": 274.75,
+      "changePct": -1.35,
+      "volume": 225366,
+      "amount": 6242396749.71,
       "klines": [
         {
           "d": "2024-01-02",
@@ -42746,6 +42796,18 @@
           "amp": 3.57,
           "chg": -0.58,
           "delta": -1.62
+        },
+        {
+          "d": "2026-10-16",
+          "o": 281.79,
+          "c": 274.75,
+          "h": 282,
+          "l": 274.58,
+          "v": 225366,
+          "amount": 6242396749.71,
+          "amp": 2.66,
+          "chg": -1.35,
+          "delta": -3.75
         }
       ]
     },
@@ -42755,10 +42817,10 @@
       "name": "赣锋锂业",
       "code": "01772",
       "role": "上游锂盐",
-      "price": 29.44,
-      "changePct": 15,
-      "volume": 0,
-      "amount": 0,
+      "price": 24.02,
+      "changePct": -6.17,
+      "volume": 22402904,
+      "amount": 546207632,
       "klines": [
         {
           "d": "2024-01-02",
@@ -50994,15 +51056,15 @@
         },
         {
           "d": "2026-10-16",
-          "o": 29.44,
-          "c": 29.44,
-          "h": 29.44,
-          "l": 29.44,
-          "v": 0,
-          "amount": 0,
-          "amp": 0,
-          "chg": 15,
-          "delta": 3.84
+          "o": 26.04,
+          "c": 24.02,
+          "h": 26.28,
+          "l": 23.7,
+          "v": 22402904,
+          "amount": 546207632,
+          "amp": 10.08,
+          "chg": -6.17,
+          "delta": -1.58
         }
       ]
     },
@@ -76251,9 +76313,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 96.04,
-      "changePct": -0.48,
-      "volume": 5377,
+      "price": 95.72,
+      "changePct": -0.81,
+      "volume": 18744,
       "amount": 0,
       "klines": [
         {
@@ -84911,14 +84973,14 @@
         {
           "d": "2026-10-16",
           "o": 96.14,
-          "c": 96.04,
+          "c": 95.72,
           "h": 96.39,
-          "l": 95.89,
-          "v": 5377,
+          "l": 95.62,
+          "v": 18744,
           "amount": 0,
-          "amp": 0.52,
-          "chg": -0.48,
-          "delta": -0.46
+          "amp": 0.8,
+          "chg": -0.81,
+          "delta": -0.78
         }
       ]
     },
@@ -84927,8 +84989,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.06,
-      "changePct": 0.06,
+      "price": 101.92,
+      "changePct": -0.08,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -93683,14 +93745,14 @@
         {
           "d": "2026-10-16",
           "o": 102,
-          "c": 102.06,
+          "c": 101.92,
           "h": 102.09,
-          "l": 101.98,
+          "l": 101.81,
           "v": 0,
           "amount": 0,
-          "amp": 0.11,
-          "chg": 0.06,
-          "delta": 0.06
+          "amp": 0.27,
+          "chg": -0.08,
+          "delta": -0.08
         }
       ]
     },
@@ -93699,10 +93761,10 @@
       "secid": "1.000300",
       "name": "沪深300",
       "code": "000300",
-      "price": 4164.76,
-      "changePct": -0.03,
-      "volume": 0,
-      "amount": 0,
+      "price": 4157.91,
+      "changePct": -0.19,
+      "volume": 134496347,
+      "amount": 308087042824.3,
       "klines": [
         {
           "d": "2024-01-02",
@@ -101767,6 +101829,18 @@
           "amp": 1.45,
           "chg": -1.23,
           "delta": -51.67
+        },
+        {
+          "d": "2026-10-16",
+          "o": 4189.26,
+          "c": 4157.91,
+          "h": 4206.89,
+          "l": 4157.79,
+          "v": 134496347,
+          "amount": 308087042824.3,
+          "amp": 1.18,
+          "chg": -0.19,
+          "delta": -8.1
         }
       ]
     }
@@ -101801,36 +101875,6 @@
       "sentiment": 0
     },
     {
-      "id": "2261350388",
-      "title": "SunSirs: Lithium Carbonate Fell to a New Low for the Year, Driven by the Convergence of Unmet Peak-Season Demand Expectations and Forecasts of Long-Term Oversupply - Sunsirs",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Oc2JvR2hERVdWY2ZuUTZFSUpoWTBOVnU4bmpNT3ZvV1NZZjBPSWg1RG5WaERFNUlHYVQ4NFJtenlaeVRnWWpoVEZVMkdQTTRhZWFuUVZXVTI5Yzhob2c?oc=5",
-      "pubDate": "2026-10-15 07:36:50",
-      "author": "Sunsirs",
-      "summary": "SunSirs: Lithium Carbonate Fell to a New Low for the Year, Driven by the Convergence of Unmet Peak-Season Demand Expectations and Forecasts of Long-Term Oversupply Sunsirs",
-      "lang": "en",
-      "source": "Sunsirs",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "817081644",
-      "title": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VTkyS2xoYzdmQUNpVHMyOGQzZGllQUhWMWVzMU5Qc3Uxb29QRHhwN25CdUhFWU51RFl2N1Q0R1pPLUtXZmpRdHo3clZYMzRKRnc?oc=5",
-      "pubDate": "2026-10-15 06:25:01",
-      "author": "ChemNet News",
-      "summary": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong ChemNet News",
-      "lang": "en",
-      "source": "ChemNet News",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2276516306",
       "title": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 - 观点网",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CX1JaTGMzV1VBck0yWUJiSzJ0NUZSNkNHWUg0bDl5TURKSXV0R0VSTU5tNXQ1QlNHYmFGM0dUMVBfWF9kb0ZCdWxuekhUaDJtT295Q0NFWXNJMVlCUHZlVDl3?oc=5",
@@ -101845,20 +101889,6 @@
       "sentiment": 0
     },
     {
-      "id": "1120677844",
-      "title": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream - 36Kr",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HRkVNYUJsbFdxdXdtc2RYejN4aFR6ek9TbHgweEVHM29SWWVVdkZnckFHcVR1YXRtOHM1ZWZudjNRQm1VNmFhMXZzXzJmMFB1MDBB?oc=5",
-      "pubDate": "2026-10-15 03:31:49",
-      "author": "36Kr",
-      "summary": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream 36Kr",
-      "lang": "en",
-      "source": "36Kr",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2119409906",
       "title": "碳酸锂跌麻了 - 金融界",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xM1VtQkRhWXJ0NlcwSTFmbEZhRUl4SVRrMk95blp0djU4bFU2VUNHUGpsMm1CS2lXaVZOR3RTSEtkQlVhWEhfdXVHZFVsaWtIZEpkc0NLUW1qRXZKRXRMd004dw?oc=5",
@@ -101869,35 +101899,6 @@
       "source": "金融界",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3867061724",
-      "title": "After Lithium Carbonate Prices Were Halved - Gasgoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ppS2ZmWEhPdlphTXdtbTdPRThhdlEyOUE3N2l3WHJVNUxWMU1TZjgtMXB6aG84OEgwRmxtVkZlLUpJbUh0Wi1TMUZfUTVQT3h4N0ZmVlBtY3dMZE5yRXJxb1F2V1dBVFR1SllZaDJIdFh3Z21mMi1uMjZQLWJmdXlNay0tMlFpTFhjZndFOW9GRWVrR2tFMm5xN1l6SXZJOTdERUtkSQ?oc=5",
-      "pubDate": "2026-10-14 07:03:44",
-      "author": "Gasgoo",
-      "summary": "After Lithium Carbonate Prices Were Halved Gasgoo",
-      "lang": "en",
-      "source": "Gasgoo",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "519765623",
-      "title": "Europe Lithium Mining Market Size, Share &amp; Growth Report 2026-2035 - SNS Insider",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVHNZSVZOTmo2QUQyLXNHU1g5dFhjbHgzQl9fUkhVejBQLW9SOTVwQklCWmg2U3BiX0puMmN1cDFYVHBHX0tzVHUtbmY0RGJONDgxa3NpS0xmVDdXblN3TDBoN0w5YnVkQmZwaGZNOGhMTGlJZ25ZUQ?oc=5",
-      "pubDate": "2026-10-13 18:30:00",
-      "author": "SNS Insider",
-      "summary": "Europe Lithium Mining Market Size, Share & Growth Report 2026-2035 SNS Insider",
-      "lang": "en",
-      "source": "SNS Insider",
-      "categories": [
-        "supply",
-        "macro"
       ],
       "sentiment": 0
     },
@@ -101944,35 +101945,6 @@
       "sentiment": 0
     },
     {
-      "id": "3514044744",
-      "title": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine - National Review",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTIyZlBTWUNWQmt6Y1U2LTdTcmxPcWRLUkZILTFfNkJoT015R3ctRWVLV2pDN05UbXdjUW5ndzNDT0ZxRm1sdW8tamNPdlBYS2w3Zm1oU2VFNVBsWGZITE8ySVFPZmxZV29NWU92OHJLWFhfTFhtenRKWFp2bmxqZHg1UlJpSUptam5nREtaRnJjY2FFaWRiTzJIMklMN1dKSWg1UlBpZUFTZFdaZEHSAbMBQVVfeXFMTmdfMWdsT0RWZWc4WXI4S1BfZXYycm9vT1NuUW1yOVZvRnBUalZ0cWhVY3dORDlIN1ZOYTMyTTZlYzh2SmZOZmJsSzBzZm9UdWRqb0E5Z2Zic3hvSmFSZHFzOHFSb2c3MVhhWUlrNmxyMGNxZ0NweHM3RjVOZlVPWWxvT0VwakEzYmdDTy1nVXItZ1FrQkNIeEVVYTZ3RjZxUkRCZlg3Ry1SX1ZHS0xhTFdiS28?oc=5",
-      "pubDate": "2026-10-13 10:30:47",
-      "author": "National Review",
-      "summary": "The U.S. Needs Lithium — but Washington Makes It Next to Impossible to Mine National Review",
-      "lang": "en",
-      "source": "National Review",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1235939870",
-      "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
-      "pubDate": "2026-10-13 09:14:58",
-      "author": "AZoMining",
-      "summary": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? AZoMining",
-      "lang": "en",
-      "source": "AZoMining",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1155872495",
       "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
@@ -102011,48 +101983,6 @@
       "source": "21财经",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4231154234",
-      "title": "supply-side resumption and expansion weigh on lithium prices - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZk95Qk82ZHhOczlvbUdydlpkUEwxcEtrTWhSUmdUcFpsVmswSEUyZmhfWTlINjNyUmpCcENqenZOUVlIcmFrX2M4M3FiYW9md0NPMDRQdURlT1hBck1uS0haTnEtZV84LXBqamtGbjJxd3UxMXZHVHlaTGFCT1FCUTNna2ZVYmVnQ2ZZNngtOG53aFFxb3RWOGNoOFZra0ZJdXVSRVRuRnJBQQ?oc=5",
-      "pubDate": "2026-10-12 03:18:27",
-      "author": "Moomoo",
-      "summary": "supply-side resumption and expansion weigh on lithium prices Moomoo",
-      "lang": "en",
-      "source": "Moomoo",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "1936377431",
-      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - Columbia University",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
-      "pubDate": "2026-09-28 07:00:00",
-      "author": "Columbia University",
-      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
-      "lang": "en",
-      "source": "Columbia University",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3904992338",
-      "title": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? - Crux Investor",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2hOTTZPd3FCb2E5el9VczI0UnVwVFl6MEZFb1JFa0ttNUwxdnRkcTdkSWN5Zmlob3VNRFdSQWFkSUZDZlJuRk1INWhDSzR2UTQtclV6LUxsLWNuUlNNODNJSDd5RU5DX294VmtkS0d0ZXdYY2NWY2RSNmlNekJBdzN6NW1uQ3RfNVFpWWNZSkwteUY1anFWQ2dMSnhSdmhReUE?oc=5",
-      "pubDate": "2026-09-23 07:00:00",
-      "author": "Crux Investor",
-      "summary": "What Does China’s 10% Lithium Inventory Drop Mean for Future Supply? Crux Investor",
-      "lang": "en",
-      "source": "Crux Investor",
-      "categories": [
-        "supply"
       ],
       "sentiment": 0
     }
