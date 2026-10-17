@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:40:38.016Z",
+  "generatedAt": "2026-10-17T05:16:47.129Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -51076,8 +51076,8 @@
       "role": "国际锂业",
       "price": 95.48,
       "changePct": -2.75,
-      "volume": 2218313,
-      "amount": 213356107,
+      "volume": 2219087,
+      "amount": 213429937,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59485,8 +59485,8 @@
           "c": 95.48,
           "h": 98.99,
           "l": 94.67,
-          "v": 2218313,
-          "amount": 213356107,
+          "v": 2219087,
+          "amount": 213429937,
           "amp": 4.4,
           "chg": -2.75,
           "delta": -2.7
@@ -59501,8 +59501,8 @@
       "role": "国际锂业",
       "price": 60.2,
       "changePct": -0.45,
-      "volume": 1016485,
-      "amount": 61424301,
+      "volume": 1016518,
+      "amount": 61426268,
       "klines": [
         {
           "d": "2024-01-02",
@@ -67910,8 +67910,8 @@
           "c": 60.2,
           "h": 61.03,
           "l": 59.835,
-          "v": 1016485,
-          "amount": 61424301,
+          "v": 1016518,
+          "amount": 61426268,
           "amp": 1.98,
           "chg": -0.45,
           "delta": -0.27
@@ -101883,14 +101883,28 @@
   ],
   "news": [
     {
-      "id": "4276666181",
-      "title": "国城矿业：关于控股子公司签署碳酸锂购销合同暨关联交易的公告 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDMy1fWHRzM2NsNjdsdkktUThGRWhXcFNwSTkxT0xRSkoxdXhtNjVJVnVMMm1vSk1Nc0c1VVNtekVpanpWNk5aLVNGdFdXbVZFNV9oTk1hT1NRUENGUGF6V29adnVqZw?oc=5",
-      "pubDate": "2026-10-16 13:44:28",
+      "id": "1958506609",
+      "title": "商品日报（10月16日）：贵金属集体反弹 碳酸锂持续走低 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YRnVOMHE2cmM2WUpUNDV1anR3eWFacW9KOG5JWTJUZ2M0ZFgyclJBdUhpdE1Mb09VR1h6VF9YN3FOV3RUeW1rZzNjb19GazhuY19ybDRXWHJVS1RaQUo3M2VxNVZKQQ?oc=5",
+      "pubDate": "2026-10-17 02:16:11",
       "author": "东方财富",
-      "summary": "国城矿业：关于控股子公司签署碳酸锂购销合同暨关联交易的公告 东方财富",
+      "summary": "商品日报（10月16日）：贵金属集体反弹 碳酸锂持续走低 东方财富",
       "lang": "zh",
       "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2670005941",
+      "title": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZMXF0ZUU3Qk9tMTRCdFp5MFdXVmsxamxCQ2xOWktJOVBnVmJRdVRxQUJVa0VGMFZoY3h0X0Z4Umx0OEFOMEJwWDh2aVJ1X2xTOUs1aENTcWlSQWdLd0JKcUl3?oc=5",
+      "pubDate": "2026-10-16 13:47:20",
+      "author": "观点网",
+      "summary": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 观点网",
+      "lang": "zh",
+      "source": "观点网",
       "categories": [
         "demand"
       ],
@@ -101925,14 +101939,14 @@
       "sentiment": 0
     },
     {
-      "id": "4154509045",
-      "title": "国城矿业(000688):控股子公司签署碳酸锂购销合同暨关联交易 - 中财网",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZSEZfbTJIQUNIZjdkOHVMZGFLazdPYWpKLWhrbzEycmpFTHE2RDFFQ29jTGIwZGhLYlFkT1M2cU93M19HcHFrRVBVM0F0R1VBbnI3dTR3?oc=5",
-      "pubDate": "2026-10-16 10:12:01",
-      "author": "中财网",
-      "summary": "国城矿业(000688):控股子公司签署碳酸锂购销合同暨关联交易 中财网",
+      "id": "3756542738",
+      "title": "19:04:43【藏格矿业：前三季度净利润同比增长122% 碳酸锂收入增加及投资收益同比增加】 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sZksxVEU4anRnYjRLWFBjenRCZGRKakdjZVVCQkR4eW8zMlNSdTZ1aXBRaHNEZ2M0QkdGTTk2dGw1MnJpQTF0UA?oc=5",
+      "pubDate": "2026-10-16 11:04:43",
+      "author": "财联社",
+      "summary": "19:04:43【藏格矿业：前三季度净利润同比增长122% 碳酸锂收入增加及投资收益同比增加】 财联社",
       "lang": "zh",
-      "source": "中财网",
+      "source": "财联社",
       "categories": [
         "demand"
       ],
@@ -101947,48 +101961,6 @@
       "summary": "国城矿业：控股子公司签署碳酸锂购销合同 证券之星",
       "lang": "zh",
       "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2750466086",
-      "title": "商品日报（10月16日）：贵金属集体反弹 碳酸锂持续走低 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWUzMEh4S0t4Q0tFeHlUdXpnWEFmRkZMWkFsYXU4YlUtQkZLcTFJYUE3eF9SSlVaM25sWUpabGVfU05mdXJLOUYxOHo5ZDYyS3otWkx6dUxCbnVwU3ZObWdTc25RbldObXRDbm9yNEdfQ040cU1Mbk11SjdpclRuOEtERnpsYmtWcVdzSVlQaw?oc=5",
-      "pubDate": "2026-10-16 09:40:00",
-      "author": "21财经",
-      "summary": "商品日报（10月16日）：贵金属集体反弹 碳酸锂持续走低 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1452754837",
-      "title": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yOS03Wm1XTzVNYkdRdEYyZTFpT3NOaUNWMEZTcmgyYmd4cXhrdmFHNTBYaWNkYWJxZlV3Q3NENEh1RUJUT3NuQw?oc=5",
-      "pubDate": "2026-10-16 08:54:44",
-      "author": "财联社",
-      "summary": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% 财联社",
-      "lang": "zh",
-      "source": "财联社",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "4074312",
-      "title": "跌破10万元关口，谁击碎了碳酸锂旺季行情？ - 中华网财经",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XNU1CcmxjZGdTdXdIUUpDb0FJYU1iYlNvSmVNcjhUbWpRUVpZMnBxLVVqdXJRWXkzcWpsNjF3WjJUQUVmRkQwWVdTZEltX3BYM0VaZ3E3cHBRQzBJVDhuR2pBYzN0RWR2UVpxeEZSZWdXWmM?oc=5",
-      "pubDate": "2026-10-16 05:32:44",
-      "author": "中华网财经",
-      "summary": "跌破10万元关口，谁击碎了碳酸锂旺季行情？ 中华网财经",
-      "lang": "zh",
-      "source": "中华网财经",
       "categories": [
         "demand"
       ],
@@ -102024,6 +101996,20 @@
       "sentiment": 0
     },
     {
+      "id": "2119409906",
+      "title": "碳酸锂跌麻了 - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xM1VtQkRhWXJ0NlcwSTFmbEZhRUl4SVRrMk95blp0djU4bFU2VUNHUGpsMm1CS2lXaVZOR3RTSEtkQlVhWEhfdXVHZFVsaWtIZEpkc0NLUW1qRXZKRXRMd004dw?oc=5",
+      "pubDate": "2026-10-14 11:39:37",
+      "author": "金融界",
+      "summary": "碳酸锂跌麻了 金融界",
+      "lang": "zh",
+      "source": "金融界",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3867061724",
       "title": "After Lithium Carbonate Prices Were Halved - Gasgoo",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ppS2ZmWEhPdlphTXdtbTdPRThhdlEyOUE3N2l3WHJVNUxWMU1TZjgtMXB6aG84OEgwRmxtVkZlLUpJbUh0Wi1TMUZfUTVQT3h4N0ZmVlBtY3dMZE5yRXJxb1F2V1dBVFR1SllZaDJIdFh3Z21mMi1uMjZQLWJmdXlNay0tMlFpTFhjZndFOW9GRWVrR2tFMm5xN1l6SXZJOTdERUtkSQ?oc=5",
@@ -102051,6 +102037,20 @@
         "macro"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "3281488809",
+      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 - 上海证券报电子版",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SUZiVnAyalRyME8tVHVjN2ZQZlZBNndxTFhjT25EQmZKM2RPbWgyNFRzU3R2Q0tHcFNmbVhkQVRKYmNyM3VhZnlIRm1PbkZYQ1dPUTA3N1FkSFVGczFtUFhWSFJrNVJCZ2xXeEN3?oc=5",
+      "pubDate": "2026-10-13 16:50:04",
+      "author": "上海证券报电子版",
+      "summary": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 上海证券报电子版",
+      "lang": "zh",
+      "source": "上海证券报电子版",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0.3333333333333333
     },
     {
       "id": "3354031241",
@@ -102081,18 +102081,18 @@
       "sentiment": 0
     },
     {
-      "id": "1155872495",
-      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
-      "pubDate": "2026-10-13 07:55:03",
-      "author": "四川新闻",
-      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
+      "id": "1789340156",
+      "title": "大跌34％！碳酸锂期货跌破11万元创年内新低，市场提前交易供给过剩预期 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHhQdmdycHRiNHpxSURkMTNqdS1YcGs4TmZSNWtkSkNqN3B4eng1THBsd2ZuOVJfa3Q5Z2VTVWhFd1VsMGVSQmJVWndHNHJyOXVwWW9zOTVSLVM2MzhOLXdHOHpFNG85MWVMTXgwRzRGODNHaXVSdHRfdzlCcnNiOUxseWZJdFZscFVXLWloMA?oc=5",
+      "pubDate": "2026-10-13 08:15:19",
+      "author": "21财经",
+      "summary": "大跌34％！碳酸锂期货跌破11万元创年内新低，市场提前交易供给过剩预期 21财经",
       "lang": "zh",
-      "source": "四川新闻",
+      "source": "21财经",
       "categories": [
         "demand"
       ],
-      "sentiment": 0
+      "sentiment": -0.3333333333333333
     },
     {
       "id": "4249942629",
@@ -102194,8 +102194,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -102209,63 +102209,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
