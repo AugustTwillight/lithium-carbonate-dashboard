@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:22:58.695Z",
+  "generatedAt": "2026-10-17T23:17:32.746Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -102200,8 +102200,8 @@
     },
     {
       "label": "现货参考",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "Spot source unavailable: HTTP 403"
     },
     {
       "label": "新闻",
