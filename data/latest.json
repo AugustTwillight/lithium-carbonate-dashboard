@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:26:14.020Z",
+  "generatedAt": "2026-10-17T16:34:15.593Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -88789,14 +88789,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.86,
+          "c": 103.83,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.26,
-          "delta": 0.27
+          "chg": 0.23,
+          "delta": 0.24
         },
         {
           "d": "2025-03-14",
@@ -88807,8 +88807,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.13,
-          "delta": -0.13
+          "chg": -0.1,
+          "delta": -0.1
         },
         {
           "d": "2025-03-17",
@@ -102195,13 +102195,13 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "Spot source unavailable: HTTP 403"
     },
     {
       "label": "新闻",
@@ -102210,8 +102210,8 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
@@ -102220,8 +102220,8 @@
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
