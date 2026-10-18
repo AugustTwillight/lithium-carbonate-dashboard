@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T15:18:48.895Z",
+  "generatedAt": "2026-10-18T18:14:16.217Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -87661,14 +87661,14 @@
         {
           "d": "2024-11-01",
           "o": 103.88,
-          "c": 104.32,
+          "c": 104.28,
           "h": 104.35,
           "l": 103.67,
           "v": 0,
           "amount": 0,
           "amp": 0.65,
-          "chg": 0.4,
-          "delta": 0.42
+          "chg": 0.37,
+          "delta": 0.38
         },
         {
           "d": "2024-11-04",
@@ -87679,8 +87679,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.39,
-          "chg": -0.4,
-          "delta": -0.42
+          "chg": -0.36,
+          "delta": -0.38
         },
         {
           "d": "2024-11-05",
@@ -88789,14 +88789,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.83,
+          "c": 103.86,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.23,
-          "delta": 0.24
+          "chg": 0.26,
+          "delta": 0.27
         },
         {
           "d": "2025-03-14",
@@ -88807,8 +88807,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.1,
-          "delta": -0.1
+          "chg": -0.13,
+          "delta": -0.13
         },
         {
           "d": "2025-03-17",
@@ -101883,34 +101883,6 @@
   ],
   "news": [
     {
-      "id": "783980873",
-      "title": "赣锋锂业(002460)：3Q26业绩低于预期海外自有锂矿持续放量_股市直播_市场 - 中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13QjhUQXRoeUlBdmhTOUVuU0xaRjByU05vSmhsMEU5aWtFUVVHRndPb3ZHUjlZTVlVYzNIaTA4N3h2LV8wS3pnbnlfOVFfN1FKZ0ZkdjNtVjlqMlpjQUhpTEpZTzl3WUJ1TXh3VQ?oc=5",
-      "pubDate": "2026-10-18 01:19:06",
-      "author": "中金在线",
-      "summary": "赣锋锂业(002460)：3Q26业绩低于预期海外自有锂矿持续放量_股市直播_市场 中金在线",
-      "lang": "zh",
-      "source": "中金在线",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2128259763",
-      "title": "期货市场对外开放再提速！郑商所、广期所同步扩大合格境外投资者可交易品种范围 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGdEenBtUHlRV2VacDdGZXRxYWRyV3lOUG1FaW1wUlR2ZjJCZGs5Nkx1YXdCaXhBNy1ybXh5aEJhdXpaQnBaSFNzbkhRZUxIYldpNnJxaTVaeHlTcUJSS2Nzc3hDZTQwbTFqS2gzVkpSbUpSUmZ5TnV5SnlqOG5uYnVBNnZHcG9FR3hQZg?oc=5",
-      "pubDate": "2026-10-17 23:30:31",
-      "author": "搜狐",
-      "summary": "期货市场对外开放再提速！郑商所、广期所同步扩大合格境外投资者可交易品种范围 搜狐",
-      "lang": "zh",
-      "source": "搜狐",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2459294096",
       "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
@@ -101955,6 +101927,20 @@
       "sentiment": 0
     },
     {
+      "id": "3728037163",
+      "title": "钴锂新能源市场、价格周度分析 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETUdNZnlkMGJ4LWl5Vi1ZUmF5SVZJRWt0dkRGbG1RMlRMQWtReXN5UGFjbUZkb3FOZXl4RjVlT0tlYWNEbU5mTmh5eTIzdnlob1pfMmJybEF4T0d1eFVwNDhsc21aMDZHeWJoVjFSVXNlQQ?oc=5",
+      "pubDate": "2026-10-17 06:48:53",
+      "author": "新浪网",
+      "summary": "钴锂新能源市场、价格周度分析 新浪网",
+      "lang": "zh",
+      "source": "新浪网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "571597588",
       "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 - finance.sina.com.cn",
       "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNElqc1AydVRDMFZXMlpWQUZoUXptc0dHR2NPTE9iQ0lweGhfZ3pzNzQ2RHoxWjd3UTNvV2ZBMUNrU1AzTGR4b0FJNHUySDhHU2lnU2xXZUpubzZSQl95NFE1dHFfT3dyMnc3VWRqbFpQYTJZVzFWNHJtTTBHZVJkd20teWZqVTV3NldPMTFzUkxMeFo0VTh4anNrVVhzdE9EaHV1RFVCYW10UDFJZm8tcG44NzJGYXJNNzhuTDJ3Q21ZX0UtTkxDcmdYWWFEZ3FQM19TbzROQlRNcDFEYjA0MllrcWRnZklZMENybkhNLTlLaURpU1dnNElNZVBnR0lycUZWenpUWHROWjdHUGcwQkpaR0pRVU03aHJOVHIydnRwbnV2NnpaNEU5TkJuNFA2Z2ZsOEVZMzVZUHZGWjItcnBlQWJfcFNXM2lsWnY5bEFuckxOaTVxdUVNSjVxOGE5UXNZbUFZZmdvOW52cXBVWQ?oc=5",
@@ -101963,34 +101949,6 @@
       "summary": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 finance.sina.com.cn",
       "lang": "zh",
       "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2670005941",
-      "title": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZMXF0ZUU3Qk9tMTRCdFp5MFdXVmsxamxCQ2xOWktJOVBnVmJRdVRxQUJVa0VGMFZoY3h0X0Z4Umx0OEFOMEJwWDh2aVJ1X2xTOUs1aENTcWlSQWdLd0JKcUl3?oc=5",
-      "pubDate": "2026-10-16 13:47:20",
-      "author": "观点网",
-      "summary": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2813197037",
-      "title": "国城矿业：控股子公司签署碳酸锂购销合同 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xR2dvaHJsTUpxU0RiV0lhVlQyZHBCRUNzOUdIS2RMQ1RrcVowSkhRczJ5ZF9JQk9fQUtyT1AzYW5yUDB2TEczTkVPLURqNDk0MjZzWV9EMGM1di1BU21OV3Rn?oc=5",
-      "pubDate": "2026-10-16 09:45:53",
-      "author": "证券之星",
-      "summary": "国城矿业：控股子公司签署碳酸锂购销合同 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
       "categories": [
         "demand"
       ],
@@ -102021,6 +101979,20 @@
       "source": "ChemNet News",
       "categories": [
         "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2276516306",
+      "title": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CX1JaTGMzV1VBck0yWUJiSzJ0NUZSNkNHWUg0bDl5TURKSXV0R0VSTU5tNXQ1QlNHYmFGM0dUMVBfWF9kb0ZCdWxuekhUaDJtT295Q0NFWXNJMVlCUHZlVDl3?oc=5",
+      "pubDate": "2026-10-15 06:17:32",
+      "author": "观点网",
+      "summary": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 观点网",
+      "lang": "zh",
+      "source": "观点网",
+      "categories": [
         "demand"
       ],
       "sentiment": 0
@@ -102123,6 +102095,34 @@
         "demand"
       ],
       "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "1155872495",
+      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
+      "pubDate": "2026-10-13 07:55:03",
+      "author": "四川新闻",
+      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
+      "lang": "zh",
+      "source": "四川新闻",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "468425706",
+      "title": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qeFZERUJiMTFHZUdkNWIxT2FKckF2bXNzc2gxeENrY0pOVWhhZ201U2JNc1E3elpWM1FHSXpfOUF5SHRZOElLLUFjdjQtNnMwbENDTkxtUjAtSFJFR1hKLQ?oc=5",
+      "pubDate": "2026-10-12 23:45:10",
+      "author": "东方财富",
+      "summary": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "2324751346",
