@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:18:33.927Z",
+  "generatedAt": "2026-10-18T11:32:41.656Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -101955,14 +101955,14 @@
       "sentiment": 0
     },
     {
-      "id": "3728037163",
-      "title": "钴锂新能源市场、价格周度分析 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETUdNZnlkMGJ4LWl5Vi1ZUmF5SVZJRWt0dkRGbG1RMlRMQWtReXN5UGFjbUZkb3FOZXl4RjVlT0tlYWNEbU5mTmh5eTIzdnlob1pfMmJybEF4T0d1eFVwNDhsc21aMDZHeWJoVjFSVXNlQQ?oc=5",
-      "pubDate": "2026-10-17 06:48:53",
-      "author": "新浪网",
-      "summary": "钴锂新能源市场、价格周度分析 新浪网",
+      "id": "571597588",
+      "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNElqc1AydVRDMFZXMlpWQUZoUXptc0dHR2NPTE9iQ0lweGhfZ3pzNzQ2RHoxWjd3UTNvV2ZBMUNrU1AzTGR4b0FJNHUySDhHU2lnU2xXZUpubzZSQl95NFE1dHFfT3dyMnc3VWRqbFpQYTJZVzFWNHJtTTBHZVJkd20teWZqVTV3NldPMTFzUkxMeFo0VTh4anNrVVhzdE9EaHV1RFVCYW10UDFJZm8tcG44NzJGYXJNNzhuTDJ3Q21ZX0UtTkxDcmdYWWFEZ3FQM19TbzROQlRNcDFEYjA0MllrcWRnZklZMENybkhNLTlLaURpU1dnNElNZVBnR0lycUZWenpUWHROWjdHUGcwQkpaR0pRVU03aHJOVHIydnRwbnV2NnpaNEU5TkJuNFA2Z2ZsOEVZMzVZUHZGWjItcnBlQWJfcFNXM2lsWnY5bEFuckxOaTVxdUVNSjVxOGE5UXNZbUFZZmdvOW52cXBVWQ?oc=5",
+      "pubDate": "2026-10-16 22:30:28",
+      "author": "finance.sina.com.cn",
+      "summary": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 finance.sina.com.cn",
       "lang": "zh",
-      "source": "新浪网",
+      "source": "finance.sina.com.cn",
       "categories": [
         "demand"
       ],
@@ -101995,6 +101995,20 @@
         "demand"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "1452754837",
+      "title": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yOS03Wm1XTzVNYkdRdEYyZTFpT3NOaUNWMEZTcmgyYmd4cXhrdmFHNTBYaWNkYWJxZlV3Q3NENEh1RUJUT3NuQw?oc=5",
+      "pubDate": "2026-10-16 08:54:44",
+      "author": "财联社",
+      "summary": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% 财联社",
+      "lang": "zh",
+      "source": "财联社",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": -0.3333333333333333
     },
     {
       "id": "3188049008",
@@ -102037,20 +102051,6 @@
       "source": "36Kr",
       "categories": [
         "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2119409906",
-      "title": "碳酸锂跌麻了 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xM1VtQkRhWXJ0NlcwSTFmbEZhRUl4SVRrMk95blp0djU4bFU2VUNHUGpsMm1CS2lXaVZOR3RTSEtkQlVhWEhfdXVHZFVsaWtIZEpkc0NLUW1qRXZKRXRMd004dw?oc=5",
-      "pubDate": "2026-10-14 11:39:37",
-      "author": "金融界",
-      "summary": "碳酸锂跌麻了 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -102197,13 +102197,13 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "Spot source unavailable: HTTP 403"
     },
     {
       "label": "新闻",
@@ -102212,63 +102212,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
