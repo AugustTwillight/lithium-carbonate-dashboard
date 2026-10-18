@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:21:02.141Z",
+  "generatedAt": "2026-10-18T06:18:33.927Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -101883,6 +101883,64 @@
   ],
   "news": [
     {
+      "id": "783980873",
+      "title": "赣锋锂业(002460)：3Q26业绩低于预期海外自有锂矿持续放量_股市直播_市场 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13QjhUQXRoeUlBdmhTOUVuU0xaRjByU05vSmhsMEU5aWtFUVVHRndPb3ZHUjlZTVlVYzNIaTA4N3h2LV8wS3pnbnlfOVFfN1FKZ0ZkdjNtVjlqMlpjQUhpTEpZTzl3WUJ1TXh3VQ?oc=5",
+      "pubDate": "2026-10-18 01:19:06",
+      "author": "中金在线",
+      "summary": "赣锋锂业(002460)：3Q26业绩低于预期海外自有锂矿持续放量_股市直播_市场 中金在线",
+      "lang": "zh",
+      "source": "中金在线",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2128259763",
+      "title": "期货市场对外开放再提速！郑商所、广期所同步扩大合格境外投资者可交易品种范围 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGdEenBtUHlRV2VacDdGZXRxYWRyV3lOUG1FaW1wUlR2ZjJCZGs5Nkx1YXdCaXhBNy1ybXh5aEJhdXpaQnBaSFNzbkhRZUxIYldpNnJxaTVaeHlTcUJSS2Nzc3hDZTQwbTFqS2gzVkpSbUpSUmZ5TnV5SnlqOG5uYnVBNnZHcG9FR3hQZg?oc=5",
+      "pubDate": "2026-10-17 23:30:31",
+      "author": "搜狐",
+      "summary": "期货市场对外开放再提速！郑商所、广期所同步扩大合格境外投资者可交易品种范围 搜狐",
+      "lang": "zh",
+      "source": "搜狐",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2459294096",
+      "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
+      "pubDate": "2026-10-17 23:21:04",
+      "author": "THE ELEC, Korea Electronics Industry Media",
+      "summary": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty THE ELEC, Korea Electronics Industry Media",
+      "lang": "en",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "categories": [
+        "supply",
+        "demand",
+        "macro"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "4277918286",
+      "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4XzlYRHRmYUg3YmJfVXF3akZOQVFEVnJGQ0xESThnQ0l3ZTZHTXNxYWM3TDVYUTJicnVzMWd4cm9LWjE2anNFUWM2VVJwWE5FLUc2VUt5eklPWnMwRzJvcg?oc=5",
+      "pubDate": "2026-10-17 15:03:54",
+      "author": "东方财富",
+      "summary": "强现实难敌弱预期？如何看待碳酸锂底部信号？ 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1192949554",
       "title": "Standard Lithium: Everything Is Ready Except The Lithium Price - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDI3Y2N6LVF5dndnS1FXQ0ZmMGtxUXQzdFYtVE8yRFJsdWprbGdtYW9adUNwYk44am1iX0R6bjlQNFFYemFOSDB0NW5YcmY2NlhZdlhXUDdnN0xhYm9qc1MxRWNwMnlVWmM4U1F6dTNHZTNnQXI5NXNUQlMyZ0tlZ3c1QnRobkpuSmN3al9VakhPZUdaaGFLMWYzVFhWWUZtR1g1VQ?oc=5",
@@ -101905,34 +101963,6 @@
       "summary": "钴锂新能源市场、价格周度分析 新浪网",
       "lang": "zh",
       "source": "新浪网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4277918286",
-      "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4XzlYRHRmYUg3YmJfVXF3akZOQVFEVnJGQ0xESThnQ0l3ZTZHTXNxYWM3TDVYUTJicnVzMWd4cm9LWjE2anNFUWM2VVJwWE5FLUc2VUt5eklPWnMwRzJvcg?oc=5",
-      "pubDate": "2026-10-17 01:09:57",
-      "author": "东方财富",
-      "summary": "强现实难敌弱预期？如何看待碳酸锂底部信号？ 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "571597588",
-      "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNElqc1AydVRDMFZXMlpWQUZoUXptc0dHR2NPTE9iQ0lweGhfZ3pzNzQ2RHoxWjd3UTNvV2ZBMUNrU1AzTGR4b0FJNHUySDhHU2lnU2xXZUpubzZSQl95NFE1dHFfT3dyMnc3VWRqbFpQYTJZVzFWNHJtTTBHZVJkd20teWZqVTV3NldPMTFzUkxMeFo0VTh4anNrVVhzdE9EaHV1RFVCYW10UDFJZm8tcG44NzJGYXJNNzhuTDJ3Q21ZX0UtTkxDcmdYWWFEZ3FQM19TbzROQlRNcDFEYjA0MllrcWRnZklZMENybkhNLTlLaURpU1dnNElNZVBnR0lycUZWenpUWHROWjdHUGcwQkpaR0pRVU03aHJOVHIydnRwbnV2NnpaNEU5TkJuNFA2Z2ZsOEVZMzVZUHZGWjItcnBlQWJfcFNXM2lsWnY5bEFuckxOaTVxdUVNSjVxOGE5UXNZbUFZZmdvOW52cXBVWQ?oc=5",
-      "pubDate": "2026-10-16 22:30:28",
-      "author": "finance.sina.com.cn",
-      "summary": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
       "categories": [
         "demand"
       ],
@@ -102110,20 +102140,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "1155872495",
-      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
-      "pubDate": "2026-10-13 07:55:03",
-      "author": "四川新闻",
-      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
-      "lang": "zh",
-      "source": "四川新闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "4249942629",
       "title": "Lithium Mining Companies: The Biggest Producers - Farmonaut",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0l2cnkwelQwWGs1dGtyY1hvMnNrOHB6YUF4YmFWeDNiUjRnNXNMODFZT2hqUC1fbzZGYzdDZ1p6Nk8xZWt1N1Z3QTkxVndHRTMyY09IUXpDX3BPQlZPbnIwcEdudzctN050WEo5Z1VEOEFxRnBJSjVIZWFQTzllQ0N5NVVSdHkzbmc4?oc=5",
@@ -102136,20 +102152,6 @@
         "supply"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "2324751346",
-      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
-      "pubDate": "2026-10-08 16:11:55",
-      "author": "Fastmarkets",
-      "summary": "Delayed publication of lithium carbonate, hydroxide assessments Fastmarkets",
-      "lang": "en",
-      "source": "Fastmarkets",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0.3333333333333333
     },
     {
       "id": "1936377431",
@@ -102195,8 +102197,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -102210,63 +102212,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
