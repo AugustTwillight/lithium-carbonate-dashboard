@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T11:32:41.656Z",
+  "generatedAt": "2026-10-18T15:18:48.895Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -87661,14 +87661,14 @@
         {
           "d": "2024-11-01",
           "o": 103.88,
-          "c": 104.28,
+          "c": 104.32,
           "h": 104.35,
           "l": 103.67,
           "v": 0,
           "amount": 0,
           "amp": 0.65,
-          "chg": 0.37,
-          "delta": 0.38
+          "chg": 0.4,
+          "delta": 0.42
         },
         {
           "d": "2024-11-04",
@@ -87679,8 +87679,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.39,
-          "chg": -0.36,
-          "delta": -0.38
+          "chg": -0.4,
+          "delta": -0.42
         },
         {
           "d": "2024-11-05",
@@ -88789,14 +88789,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.86,
+          "c": 103.83,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.26,
-          "delta": 0.27
+          "chg": 0.23,
+          "delta": 0.24
         },
         {
           "d": "2025-03-14",
@@ -88807,8 +88807,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.13,
-          "delta": -0.13
+          "chg": -0.1,
+          "delta": -0.1
         },
         {
           "d": "2025-03-17",
@@ -102011,21 +102011,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3188049008",
-      "title": "Ganfeng Lithium Q3 revenue up 109.03% YoY; lithium price recovery drives first three quarters net profit surge of 19,540% - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPV2E2RllQbnlYZUVROWpldlZLNlJPMkNCZlllOEVaSk85OUJ4aEhkaVdUX0FSMkpYVFdMS055Wlo1NGM4RXZkeHhoQmU5YXFEYWltYzFSZkUxT0VrTWp5QlZoSHY1V3FFX0d3S1VRcWlFQjBObXlhOTZRMTNVcGJmQ3FRMENsVEJHODBuSG8tMDFjZFBHNjdUSlltTzlqREZXa0QyZTRnNVVPWkVoeUtqenRITjBYNmZPSUNEUDdiMzZWLVg3aXFEN01EUjl0TkExR2hBWThfZW1NWWdIS2NZc0piYjgxT1p4RGFwLUtwZmhITlk?oc=5",
-      "pubDate": "2026-10-16 00:31:00",
-      "author": "Shanghai Metals Market",
-      "summary": "Ganfeng Lithium Q3 revenue up 109.03% YoY; lithium price recovery drives first three quarters net profit surge of 19,540% Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "demand",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "817081644",
       "title": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong - ChemNet News",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VTkyS2xoYzdmQUNpVHMyOGQzZGllQUhWMWVzMU5Qc3Uxb29QRHhwN25CdUhFWU51RFl2N1Q0R1pPLUtXZmpRdHo3clZYMzRKRnc?oc=5",
@@ -102140,16 +102125,31 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "4249942629",
-      "title": "Lithium Mining Companies: The Biggest Producers - Farmonaut",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ0l2cnkwelQwWGs1dGtyY1hvMnNrOHB6YUF4YmFWeDNiUjRnNXNMODFZT2hqUC1fbzZGYzdDZ1p6Nk8xZWt1N1Z3QTkxVndHRTMyY09IUXpDX3BPQlZPbnIwcEdudzctN050WEo5Z1VEOEFxRnBJSjVIZWFQTzllQ0N5NVVSdHkzbmc4?oc=5",
-      "pubDate": "2026-10-13 07:00:00",
-      "author": "Farmonaut",
-      "summary": "Lithium Mining Companies: The Biggest Producers Farmonaut",
+      "id": "2324751346",
+      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
+      "pubDate": "2026-10-08 16:11:55",
+      "author": "Fastmarkets",
+      "summary": "Delayed publication of lithium carbonate, hydroxide assessments Fastmarkets",
       "lang": "en",
-      "source": "Farmonaut",
+      "source": "Fastmarkets",
       "categories": [
-        "supply"
+        "macro"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "3736222274",
+      "title": "North American energy storage to drive lithium carbonate demand through 2031 - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
+      "pubDate": "2026-09-29 07:00:00",
+      "author": "Mining Weekly",
+      "summary": "North American energy storage to drive lithium carbonate demand through 2031 Mining Weekly",
+      "lang": "en",
+      "source": "Mining Weekly",
+      "categories": [
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     },
