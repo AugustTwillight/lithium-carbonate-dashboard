@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:45:26.165Z",
+  "generatedAt": "2026-10-19T05:40:11.374Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2200,11 +2200,11 @@
     ]
   },
   "spot": {
-    "price": 102150,
+    "price": 102950,
     "date": "2026-10-19",
-    "dayPct": -2.16,
-    "monthPct": -23.31,
-    "yearPct": 39.26,
+    "dayPct": 0.78,
+    "monthPct": -23.4,
+    "yearPct": 39.12,
     "unit": "CNY/T",
     "sourceName": "Trading Economics / Jina Reader",
     "sourceUrl": "https://tradingeconomics.com/commodity/lithium"
@@ -101907,6 +101907,34 @@
   ],
   "news": [
     {
+      "id": "588326725",
+      "title": "广期智荟——机构服务万里行丨走进“锂电之都”，深耕碳酸锂产业服务 - 搜狐",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT1g1MUY5amVLMzdxdnlidnVZSklkQ29VQlpicm0xQU5lT2EwSkJJTjgxVTFvTktDVVFST0h3RksxdkJWMEN5S3BkdWVha01JWHJ0R0tVR1hnRFRjRjY4N21jLXFQLWZWblo2c0lmQkZEczVjSHJfQlRJUWFYR1VBYVl0M2RyeWdHU25wcw?oc=5",
+      "pubDate": "2026-10-18 13:18:40",
+      "author": "搜狐",
+      "summary": "广期智荟——机构服务万里行丨走进“锂电之都”，深耕碳酸锂产业服务 搜狐",
+      "lang": "zh",
+      "source": "搜狐",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2420049442",
+      "title": "锂电池黑粉制备电池级碳酸锂工艺技术进展和应用案例研究【锂电池原材料大会】 - 上海有色金属",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4MFFzb3dsOG1ndFVRbTNJZXU0SllfbGNyRHdneXZkS2hROVhmUW04WGFENXA2MHkzczZqNldqMEpKcDVuR3NJcVJn?oc=5",
+      "pubDate": "2026-10-18 12:22:00",
+      "author": "上海有色金属",
+      "summary": "锂电池黑粉制备电池级碳酸锂工艺技术进展和应用案例研究【锂电池原材料大会】 上海有色金属",
+      "lang": "zh",
+      "source": "上海有色金属",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2459294096",
       "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
@@ -101923,6 +101951,20 @@
       "sentiment": -0.3333333333333333
     },
     {
+      "id": "4277918286",
+      "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？ - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4XzlYRHRmYUg3YmJfVXF3akZOQVFEVnJGQ0xESThnQ0l3ZTZHTXNxYWM3TDVYUTJicnVzMWd4cm9LWjE2anNFUWM2VVJwWE5FLUc2VUt5eklPWnMwRzJvcg?oc=5",
+      "pubDate": "2026-10-17 15:03:54",
+      "author": "东方财富",
+      "summary": "强现实难敌弱预期？如何看待碳酸锂底部信号？ 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1192949554",
       "title": "Standard Lithium: Everything Is Ready Except The Lithium Price - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDI3Y2N6LVF5dndnS1FXQ0ZmMGtxUXQzdFYtVE8yRFJsdWprbGdtYW9adUNwYk44am1iX0R6bjlQNFFYemFOSDB0NW5YcmY2NlhZdlhXUDdnN0xhYm9qc1MxRWNwMnlVWmM4U1F6dTNHZTNnQXI5NXNUQlMyZ0tlZ3c1QnRobkpuSmN3al9VakhPZUdaaGFLMWYzVFhWWUZtR1g1VQ?oc=5",
@@ -101935,6 +101977,76 @@
         "demand"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "571597588",
+      "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNElqc1AydVRDMFZXMlpWQUZoUXptc0dHR2NPTE9iQ0lweGhfZ3pzNzQ2RHoxWjd3UTNvV2ZBMUNrU1AzTGR4b0FJNHUySDhHU2lnU2xXZUpubzZSQl95NFE1dHFfT3dyMnc3VWRqbFpQYTJZVzFWNHJtTTBHZVJkd20teWZqVTV3NldPMTFzUkxMeFo0VTh4anNrVVhzdE9EaHV1RFVCYW10UDFJZm8tcG44NzJGYXJNNzhuTDJ3Q21ZX0UtTkxDcmdYWWFEZ3FQM19TbzROQlRNcDFEYjA0MllrcWRnZklZMENybkhNLTlLaURpU1dnNElNZVBnR0lycUZWenpUWHROWjdHUGcwQkpaR0pRVU03aHJOVHIydnRwbnV2NnpaNEU5TkJuNFA2Z2ZsOEVZMzVZUHZGWjItcnBlQWJfcFNXM2lsWnY5bEFuckxOaTVxdUVNSjVxOGE5UXNZbUFZZmdvOW52cXBVWQ?oc=5",
+      "pubDate": "2026-10-16 22:30:28",
+      "author": "finance.sina.com.cn",
+      "summary": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 finance.sina.com.cn",
+      "lang": "zh",
+      "source": "finance.sina.com.cn",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2670005941",
+      "title": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZMXF0ZUU3Qk9tMTRCdFp5MFdXVmsxamxCQ2xOWktJOVBnVmJRdVRxQUJVa0VGMFZoY3h0X0Z4Umx0OEFOMEJwWDh2aVJ1X2xTOUs1aENTcWlSQWdLd0JKcUl3?oc=5",
+      "pubDate": "2026-10-16 13:47:20",
+      "author": "观点网",
+      "summary": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 观点网",
+      "lang": "zh",
+      "source": "观点网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2813197037",
+      "title": "国城矿业：控股子公司签署碳酸锂购销合同 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xR2dvaHJsTUpxU0RiV0lhVlQyZHBCRUNzOUdIS2RMQ1RrcVowSkhRczJ5ZF9JQk9fQUtyT1AzYW5yUDB2TEczTkVPLURqNDk0MjZzWV9EMGM1di1BU21OV3Rn?oc=5",
+      "pubDate": "2026-10-16 09:45:53",
+      "author": "证券之星",
+      "summary": "国城矿业：控股子公司签署碳酸锂购销合同 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2131070081",
+      "title": "碳酸锂龙虎榜 | 主力合约增仓下行 多空双方均呈进场态势 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xSmtuaUVuZmxFWlFSMnBlSG1BcHpHZDNWaHppb0MtZVpBcXRjdWxFQm03VVRFWXNLVURhYy1zUTFfejlpWERpbEo3TVBIdGx4TG4zOGExX3o1amNLdlczMDlteVJLZw?oc=5",
+      "pubDate": "2026-10-16 09:21:08",
+      "author": "东方财富",
+      "summary": "碳酸锂龙虎榜 | 主力合约增仓下行 多空双方均呈进场态势 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1452754837",
+      "title": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yOS03Wm1XTzVNYkdRdEYyZTFpT3NOaUNWMEZTcmgyYmd4cXhrdmFHNTBYaWNkYWJxZlV3Q3NENEh1RUJUT3NuQw?oc=5",
+      "pubDate": "2026-10-16 08:54:44",
+      "author": "财联社",
+      "summary": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% 财联社",
+      "lang": "zh",
+      "source": "财联社",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": -0.3333333333333333
     },
     {
       "id": "817081644",
@@ -101991,6 +102103,34 @@
       "categories": [
         "supply",
         "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3281488809",
+      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 - 上海证券报电子版",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SUZiVnAyalRyME8tVHVjN2ZQZlZBNndxTFhjT25EQmZKM2RPbWgyNFRzU3R2Q0tHcFNmbVhkQVRKYmNyM3VhZnlIRm1PbkZYQ1dPUTA3N1FkSFVGczFtUFhWSFJrNVJCZ2xXeEN3?oc=5",
+      "pubDate": "2026-10-13 16:50:04",
+      "author": "上海证券报电子版",
+      "summary": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 上海证券报电子版",
+      "lang": "zh",
+      "source": "上海证券报电子版",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "3354031241",
+      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 - 钛媒体",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
+      "pubDate": "2026-10-13 11:25:00",
+      "author": "钛媒体",
+      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 钛媒体",
+      "lang": "zh",
+      "source": "钛媒体",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     },
@@ -102082,7 +102222,7 @@
     {
       "label": "期货主力",
       "ok": false,
-      "message": "No futures quote"
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -102096,63 +102236,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
