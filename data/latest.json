@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T22:49:00.744Z",
+  "generatedAt": "2026-10-19T00:45:26.165Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2201,7 +2201,7 @@
   },
   "spot": {
     "price": 102150,
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "dayPct": -2.16,
     "monthPct": -23.31,
     "yearPct": 39.26,
@@ -76349,9 +76349,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 98.24,
-      "changePct": -0.79,
-      "volume": 3891,
+      "price": 97.66,
+      "changePct": -1.37,
+      "volume": 11194,
       "amount": 0,
       "klines": [
         {
@@ -85021,14 +85021,14 @@
         {
           "d": "2026-10-19",
           "o": 99.04,
-          "c": 98.24,
+          "c": 97.66,
           "h": 99.24,
-          "l": 98.2,
-          "v": 3891,
+          "l": 97.46,
+          "v": 11193,
           "amount": 0,
-          "amp": 1.05,
-          "chg": -0.79,
-          "delta": -0.78
+          "amp": 1.8,
+          "chg": -1.37,
+          "delta": -1.36
         }
       ]
     },
@@ -85037,8 +85037,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.9,
-      "changePct": 0.12,
+      "price": 101.83,
+      "changePct": 0.05,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -93805,14 +93805,14 @@
         {
           "d": "2026-10-19",
           "o": 102.02,
-          "c": 101.9,
+          "c": 101.83,
           "h": 102.12,
-          "l": 101.78,
+          "l": 101.77,
           "v": 0,
           "amount": 0,
-          "amp": 0.33,
-          "chg": 0.12,
-          "delta": 0.12
+          "amp": 0.34,
+          "chg": 0.05,
+          "delta": 0.05
         }
       ]
     },
@@ -101907,142 +101907,147 @@
   ],
   "news": [
     {
-      "id": "4277918286",
-      "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4XzlYRHRmYUg3YmJfVXF3akZOQVFEVnJGQ0xESThnQ0l3ZTZHTXNxYWM3TDVYUTJicnVzMWd4cm9LWjE2anNFUWM2VVJwWE5FLUc2VUt5eklPWnMwRzJvcg?oc=5",
-      "pubDate": "2026-10-17 15:03:54",
-      "author": "东方财富",
-      "summary": "强现实难敌弱预期？如何看待碳酸锂底部信号？ 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
+      "id": "2459294096",
+      "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
+      "pubDate": "2026-10-17 23:21:04",
+      "author": "THE ELEC, Korea Electronics Industry Media",
+      "summary": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty THE ELEC, Korea Electronics Industry Media",
+      "lang": "en",
+      "source": "THE ELEC, Korea Electronics Industry Media",
       "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3728037163",
-      "title": "钴锂新能源市场、价格周度分析 - 新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETUdNZnlkMGJ4LWl5Vi1ZUmF5SVZJRWt0dkRGbG1RMlRMQWtReXN5UGFjbUZkb3FOZXl4RjVlT0tlYWNEbU5mTmh5eTIzdnlob1pfMmJybEF4T0d1eFVwNDhsc21aMDZHeWJoVjFSVXNlQQ?oc=5",
-      "pubDate": "2026-10-17 06:48:53",
-      "author": "新浪网",
-      "summary": "钴锂新能源市场、价格周度分析 新浪网",
-      "lang": "zh",
-      "source": "新浪网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "571597588",
-      "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 - finance.sina.com.cn",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPNElqc1AydVRDMFZXMlpWQUZoUXptc0dHR2NPTE9iQ0lweGhfZ3pzNzQ2RHoxWjd3UTNvV2ZBMUNrU1AzTGR4b0FJNHUySDhHU2lnU2xXZUpubzZSQl95NFE1dHFfT3dyMnc3VWRqbFpQYTJZVzFWNHJtTTBHZVJkd20teWZqVTV3NldPMTFzUkxMeFo0VTh4anNrVVhzdE9EaHV1RFVCYW10UDFJZm8tcG44NzJGYXJNNzhuTDJ3Q21ZX0UtTkxDcmdYWWFEZ3FQM19TbzROQlRNcDFEYjA0MllrcWRnZklZMENybkhNLTlLaURpU1dnNElNZVBnR0lycUZWenpUWHROWjdHUGcwQkpaR0pRVU03aHJOVHIydnRwbnV2NnpaNEU5TkJuNFA2Z2ZsOEVZMzVZUHZGWjItcnBlQWJfcFNXM2lsWnY5bEFuckxOaTVxdUVNSjVxOGE5UXNZbUFZZmdvOW52cXBVWQ?oc=5",
-      "pubDate": "2026-10-16 22:30:28",
-      "author": "finance.sina.com.cn",
-      "summary": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元 finance.sina.com.cn",
-      "lang": "zh",
-      "source": "finance.sina.com.cn",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1452754837",
-      "title": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yOS03Wm1XTzVNYkdRdEYyZTFpT3NOaUNWMEZTcmgyYmd4cXhrdmFHNTBYaWNkYWJxZlV3Q3NENEh1RUJUT3NuQw?oc=5",
-      "pubDate": "2026-10-16 08:54:44",
-      "author": "财联社",
-      "summary": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% 财联社",
-      "lang": "zh",
-      "source": "财联社",
-      "categories": [
-        "demand"
+        "supply",
+        "demand",
+        "macro"
       ],
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "2276516306",
-      "title": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CX1JaTGMzV1VBck0yWUJiSzJ0NUZSNkNHWUg0bDl5TURKSXV0R0VSTU5tNXQ1QlNHYmFGM0dUMVBfWF9kb0ZCdWxuekhUaDJtT295Q0NFWXNJMVlCUHZlVDl3?oc=5",
-      "pubDate": "2026-10-15 06:17:32",
-      "author": "观点网",
-      "summary": "碳酸锂主力合约跌破10万关口 日内跌幅超2%创去年12月以来新低 观点网",
-      "lang": "zh",
-      "source": "观点网",
+      "id": "1192949554",
+      "title": "Standard Lithium: Everything Is Ready Except The Lithium Price - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDI3Y2N6LVF5dndnS1FXQ0ZmMGtxUXQzdFYtVE8yRFJsdWprbGdtYW9adUNwYk44am1iX0R6bjlQNFFYemFOSDB0NW5YcmY2NlhZdlhXUDdnN0xhYm9qc1MxRWNwMnlVWmM4U1F6dTNHZTNnQXI5NXNUQlMyZ0tlZ3c1QnRobkpuSmN3al9VakhPZUdaaGFLMWYzVFhWWUZtR1g1VQ?oc=5",
+      "pubDate": "2026-10-17 07:19:28",
+      "author": "Seeking Alpha",
+      "summary": "Standard Lithium: Everything Is Ready Except The Lithium Price Seeking Alpha",
+      "lang": "en",
+      "source": "Seeking Alpha",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "3281488809",
-      "title": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 - 上海证券报电子版",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1SUZiVnAyalRyME8tVHVjN2ZQZlZBNndxTFhjT25EQmZKM2RPbWgyNFRzU3R2Q0tHcFNmbVhkQVRKYmNyM3VhZnlIRm1PbkZYQ1dPUTA3N1FkSFVGczFtUFhWSFJrNVJCZ2xXeEN3?oc=5",
-      "pubDate": "2026-10-13 16:50:04",
-      "author": "上海证券报电子版",
-      "summary": "跌破11万元/吨 碳酸锂价格又到“十字路口” 储能或成需求增长核心引擎 上海证券报电子版",
-      "lang": "zh",
-      "source": "上海证券报电子版",
+      "id": "817081644",
+      "title": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VTkyS2xoYzdmQUNpVHMyOGQzZGllQUhWMWVzMU5Qc3Uxb29QRHhwN25CdUhFWU51RFl2N1Q0R1pPLUtXZmpRdHo3clZYMzRKRnc?oc=5",
+      "pubDate": "2026-10-15 06:25:01",
+      "author": "ChemNet News",
+      "summary": "SunSirs: Both Supply and Demand for Lithium Carbonate Are Strong ChemNet News",
+      "lang": "en",
+      "source": "ChemNet News",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1120677844",
+      "title": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream - 36Kr",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HRkVNYUJsbFdxdXdtc2RYejN4aFR6ek9TbHgweEVHM29SWWVVdkZnckFHcVR1YXRtOHM1ZWZudjNRQm1VNmFhMXZzXzJmMFB1MDBB?oc=5",
+      "pubDate": "2026-10-15 03:31:49",
+      "author": "36Kr",
+      "summary": "China's Lithium Market New Player: World's Most Profitable Oil Company Enters Lithium Carbonate Industry - A Game-Changing Partnership for China's Lithium Dream 36Kr",
+      "lang": "en",
+      "source": "36Kr",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3867061724",
+      "title": "After Lithium Carbonate Prices Were Halved - Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ppS2ZmWEhPdlphTXdtbTdPRThhdlEyOUE3N2l3WHJVNUxWMU1TZjgtMXB6aG84OEgwRmxtVkZlLUpJbUh0Wi1TMUZfUTVQT3h4N0ZmVlBtY3dMZE5yRXJxb1F2V1dBVFR1SllZaDJIdFh3Z21mMi1uMjZQLWJmdXlNay0tMlFpTFhjZndFOW9GRWVrR2tFMm5xN1l6SXZJOTdERUtkSQ?oc=5",
+      "pubDate": "2026-10-14 07:03:44",
+      "author": "Gasgoo",
+      "summary": "After Lithium Carbonate Prices Were Halved Gasgoo",
+      "lang": "en",
+      "source": "Gasgoo",
       "categories": [
         "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "519765623",
+      "title": "Europe Lithium Mining Market Size, Share &amp; Growth Report 2026-2035 - SNS Insider",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVHNZSVZOTmo2QUQyLXNHU1g5dFhjbHgzQl9fUkhVejBQLW9SOTVwQklCWmg2U3BiX0puMmN1cDFYVHBHX0tzVHUtbmY0RGJONDgxa3NpS0xmVDdXblN3TDBoN0w5YnVkQmZwaGZNOGhMTGlJZ25ZUQ?oc=5",
+      "pubDate": "2026-10-13 18:30:00",
+      "author": "SNS Insider",
+      "summary": "Europe Lithium Mining Market Size, Share & Growth Report 2026-2035 SNS Insider",
+      "lang": "en",
+      "source": "SNS Insider",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1235939870",
+      "title": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? - AZoMining",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFcUU1QkRFc1MtRG9fMXBlTTlBRnhwR1VJYWJaanB2WUJzSFBkTjZyckFkRjU2TWxUTGN6RGdPOEZDc2oyRzN2elMtTGpfdjRJVXdnOEdUUkQwbXpqYlpTbUliSQ?oc=5",
+      "pubDate": "2026-10-13 09:14:58",
+      "author": "AZoMining",
+      "summary": "Lithium Mining vs. Direct Lithium Extraction: Which Is Greener? AZoMining",
+      "lang": "en",
+      "source": "AZoMining",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2324751346",
+      "title": "Delayed publication of lithium carbonate, hydroxide assessments - Fastmarkets",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzBybFc0MHc0Qktod1FuTWJOS1BqRERpeGExdURWcndEYy12bXB0ZWtPV19FTERaekJpWkF6TjQ2ZVd1V0N3WFp0SlNRVHBLc2FPd0tZbHBGMjZDM2JLVVd4TG5DR1pjMDAwamFmRnlJZE9WTDh1SmtQNnB1a19iWHdkdmR6OXlzZXdOSDZRRXBPYjFGZ0tZaWRpWXA5UmNJUlE?oc=5",
+      "pubDate": "2026-10-08 16:11:55",
+      "author": "Fastmarkets",
+      "summary": "Delayed publication of lithium carbonate, hydroxide assessments Fastmarkets",
+      "lang": "en",
+      "source": "Fastmarkets",
+      "categories": [
+        "macro"
       ],
       "sentiment": 0.3333333333333333
     },
     {
-      "id": "3354031241",
-      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 - 钛媒体",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
-      "pubDate": "2026-10-13 11:25:00",
-      "author": "钛媒体",
-      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 钛媒体",
-      "lang": "zh",
-      "source": "钛媒体",
+      "id": "3736222274",
+      "title": "North American energy storage to drive lithium carbonate demand through 2031 - Mining Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3ZfUWpIR2hjbUo0U3AzN2xZSXpKSFNueTVsVC1ZcmdsOHNwTVd4SEZyZ0N4Y2p1UG1HLTFoZXY3QlpQTE5sVnZENmNSbWM2RDBjZEpGQVFKTW02RGR4NnAzSDYtQndWdzhFWWQzUnlnWG5UOVE4NDlNYVFFT3RESHFYeVZ4WHZIM0ZtTmMxZ1paUUh0emRJVzlRSDdYMnJUWVZEajYxc3pwdXNjVU5rUk05aXg5UWQ0RHZDSkg3dXF6UQ?oc=5",
+      "pubDate": "2026-09-29 07:00:00",
+      "author": "Mining Weekly",
+      "summary": "North American energy storage to drive lithium carbonate demand through 2031 Mining Weekly",
+      "lang": "en",
+      "source": "Mining Weekly",
       "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "1789340156",
-      "title": "大跌34％！碳酸锂期货跌破11万元创年内新低，市场提前交易供给过剩预期 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOHhQdmdycHRiNHpxSURkMTNqdS1YcGs4TmZSNWtkSkNqN3B4eng1THBsd2ZuOVJfa3Q5Z2VTVWhFd1VsMGVSQmJVWndHNHJyOXVwWW9zOTVSLVM2MzhOLXdHOHpFNG85MWVMTXgwRzRGODNHaXVSdHRfdzlCcnNiOUxseWZJdFZscFVXLWloMA?oc=5",
-      "pubDate": "2026-10-13 08:15:19",
-      "author": "21财经",
-      "summary": "大跌34％！碳酸锂期货跌破11万元创年内新低，市场提前交易供给过剩预期 21财经",
-      "lang": "zh",
-      "source": "21财经",
+      "id": "1936377431",
+      "title": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement - Columbia University",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM2dYMmVZVzdtZVNZNTFOSnFIUTdWWGNrX3BPbWpBSTFyUURDalhPelpibEVXd3pualhibU1WNmNtS1JKVjF6QWh3UDJYMm50ekVpa25IeHZYYTRKVUY2dEJTaDA1bWNpbFA4RjgzbVV6V00wR19BSFc1ZU1QZDM5QVVyOEx5N0Z1OUtzbmhTU0RkZ21UNUl1VURsNDU4YWJ2cmdJWGxLUm0yMnBqQkxiT291TFhSMXNoRmhXVElB?oc=5",
+      "pubDate": "2026-09-28 07:00:00",
+      "author": "Columbia University",
+      "summary": "Financial Benefit Sharing in the Codelco–SQM Lithium Mining Agreement Columbia University",
+      "lang": "en",
+      "source": "Columbia University",
       "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "1155872495",
-      "title": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 - 四川新闻",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lVlhxNWtSR0VYWDBLdHE1VlZnbm9wWWl1eHBYV2dqRWgyX3hlYmFNOEZQb2w0RWxqVjlEYWtZM3lhUkh6dmxHeWltSnBURXhINUV5NU9SNXlDOElYSGN0Nkk3cw?oc=5",
-      "pubDate": "2026-10-13 07:55:03",
-      "author": "四川新闻",
-      "summary": "四川找矿成果+1，马尔康加达锂矿增储超42万吨 四川新闻",
-      "lang": "zh",
-      "source": "四川新闻",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "468425706",
-      "title": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qeFZERUJiMTFHZUdkNWIxT2FKckF2bXNzc2gxeENrY0pOVWhhZ201U2JNc1E3elpWM1FHSXpfOUF5SHRZOElLLUFjdjQtNnMwbENDTkxtUjAtSFJFR1hKLQ?oc=5",
-      "pubDate": "2026-10-12 23:45:10",
-      "author": "东方财富",
-      "summary": "碳酸锂期货大跌近12% 价格逼近10万元关口！旺季行情为何突然熄火？ 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     }
@@ -102076,13 +102081,13 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
-      "ok": false,
-      "message": "Spot source unavailable: HTTP 403"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "新闻",
