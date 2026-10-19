@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:59:12.995Z",
+  "generatedAt": "2026-10-19T18:37:37.051Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -101998,7 +101998,7 @@
       "id": "1482544408",
       "title": "金属普涨 多晶硅、沪镍铂领涨 碳酸锂重回10万元 双焦原油一同下挫【SMM日评】 - 上海有色金属",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvVXRScG4zR2pRZE05NlJlYVlXazZZN1NEZktrSTJIM0xWM1pNcUJsX1dJWUhpNVJabDNoeFBRNWp5Wk9DTTZQVjFR?oc=5",
-      "pubDate": "2026-10-18 16:20:00",
+      "pubDate": "2026-10-18 19:54:00",
       "author": "上海有色金属",
       "summary": "金属普涨 多晶硅、沪镍铂领涨 碳酸锂重回10万元 双焦原油一同下挫【SMM日评】 上海有色金属",
       "lang": "zh",
@@ -102017,6 +102017,20 @@
       "summary": "强现实难敌弱预期？如何看待碳酸锂底部信号？ 东方财富",
       "lang": "zh",
       "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3728037163",
+      "title": "钴锂新能源市场、价格周度分析 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETUdNZnlkMGJ4LWl5Vi1ZUmF5SVZJRWt0dkRGbG1RMlRMQWtReXN5UGFjbUZkb3FOZXl4RjVlT0tlYWNEbU5mTmh5eTIzdnlob1pfMmJybEF4T0d1eFVwNDhsc21aMDZHeWJoVjFSVXNlQQ?oc=5",
+      "pubDate": "2026-10-17 06:48:53",
+      "author": "新浪网",
+      "summary": "钴锂新能源市场、价格周度分析 新浪网",
+      "lang": "zh",
+      "source": "新浪网",
       "categories": [
         "demand"
       ],
@@ -102091,20 +102105,6 @@
         "demand"
       ],
       "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "3354031241",
-      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 - 钛媒体",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
-      "pubDate": "2026-10-13 11:25:00",
-      "author": "钛媒体",
-      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标 钛媒体",
-      "lang": "zh",
-      "source": "钛媒体",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     }
   ],
   "sources": [
@@ -102136,8 +102136,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -102151,63 +102151,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
       "ok": false,
-      "message": "HTTP 502"
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "HTTP 502"
     }
   ]
 }
