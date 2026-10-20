@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:44:49.464Z",
+  "generatedAt": "2026-10-20T21:11:22.974Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -51218,10 +51218,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 96.29,
-      "changePct": 1.74,
-      "volume": 863929,
-      "amount": 82384244,
+      "price": 95.77,
+      "changePct": 1.19,
+      "volume": 1890984,
+      "amount": 180894582,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59650,14 +59650,14 @@
         {
           "d": "2026-10-20",
           "o": 94.05,
-          "c": 96.29,
-          "h": 96.35,
+          "c": 95.77,
+          "h": 96.82,
           "l": 93.8,
-          "v": 863929,
-          "amount": 82384244,
-          "amp": 2.69,
-          "chg": 1.74,
-          "delta": 1.65
+          "v": 1890984,
+          "amount": 180894582,
+          "amp": 3.19,
+          "chg": 1.19,
+          "delta": 1.13
         }
       ]
     },
@@ -59667,10 +59667,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 59.74,
-      "changePct": -0.65,
-      "volume": 555848,
-      "amount": 33387664,
+      "price": 60.05,
+      "changePct": -0.13,
+      "volume": 991729,
+      "amount": 59493217,
       "klines": [
         {
           "d": "2024-01-02",
@@ -68098,15 +68098,15 @@
         },
         {
           "d": "2026-10-20",
-          "o": 59.85,
-          "c": 59.74,
+          "o": 59.9,
+          "c": 60.05,
           "h": 60.66,
           "l": 59.57,
-          "v": 555848,
-          "amount": 33387664,
+          "v": 991729,
+          "amount": 59493217,
           "amp": 1.81,
-          "chg": -0.65,
-          "delta": -0.39
+          "chg": -0.13,
+          "delta": -0.08
         }
       ]
     }
@@ -68117,9 +68117,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26483.63,
-      "changePct": 0.2,
-      "volume": 4395582208,
+      "price": 26424.82,
+      "changePct": -0.02,
+      "volume": 6911062272,
       "amount": 0,
       "klines": [
         {
@@ -76549,14 +76549,14 @@
         {
           "d": "2026-10-20",
           "o": 26332.92,
-          "c": 26483.63,
+          "c": 26424.82,
           "h": 26601.72,
           "l": 26179.74,
-          "v": 4395582208,
+          "v": 6911062272,
           "amount": 0,
           "amp": 1.6,
-          "chg": 0.2,
-          "delta": 52.74
+          "chg": -0.02,
+          "delta": -6.07
         }
       ]
     },
@@ -76565,9 +76565,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 97.87,
-      "changePct": -0.68,
-      "volume": 315194,
+      "price": 98.18,
+      "changePct": -0.37,
+      "volume": 363268,
       "amount": 0,
       "klines": [
         {
@@ -85249,14 +85249,14 @@
         {
           "d": "2026-10-20",
           "o": 98.24,
-          "c": 97.86,
+          "c": 98.18,
           "h": 101.37,
           "l": 95.25,
-          "v": 315190,
+          "v": 363268,
           "amount": 0,
           "amp": 6.21,
-          "chg": -0.69,
-          "delta": -0.68
+          "chg": -0.37,
+          "delta": -0.36
         }
       ]
     },
@@ -85265,8 +85265,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.71,
-      "changePct": -0.26,
+      "price": 101.7,
+      "changePct": 0,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -94045,14 +94045,26 @@
         {
           "d": "2026-10-20",
           "o": 101.99,
-          "c": 101.71,
+          "c": 101.7,
           "h": 102,
           "l": 101.51,
           "v": 0,
           "amount": 0,
           "amp": 0.48,
-          "chg": -0.26,
-          "delta": -0.27
+          "chg": -0.28,
+          "delta": -0.29
+        },
+        {
+          "d": "2026-10-21",
+          "o": 101.7,
+          "c": 101.7,
+          "h": 101.74,
+          "l": 101.69,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.05,
+          "chg": 0,
+          "delta": 0
         }
       ]
     },
@@ -102169,148 +102181,7 @@
       ]
     }
   ],
-  "news": [
-    {
-      "id": "3390851361",
-      "title": "藏格矿业(000408.SZ)：第三季度公司碳酸锂产量4619吨，环比增加27.06%_公司新闻_财经 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04NC14bmc5dG94aWR1QUkyLVBQWERDV0VQWnFlYnl6UGk3N0xXUU5LWUZUS2NQT1FOanl0T20tSGdBdnc4NllHbE1aMnBlZTAxcW0wc3NjUVA1SVJHWEhuMQ?oc=5",
-      "pubDate": "2026-10-20 12:14:43",
-      "author": "证券之星",
-      "summary": "藏格矿业(000408.SZ)：第三季度公司碳酸锂产量4619吨，环比增加27.06%_公司新闻_财经 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1696707218",
-      "title": "“锂矿龙头”业绩爆表！前三季度预盈超51亿元，大增27～32倍 - 大河财立方",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qZHFiaXNiRTVFWUZxTEhPLVNFbzRqTjBiNEp6Qnk5YW5JOV9MUjJuRExsX2piZ25KMTRDVHdBS01wLTNXQ0xTOUZnQnViR0RGZVRIWVlxWE9BZFFocUZYZmRLS001RzNQX1E?oc=5",
-      "pubDate": "2026-10-20 11:02:02",
-      "author": "大河财立方",
-      "summary": "“锂矿龙头”业绩爆表！前三季度预盈超51亿元，大增27～32倍 大河财立方",
-      "lang": "zh",
-      "source": "大河财立方",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "280000153",
-      "title": "碳酸锂龙虎榜 | 主力合约今日增仓上行 多空双方均呈进场态势 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yUTBDWUdlRW5sYVFGajFnbjJiNi0tdDJtRkxpR0liOWk2aTNES1ZrVGNDSmRTV2RZT2czTmx2TDFPNno2dGZ5WHpUYUd6S091ZkRoVkFLd0xNM1JfY2I2dVk2anBmdw?oc=5",
-      "pubDate": "2026-10-20 09:16:11",
-      "author": "东方财富",
-      "summary": "碳酸锂龙虎榜 | 主力合约今日增仓上行 多空双方均呈进场态势 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1002508980",
-      "title": "碳酸锂价格年内 ″腰斩″ 钠电成本优势收窄 巨头仍在押注第二曲线 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CNHEtMUF1SmRwdkoxdjNpblctZ0ROTnZ3TUFXaUpSdGpJYldDQ2I3SDBGYXVVVnA3blBKeXVwbW5tSlBWZ25QYldWZGI4S3VGenZoQ1l5WXluakJ5bGM1ejJiTFVWSUJ4OUliYTlWVQ?oc=5",
-      "pubDate": "2026-10-20 06:56:31",
-      "author": "新浪财经",
-      "summary": "碳酸锂价格年内 ″腰斩″ 钠电成本优势收窄 巨头仍在押注第二曲线 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "25751590",
-      "title": "【汽车人】黄粱一梦，锂价刺破十万元关口 - 搜狐",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaldCQ1RJVThQeDZsR3MzelpDek9SRmJvOW5mRWtCR0tlNkZpeHZLV1FNVFNoVGpmeV8xY25lZ1VLRjBkckplMUgtZkdyUU1nQ2t5TktseC1QNVlrQVN6Qk5GWkdRdnVFNi01YUNsUi1lRFJ1THkzTzRuQlB2dE8tcW42TDVjRmVT?oc=5",
-      "pubDate": "2026-10-20 01:41:04",
-      "author": "搜狐",
-      "summary": "【汽车人】黄粱一梦，锂价刺破十万元关口 搜狐",
-      "lang": "zh",
-      "source": "搜狐",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2104508017",
-      "title": "交易随行：碳酸锂今多强势20261020 - 中金在线",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Xd0Joa2dsY05IQXBGLUdJa0x6bG9Hel9Pem5rQlVjRTlXd0Q4WUNuWVY3X1NnMWtvY3VaT1F5VUIwa0pVNTBHYXFuQ19BMjRpVk5DUVNEY0JtQ0xxd0Y1Mi1HNldBejFWSjBxUnFnWQ?oc=5",
-      "pubDate": "2026-10-20 00:17:03",
-      "author": "中金在线",
-      "summary": "交易随行：碳酸锂今多强势20261020 中金在线",
-      "lang": "zh",
-      "source": "中金在线",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3676034512",
-      "title": "金属涨跌互现 沪锡、碳酸锂领涨 欧线集运重挫 焦煤沪金钯跌幅居前【SMM日评】 - 上海有色金属",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBybU9ieXh3NFNrRXFRMFFZbjNIQTg0cy1EN2hkVmJJNFFiOEx3QUFrc2p0TDBBLVhfOXVReTJTMl83MEg2TTEwcldB?oc=5",
-      "pubDate": "2026-10-19 16:34:00",
-      "author": "上海有色金属",
-      "summary": "金属涨跌互现 沪锡、碳酸锂领涨 欧线集运重挫 焦煤沪金钯跌幅居前【SMM日评】 上海有色金属",
-      "lang": "zh",
-      "source": "上海有色金属",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4277918286",
-      "title": "强现实难敌弱预期？如何看待碳酸锂底部信号？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4XzlYRHRmYUg3YmJfVXF3akZOQVFEVnJGQ0xESThnQ0l3ZTZHTXNxYWM3TDVYUTJicnVzMWd4cm9LWjE2anNFUWM2VVJwWE5FLUc2VUt5eklPWnMwRzJvcg?oc=5",
-      "pubDate": "2026-10-17 15:03:54",
-      "author": "东方财富",
-      "summary": "强现实难敌弱预期？如何看待碳酸锂底部信号？ 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2670005941",
-      "title": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZMXF0ZUU3Qk9tMTRCdFp5MFdXVmsxamxCQ2xOWktJOVBnVmJRdVRxQUJVa0VGMFZoY3h0X0Z4Umx0OEFOMEJwWDh2aVJ1X2xTOUs1aENTcWlSQWdLd0JKcUl3?oc=5",
-      "pubDate": "2026-10-16 13:47:20",
-      "author": "观点网",
-      "summary": "国城矿业子公司签碳酸锂购销关联交易 三年供货不低于2万吨 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1452754837",
-      "title": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yOS03Wm1XTzVNYkdRdEYyZTFpT3NOaUNWMEZTcmgyYmd4cXhrdmFHNTBYaWNkYWJxZlV3Q3NENEh1RUJUT3NuQw?oc=5",
-      "pubDate": "2026-10-16 08:54:44",
-      "author": "财联社",
-      "summary": "碳酸锂跌破10万压制锂电情绪，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ) 昨日随市下跌2.38% 财联社",
-      "lang": "zh",
-      "source": "财联社",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    }
-  ],
+  "news": [],
   "sources": [
     {
       "name": "东方财富行情接口",
