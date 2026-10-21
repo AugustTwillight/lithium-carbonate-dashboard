@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:49:34.889Z",
+  "generatedAt": "2026-10-21T19:06:19.444Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -68225,9 +68225,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26612.85,
-      "changePct": 0.71,
-      "volume": 2496526032,
+      "price": 26624.47,
+      "changePct": 0.76,
+      "volume": 5080085760,
       "amount": 0,
       "klines": [
         {
@@ -76669,14 +76669,14 @@
         {
           "d": "2026-10-21",
           "o": 26601.73,
-          "c": 26612.85,
-          "h": 26636.65,
+          "c": 26624.58,
+          "h": 26778.9,
           "l": 26507.07,
-          "v": 2496526032,
+          "v": 5080085760,
           "amount": 0,
-          "amp": 0.49,
-          "chg": 0.71,
-          "delta": 188.03
+          "amp": 1.03,
+          "chg": 0.76,
+          "delta": 199.76
         }
       ]
     },
@@ -76685,9 +76685,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 97.98,
-      "changePct": 0.16,
-      "volume": 171836,
+      "price": 98.02,
+      "changePct": 0.2,
+      "volume": 279062,
       "amount": 0,
       "klines": [
         {
@@ -85381,14 +85381,14 @@
         {
           "d": "2026-10-21",
           "o": 98.19,
-          "c": 97.96,
+          "c": 98.03,
           "h": 100.4,
-          "l": 96.92,
-          "v": 171833,
+          "l": 96.28,
+          "v": 279053,
           "amount": 0,
-          "amp": 3.56,
-          "chg": 0.14,
-          "delta": 0.14
+          "amp": 4.21,
+          "chg": 0.21,
+          "delta": 0.21
         }
       ]
     },
@@ -102355,8 +102355,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -102370,48 +102370,48 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
