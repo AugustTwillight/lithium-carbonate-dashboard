@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:53:01.356Z",
+  "generatedAt": "2026-10-24T09:16:28.481Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -51465,8 +51465,8 @@
       "role": "国际锂业",
       "price": 93.67,
       "changePct": 1.22,
-      "volume": 1570998,
-      "amount": 146959610,
+      "volume": 1571311,
+      "amount": 146988938,
       "klines": [
         {
           "d": "2024-01-02",
@@ -59934,8 +59934,8 @@
           "c": 93.67,
           "h": 94.31,
           "l": 92.22,
-          "v": 1570998,
-          "amount": 146959610,
+          "v": 1571311,
+          "amount": 146988938,
           "amp": 2.26,
           "chg": 1.22,
           "delta": 1.13
@@ -59950,8 +59950,8 @@
       "role": "国际锂业",
       "price": 57.14,
       "changePct": 1.37,
-      "volume": 875189,
-      "amount": 49691862,
+      "volume": 875250,
+      "amount": 49695372,
       "klines": [
         {
           "d": "2024-01-02",
@@ -68419,8 +68419,8 @@
           "c": 57.14,
           "h": 57.28,
           "l": 55.7,
-          "v": 875189,
-          "amount": 49691862,
+          "v": 875250,
+          "amount": 49695372,
           "amp": 2.8,
           "chg": 1.37,
           "delta": 0.77
@@ -102660,8 +102660,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "No futures quote"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -102675,63 +102675,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
