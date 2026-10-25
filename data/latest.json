@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:58:00.396Z",
+  "generatedAt": "2026-10-25T03:48:41.169Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2254,7 +2254,7 @@
   },
   "spot": {
     "price": 97000,
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "dayPct": -2.37,
     "monthPct": -27.15,
     "yearPct": 28.65,
@@ -102696,7 +102696,7 @@
     {
       "label": "股价 赣锋锂业H",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
