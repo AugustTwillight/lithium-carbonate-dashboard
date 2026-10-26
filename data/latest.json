@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:16:00.458Z",
+  "generatedAt": "2026-10-26T00:31:58.510Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2254,7 +2254,7 @@
   },
   "spot": {
     "price": 97000,
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "dayPct": -2.37,
     "monthPct": -27.15,
     "yearPct": 28.65,
@@ -76918,9 +76918,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 103.44,
-      "changePct": 3.99,
-      "volume": 309751,
+      "price": 101.82,
+      "changePct": -1.4,
+      "volume": 14819,
       "amount": 0,
       "klines": [
         {
@@ -85646,6 +85646,18 @@
           "amp": 5.11,
           "chg": 3.99,
           "delta": 3.97
+        },
+        {
+          "d": "2026-10-26",
+          "o": 102.61,
+          "c": 101.82,
+          "h": 102.63,
+          "l": 101.54,
+          "v": 14819,
+          "amount": 0,
+          "amp": 1.06,
+          "chg": -1.4,
+          "delta": -1.45
         }
       ]
     },
@@ -85654,8 +85666,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.75,
-      "changePct": 0.13,
+      "price": 101.7,
+      "changePct": -0.05,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -94478,6 +94490,18 @@
           "amp": 0.36,
           "chg": 0.13,
           "delta": 0.13
+        },
+        {
+          "d": "2026-10-26",
+          "o": 101.68,
+          "c": 101.7,
+          "h": 101.79,
+          "l": 101.65,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.14,
+          "chg": -0.05,
+          "delta": -0.05
         }
       ]
     },
@@ -102675,63 +102699,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
