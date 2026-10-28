@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T15:41:56.773Z",
+  "generatedAt": "2026-10-28T20:44:46.265Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -51715,10 +51715,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 98.96,
-      "changePct": 5.93,
-      "volume": 1999112,
-      "amount": 197440828,
+      "price": 96.96,
+      "changePct": -2.02,
+      "volume": 2719278,
+      "amount": 263286849,
       "klines": [
         {
           "d": "2024-01-02",
@@ -60215,6 +60215,18 @@
           "amp": 5.13,
           "chg": 5.93,
           "delta": 5.54
+        },
+        {
+          "d": "2026-10-28",
+          "o": 96.77,
+          "c": 96.96,
+          "h": 98.06,
+          "l": 96.03,
+          "v": 2719278,
+          "amount": 263286849,
+          "amp": 2.05,
+          "chg": -2.02,
+          "delta": -2
         }
       ]
     },
@@ -60224,10 +60236,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 60.3,
-      "changePct": 5.85,
-      "volume": 1173717,
-      "amount": 70655719,
+      "price": 58.94,
+      "changePct": -2.26,
+      "volume": 616040,
+      "amount": 36294461,
       "klines": [
         {
           "d": "2024-01-02",
@@ -68724,6 +68736,18 @@
           "amp": 4.09,
           "chg": 5.85,
           "delta": 3.33
+        },
+        {
+          "d": "2026-10-28",
+          "o": 59.76,
+          "c": 58.94,
+          "h": 59.885,
+          "l": 58.355,
+          "v": 616040,
+          "amount": 36294461,
+          "amp": 2.54,
+          "chg": -2.26,
+          "delta": -1.36
         }
       ]
     }
@@ -68734,9 +68758,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 26477.81,
-      "changePct": 1.18,
-      "volume": 7116359680,
+      "price": 26549.85,
+      "changePct": 0.27,
+      "volume": 7037120256,
       "amount": 0,
       "klines": [
         {
@@ -77234,6 +77258,18 @@
           "amp": 1.23,
           "chg": 1.18,
           "delta": 308.43
+        },
+        {
+          "d": "2026-10-28",
+          "o": 26541.61,
+          "c": 26549.85,
+          "h": 26587.34,
+          "l": 26414.92,
+          "v": 7037120256,
+          "amount": 0,
+          "amp": 0.65,
+          "chg": 0.27,
+          "delta": 72.04
         }
       ]
     },
@@ -77242,9 +77278,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 101.62,
-      "changePct": 1.72,
-      "volume": 46967,
+      "price": 101.98,
+      "changePct": 2.08,
+      "volume": 272539,
       "amount": 0,
       "klines": [
         {
@@ -85998,14 +86034,14 @@
         {
           "d": "2026-10-28",
           "o": 100.17,
-          "c": 101.62,
-          "h": 102.24,
+          "c": 101.98,
+          "h": 103.55,
           "l": 99.75,
-          "v": 46967,
+          "v": 272539,
           "amount": 0,
-          "amp": 2.49,
-          "chg": 1.72,
-          "delta": 1.72
+          "amp": 3.8,
+          "chg": 2.08,
+          "delta": 2.08
         }
       ]
     },
@@ -86014,8 +86050,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.39,
-      "changePct": 0.01,
+      "price": 102.11,
+      "changePct": -0.26,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -94866,14 +94902,14 @@
         {
           "d": "2026-10-28",
           "o": 102.37,
-          "c": 102.39,
+          "c": 102.11,
           "h": 102.49,
-          "l": 102.31,
+          "l": 102.04,
           "v": 0,
           "amount": 0,
-          "amp": 0.18,
-          "chg": 0.01,
-          "delta": 0.01
+          "amp": 0.44,
+          "chg": -0.26,
+          "delta": -0.27
         }
       ]
     },
@@ -103092,8 +103128,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -103107,63 +103143,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "fetch failed"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
