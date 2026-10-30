@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:32:54.842Z",
+  "generatedAt": "2026-10-30T16:30:54.358Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -103369,76 +103369,6 @@
   ],
   "news": [
     {
-      "id": "1422951597",
-      "title": "关键矿产日报：枧下窝锂矿项目环评获批，嘉能可Q3钴产量锐减 - 钢铁网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VeXdQalplcnVVNy0wLS1qcXRWT0FZelkxU3hjT05yaF80Z3pHTm5BSV9GYzc4N28wRUluVWV6WkFxUXhYZTFRQ25xU0NCQ0ltVG15R2ZYSmZEVEpYXzI0TzdDS0lsNmdN?oc=5",
-      "pubDate": "2026-10-30 09:05:00",
-      "author": "钢铁网",
-      "summary": "关键矿产日报：枧下窝锂矿项目环评获批，嘉能可Q3钴产量锐减 钢铁网",
-      "lang": "zh",
-      "source": "钢铁网",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "636447840",
-      "title": "10月30日碳酸锂期货收盘下跌2.9%，报88500元_综合资讯 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rSlltdTFwTjF1UXBibjZaQzdyMjc1NkFMS3R2cW9BVUlTQm1mbms4WktPNmZBQ2s4WW9DaXlrUEpKUzBIQkR3RjhDbDlpUWxvdF91Y2JxMDFnZnQ4bTdCTzlOUGQ?oc=5",
-      "pubDate": "2026-10-30 07:31:24",
-      "author": "证券之星",
-      "summary": "10月30日碳酸锂期货收盘下跌2.9%，报88500元_综合资讯 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "3638551678",
-      "title": "甲醇涨停、碳酸锂新低：本周商品市场为何如此分化？｜期市头条 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZzRZZGhBaU5iR09pYkJBS3czaGZxQVdwNHc5SnFpcXVxOVFjTTg3RHFOR0l3TzJvZWUzWTNMakd4Rl9aMTJIal9CRFExQnJhTUkzdTFRWWVkYS03VTRXTmE4elFvMHUtdjRoTFN5UnVqWFJUbDk3cFZ0cll1SUVYZFF0elp6d0tn?oc=5",
-      "pubDate": "2026-10-30 05:09:38",
-      "author": "搜狐网",
-      "summary": "甲醇涨停、碳酸锂新低：本周商品市场为何如此分化？｜期市头条 搜狐网",
-      "lang": "zh",
-      "source": "搜狐网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "467666986",
-      "title": "碳酸锂跌破10万，救不了储能的收益率 - 碳索储能网",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1obXlySGNJMWM3SFcxdXdtc0p1TXBnNGo3Ulp1LW9zb2xRTW82MWNYWEpzTHdOdUMwbHdIcUNEaGhraUZJamFNX05sVDFYeGUwUzRyeWh1bmlHem5PbWU0Uw?oc=5",
-      "pubDate": "2026-10-30 00:59:09",
-      "author": "碳索储能网",
-      "summary": "碳酸锂跌破10万，救不了储能的收益率 碳索储能网",
-      "lang": "zh",
-      "source": "碳索储能网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3768944326",
-      "title": "10月30日生意社碳酸锂(工业级)基准价为91000.00元/吨 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGtXdHdXcHRDVjctYUN6OVMzMWxiMHhfOXVvT0RYSmZLZTBNVVRMZjFZbGJ5QWcwNmczXzFDLXMwWGt3QzJkSkF2OWdBTE5BaGd2eVVucE9keGRxRUdHUzJIQ1c2OGkxU1QtdG9IN1BXNE92WkdGNkxYRDdFZkhaMlBxTkl6dmRWV0E?oc=5",
-      "pubDate": "2026-10-30 00:30:00",
-      "author": "新浪财经",
-      "summary": "10月30日生意社碳酸锂(工业级)基准价为91000.00元/吨 新浪财经",
-      "lang": "zh",
-      "source": "新浪财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3187815984",
       "title": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkk4MG0tQ1YtSmJiWmtwTTkxZzllaFZpTnlqV1Ruc3ptT1EzR1ZIWVNlbzlSMTZ5TDlNYjB6QU9qQ0diQ2c4bjVnS0FpM3RTbkJHRFVNNFRvb2dldkIyeVVaVlBsSmxoQmJndmtHSE9jcEZkUkQ5T2R6cDNlWEZHMVJ4dGNpdjB0TkhYREU4dEJSZDItUVY5a2xTdmdMdw?oc=5",
@@ -103481,48 +103411,6 @@
       "sentiment": 0
     },
     {
-      "id": "1410784068",
-      "title": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tdXF2Z2Q0WkhiYXBaUFNKQl84MmR6MER0clRrYmNoWHQydGVaVGpUaGt6SjRLblhkYVh4SWFQM3RJLWdOLUszQ0p6anE5dnFCXzdtQjRCQ1VHc09kN2hhTTVyWGtXUWwtMkE?oc=5",
-      "pubDate": "2026-10-29 10:00:00",
-      "author": "中国金融信息网",
-      "summary": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 中国金融信息网",
-      "lang": "zh",
-      "source": "中国金融信息网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "192847578",
-      "title": "碳酸锂期货主力失守9万元关口 现跌近7%创2025年11月新低 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMDh5TGR1aVlRS09nX1NOSWV1bElMUGpzajJvM0FhZGdraUdzYTZhdC1oWldqbzN2NENIclpaQ19Ya1djU2w2WDY4MUxYOWJHT3ZkZUx0MEpVSzVXcUxMbnBB?oc=5",
-      "pubDate": "2026-10-29 07:48:01",
-      "author": "观点网",
-      "summary": "碳酸锂期货主力失守9万元关口 现跌近7%创2025年11月新低 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3578302828",
-      "title": "期货收评：碳酸锂暴跌超8%！沥青逆势大涨超3% - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lckRpTHFGVUpER2NLVFMwQVRmX2pjbGJLR01UbnJPRldkQjNta29zcEM4aUNhYkFCT1NyaklqODVYOUdpYkt6MDd2SWZoLXRvRXJsLUtWbHpFVGhBMUE?oc=5",
-      "pubDate": "2026-10-29 07:05:22",
-      "author": "同花顺",
-      "summary": "期货收评：碳酸锂暴跌超8%！沥青逆势大涨超3% 同花顺",
-      "lang": "zh",
-      "source": "同花顺",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1566700064",
       "title": "Covas do Barroso maintains David v. Goliath struggle against lithium mining - Portugal Resident",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEZRMy13VDNJZF96TnB5VjlLcW9MNVI2d2F5X3pSdEJ5UEQ3bDROa3dDZHBQcHNZa2ZLdTlJRGNqZXJzZ2thRjk5dUp0UjNjSmVjZkItaHdrZ09Qanh0Y0ExbFNJX2daTUhXMzdaU0xPYlpCbDRSakduUFlaaXZZMUJjaS03eE5xYmFFTUMzcmkyLTJWUHpHZmk2VkczYVVmWlhwSVpJdGZqZW5w?oc=5",
@@ -103531,20 +103419,6 @@
       "summary": "Covas do Barroso maintains David v. Goliath struggle against lithium mining Portugal Resident",
       "lang": "en",
       "source": "Portugal Resident",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3593802376",
-      "title": "碳酸锂价格半年暴跌55% 供给预期反转与库存重构引发全产业链利润重分配 - 虎嗅网",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BWEc3SmRlQ2VpeDc1aGpZRzJjQUxWcklwRXo1Vi1GMXk4V0xweTdCcjBMZFhVMm5uVFUydmVYZndfWHE5RmFiMmJaQ3phMnBCNFZJOA?oc=5",
-      "pubDate": "2026-10-28 01:09:00",
-      "author": "虎嗅网",
-      "summary": "碳酸锂价格半年暴跌55% 供给预期反转与库存重构引发全产业链利润重分配 虎嗅网",
-      "lang": "zh",
-      "source": "虎嗅网",
       "categories": [
         "supply"
       ],
@@ -103578,20 +103452,6 @@
         "macro"
       ],
       "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "454759355",
-      "title": "如何看待碳酸锂市场波动？ - 人民日报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHVvUFp6UFRNNnpVS2ZuZlY5SmlGX0lFVzNwZzgxNVZmYUw5eXNLLWlWa3NESGNHZWNFRE85aHRPZlA2VFY5QUNTdkd5LU9hQlhWY0gzX254Ri1mSkFnOVN6ZEM1bURSWGU3eTRtY1hraGxUOURZRGp5TFVNTUNiOQ?oc=5",
-      "pubDate": "2026-10-26 07:00:00",
-      "author": "人民日报",
-      "summary": "如何看待碳酸锂市场波动？ 人民日报",
-      "lang": "zh",
-      "source": "人民日报",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     },
     {
       "id": "1801108642",
@@ -103698,7 +103558,7 @@
     {
       "label": "股价 赣锋锂业",
       "ok": false,
-      "message": "HTTP 502"
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
@@ -103728,12 +103588,12 @@
     {
       "label": "股价 Albemarle",
       "ok": false,
-      "message": "HTTP 502"
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
       "ok": false,
-      "message": "HTTP 502"
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
