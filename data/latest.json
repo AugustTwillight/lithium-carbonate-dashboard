@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T17:51:22.350Z",
+  "generatedAt": "2026-10-31T20:55:50.129Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2281,6 +2281,13 @@
         "price": 86000,
         "changePct": -2.05,
         "volume": 62959
+      },
+      {
+        "contract": "lc2612",
+        "name": "碳酸锂2612",
+        "price": 91100,
+        "changePct": -2.77,
+        "volume": 22546
       },
       {
         "contract": "lc2703",
@@ -103391,28 +103398,28 @@
   ],
   "news": [
     {
-      "id": "1469451795",
-      "title": "开源证券：给予盐湖股份买入评级_券商研报_数据解析 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RM0VCYlJaRW5KbWcwNXBsbE1GRHRHeWM1OXl4TXZJaFJLbDVsRkNzeVZCS2p0dTZNNDkxaDJRQ3dIS29BZUZqc3RsSmlCRDI2a044dFVpZ3hZRVpGNmZXS0VB?oc=5",
-      "pubDate": "2026-10-31 09:01:45",
-      "author": "证券之星",
-      "summary": "开源证券：给予盐湖股份买入评级_券商研报_数据解析 证券之星",
+      "id": "3823348576",
+      "title": "锂矿企业2026三季报：净利普遍翻倍，但涨价红利已见顶 - 凤凰网财经",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wa2FFNmViVFVJRG1vS1dteVFsYWkxdksyalk1OG9JQTFCVV81UWswSGdtb0dHZTAyTjRNS1hpeVdaa0JkZDhwMlZvU0l0amhI?oc=5",
+      "pubDate": "2026-10-31 00:57:19",
+      "author": "凤凰网财经",
+      "summary": "锂矿企业2026三季报：净利普遍翻倍，但涨价红利已见顶 凤凰网财经",
       "lang": "zh",
-      "source": "证券之星",
+      "source": "凤凰网财经",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "1364422539",
-      "title": "锂矿企业2026三季报：净利普遍翻倍，但涨价红利已见顶 - 新浪财经",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhjMzU0UjdTS0tzbFJlRnFVZUhiZ2ZOMVJ6cXNjMFJMQzZMU1dEeDF0bVEwNUpKZ0JFZ0NySkFNa2s3eTd2SHlhRnByWE9aQjBBRHF5dldwTS1yOUpEbUpNdnJWX3JkUWhvcTJHNDVaRVNVTWszc3d3STVXWWNjQVNveXZ6RFFTZ0E?oc=5",
-      "pubDate": "2026-10-31 01:12:25",
-      "author": "新浪财经",
-      "summary": "锂矿企业2026三季报：净利普遍翻倍，但涨价红利已见顶 新浪财经",
+      "id": "1726208423",
+      "title": "锂价低迷，宜春锂矿开始“淘金”尾矿？ | 金十期货热图-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iN25Hei1qR1BYOXNDeFFLamd5cFdudGdSUElDaXh1eWRqd1dtNGtzak45X0tnekNTMUVobHRac0ZvWUJkaXphSmtrQW9GbUU?oc=5",
+      "pubDate": "2026-10-30 12:27:06",
+      "author": "金十数据",
+      "summary": "锂价低迷，宜春锂矿开始“淘金”尾矿？ | 金十期货热图-市场参考 金十数据",
       "lang": "zh",
-      "source": "新浪财经",
+      "source": "金十数据",
       "categories": [
         "demand"
       ],
@@ -103447,70 +103454,43 @@
       "sentiment": 0
     },
     {
-      "id": "3187815984",
-      "title": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkk4MG0tQ1YtSmJiWmtwTTkxZzllaFZpTnlqV1Ruc3ptT1EzR1ZIWVNlbzlSMTZ5TDlNYjB6QU9qQ0diQ2c4bjVnS0FpM3RTbkJHRFVNNFRvb2dldkIyeVVaVlBsSmxoQmJndmtHSE9jcEZkUkQ5T2R6cDNlWEZHMVJ4dGNpdjB0TkhYREU4dEJSZDItUVY5a2xTdmdMdw?oc=5",
-      "pubDate": "2026-10-29 17:50:56",
-      "author": "IndexBox",
-      "summary": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics IndexBox",
+      "id": "3560557226",
+      "title": "A-Share Market Movements | Lithium Mining Stocks Fall Collectively - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblBXZzR0Qkg1ZmhyNzNNT0hyT1U4QUZlVERtR3hHZy1RdXRjdXgyYzloZjNuMzFwNW4yNHhjWWpfTzRVZFBKRUJLbXRSS0N1RXZBQWdjNWlXc2ZnVUpaN1VpcERYbVVEWUg4N3JoRHNKQWlVZW55cXJ5cmdSNDRvZGhXWXo4QkVQNVdvTWJpdjN4UWlWSG5HSG9NbjUwakFGZ1VjLXpRYXBoeVJ0ZUdQQ1Z4dE5xUQ?oc=5",
+      "pubDate": "2026-10-29 17:15:30",
+      "author": "富途牛牛",
+      "summary": "A-Share Market Movements | Lithium Mining Stocks Fall Collectively 富途牛牛",
       "lang": "en",
-      "source": "IndexBox",
+      "source": "富途牛牛",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3604414918",
+      "title": "碳酸锂期货主力合约跌破9万元/吨创2025年11月以来新低_公司新闻_财经 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sWWFMX283NXZkNUVLQmJoWFc0aXpGRFk2QjVSbEluQ25IVmRZTEZnZnBrbjNGUE12aHZuaFFVRmw2Y0kwQmN5TDk0TTBwS0VoZmwwZjhFQmpuS1VtZzFQTg?oc=5",
+      "pubDate": "2026-10-29 10:57:00",
+      "author": "证券之星",
+      "summary": "碳酸锂期货主力合约跌破9万元/吨创2025年11月以来新低_公司新闻_财经 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "579438854",
-      "title": "Canada funds road upgrade for Quebec lithium mining project - ReNew Canada",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmJnblhxc2JsMW1FYXZlcFVfQ0F1OE4wNmZIVEZ1Wml0d3NLTTBXeHVobGI2TDg5RFgzMGRobGNoX2RqcG9nV1hQV3lDTmQ3anduaUlHYkctWXU0U19VWl95bWYxc1FwODJBUl84UFVDdU5iM19GLVV0cWVGcGI5elFsQ2VQMVR1OWpmcEtoS0JUZw?oc=5",
-      "pubDate": "2026-10-29 13:00:00",
-      "author": "ReNew Canada",
-      "summary": "Canada funds road upgrade for Quebec lithium mining project ReNew Canada",
-      "lang": "en",
-      "source": "ReNew Canada",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1273083156",
-      "title": "US Lithium Carbonate Prices Fall 8.33% in Mid-October on Weak EV Demand - ChemAnalyst",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLS02Q2xaY1BrV3hHNkJKVjVNd0Qyd21hSmZnMnNCRDk0M1B2SFUtaXFKeXZfLVh4Yzd6WVNHaXY4ZWIxeV9ZYnhVR3B5czlEX0o0Ty0waGYxdnh0Z3UxcDlrSVgzdDVRTml4N1NUTlFHNnBxMU5UU1NJMzJlVllVb20zUDFSNkZBbUlvUlFhZjI0ZkJUYXdOM0duMDJFTTJkaTQ4dkRTOUs4ZDVrT3RCaQ?oc=5",
-      "pubDate": "2026-10-29 12:15:34",
-      "author": "ChemAnalyst",
-      "summary": "US Lithium Carbonate Prices Fall 8.33% in Mid-October on Weak EV Demand ChemAnalyst",
-      "lang": "en",
-      "source": "ChemAnalyst",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1410784068",
+      "id": "857535697",
       "title": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tdXF2Z2Q0WkhiYXBaUFNKQl84MmR6MER0clRrYmNoWHQydGVaVGpUaGt6SjRLblhkYVh4SWFQM3RJLWdOLUszQ0p6anE5dnFCXzdtQjRCQ1VHc09kN2hhTTVyWGtXUWwtMkE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFAtMW90dDA0WEp1OERadHZRMHJDS09IcWdUeW0zbTZkWHduUXRWelVjWVhjbzRiVE9pOVdFXzdLeW93UkdOZkhWZUQ4U3d0Qzk2MllHXzRBUFpEcFhwWG5RSE44dzA?oc=5",
       "pubDate": "2026-10-29 10:00:00",
       "author": "中国金融信息网",
       "summary": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 中国金融信息网",
       "lang": "zh",
       "source": "中国金融信息网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1980180191",
-      "title": "碳酸锂期货主力失守9万元关口 现跌近7%创2025年11月新低 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DRjR6R3lXRHQwTnZmUHlGMUxsTnYtWnFjOTRMcW9TTFZRQTNrM3UtR2NvX3o4TDY3Uk83VXQxZl9CLW0wZ1lHbmJ5bkNOQQ?oc=5",
-      "pubDate": "2026-10-29 07:48:01",
-      "author": "观点网",
-      "summary": "碳酸锂期货主力失守9万元关口 现跌近7%创2025年11月新低 观点网",
-      "lang": "zh",
-      "source": "观点网",
       "categories": [
         "demand"
       ],
@@ -103531,12 +103511,12 @@
       "sentiment": 0
     },
     {
-      "id": "1279327616",
-      "title": "碳酸锂期价反弹戛然而止，市场发生了什么？ - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82X0ltYUxGeG11Qk9oSWlYdEZnTWxMVlVNN21EcUJ6Q2luQlA4Q254bTIxX05MeE42YkFvbmotdU9DZUJDejZQZ3NJRzM2Y0YwQ19SWGc0bHpSZmJtems0ag?oc=5",
-      "pubDate": "2026-10-29 02:02:09",
+      "id": "2367486171",
+      "title": "期市收评 | 商品期货跌多涨少 碳酸锂大跌 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wWXdPZzNweW1ZOG15RkJnOE01UVA2REhXODlhVE5FYzdKYW9KQUVuOUlmMXVIN1I2RVU1b1FmMEQza29QNl8ybXVOczR6eVZHRzlTeGU2dkpvT2dQMU1hbA?oc=5",
+      "pubDate": "2026-10-28 16:39:59",
       "author": "东方财富",
-      "summary": "碳酸锂期价反弹戛然而止，市场发生了什么？ 东方财富",
+      "summary": "期市收评 | 商品期货跌多涨少 碳酸锂大跌 东方财富",
       "lang": "zh",
       "source": "东方财富",
       "categories": [
@@ -103545,14 +103525,14 @@
       "sentiment": 0
     },
     {
-      "id": "2405485150",
-      "title": "碳酸锂主力合约高开后继续拉升，日内涨超3%，重回10万元/吨关口上方。 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2J0TFBrT1BuMGNiYWN3OWVMSVZ4cG9BZ1pvRGx2VUJ5TEJEU0U4aXVYcUR6TENyN2FwcVQ0V04yeVFzRFJ3b29kX2RxalBlajBFWDdiZ2tCSGhpVEMzSU5yd0QtM25GZWt5WE1pN28yaEdpeUpoMUVZS1lxSEF6Ukg1MnFLc1N2MjlBdUJ3RQ?oc=5",
-      "pubDate": "2026-10-28 02:59:00",
-      "author": "21财经",
-      "summary": "碳酸锂主力合约高开后继续拉升，日内涨超3%，重回10万元/吨关口上方。 21财经",
+      "id": "284348083",
+      "title": "碳酸锂坠下10万元/吨 #碳酸锂 #锂电材料 #材料价格 #10万元/吨 - finance.sina.com.cn",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQajhpLW41aDBvd2Jpd2VVb0ZMWmplQWNCUmZfREdRMERmazJOS1VNRGpYaDZoWGJoNlZ2NWk1LXl5Q3pWZlkwNXplSjlWZndtNnN2NkpNbUsxVkNELTAtcVdMdGk1UTN2OWxHTWZIYkhaeVhWUUhFUzlfTlpwaUNqRVdLWlYzdkxaVEN1RA?oc=5",
+      "pubDate": "2026-10-28 05:38:49",
+      "author": "finance.sina.com.cn",
+      "summary": "碳酸锂坠下10万元/吨 #碳酸锂 #锂电材料 #材料价格 #10万元/吨 finance.sina.com.cn",
       "lang": "zh",
-      "source": "21财经",
+      "source": "finance.sina.com.cn",
       "categories": [
         "demand"
       ],
@@ -103674,6 +103654,35 @@
         "demand"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "2312873405",
+      "title": "Is ‘Lithium Valley’ in a slump? How lithium projects in the California desert have stalled - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN05CT0d1eVVMd1VOZmpxZ0M5VmctYjlySFJsV3NlY3g3T2FUYU5ydXRKcHEyOW5ic0dZT2E3QjdpRlpqdnN1UGh3N045bzhzQmZlQWJEZ3d2ZlNOb3V2TFQ2Nkt2VHhtXy1oRHpPMDduWFpXZGVPYm1ZWmtseVNMSDZZeHM?oc=5",
+      "pubDate": "2026-09-01 07:00:00",
+      "author": "CalMatters",
+      "summary": "Is ‘Lithium Valley’ in a slump? How lithium projects in the California desert have stalled CalMatters",
+      "lang": "en",
+      "source": "CalMatters",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3847838595",
+      "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
+      "pubDate": "2026-05-12 07:00:00",
+      "author": "Amnesty International",
+      "summary": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples Amnesty International",
+      "lang": "en",
+      "source": "Amnesty International",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
     }
   ],
   "sources": [
@@ -103705,8 +103714,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": false,
-      "message": "No futures quote"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "现货参考",
@@ -103720,63 +103729,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 宁德时代",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 Albemarle",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "股价 SQM",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 美元指数",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 沪深300",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": false,
-      "message": "HTTP 502"
+      "ok": true,
+      "message": "成功"
     }
   ]
 }
