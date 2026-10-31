@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T00:56:05.469Z",
+  "generatedAt": "2026-10-31T06:37:59.722Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2281,13 +2281,6 @@
         "price": 86000,
         "changePct": -2.05,
         "volume": 62959
-      },
-      {
-        "contract": "lc2612",
-        "name": "碳酸锂2612",
-        "price": 91100,
-        "changePct": -2.77,
-        "volume": 22546
       },
       {
         "contract": "lc2703",
