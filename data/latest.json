@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:22:13.269Z",
+  "generatedAt": "2026-10-31T00:56:05.469Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2276,6 +2276,13 @@
         "volume": 380860
       },
       {
+        "contract": "lc2705",
+        "name": "碳酸锂2705",
+        "price": 86000,
+        "changePct": -2.05,
+        "volume": 62959
+      },
+      {
         "contract": "lc2612",
         "name": "碳酸锂2612",
         "price": 91100,
@@ -2283,31 +2290,17 @@
         "volume": 22546
       },
       {
-        "contract": "lc2611",
-        "name": "碳酸锂2611",
-        "price": 93000,
-        "changePct": -1.52,
-        "volume": 6197
-      },
-      {
         "contract": "lc2703",
         "name": "碳酸锂2703",
         "price": 85640,
         "changePct": -2.53,
         "volume": 3025
-      },
-      {
-        "contract": "lc2704",
-        "name": "碳酸锂2704",
-        "price": 85860,
-        "changePct": -1.63,
-        "volume": 652
       }
     ]
   },
   "spot": {
     "price": 93600,
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "dayPct": -2.6,
     "monthPct": -25.09,
     "yearPct": 16.2,
@@ -51878,8 +51871,8 @@
       "role": "国际锂业",
       "price": 91,
       "changePct": -2.43,
-      "volume": 3610056,
-      "amount": 328149952,
+      "volume": 3610531,
+      "amount": 328193120,
       "klines": [
         {
           "d": "2024-01-02",
@@ -60407,8 +60400,8 @@
           "c": 91,
           "h": 92.19,
           "l": 89.77,
-          "v": 3610056,
-          "amount": 328149952,
+          "v": 3610531,
+          "amount": 328193120,
           "amp": 2.59,
           "chg": -2.43,
           "delta": -2.27
@@ -60423,8 +60416,8 @@
       "role": "国际锂业",
       "price": 54.65,
       "changePct": -3.05,
-      "volume": 1359672,
-      "amount": 74350999,
+      "volume": 1359683,
+      "amount": 74351593,
       "klines": [
         {
           "d": "2024-01-02",
@@ -68952,8 +68945,8 @@
           "c": 54.65,
           "h": 55.66,
           "l": 53.99,
-          "v": 1359672,
-          "amount": 74350999,
+          "v": 1359683,
+          "amount": 74351593,
           "amp": 2.96,
           "chg": -3.05,
           "delta": -1.72
@@ -68969,7 +68962,7 @@
       "code": "NDX",
       "price": 25437,
       "changePct": -2.86,
-      "volume": 7688248832,
+      "volume": 7710137344,
       "amount": 0,
       "klines": [
         {
@@ -77498,7 +77491,7 @@
           "c": 25437,
           "h": 25673,
           "l": 25177.33,
-          "v": 7688248832,
+          "v": 7710137344,
           "amount": 0,
           "amp": 1.89,
           "chg": -2.86,
@@ -103419,6 +103412,20 @@
       "sentiment": 0
     },
     {
+      "id": "1726208423",
+      "title": "锂价低迷，宜春锂矿开始“淘金”尾矿？ | 金十期货热图-市场参考 - 金十数据",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iN25Hei1qR1BYOXNDeFFLamd5cFdudGdSUElDaXh1eWRqd1dtNGtzak45X0tnekNTMUVobHRac0ZvWUJkaXphSmtrQW9GbUU?oc=5",
+      "pubDate": "2026-10-30 12:27:06",
+      "author": "金十数据",
+      "summary": "锂价低迷，宜春锂矿开始“淘金”尾矿？ | 金十期货热图-市场参考 金十数据",
+      "lang": "zh",
+      "source": "金十数据",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2749183601",
       "title": "环评获批！宁德时代锂矿大消息 - 搜狐网",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU05RMWcyRXZueFRKeTdQYzJtQ0FxX0t4LThCVF9ob2VMb2lKZ213Wkdka2E2cWs1bkpCeHBQWmRNU21VMGJwdXljYkhzYkhOTWRvZGNkQWtqRGtpc3AycUxsbHRXTmdPUENJZ1BCUE0wRFg0aU9QbjgtaFBPNFVJa3RzbEpGcU1kc1ZtNVVfOA?oc=5",
@@ -103441,20 +103448,6 @@
       "summary": "碳酸锂现货价格-2400元/吨，电池级碳酸锂报92500元/吨_期市动态 中金在线",
       "lang": "zh",
       "source": "中金在线",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2163578465",
-      "title": "碳酸锂价格闪崩一百天 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxTXVJWVNsYjlMUzFDVTc4WjJSZTFSNC1uLTFPRjlQZWw2ZVM3ODhRNUdCa0d1OXJhOGNDMzQwZHBzejdvdTVtV0JxMmtkVmliNUFzZzVlMF9reGM?oc=5",
-      "pubDate": "2026-10-30 10:27:01",
-      "author": "汽车之家",
-      "summary": "碳酸锂价格闪崩一百天 汽车之家",
-      "lang": "zh",
-      "source": "汽车之家",
       "categories": [
         "demand"
       ],
@@ -103489,20 +103482,6 @@
       "sentiment": 0
     },
     {
-      "id": "3330810860",
-      "title": "碳酸锂收盘跌8.4%；吉利汽车第三季度归母净利润增长28%｜新能源早参 - https://www.mrjjxw.com/",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEX1R2VWJtLTNrWFlxSTQ5UVdkZzE4S2JKbXU0QUJYamtsSjQ5RzY0OWNSak9kOHBkN0ptTjBXekFNN1J6RU9oQk9zQlE4RUxsekhSVmM4RF9Kb0ZvdTlfcnpDdlRhZw?oc=5",
-      "pubDate": "2026-10-29 23:00:14",
-      "author": "https://www.mrjjxw.com/",
-      "summary": "碳酸锂收盘跌8.4%；吉利汽车第三季度归母净利润增长28%｜新能源早参 https://www.mrjjxw.com/",
-      "lang": "zh",
-      "source": "https://www.mrjjxw.com/",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3187815984",
       "title": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkk4MG0tQ1YtSmJiWmtwTTkxZzllaFZpTnlqV1Ruc3ptT1EzR1ZIWVNlbzlSMTZ5TDlNYjB6QU9qQ0diQ2c4bjVnS0FpM3RTbkJHRFVNNFRvb2dldkIyeVVaVlBsSmxoQmJndmtHSE9jcEZkUkQ5T2R6cDNlWEZHMVJ4dGNpdjB0TkhYREU4dEJSZDItUVY5a2xTdmdMdw?oc=5",
@@ -103513,20 +103492,6 @@
       "source": "IndexBox",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "579438854",
-      "title": "Canada funds road upgrade for Quebec lithium mining project - ReNew Canada",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmJnblhxc2JsMW1FYXZlcFVfQ0F1OE4wNmZIVEZ1Wml0d3NLTTBXeHVobGI2TDg5RFgzMGRobGNoX2RqcG9nV1hQV3lDTmQ3anduaUlHYkctWXU0U19VWl95bWYxc1FwODJBUl84UFVDdU5iM19GLVV0cWVGcGI5elFsQ2VQMVR1OWpmcEtoS0JUZw?oc=5",
-      "pubDate": "2026-10-29 13:00:00",
-      "author": "ReNew Canada",
-      "summary": "Canada funds road upgrade for Quebec lithium mining project ReNew Canada",
-      "lang": "en",
-      "source": "ReNew Canada",
-      "categories": [
-        "supply"
       ],
       "sentiment": 0
     },
@@ -103573,30 +103538,16 @@
       "sentiment": 0
     },
     {
-      "id": "1566700064",
-      "title": "Covas do Barroso maintains David v. Goliath struggle against lithium mining - Portugal Resident",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEZRMy13VDNJZF96TnB5VjlLcW9MNVI2d2F5X3pSdEJ5UEQ3bDROa3dDZHBQcHNZa2ZLdTlJRGNqZXJzZ2thRjk5dUp0UjNjSmVjZkItaHdrZ09Qanh0Y0ExbFNJX2daTUhXMzdaU0xPYlpCbDRSakduUFlaaXZZMUJjaS03eE5xYmFFTUMzcmkyLTJWUHpHZmk2VkczYVVmWlhwSVpJdGZqZW5w?oc=5",
-      "pubDate": "2026-10-28 10:52:12",
-      "author": "Portugal Resident",
-      "summary": "Covas do Barroso maintains David v. Goliath struggle against lithium mining Portugal Resident",
-      "lang": "en",
-      "source": "Portugal Resident",
+      "id": "1439069882",
+      "title": "碳酸锂跌下来，谁赚得更多？答案藏在这份三季报里 - 电子工程专辑",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IcjFacjAtaWZVaXpxdFdfQW9fQ3hsUUF0MUlMcTNiNFN0UTI5Y3R4MTRqeEoyTVpMLWY1RHRoZDNraXNablFrTmFkN1ItZDdVOC1r?oc=5",
+      "pubDate": "2026-10-29 00:00:00",
+      "author": "电子工程专辑",
+      "summary": "碳酸锂跌下来，谁赚得更多？答案藏在这份三季报里 电子工程专辑",
+      "lang": "zh",
+      "source": "电子工程专辑",
       "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3659279567",
-      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
-      "pubDate": "2026-10-27 07:00:00",
-      "author": "CME Group",
-      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
-      "lang": "en",
-      "source": "CME Group",
-      "categories": [
-        "macro"
+        "demand"
       ],
       "sentiment": 0
     },
@@ -103630,28 +103581,28 @@
       "sentiment": 0
     },
     {
-      "id": "1801108642",
-      "title": "Texarkana region embraces lithium mining potential - Arkansas Advocate",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1ZNQmJIMEhGWGpWOXdCLUR6b3dZdGNURjVUUFdERWJsOGVmNmNXUjVjSEdMcFY5a053dU1OTFZael8tOG9vVkQ0Mks5b1dCSEJReG9LS1VPbHdFTXRQbi1aSzJaSVRDb3Y0czVRN3FTVElZZlc1c1BqQ2FyY09yblN2V2Q1WXdNbThnZWh3ZFFtcUIxS1E?oc=5",
-      "pubDate": "2026-07-21 07:00:00",
-      "author": "Arkansas Advocate",
-      "summary": "Texarkana region embraces lithium mining potential Arkansas Advocate",
+      "id": "236503304",
+      "title": "Fastmarkets proposes calculated FOB South America lithium carbonate, hydroxide prices - Fastmarkets",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTlaYlFvRXJDdGQzZDRIbU5nUE4zSUlSY3JKNHhGUUh1ZXFsN2pYTkhTcmQyWGpzRHB2RWJobHFyZ0lERzVUM21XekEzZUFnTnF0NUVxRWtUSFNuMUFiNVJVUEI4WTJwMGdSRnZ3TEF6SmswVlNrVFhyd2xwV0JzQ2hfNTQ3eW1lcHBKTUo0MWlhak1JY2ZMTnBYU3c3V1k1YWpoMGR4cFMxVE9aZmEzMjVHbWl3LU9hUG41bmNZUQ?oc=5",
+      "pubDate": "2026-10-23 20:03:57",
+      "author": "Fastmarkets",
+      "summary": "Fastmarkets proposes calculated FOB South America lithium carbonate, hydroxide prices Fastmarkets",
       "lang": "en",
-      "source": "Arkansas Advocate",
+      "source": "Fastmarkets",
       "categories": [
-        "supply"
+        "macro"
       ],
       "sentiment": 0
     },
     {
-      "id": "3727937909",
-      "title": "Future water constraints on United States lithium mining under climate change | Communications Earth &amp; Environment - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eHlZN2Nqd29DNm15ZHdBX1RqTmd3Q0Z4cnl4U3J0RW93QmFoUzVwMFIxVC16NzlZNEFKWkJYdmljRHpYX1p2Q21DSi1Kd3Rub3dSTHRPaV9PNHZNS2ZN?oc=5",
-      "pubDate": "2026-05-28 07:00:00",
-      "author": "Nature",
-      "summary": "Future water constraints on United States lithium mining under climate change | Communications Earth & Environment Nature",
+      "id": "332488703",
+      "title": "Musasike’s Work Exploring Socio-Economic and Environmental Impacts of Lithium Mining Published - Boston University",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZkxYQTF2a1MxamhTbGJCYUVUQUZqcFVWVldBMTNvNkRhLVc0Qmx0cE9kMWEzdXhxVFJKOWZhZHNscGQ3djdydjRUSzVaU2xCUV9pUDNNdGk4a3VrdGN6RmNQdlZqZGtfZHhzYk5JUUR5NEpqdldWdk82QlNVXzY5VldtM2c5SmVibWlOVFFWLXlITHRFa1ZkQ1VrVG9WOHZKUWN3VWZKTG4zc0NHREMzS1c0emR0ck5Kcmc0X29RWm43SF8xMTN0WnhjXzAxRmNmenpSMVZxSjBtalVEa3c?oc=5",
+      "pubDate": "2026-10-20 07:00:00",
+      "author": "Boston University",
+      "summary": "Musasike’s Work Exploring Socio-Economic and Environmental Impacts of Lithium Mining Published Boston University",
       "lang": "en",
-      "source": "Nature",
+      "source": "Boston University",
       "categories": [
         "environment",
         "supply"
@@ -103659,31 +103610,74 @@
       "sentiment": 0
     },
     {
-      "id": "2537053242",
-      "title": "Water scarcity could undercut U.S. lithium mining - Northwestern Now News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3dGXzZFd0hKRjJnZFJTV3NwMFJVbmU4bV92Z2doWDgxUnBXWHFSTzBOTmdkWkk1RlJ1dE5La3hnaGZYMzBGa0JSMFBFUXpyMzhaTG90aGNzZjg3aXdfdmNzd2xyNVpKZVMyNnJnUXJnQzcxWW1vRVRrZ0NXV3Y5eWlBSmZiUlp3ZVFKM09oelRnV1AxNzVOQi1R?oc=5",
-      "pubDate": "2026-05-28 07:00:00",
-      "author": "Northwestern Now News",
-      "summary": "Water scarcity could undercut U.S. lithium mining Northwestern Now News",
+      "id": "2459294096",
+      "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
+      "pubDate": "2026-10-18 07:00:00",
+      "author": "THE ELEC, Korea Electronics Industry Media",
+      "summary": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty THE ELEC, Korea Electronics Industry Media",
       "lang": "en",
-      "source": "Northwestern Now News",
-      "categories": [
-        "environment",
-        "supply"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "3847838595",
-      "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
-      "pubDate": "2026-05-12 07:00:00",
-      "author": "Amnesty International",
-      "summary": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples Amnesty International",
-      "lang": "en",
-      "source": "Amnesty International",
+      "source": "THE ELEC, Korea Electronics Industry Media",
       "categories": [
         "supply",
+        "demand",
+        "macro"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "1192949554",
+      "title": "Standard Lithium: Everything Is Ready Except The Lithium Price - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDI3Y2N6LVF5dndnS1FXQ0ZmMGtxUXQzdFYtVE8yRFJsdWprbGdtYW9adUNwYk44am1iX0R6bjlQNFFYemFOSDB0NW5YcmY2NlhZdlhXUDdnN0xhYm9qc1MxRWNwMnlVWmM4U1F6dTNHZTNnQXI5NXNUQlMyZ0tlZ3c1QnRobkpuSmN3al9VakhPZUdaaGFLMWYzVFhWWUZtR1g1VQ?oc=5",
+      "pubDate": "2026-10-17 07:00:00",
+      "author": "Seeking Alpha",
+      "summary": "Standard Lithium: Everything Is Ready Except The Lithium Price Seeking Alpha",
+      "lang": "en",
+      "source": "Seeking Alpha",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3867061724",
+      "title": "After Lithium Carbonate Prices Were Halved - Gasgoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ppS2ZmWEhPdlphTXdtbTdPRThhdlEyOUE3N2l3WHJVNUxWMU1TZjgtMXB6aG84OEgwRmxtVkZlLUpJbUh0Wi1TMUZfUTVQT3h4N0ZmVlBtY3dMZE5yRXJxb1F2V1dBVFR1SllZaDJIdFh3Z21mMi1uMjZQLWJmdXlNay0tMlFpTFhjZndFOW9GRWVrR2tFMm5xN1l6SXZJOTdERUtkSQ?oc=5",
+      "pubDate": "2026-10-14 07:00:00",
+      "author": "Gasgoo",
+      "summary": "After Lithium Carbonate Prices Were Halved Gasgoo",
+      "lang": "en",
+      "source": "Gasgoo",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "513767009",
+      "title": "Q3 2026 Lithium Price Review - Benchmark Mineral Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUpwTHRuYnptMlcyRDZXdDhIUnRUZWVpcFo0RnVaUkdsNkQtMlJldm0xcmVJT094RjhjdXF1WHZfSUV4dFpJWTgxb3pyOWFoQzVKNkQtOTdTdktTUDV6UUR2U0JPMlRQaF9ZRElGQWJZU1ZINjByT1YzLUloUi1WUVNWVURpdEsyalRzVkEyd2YzT1Z2blg2dF9DMDNyQUVTLVZrN3hBdFpYU1pfUGc3NFVUOXBoYjcyUkJxdFNYcw?oc=5",
+      "pubDate": "2026-10-02 13:09:18",
+      "author": "Benchmark Mineral Intelligence",
+      "summary": "Q3 2026 Lithium Price Review Benchmark Mineral Intelligence",
+      "lang": "en",
+      "source": "Benchmark Mineral Intelligence",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2312873405",
+      "title": "Is ‘Lithium Valley’ in a slump? How lithium projects in the California desert have stalled - CalMatters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN05CT0d1eVVMd1VOZmpxZ0M5VmctYjlySFJsV3NlY3g3T2FUYU5ydXRKcHEyOW5ic0dZT2E3QjdpRlpqdnN1UGh3N045bzhzQmZlQWJEZ3d2ZlNOb3V2TFQ2Nkt2VHhtXy1oRHpPMDduWFpXZGVPYm1ZWmtseVNMSDZZeHM?oc=5",
+      "pubDate": "2026-09-01 07:00:00",
+      "author": "CalMatters",
+      "summary": "Is ‘Lithium Valley’ in a slump? How lithium projects in the California desert have stalled CalMatters",
+      "lang": "en",
+      "source": "CalMatters",
+      "categories": [
         "demand"
       ],
       "sentiment": 0
