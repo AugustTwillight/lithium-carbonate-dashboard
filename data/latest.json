@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T11:38:15.081Z",
+  "generatedAt": "2026-11-01T17:34:35.663Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -103736,7 +103736,7 @@
     {
       "label": "期货主力",
       "ok": false,
-      "message": "fetch failed"
+      "message": "No futures quote"
     },
     {
       "label": "现货参考",
@@ -103751,62 +103751,62 @@
     {
       "label": "股价 赣锋锂业",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 盐湖股份",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 宁德时代",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 赣锋锂业H",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 天齐锂业H",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 Albemarle",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "股价 SQM",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 美元指数",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 沪深300",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 纳斯达克",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     },
     {
       "label": "宏观 NYMEX原油",
       "ok": false,
-      "message": "fetch failed"
+      "message": "HTTP 502"
     }
   ]
 }
