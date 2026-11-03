@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:06:21.724Z",
+  "generatedAt": "2026-11-03T15:24:16.436Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -103695,10 +103695,94 @@
   ],
   "news": [
     {
+      "id": "4056131999",
+      "title": "Rio Tinto expands lithium production in Argentina - electrive.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHk5TVZWYjlidl96ajBKZnFBRHJoNW5iOE92QXdhbFN4Zjgxb19pU0tfNTRscHlQaEcyLWJtLTJxS0lKQUIwWXV5Z3lzN09EOEVwR3VkZS1hdG1Xa0Ixc0c1UWFUSVo2UHZCVnNkWHotampfa0Z4U1FaYXVMS3pkVnFJVWV0V1JFU21jX3VHZ04?oc=5",
+      "pubDate": "2026-11-03 13:30:00",
+      "author": "electrive.com",
+      "summary": "Rio Tinto expands lithium production in Argentina electrive.com",
+      "lang": "en",
+      "source": "electrive.com",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "504801979",
+      "title": "Chinese explosives firm secures Tibet copper, lithium mining rights - Mining Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGJfcS1sRHlkdUp2SmxZZnlPdl82c3ZHczFNdk9uWFNJV1ZNREQyRXAydDVxS1daR3JiaDR5S1hwbGJKZGhoV182R1dValNfZ0d1VFI4MFFuV2hUTGZTYXlkYXJTeGx5d3hGeE5UTWg3dmNPVmFSVVRaQ3FtZ0lYd0s1bjBCUXhzUEdtUXdWUHlzSmtpWkYxV29JYWdJa3huM1JQU3ZKdmhRRS1TbGlwM09ibGNERjNXalh4cmh4akI4QQ?oc=5",
+      "pubDate": "2026-11-03 12:48:01",
+      "author": "Mining Magazine",
+      "summary": "Chinese explosives firm secures Tibet copper, lithium mining rights Mining Magazine",
+      "lang": "en",
+      "source": "Mining Magazine",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3414884682",
+      "title": "【持仓分析】碳酸锂前20期商净空头持仓下降 - 同花顺",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KY25ONjFYTTloeFZGQTk5Ql9kVVJla29hVWVsczRSZVFsbWhmMy04Q2h6NGxfb3FaNkFvcDY2M3VvX3lrSHlPNkpUZjZlQlA2TmpFb3BEb2hFR1d1TkhKOA?oc=5",
+      "pubDate": "2026-11-03 12:03:59",
+      "author": "同花顺",
+      "summary": "【持仓分析】碳酸锂前20期商净空头持仓下降 同花顺",
+      "lang": "zh",
+      "source": "同花顺",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3158423258",
+      "title": "广期所三品种期货仓单变动碳酸锂增1236手_公司新闻_财经 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsclpRNFU4Q3lmeTVxbGQweVZ4OEI4cFVPTlYyTm9HSHpDZ1N6bHJPX2trSmJyMDVVNDE2V3ZPZ2ZLUGxmUUY5dDhZdHQ3MUZxRnJ1QXV1V29JWTNsa3NaUw?oc=5",
+      "pubDate": "2026-11-03 08:48:00",
+      "author": "证券之星",
+      "summary": "广期所三品种期货仓单变动碳酸锂增1236手_公司新闻_财经 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4171613001",
+      "title": "广期所三品种期货仓单变动 碳酸锂增1236手 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ydmYyZ1ZWTXhsbnk1Sm9IdDAtWlZhNjJDbXhMRkMyc29JeE81b0ZRb0pCakpxdEtHeDVGX1pnT0lVZmxxMHdvb3N2WlpCeGNqOUo5VElURHg3RlcwUW90dDZn?oc=5",
+      "pubDate": "2026-11-03 08:47:59",
+      "author": "观点网",
+      "summary": "广期所三品种期货仓单变动 碳酸锂增1236手 观点网",
+      "lang": "zh",
+      "source": "观点网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2362739522",
+      "title": "国海良时期货：10月下旬青海碳酸锂企业调研报告 - 七禾网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBka2Qxc2tBR2Rqc0FfVkF2aHkzLXNjcE5NZTJ4SHZVTXBkQkgzOVExSDZES0pDSGFvM1RHUF83cmppM1c5eWNRc1VJaWhkWmtEa2ZGcA?oc=5",
+      "pubDate": "2026-11-03 08:43:02",
+      "author": "七禾网",
+      "summary": "国海良时期货：10月下旬青海碳酸锂企业调研报告 七禾网",
+      "lang": "zh",
+      "source": "七禾网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "949343946",
       "title": "Citi cuts lithium price forecasts as battery demand concerns grow - Mining.com.au",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS241djVBZU1MN1JpNDJWWGd4WjN1Q1ZKNlMxdDE3Si1vY2xlZ3pMdlVLQzV1TFdaWXcyTFZmRkJaNXFJTHJPUE40Z3l5cjBRdUdDUGlNcHJXazJVT0ZZSWtvZ0lCalpqYk1ISC1ka05Mc0lUQzFwU1ZNMGpHX3dZTWhZOTNWZW5HWFczVVBIOEhPQQ?oc=5",
-      "pubDate": "2026-11-03 04:52:30",
+      "pubDate": "2026-11-03 04:55:43",
       "author": "Mining.com.au",
       "summary": "Citi cuts lithium price forecasts as battery demand concerns grow Mining.com.au",
       "lang": "en",
@@ -103708,20 +103792,6 @@
         "demand"
       ],
       "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "2475465654",
-      "title": "11月3日午间题材主力资金：固态电池概念净流入24.20亿元居首，钠离子电池、锂矿概念、动力电池回收紧随其后 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGY0ZmF3QWNmaU1lZXFYVFdDQndFNzZwMWVfYUYxc05nMHA3emxtYzZDcThMYlpBWTVPajhYQjNvMW9JSDhaYlFHVF9iQlVTbVNvMGhrSGIzWWZqSkNuRXhRNFl0RFZHdGxOaXNmNmFFRVdVWV95S1ZuVFFQVkNlZXJhcHdiME5M?oc=5",
-      "pubDate": "2026-11-03 03:49:56",
-      "author": "搜狐网",
-      "summary": "11月3日午间题材主力资金：固态电池概念净流入24.20亿元居首，钠离子电池、锂矿概念、动力电池回收紧随其后 搜狐网",
-      "lang": "zh",
-      "source": "搜狐网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
     },
     {
       "id": "1769007150",
@@ -103781,34 +103851,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3220446234",
-      "title": "Citi cuts 3-month lithium price forecasts amid slower battery demand and economic pressures - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEpkc3FHc3dka1VzeXhsclhLZ015Rkh2T0NMb1FzelNTZk1TV2FxZERBYjFBV3QyRENfWUk1ZklJbnRiTjRta0VjZTdwLWU0ZUlpODdIZmpjVjRkeVhtdmF5Ykw3N1B2R3Bxb2J5YTZFQmV3WUV6SU5obDMxV2gzR3lwRTBqMURsWGZEY05jRVFla2xGbl83cHY2cVNtelRsOTB2S0NnRHBFN0hy?oc=5",
-      "pubDate": "2026-11-02 12:27:45",
-      "author": "Pluang",
-      "summary": "Citi cuts 3-month lithium price forecasts amid slower battery demand and economic pressures Pluang",
-      "lang": "en",
-      "source": "Pluang",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "4200462667",
-      "title": "花旗（C）下调碳酸锂、氢氧化锂、锂辉石价格预测 锂市场下行风险偏大 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zMGFPaS1md3lxU1JYNkNIWmJ3ZGRhMVZWeVQ5Q1V5Vk5lbmdSSVFlcG9mQnFlVGM2X25ZSzFVTGVNRFV5MVZ0RVJ1T204R0xLTHNNWmFRUGI3azJ4d3U1NHZxZDM?oc=5",
-      "pubDate": "2026-11-02 12:15:21",
-      "author": "证券之星",
-      "summary": "花旗（C）下调碳酸锂、氢氧化锂、锂辉石价格预测 锂市场下行风险偏大 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "463771927",
       "title": "Citi cuts lithium price outlook on weaker demand - TradingView",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRSeXh6SXF2WFNzY0FRdXlIN2l1cm42N0lEenRIX041dTNpbmhYdndhcjdWcC1iSW45Z3hoZ0pzcnNhTUJhWGpoLU9CVHZKckRjdzdSbzU1OXRTRmJDTFlBcXVWbVR4SUVQMG1SZ1R1U3lJV2UxYVlXTXdubTJZcHFlOEt2RWJzNEFOY1hyQXdLUnFWbjZTUWxTb3QxWFdDRHREaDJRci1UWC1fYkRvbQ?oc=5",
@@ -103865,20 +103907,6 @@
       "sentiment": 0
     },
     {
-      "id": "3187815984",
-      "title": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkk4MG0tQ1YtSmJiWmtwTTkxZzllaFZpTnlqV1Ruc3ptT1EzR1ZIWVNlbzlSMTZ5TDlNYjB6QU9qQ0diQ2c4bjVnS0FpM3RTbkJHRFVNNFRvb2dldkIyeVVaVlBsSmxoQmJndmtHSE9jcEZkUkQ5T2R6cDNlWEZHMVJ4dGNpdjB0TkhYREU4dEJSZDItUVY5a2xTdmdMdw?oc=5",
-      "pubDate": "2026-10-29 17:50:56",
-      "author": "IndexBox",
-      "summary": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics IndexBox",
-      "lang": "en",
-      "source": "IndexBox",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "857535697",
       "title": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 - 中国金融信息网",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFAtMW90dDA0WEp1OERadHZRMHJDS09IcWdUeW0zbTZkWHduUXRWelVjWVhjbzRiVE9pOVdFXzdLeW93UkdOZkhWZUQ4U3d0Qzk2MllHXzRBUFpEcFhwWG5RSE44dzA?oc=5",
@@ -103889,48 +103917,6 @@
       "source": "中国金融信息网",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "192847578",
-      "title": "碳酸锂期货主力失守9万元关口 现跌近7%创2025年11月新低 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMDh5TGR1aVlRS09nX1NOSWV1bElMUGpzajJvM0FhZGdraUdzYTZhdC1oWldqbzN2NENIclpaQ19Ya1djU2w2WDY4MUxYOWJHT3ZkZUx0MEpVSzVXcUxMbnBB?oc=5",
-      "pubDate": "2026-10-29 07:48:01",
-      "author": "观点网",
-      "summary": "碳酸锂期货主力失守9万元关口 现跌近7%创2025年11月新低 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3578302828",
-      "title": "期货收评：碳酸锂暴跌超8%！沥青逆势大涨超3% - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lckRpTHFGVUpER2NLVFMwQVRmX2pjbGJLR01UbnJPRldkQjNta29zcEM4aUNhYkFCT1NyaklqODVYOUdpYkt6MDd2SWZoLXRvRXJsLUtWbHpFVGhBMUE?oc=5",
-      "pubDate": "2026-10-29 07:05:22",
-      "author": "同花顺",
-      "summary": "期货收评：碳酸锂暴跌超8%！沥青逆势大涨超3% 同花顺",
-      "lang": "zh",
-      "source": "同花顺",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3659279567",
-      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
-      "pubDate": "2026-10-29 07:00:00",
-      "author": "CME Group",
-      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
-      "lang": "en",
-      "source": "CME Group",
-      "categories": [
-        "macro"
       ],
       "sentiment": 0
     },
@@ -103963,18 +103949,35 @@
       "sentiment": 0
     },
     {
-      "id": "1801108642",
-      "title": "Texarkana region embraces lithium mining potential - Arkansas Advocate",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1ZNQmJIMEhGWGpWOXdCLUR6b3dZdGNURjVUUFdERWJsOGVmNmNXUjVjSEdMcFY5a053dU1OTFZael8tOG9vVkQ0Mks5b1dCSEJReG9LS1VPbHdFTXRQbi1aSzJaSVRDb3Y0czVRN3FTVElZZlc1c1BqQ2FyY09yblN2V2Q1WXdNbThnZWh3ZFFtcUIxS1E?oc=5",
-      "pubDate": "2026-07-21 07:00:00",
-      "author": "Arkansas Advocate",
-      "summary": "Texarkana region embraces lithium mining potential Arkansas Advocate",
+      "id": "332488703",
+      "title": "Musasike’s Work Exploring Socio-Economic and Environmental Impacts of Lithium Mining Published - Boston University",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZkxYQTF2a1MxamhTbGJCYUVUQUZqcFVWVldBMTNvNkRhLVc0Qmx0cE9kMWEzdXhxVFJKOWZhZHNscGQ3djdydjRUSzVaU2xCUV9pUDNNdGk4a3VrdGN6RmNQdlZqZGtfZHhzYk5JUUR5NEpqdldWdk82QlNVXzY5VldtM2c5SmVibWlOVFFWLXlITHRFa1ZkQ1VrVG9WOHZKUWN3VWZKTG4zc0NHREMzS1c0emR0ck5Kcmc0X29RWm43SF8xMTN0WnhjXzAxRmNmenpSMVZxSjBtalVEa3c?oc=5",
+      "pubDate": "2026-10-20 07:00:00",
+      "author": "Boston University",
+      "summary": "Musasike’s Work Exploring Socio-Economic and Environmental Impacts of Lithium Mining Published Boston University",
       "lang": "en",
-      "source": "Arkansas Advocate",
+      "source": "Boston University",
       "categories": [
+        "environment",
         "supply"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "2459294096",
+      "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
+      "pubDate": "2026-10-18 07:00:00",
+      "author": "THE ELEC, Korea Electronics Industry Media",
+      "summary": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty THE ELEC, Korea Electronics Industry Media",
+      "lang": "en",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "categories": [
+        "supply",
+        "demand",
+        "macro"
+      ],
+      "sentiment": -0.3333333333333333
     }
   ],
   "sources": [
@@ -104006,8 +104009,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -104021,63 +104024,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
