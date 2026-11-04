@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:32:02.582Z",
+  "generatedAt": "2026-11-04T16:49:02.412Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -103851,38 +103851,25 @@
   ],
   "news": [
     {
-      "id": "2790433279",
-      "title": "SunSirs: Lithium Carbonate Was Nearing the Cost Floor, with Downside Room Gradually Narrowing - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtS09yN2t5TXVwQTgwTEF3T0RxdVA2UzZhdXJxTDlreDk4TzBaV0hycGRld2JUYzBpSV9TTWwwS0xHR3ZpT1pCN2E3M1F1RTFEZlE?oc=5",
-      "pubDate": "2026-11-04 04:25:01",
-      "author": "ChemNet News",
-      "summary": "SunSirs: Lithium Carbonate Was Nearing the Cost Floor, with Downside Room Gradually Narrowing ChemNet News",
-      "lang": "en",
-      "source": "ChemNet News",
+      "id": "1445581197",
+      "title": "停产38万吨石灰改建碳酸锂！又一公司切入电池材料赛道 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzhKNTl6aVBuSUtycTFoSEp2RExDQVdpa0pMeUtwOHhBV1BudUlCUi1PMmJBYXJuemk4Z09FbFpGeEVjUFgwS3B1NExlekhjMjhSS196SU1YUFFVRFlQWnpJdTBmSEN1MTAyZmh4MFJUR3hZY19BRFlKVE9CcGNuMmtEam9jMzM4dWQ3MQ?oc=5",
+      "pubDate": "2026-11-04 03:35:16",
+      "author": "搜狐网",
+      "summary": "停产38万吨石灰改建碳酸锂！又一公司切入电池材料赛道 搜狐网",
+      "lang": "zh",
+      "source": "搜狐网",
       "categories": [
+        "environment",
         "demand"
       ],
-      "sentiment": 0
-    },
-    {
-      "id": "3747843310",
-      "title": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85QlhnVEhjY3pxZmY3TDRJTTRWa3UyckgzWGhKRnY0QWxYSjhvMjZZRUh2SlBMTVhZX190Q3lYRm1McXlIVWZHZmdn?oc=5",
-      "pubDate": "2026-11-04 03:57:24",
-      "author": "上海有色金属网",
-      "summary": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
+      "sentiment": 0.3333333333333333
     },
     {
       "id": "2763954477",
       "title": "布伦特原油破115美元，碳酸锂跌破9万 - 汽车之家",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpX2U0OXl5Vk5ZWUxsVjMxVDlPT1NkVmo2Z3duZlhpeVluMVUxUkRxYUwxRjNPNnBPY1ZxbklJaU1BaUc1NjJrMnN6bnJQNVlMZHZ4TVJVMms5Vkk?oc=5",
-      "pubDate": "2026-11-04 02:59:49",
+      "pubDate": "2026-11-04 02:59:05",
       "author": "汽车之家",
       "summary": "布伦特原油破115美元，碳酸锂跌破9万 汽车之家",
       "lang": "zh",
@@ -103921,16 +103908,16 @@
       "sentiment": 0
     },
     {
-      "id": "3414884682",
-      "title": "【持仓分析】碳酸锂前20期商净空头持仓下降 - 同花顺",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KY25ONjFYTTloeFZGQTk5Ql9kVVJla29hVWVsczRSZVFsbWhmMy04Q2h6NGxfb3FaNkFvcDY2M3VvX3lrSHlPNkpUZjZlQlA2TmpFb3BEb2hFR1d1TkhKOA?oc=5",
-      "pubDate": "2026-11-03 12:03:59",
-      "author": "同花顺",
-      "summary": "【持仓分析】碳酸锂前20期商净空头持仓下降 同花顺",
+      "id": "3747843310",
+      "title": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85QlhnVEhjY3pxZmY3TDRJTTRWa3UyckgzWGhKRnY0QWxYSjhvMjZZRUh2SlBMTVhZX190Q3lYRm1McXlIVWZHZmdn?oc=5",
+      "pubDate": "2026-11-03 14:35:00",
+      "author": "上海有色金属网",
+      "summary": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 上海有色金属网",
       "lang": "zh",
-      "source": "同花顺",
+      "source": "上海有色金属网",
       "categories": [
-        "demand"
+        "macro"
       ],
       "sentiment": 0
     },
@@ -103961,6 +103948,35 @@
         "demand"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "949343946",
+      "title": "Citi cuts lithium price forecasts as battery demand concerns grow - Mining.com.au",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS241djVBZU1MN1JpNDJWWGd4WjN1Q1ZKNlMxdDE3Si1vY2xlZ3pMdlVLQzV1TFdaWXcyTFZmRkJaNXFJTHJPUE40Z3l5cjBRdUdDUGlNcHJXazJVT0ZZSWtvZ0lCalpqYk1ISC1ka05Mc0lUQzFwU1ZNMGpHX3dZTWhZOTNWZW5HWFczVVBIOEhPQQ?oc=5",
+      "pubDate": "2026-11-03 04:55:43",
+      "author": "Mining.com.au",
+      "summary": "Citi cuts lithium price forecasts as battery demand concerns grow Mining.com.au",
+      "lang": "en",
+      "source": "Mining.com.au",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "1769007150",
+      "title": "Citi’s 40% lithium price cut: project pipeline and capex signals for mine planners - Geomechanics.io",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmc3cThua1hQZmljbS1YTlM0bEJ5dTZhWW8xOFFma2I4bTRsOTNYUUxuTk5Xa1IzRTJkTHZLaHZKVlQySkJMMVZMV0FOTUJYVUhscEs4V1ludzl3QWxtbnhfMkFrajVTVWEtcjVWenpsSG5MalZqVk5lTVBGdnFXQXNuOTBLa2pYVlphU1JWMExZMmY5dF9kamk3RVQwNE1jTkhZQnY1RElzdGh0MVltaFh2NHFob2pJYkM1eg?oc=5",
+      "pubDate": "2026-11-03 00:02:01",
+      "author": "Geomechanics.io",
+      "summary": "Citi’s 40% lithium price cut: project pipeline and capex signals for mine planners Geomechanics.io",
+      "lang": "en",
+      "source": "Geomechanics.io",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0.3333333333333333
     },
     {
       "id": "235897157",
@@ -104048,6 +104064,20 @@
       "sentiment": 0
     },
     {
+      "id": "3187815984",
+      "title": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUkk4MG0tQ1YtSmJiWmtwTTkxZzllaFZpTnlqV1Ruc3ptT1EzR1ZIWVNlbzlSMTZ5TDlNYjB6QU9qQ0diQ2c4bjVnS0FpM3RTbkJHRFVNNFRvb2dldkIyeVVaVlBsSmxoQmJndmtHSE9jcEZkUkQ5T2R6cDNlWEZHMVJ4dGNpdjB0TkhYREU4dEJSZDItUVY5a2xTdmdMdw?oc=5",
+      "pubDate": "2026-10-29 17:50:56",
+      "author": "IndexBox",
+      "summary": "Rio Tinto Opens Fénix 1B and Sal de Vida Lithium Projects in Argentina - News and Statistics IndexBox",
+      "lang": "en",
+      "source": "IndexBox",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "857535697",
       "title": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 - 中国金融信息网",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFAtMW90dDA0WEp1OERadHZRMHJDS09IcWdUeW0zbTZkWHduUXRWelVjWVhjbzRiVE9pOVdFXzdLeW93UkdOZkhWZUQ4U3d0Qzk2MllHXzRBUFpEcFhwWG5RSE44dzA?oc=5",
@@ -104076,61 +104106,32 @@
       "sentiment": 0
     },
     {
-      "id": "236503304",
-      "title": "Fastmarkets proposes calculated FOB South America lithium carbonate, hydroxide prices - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTlaYlFvRXJDdGQzZDRIbU5nUE4zSUlSY3JKNHhGUUh1ZXFsN2pYTkhTcmQyWGpzRHB2RWJobHFyZ0lERzVUM21XekEzZUFnTnF0NUVxRWtUSFNuMUFiNVJVUEI4WTJwMGdSRnZ3TEF6SmswVlNrVFhyd2xwV0JzQ2hfNTQ3eW1lcHBKTUo0MWlhak1JY2ZMTnBYU3c3V1k1YWpoMGR4cFMxVE9aZmEzMjVHbWl3LU9hUG41bmNZUQ?oc=5",
-      "pubDate": "2026-10-23 07:00:00",
-      "author": "Fastmarkets",
-      "summary": "Fastmarkets proposes calculated FOB South America lithium carbonate, hydroxide prices Fastmarkets",
+      "id": "3454515664",
+      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
+      "pubDate": "2026-09-15 15:14:30",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
       "lang": "en",
-      "source": "Fastmarkets",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "macro"
+        "supply",
+        "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "332488703",
-      "title": "Musasike’s Work Exploring Socio-Economic and Environmental Impacts of Lithium Mining Published - Boston University",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZkxYQTF2a1MxamhTbGJCYUVUQUZqcFVWVldBMTNvNkRhLVc0Qmx0cE9kMWEzdXhxVFJKOWZhZHNscGQ3djdydjRUSzVaU2xCUV9pUDNNdGk4a3VrdGN6RmNQdlZqZGtfZHhzYk5JUUR5NEpqdldWdk82QlNVXzY5VldtM2c5SmVibWlOVFFWLXlITHRFa1ZkQ1VrVG9WOHZKUWN3VWZKTG4zc0NHREMzS1c0emR0ck5Kcmc0X29RWm43SF8xMTN0WnhjXzAxRmNmenpSMVZxSjBtalVEa3c?oc=5",
-      "pubDate": "2026-10-20 07:00:00",
-      "author": "Boston University",
-      "summary": "Musasike’s Work Exploring Socio-Economic and Environmental Impacts of Lithium Mining Published Boston University",
+      "id": "1140256374",
+      "title": "Li–air chemistry inspired electrodialysis for direct lithium carbonate production from seawater - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XYTBKeG1GZmc5NUQxUnFjQmowdm9sRzZ3OXJqXzdsbUlES3B4UlhQa0RxMlVYSnJseTlTY0JFOXBSd043MGZ5WUQ4b0VuajhSeGJ3ODhoeTA1aktIdUh3?oc=5",
+      "pubDate": "2026-07-06 07:00:00",
+      "author": "Nature",
+      "summary": "Li–air chemistry inspired electrodialysis for direct lithium carbonate production from seawater Nature",
       "lang": "en",
-      "source": "Boston University",
+      "source": "Nature",
       "categories": [
         "environment",
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2459294096",
-      "title": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty - THE ELEC, Korea Electronics Industry Media",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JZzBiUTV6aFZOWmhCQ0taTS01U1lWQnlMWUsyRjctdktMY0JWSHI3X2FDbjNQNXN2dnR4S055S0xybXVMR3VFVmpOMkhHOVB6TkFpTlp1UUFLS0hoUjNlOG1UTUktcWs?oc=5",
-      "pubDate": "2026-10-18 07:00:00",
-      "author": "THE ELEC, Korea Electronics Industry Media",
-      "summary": "Lithium Prices Slump on Oversupply Fears, Raising Battery Market Uncertainty THE ELEC, Korea Electronics Industry Media",
-      "lang": "en",
-      "source": "THE ELEC, Korea Electronics Industry Media",
-      "categories": [
-        "supply",
-        "demand",
-        "macro"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "1192949554",
-      "title": "Standard Lithium: Everything Is Ready Except The Lithium Price - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDI3Y2N6LVF5dndnS1FXQ0ZmMGtxUXQzdFYtVE8yRFJsdWprbGdtYW9adUNwYk44am1iX0R6bjlQNFFYemFOSDB0NW5YcmY2NlhZdlhXUDdnN0xhYm9qc1MxRWNwMnlVWmM4U1F6dTNHZTNnQXI5NXNUQlMyZ0tlZ3c1QnRobkpuSmN3al9VakhPZUdaaGFLMWYzVFhWWUZtR1g1VQ?oc=5",
-      "pubDate": "2026-10-17 07:00:00",
-      "author": "Seeking Alpha",
-      "summary": "Standard Lithium: Everything Is Ready Except The Lithium Price Seeking Alpha",
-      "lang": "en",
-      "source": "Seeking Alpha",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     }
@@ -104164,8 +104165,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -104179,63 +104180,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
