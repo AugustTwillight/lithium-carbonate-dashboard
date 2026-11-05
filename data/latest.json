@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:16:52.433Z",
+  "generatedAt": "2026-11-05T18:10:00.470Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -52226,10 +52226,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 94.97,
-      "changePct": 5.3,
-      "volume": 6052666,
-      "amount": 572750448,
+      "price": 96.66,
+      "changePct": 1.78,
+      "volume": 2755071,
+      "amount": 272150416,
       "klines": [
         {
           "d": "2024-01-02",
@@ -60798,6 +60798,18 @@
           "amp": 4.02,
           "chg": 5.3,
           "delta": 4.78
+        },
+        {
+          "d": "2026-11-05",
+          "o": 99.96,
+          "c": 96.66,
+          "h": 102.28,
+          "l": 96.15,
+          "v": 2755071,
+          "amount": 272150416,
+          "amp": 6.45,
+          "chg": 1.78,
+          "delta": 1.69
         }
       ]
     },
@@ -60807,10 +60819,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 57.56,
-      "changePct": 7.17,
-      "volume": 1292542,
-      "amount": 74051665,
+      "price": 56.29,
+      "changePct": -2.21,
+      "volume": 436759,
+      "amount": 25116424,
       "klines": [
         {
           "d": "2024-01-02",
@@ -69379,6 +69391,18 @@
           "amp": 3.74,
           "chg": 7.17,
           "delta": 3.85
+        },
+        {
+          "d": "2026-11-05",
+          "o": 59.555,
+          "c": 56.29,
+          "h": 59.555,
+          "l": 56,
+          "v": 436759,
+          "amount": 25116424,
+          "amp": 6.18,
+          "chg": -2.21,
+          "delta": -1.27
         }
       ]
     }
@@ -69389,9 +69413,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 25736.51,
-      "changePct": 1.44,
-      "volume": 8599012096,
+      "price": 24406.37,
+      "changePct": -5.17,
+      "volume": 6487349760,
       "amount": 0,
       "klines": [
         {
@@ -77961,6 +77985,18 @@
           "amp": 1.76,
           "chg": 1.44,
           "delta": 364.5
+        },
+        {
+          "d": "2026-11-05",
+          "o": 25558.11,
+          "c": 24406.37,
+          "h": 25559.03,
+          "l": 24262.14,
+          "v": 6487349760,
+          "amount": 0,
+          "amp": 5.04,
+          "chg": -5.17,
+          "delta": -1330.14
         }
       ]
     },
@@ -77969,9 +78005,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 88.63,
-      "changePct": 0.58,
-      "volume": 71610,
+      "price": 90.28,
+      "changePct": 2.45,
+      "volume": 239241,
       "amount": 0,
       "klines": [
         {
@@ -86797,14 +86833,14 @@
         {
           "d": "2026-11-05",
           "o": 88.05,
-          "c": 88.63,
-          "h": 88.69,
+          "c": 90.28,
+          "h": 90.99,
           "l": 86.65,
-          "v": 71610,
+          "v": 239240,
           "amount": 0,
-          "amp": 2.32,
-          "chg": 0.58,
-          "delta": 0.51
+          "amp": 4.93,
+          "chg": 2.45,
+          "delta": 2.16
         }
       ]
     },
@@ -86813,8 +86849,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.5,
-      "changePct": -0.03,
+      "price": 101.41,
+      "changePct": -0.12,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -95737,14 +95773,14 @@
         {
           "d": "2026-11-05",
           "o": 101.53,
-          "c": 101.5,
-          "h": 101.54,
+          "c": 101.41,
+          "h": 101.71,
           "l": 101.19,
           "v": 0,
           "amount": 0,
-          "amp": 0.34,
-          "chg": -0.03,
-          "delta": -0.03
+          "amp": 0.51,
+          "chg": -0.12,
+          "delta": -0.12
         }
       ]
     },
@@ -104007,19 +104043,46 @@
   ],
   "news": [
     {
-      "id": "1445581197",
-      "title": "停产38万吨石灰改建碳酸锂！又一公司切入电池材料赛道 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbzhKNTl6aVBuSUtycTFoSEp2RExDQVdpa0pMeUtwOHhBV1BudUlCUi1PMmJBYXJuemk4Z09FbFpGeEVjUFgwS3B1NExlekhjMjhSS196SU1YUFFVRFlQWnpJdTBmSEN1MTAyZmh4MFJUR3hZY19BRFlKVE9CcGNuMmtEam9jMzM4dWQ3MQ?oc=5",
-      "pubDate": "2026-11-04 03:35:16",
-      "author": "搜狐网",
-      "summary": "停产38万吨石灰改建碳酸锂！又一公司切入电池材料赛道 搜狐网",
+      "id": "273966115",
+      "title": "港股异动| 碳酸锂强势反弹突破9.3万赣锋锂业(01772)涨超9% 天齐锂业(09696)涨超5%_股市直播_市场 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdzM4VGRmSWhNWV9YX3NQQ1hHVWJqZEtiZTdXNDVqczdIZkVNRWZlai1NdnJ2Z3BsVUZpN1RqUUJMSVRHRmJxeEtmSXVHbEtXc3RyY3k3dWYzdXVhVmJXVVdUYU13SVI1QlU1Qw?oc=5",
+      "pubDate": "2026-11-05 06:03:24",
+      "author": "中金在线",
+      "summary": "港股异动| 碳酸锂强势反弹突破9.3万赣锋锂业(01772)涨超9% 天齐锂业(09696)涨超5%_股市直播_市场 中金在线",
       "lang": "zh",
-      "source": "搜狐网",
+      "source": "中金在线",
       "categories": [
-        "environment",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4218581803",
+      "title": "碳酸锂期货大涨超5%，锂矿股连续第4日上涨，天齐锂业、宁德时代涨超6% - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sUnFSQzJ3aW45bXUwSWtLZld2TnhOTUZ2bWt0eVdFUFB0Z1B4MFMzeC0tN3hWdmJJM3BJTzFDUmxENmEwN1JRVFYtdlNtNXNMRnlvdDIyaTZPdlhZVmVfZENYWEdEdDJ0QXV4MnlvZTRwQQ?oc=5",
+      "pubDate": "2026-11-05 03:08:10",
+      "author": "金融界",
+      "summary": "碳酸锂期货大涨超5%，锂矿股连续第4日上涨，天齐锂业、宁德时代涨超6% 金融界",
+      "lang": "zh",
+      "source": "金融界",
+      "categories": [
         "demand"
       ],
-      "sentiment": 0.3333333333333333
+      "sentiment": 0
+    },
+    {
+      "id": "1225573351",
+      "title": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wOV81VE5pNzdaNzZwdjRmSTlTX19HMHU5QTgtLVBKNDZaMUpsTXZlLUJhQXhrVWhRR3RaTmNoV2N4ZWxmWXdkckJ3?oc=5",
+      "pubDate": "2026-11-04 14:35:00",
+      "author": "上海有色金属网",
+      "summary": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "2763954477",
@@ -104046,34 +104109,6 @@
       "source": "观点网",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "504801979",
-      "title": "Chinese explosives firm secures Tibet copper, lithium mining rights - Mining Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGJfcS1sRHlkdUp2SmxZZnlPdl82c3ZHczFNdk9uWFNJV1ZNREQyRXAydDVxS1daR3JiaDR5S1hwbGJKZGhoV182R1dValNfZ0d1VFI4MFFuV2hUTGZTYXlkYXJTeGx5d3hGeE5UTWg3dmNPVmFSVVRaQ3FtZ0lYd0s1bjBCUXhzUEdtUXdWUHlzSmtpWkYxV29JYWdJa3huM1JQU3ZKdmhRRS1TbGlwM09ibGNERjNXalh4cmh4akI4QQ?oc=5",
-      "pubDate": "2026-11-04 00:52:14",
-      "author": "Mining Magazine",
-      "summary": "Chinese explosives firm secures Tibet copper, lithium mining rights Mining Magazine",
-      "lang": "en",
-      "source": "Mining Magazine",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3747843310",
-      "title": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85QlhnVEhjY3pxZmY3TDRJTTRWa3UyckgzWGhKRnY0QWxYSjhvMjZZRUh2SlBMTVhZX190Q3lYRm1McXlIVWZHZmdn?oc=5",
-      "pubDate": "2026-11-03 14:35:00",
-      "author": "上海有色金属网",
-      "summary": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "macro"
       ],
       "sentiment": 0
     },
@@ -104192,6 +104227,20 @@
       "sentiment": 0
     },
     {
+      "id": "3659279567",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
+      "pubDate": "2026-11-02 08:00:00",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
+      "lang": "en",
+      "source": "CME Group",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "4227784735",
       "title": "碳酸锂主力合约日内涨幅达2.00% - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGb3NJR1F4R0tIaDl2LUt0M1FKOHJXQWNKcHFmVjdnZWZMalJybGR2di12SHM2RWFNLXo5QjJVQlVuOWNfLWhUbDdURFJxQTZzOEdvT3BkMjd1Ym5EbUtSMA?oc=5",
@@ -104206,14 +104255,14 @@
       "sentiment": 0
     },
     {
-      "id": "857535697",
-      "title": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 - 中国金融信息网",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PSFAtMW90dDA0WEp1OERadHZRMHJDS09IcWdUeW0zbTZkWHduUXRWelVjWVhjbzRiVE9pOVdFXzdLeW93UkdOZkhWZUQ4U3d0Qzk2MllHXzRBUFpEcFhwWG5RSE44dzA?oc=5",
-      "pubDate": "2026-10-29 10:00:00",
-      "author": "中国金融信息网",
-      "summary": "商品日报（10月29日）：碳酸锂破位大跌超8% 沥青连涨五日 中国金融信息网",
+      "id": "196061275",
+      "title": "甲醇涨停、碳酸锂新低：本周商品市场为何如此分化？｜期市头条 - 第一财经",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01YWo1anZpX0U2MkdJRG8zeWZuM25JYW5jUkZ4bG5aWXc1Qkx0cm1OZjRpRFhNWnNzT3hnR3UyRjdvMXRYVVN3WndtYXl0TTZhSlRweA?oc=5",
+      "pubDate": "2026-10-30 04:31:37",
+      "author": "第一财经",
+      "summary": "甲醇涨停、碳酸锂新低：本周商品市场为何如此分化？｜期市头条 第一财经",
       "lang": "zh",
-      "source": "中国金融信息网",
+      "source": "第一财经",
       "categories": [
         "demand"
       ],
@@ -104228,20 +104277,6 @@
       "summary": "如何看待碳酸锂市场波动？ 人民日报",
       "lang": "zh",
       "source": "人民日报",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3354031241",
-      "title": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标-钛媒体官方网站 - TMTPost",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE93M05Gd1hKUzdVRjVrYnYwQk84amx4Nm9TVk92S01Rc2N3a1M1dnBUSVBWVGJwY1BNS1pCV1F4SnFlTm1MVlBBNjVlQU0?oc=5",
-      "pubDate": "2026-10-13 07:00:00",
-      "author": "TMTPost",
-      "summary": "提前交易悲观预期，碳酸锂期货逼近10万元/吨 | 行业风向标-钛媒体官方网站 TMTPost",
-      "lang": "zh",
-      "source": "TMTPost",
       "categories": [
         "demand"
       ],
