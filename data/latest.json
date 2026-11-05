@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T18:10:00.470Z",
+  "generatedAt": "2026-11-05T23:45:46.821Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2324,32 +2324,11 @@
         "volume": 524215
       },
       {
-        "contract": "lc2705",
-        "name": "碳酸锂2705",
-        "price": 91020,
-        "changePct": 5.08,
-        "volume": 100019
-      },
-      {
         "contract": "lc2612",
         "name": "碳酸锂2612",
         "price": 92820,
         "changePct": 2.45,
         "volume": 30096
-      },
-      {
-        "contract": "lc2703",
-        "name": "碳酸锂2703",
-        "price": 90360,
-        "changePct": 5.27,
-        "volume": 4171
-      },
-      {
-        "contract": "lc2704",
-        "name": "碳酸锂2704",
-        "price": 91360,
-        "changePct": 6.21,
-        "volume": 1385
       },
       {
         "contract": "lc2702",
@@ -52226,10 +52205,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 96.66,
-      "changePct": 1.78,
-      "volume": 2755071,
-      "amount": 272150416,
+      "price": 98.37,
+      "changePct": 3.58,
+      "volume": 4520390,
+      "amount": 444785504,
       "klines": [
         {
           "d": "2024-01-02",
@@ -60801,15 +60780,15 @@
         },
         {
           "d": "2026-11-05",
-          "o": 99.96,
-          "c": 96.66,
+          "o": 99.56,
+          "c": 98.37,
           "h": 102.28,
-          "l": 96.15,
-          "v": 2755071,
-          "amount": 272150416,
-          "amp": 6.45,
-          "chg": 1.78,
-          "delta": 1.69
+          "l": 95.62,
+          "v": 4520390,
+          "amount": 444785504,
+          "amp": 7.01,
+          "chg": 3.58,
+          "delta": 3.4
         }
       ]
     },
@@ -60819,10 +60798,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 56.29,
-      "changePct": -2.21,
-      "volume": 436759,
-      "amount": 25116424,
+      "price": 56.36,
+      "changePct": -2.08,
+      "volume": 798061,
+      "amount": 45462815,
       "klines": [
         {
           "d": "2024-01-02",
@@ -69394,15 +69373,15 @@
         },
         {
           "d": "2026-11-05",
-          "o": 59.555,
-          "c": 56.29,
-          "h": 59.555,
-          "l": 56,
-          "v": 436759,
-          "amount": 25116424,
-          "amp": 6.18,
-          "chg": -2.21,
-          "delta": -1.27
+          "o": 59.38,
+          "c": 56.36,
+          "h": 59.57,
+          "l": 55.875,
+          "v": 798061,
+          "amount": 45462815,
+          "amp": 6.42,
+          "chg": -2.08,
+          "delta": -1.2
         }
       ]
     }
@@ -69413,9 +69392,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 24406.37,
-      "changePct": -5.17,
-      "volume": 6487349760,
+      "price": 24315,
+      "changePct": -5.52,
+      "volume": 10902980864,
       "amount": 0,
       "klines": [
         {
@@ -77989,14 +77968,14 @@
         {
           "d": "2026-11-05",
           "o": 25558.11,
-          "c": 24406.37,
+          "c": 24315,
           "h": 25559.03,
           "l": 24262.14,
-          "v": 6487349760,
+          "v": 10902980864,
           "amount": 0,
           "amp": 5.04,
-          "chg": -5.17,
-          "delta": -1330.14
+          "chg": -5.52,
+          "delta": -1421.51
         }
       ]
     },
@@ -78005,9 +77984,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 90.28,
-      "changePct": 2.45,
-      "volume": 239241,
+      "price": 91.38,
+      "changePct": 0.95,
+      "volume": 1764,
       "amount": 0,
       "klines": [
         {
@@ -86833,14 +86812,26 @@
         {
           "d": "2026-11-05",
           "o": 88.05,
-          "c": 90.28,
-          "h": 90.99,
+          "c": 91.2,
+          "h": 91.32,
           "l": 86.65,
-          "v": 239240,
+          "v": 308350,
           "amount": 0,
-          "amp": 4.93,
-          "chg": 2.45,
-          "delta": 2.16
+          "amp": 5.3,
+          "chg": 3.5,
+          "delta": 3.08
+        },
+        {
+          "d": "2026-11-06",
+          "o": 91.2,
+          "c": 91.38,
+          "h": 91.5,
+          "l": 90.95,
+          "v": 1764,
+          "amount": 0,
+          "amp": 0.61,
+          "chg": 0.95,
+          "delta": 0.86
         }
       ]
     },
@@ -86849,8 +86840,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.41,
-      "changePct": -0.12,
+      "price": 101.51,
+      "changePct": -0.08,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -95773,14 +95764,26 @@
         {
           "d": "2026-11-05",
           "o": 101.53,
-          "c": 101.41,
+          "c": 101.59,
           "h": 101.71,
           "l": 101.19,
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.12,
-          "delta": -0.12
+          "chg": 0.06,
+          "delta": 0.06
+        },
+        {
+          "d": "2026-11-06",
+          "o": 101.59,
+          "c": 101.51,
+          "h": 101.62,
+          "l": 101.47,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.15,
+          "chg": -0.08,
+          "delta": -0.08
         }
       ]
     },
@@ -104043,16 +104046,73 @@
   ],
   "news": [
     {
-      "id": "273966115",
-      "title": "港股异动| 碳酸锂强势反弹突破9.3万赣锋锂业(01772)涨超9% 天齐锂业(09696)涨超5%_股市直播_市场 - 中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdzM4VGRmSWhNWV9YX3NQQ1hHVWJqZEtiZTdXNDVqczdIZkVNRWZlai1NdnJ2Z3BsVUZpN1RqUUJMSVRHRmJxeEtmSXVHbEtXc3RyY3k3dWYzdXVhVmJXVVdUYU13SVI1QlU1Qw?oc=5",
-      "pubDate": "2026-11-05 06:03:24",
+      "id": "1077855216",
+      "title": "碳酸锂市场价格评估日度报告（20261105）_期市动态 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GRmEyS3Bta0RxaGZpT18zTnc4d0ZZWUtFWDBNM2NlOTA1VXJmS0ZWNndiZS1RWU9JWGw1SzBVTWhCOWM2dGZucENGWTBaMkJESmFKQjJTNl9URWtfZGpjeDlDQjBvU1kyTkVnRVBn?oc=5",
+      "pubDate": "2026-11-05 13:52:07",
       "author": "中金在线",
-      "summary": "港股异动| 碳酸锂强势反弹突破9.3万赣锋锂业(01772)涨超9% 天齐锂业(09696)涨超5%_股市直播_市场 中金在线",
+      "summary": "碳酸锂市场价格评估日度报告（20261105）_期市动态 中金在线",
       "lang": "zh",
       "source": "中金在线",
       "categories": [
-        "macro"
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1080805872",
+      "title": "【持仓分析】碳酸锂前20期商净空头持仓上升 - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kVHhMYUVUZWNyRE9VUmVrazBpMFRWa29ydTJEeWN4SHMwdUcwTnh4RlZ2akZWZWRZVTREYTJtVUh6VXJfVGc3SklwMlFpSk9rX2g1RFRrU2pPLTUzbGRWWA?oc=5",
+      "pubDate": "2026-11-05 11:58:51",
+      "author": "同花顺财经",
+      "summary": "【持仓分析】碳酸锂前20期商净空头持仓上升 同花顺财经",
+      "lang": "zh",
+      "source": "同花顺财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "112286251",
+      "title": "LibertyStream Announces Lithium Carbonate Sales Contract with International Battery Material Maker Covering 2027–2031 Supply - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQcnc2Qk9QamtIS0J6eXNqNFJIWjhvQzZFSko1UGhSVHg2OTVqOGZDd2xBUHREVk9VR2VFdlFPZWljOGRZcy1SSWs3Q1hubWxBZk85cHNJTUE3Z3cwQWxQS0x4S2RJaURTWk1wT0o2cXRYcjY0Zmk2RFJ0aDBJZl9VU3dWR2NNSnRZaHRzbkVpYmVPSzdlclpnQ3BvWHROaEVaeWR0X25ESjY1blBKMXExeGZpeHM4RWFfNGhEN2RSd1IwVGpNVzc0ZUVtcGVFRUhqUjJiTTRYNFNjMDQtMjhJbjViTEtBcFFUTTg3dFVrYm9TWWpzUGFxMjVVdjF1T01zcUF4eWNuME12bjBjMnpFd1NxcW45Si1uT1laSEVqbjJ3RzQxZHNGak1UMlNUNXBCMzI1ZkFwWQ?oc=5",
+      "pubDate": "2026-11-05 11:54:07",
+      "author": "The Globe and Mail",
+      "summary": "LibertyStream Announces Lithium Carbonate Sales Contract with International Battery Material Maker Covering 2027–2031 Supply The Globe and Mail",
+      "lang": "en",
+      "source": "The Globe and Mail",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1627945465",
+      "title": "Li-FT Power Ltd. (TSXV:LIFT) Eases as Renard Option Costs, a Fresh Share Offering and Lithium Price Doubts Temper Enthusiasm for Yellowknife - kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNFhab21zbVlzWkd6dmJYUGZmQmlmREdqMWxtWkNtckZqaFJIUm5JampNdVBNYWsyMFBkTHp2UWRGT2hpRW1WcnJjSFlIbWs2cnlINDUyYjdfOVhZanRWTzA2WVZoUlA1MEt4TDBESjBreFBNc1pTLWltbEtfd0QtVGZlWDhyOERudGdKOXBlSnptVnNVRTlyWkd0WlI2bmFuZVF0RWZlMmd2d1RqcXdNWGYxQmNzWTZGTlI4dm5Kei0xcWw4b25QLW1ESDh0UmdSb085MnJGYVB3ZGMxLXh1Nzh1YWp0ZGduM1BvS042dWtWOHhBWENJNC1n?oc=5",
+      "pubDate": "2026-11-05 11:35:00",
+      "author": "kalkine.ca",
+      "summary": "Li-FT Power Ltd. (TSXV:LIFT) Eases as Renard Option Costs, a Fresh Share Offering and Lithium Price Doubts Temper Enthusiasm for Yellowknife kalkine.ca",
+      "lang": "en",
+      "source": "kalkine.ca",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "799100418",
+      "title": "碳酸锂连续主力合约日内涨6%，现报93680.00元。 - 新浪网",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56eUhwRkRQcWY2NUlKT2lhMVFvZHllaFBqN1NPd1ZvbUVIQjU5ekMzZG8tbV95YWlpSEdKWWlxc0huVUhESW11QnBYTQ?oc=5",
+      "pubDate": "2026-11-05 03:25:42",
+      "author": "新浪网",
+      "summary": "碳酸锂连续主力合约日内涨6%，现报93680.00元。 新浪网",
+      "lang": "zh",
+      "source": "新浪网",
+      "categories": [
+        "demand"
       ],
       "sentiment": 0
     },
@@ -104081,20 +104141,6 @@
       "source": "上海有色金属网",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2763954477",
-      "title": "布伦特原油破115美元，碳酸锂跌破9万 - 汽车之家",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpX2U0OXl5Vk5ZWUxsVjMxVDlPT1NkVmo2Z3duZlhpeVluMVUxUkRxYUwxRjNPNnBPY1ZxbklJaU1BaUc1NjJrMnN6bnJQNVlMZHZ4TVJVMms5Vkk?oc=5",
-      "pubDate": "2026-11-04 02:59:05",
-      "author": "汽车之家",
-      "summary": "布伦特原油破115美元，碳酸锂跌破9万 汽车之家",
-      "lang": "zh",
-      "source": "汽车之家",
-      "categories": [
-        "macro"
       ],
       "sentiment": 0
     },
@@ -104140,6 +104186,20 @@
         "demand"
       ],
       "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "3743829959",
+      "title": "宜春国轩矿业水南锂矿环评获受理 年采180万吨 - ChemNet News",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lMG5NQU5fZENJTXo1S1psVi1GWDUwYUMtbHRMeDVJZHdOdzA5d0RrdHNSVEUyVFJMLUZseTlfUzRMU1RZbVZEalA5M0lkTV9ZdE55VkR6c2RDa05wZmRv?oc=5",
+      "pubDate": "2026-11-03 01:21:31",
+      "author": "ChemNet News",
+      "summary": "宜春国轩矿业水南锂矿环评获受理 年采180万吨 ChemNet News",
+      "lang": "zh",
+      "source": "ChemNet News",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "1769007150",
@@ -104255,72 +104315,14 @@
       "sentiment": 0
     },
     {
-      "id": "196061275",
-      "title": "甲醇涨停、碳酸锂新低：本周商品市场为何如此分化？｜期市头条 - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01YWo1anZpX0U2MkdJRG8zeWZuM25JYW5jUkZ4bG5aWXc1Qkx0cm1OZjRpRFhNWnNzT3hnR3UyRjdvMXRYVVN3WndtYXl0TTZhSlRweA?oc=5",
-      "pubDate": "2026-10-30 04:31:37",
-      "author": "第一财经",
-      "summary": "甲醇涨停、碳酸锂新低：本周商品市场为何如此分化？｜期市头条 第一财经",
-      "lang": "zh",
-      "source": "第一财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "454759355",
-      "title": "如何看待碳酸锂市场波动？ - 人民日报",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHVvUFp6UFRNNnpVS2ZuZlY5SmlGX0lFVzNwZzgxNVZmYUw5eXNLLWlWa3NESGNHZWNFRE85aHRPZlA2VFY5QUNTdkd5LU9hQlhWY0gzX254Ri1mSkFnOVN6ZEM1bURSWGU3eTRtY1hraGxUOURZRGp5TFVNTUNiOQ?oc=5",
-      "pubDate": "2026-10-26 07:00:00",
-      "author": "人民日报",
-      "summary": "如何看待碳酸锂市场波动？ 人民日报",
-      "lang": "zh",
-      "source": "人民日报",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3727937909",
-      "title": "Future water constraints on United States lithium mining under climate change | Communications Earth &amp; Environment - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eHlZN2Nqd29DNm15ZHdBX1RqTmd3Q0Z4cnl4U3J0RW93QmFoUzVwMFIxVC16NzlZNEFKWkJYdmljRHpYX1p2Q21DSi1Kd3Rub3dSTHRPaV9PNHZNS2ZN?oc=5",
-      "pubDate": "2026-05-28 07:00:00",
-      "author": "Nature",
-      "summary": "Future water constraints on United States lithium mining under climate change | Communications Earth & Environment Nature",
+      "id": "3454515664",
+      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
+      "pubDate": "2026-09-15 15:14:30",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
       "lang": "en",
-      "source": "Nature",
-      "categories": [
-        "environment",
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2537053242",
-      "title": "Water scarcity could undercut U.S. lithium mining - Northwestern Now News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3dGXzZFd0hKRjJnZFJTV3NwMFJVbmU4bV92Z2doWDgxUnBXWHFSTzBOTmdkWkk1RlJ1dE5La3hnaGZYMzBGa0JSMFBFUXpyMzhaTG90aGNzZjg3aXdfdmNzd2xyNVpKZVMyNnJnUXJnQzcxWW1vRVRrZ0NXV3Y5eWlBSmZiUlp3ZVFKM09oelRnV1AxNzVOQi1R?oc=5",
-      "pubDate": "2026-05-28 07:00:00",
-      "author": "Northwestern Now News",
-      "summary": "Water scarcity could undercut U.S. lithium mining Northwestern Now News",
-      "lang": "en",
-      "source": "Northwestern Now News",
-      "categories": [
-        "environment",
-        "supply"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
-      "id": "3847838595",
-      "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
-      "pubDate": "2026-05-12 07:00:00",
-      "author": "Amnesty International",
-      "summary": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples Amnesty International",
-      "lang": "en",
-      "source": "Amnesty International",
+      "source": "International Institute for Sustainable Development",
       "categories": [
         "supply",
         "demand"
@@ -104372,8 +104374,8 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
