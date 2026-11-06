@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:49:51.783Z",
+  "generatedAt": "2026-11-06T23:55:58.619Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -52310,10 +52310,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 99.22,
-      "changePct": 0.86,
-      "volume": 1391344,
-      "amount": 137808107,
+      "price": 99.25,
+      "changePct": 0.89,
+      "volume": 2444881,
+      "amount": 242396303,
       "klines": [
         {
           "d": "2024-01-02",
@@ -60897,15 +60897,15 @@
         },
         {
           "d": "2026-11-06",
-          "o": 98.27,
-          "c": 99.22,
+          "o": 99,
+          "c": 99.25,
           "h": 101.02,
           "l": 96.145,
-          "v": 1391344,
-          "amount": 137808107,
+          "v": 2444881,
+          "amount": 242396303,
           "amp": 4.96,
-          "chg": 0.86,
-          "delta": 0.85
+          "chg": 0.89,
+          "delta": 0.88
         }
       ]
     },
@@ -60915,10 +60915,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 57.51,
-      "changePct": 2.04,
-      "volume": 471804,
-      "amount": 27279715,
+      "price": 57.52,
+      "changePct": 2.06,
+      "volume": 722869,
+      "amount": 41674695,
       "klines": [
         {
           "d": "2024-01-02",
@@ -69503,14 +69503,14 @@
         {
           "d": "2026-11-06",
           "o": 57.46,
-          "c": 57.51,
-          "h": 58.23,
-          "l": 57.165,
-          "v": 471804,
-          "amount": 27279715,
-          "amp": 1.89,
-          "chg": 2.04,
-          "delta": 1.15
+          "c": 57.52,
+          "h": 58.24,
+          "l": 57.14,
+          "v": 722869,
+          "amount": 41674695,
+          "amp": 1.95,
+          "chg": 2.06,
+          "delta": 1.16
         }
       ]
     }
@@ -69521,9 +69521,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 24656.31,
-      "changePct": 1.4,
-      "volume": 6892222720,
+      "price": 24579.42,
+      "changePct": 1.09,
+      "volume": 9385738496,
       "amount": 0,
       "klines": [
         {
@@ -78109,14 +78109,14 @@
         {
           "d": "2026-11-06",
           "o": 24602.48,
-          "c": 24656.29,
+          "c": 24579.42,
           "h": 24825.55,
           "l": 24507.63,
-          "v": 6892222720,
+          "v": 9385738496,
           "amount": 0,
           "amp": 1.31,
-          "chg": 1.4,
-          "delta": 341.29
+          "chg": 1.09,
+          "delta": 264.42
         }
       ]
     },
@@ -78125,9 +78125,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 91,
-      "changePct": 0.53,
-      "volume": 238625,
+      "price": 90.34,
+      "changePct": -0.2,
+      "volume": 253859,
       "amount": 0,
       "klines": [
         {
@@ -86965,14 +86965,14 @@
         {
           "d": "2026-11-06",
           "o": 91.2,
-          "c": 91,
+          "c": 90.34,
           "h": 92.53,
           "l": 89.07,
-          "v": 238624,
+          "v": 253859,
           "amount": 0,
           "amp": 3.82,
-          "chg": 0.53,
-          "delta": 0.48
+          "chg": -0.2,
+          "delta": -0.18
         }
       ]
     },
@@ -90709,14 +90709,14 @@
         {
           "d": "2025-03-10",
           "o": 103.9,
-          "c": 103.95,
+          "c": 103.93,
           "h": 104.07,
           "l": 103.56,
           "v": 0,
           "amount": 0,
           "amp": 0.49,
-          "chg": 0.06,
-          "delta": 0.06
+          "chg": 0.04,
+          "delta": 0.04
         },
         {
           "d": "2025-03-11",
@@ -90727,8 +90727,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.72,
-          "chg": -0.53,
-          "delta": -0.55
+          "chg": -0.51,
+          "delta": -0.53
         },
         {
           "d": "2025-03-12",
@@ -104199,9 +104199,37 @@
   ],
   "news": [
     {
-      "id": "2373065286",
+      "id": "18580688",
+      "title": "广期所氢氧化锂期货和期权注册获批 - 中国新闻网",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d1VUTWpscVVtdWR2UTVtMngtYy1XNGU0RDJZZkRmNWxNSVRTV051QVpLQkxKSS15a3Jxb2RsUmRYOVgyMWNGR0hjTExsbDUxMlludjZCVXhrWGNtZVA1SmlNbzJWM01x?oc=5",
+      "pubDate": "2026-11-06 13:25:50",
+      "author": "中国新闻网",
+      "summary": "广期所氢氧化锂期货和期权注册获批 中国新闻网",
+      "lang": "zh",
+      "source": "中国新闻网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4228061430",
+      "title": "关于持续开展做市商常态化遴选的公告 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjNWTjBFejNDV1FhOTMyWXR2ZGpDV0U1TEdqengyckJIdzBFblk3SHdTZGFhTWo4YUxCTVpTb21nMzVlRWg2dllUcEN6N2t2ZmZyM2xlMDktT29vYnRSdEduUHZJZVpoS2R6b1FBa1RfNGgwM0ptYllURzR4MWFsd192R282X2pFam9yQzFUcw?oc=5",
+      "pubDate": "2026-11-06 12:58:00",
+      "author": "21财经",
+      "summary": "关于持续开展做市商常态化遴选的公告 21财经",
+      "lang": "zh",
+      "source": "21财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "159591890",
       "title": "证监会同意广期所氢氧化锂期货和期权注册 - zqrb.cn",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zQmkzRTdSSE1VZW1YbVdBTmNpWFE3VHBXalhDdVlZUElGWjd0YjJKdldsOUxYcXhSbXNIX2pGNUZra2VYcVhOcEdfX25scllHbVpuTE9MY0hIZk92Sl93eFF2V0VJcXdWb08yNDFoRVJUdjlu?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80U3h5bUU2dlE2Z0JzcTNxS2dXd0xfeFVFTzk4R1Q4ZkpXRVp5aU5wMUdVYlpqS2tJQTVhUTl1eVJWUjdmcGFGVlVTRGVGbndULUEyTjZSMU5wZURFV3QyM1M3V1pVNVhpcTF0bV9zazdzdUg1bUlB?oc=5",
       "pubDate": "2026-11-06 11:43:00",
       "author": "zqrb.cn",
       "summary": "证监会同意广期所氢氧化锂期货和期权注册 zqrb.cn",
@@ -104221,6 +104249,20 @@
       "summary": "广期所发布氢氧化锂期货和氢氧化锂期权合约及相关规则 Jiemian.com",
       "lang": "zh",
       "source": "Jiemian.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1864318282",
+      "title": "碳酸锂之后，氢氧化锂也要“上期货”了 - 新京报",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TamlzT19ocXhHcGZ5dzdUNEJKSUNhcFlSTV91TG9rSFZMUkhjNldZZDZiMnZIT09ZTklWLXVVdTBFbVlCRkpRQXBKLXIwdkpodzFUcTNZR2RUa1Vzc09yUUQtRzU?oc=5",
+      "pubDate": "2026-11-06 10:27:00",
+      "author": "新京报",
+      "summary": "碳酸锂之后，氢氧化锂也要“上期货”了 新京报",
+      "lang": "zh",
+      "source": "新京报",
       "categories": [
         "demand"
       ],
@@ -104265,20 +104307,6 @@
       "source": "Mining.com.au",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2415402795",
-      "title": "营收翻倍增长仍单季亏损，万润新能遭遇碳酸锂“价跌和套保”双杀 - 手机新浪网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RWmp1ZFUyRFU2dHV1eUJrd3RHWWYybndrbVZtVU1tQzFDb2JSVXBoZHllNjA0aUdQN1NyLWw3ZWxWUFo4dTFzc3o4WDdBRlBrZEN1b0IyNlQ4bVc1akc5ajBRYU54UVY1VE16cEZJWjNLdw?oc=5",
-      "pubDate": "2026-11-06 04:09:00",
-      "author": "手机新浪网",
-      "summary": "营收翻倍增长仍单季亏损，万润新能遭遇碳酸锂“价跌和套保”双杀 手机新浪网",
-      "lang": "zh",
-      "source": "手机新浪网",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -104340,46 +104368,18 @@
       "sentiment": 0
     },
     {
-      "id": "1225573351",
-      "title": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wOV81VE5pNzdaNzZwdjRmSTlTX19HMHU5QTgtLVBKNDZaMUpsTXZlLUJhQXhrVWhRR3RaTmNoV2N4ZWxmWXdkckJ3?oc=5",
-      "pubDate": "2026-11-04 14:35:00",
-      "author": "上海有色金属网",
-      "summary": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3743829959",
-      "title": "宜春国轩矿业水南锂矿环评获受理 年采180万吨 - ChemNet News",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lMG5NQU5fZENJTXo1S1psVi1GWDUwYUMtbHRMeDVJZHdOdzA5d0RrdHNSVEUyVFJMLUZseTlfUzRMU1RZbVZEalA5M0lkTV9ZdE55VkR6c2RDa05wZmRv?oc=5",
-      "pubDate": "2026-11-03 01:21:31",
-      "author": "ChemNet News",
-      "summary": "宜春国轩矿业水南锂矿环评获受理 年采180万吨 ChemNet News",
-      "lang": "zh",
-      "source": "ChemNet News",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "235897157",
-      "title": "Citi Cuts Lithium Price Targets Amid Battery Demand Concerns; AL - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFRNbW04V0k5dDhWWjRYNXJVUlhqdHNTN1RsUWpsWEw0UGgzSnVDeUFCNmRqM3ZvajU3MFU2WjU4T00tUzBlRjh1a1hvVHVZRmxlZ0dYZ01heHhaZ0ZEd2sxM2VTdmowbHVUeEtTc185MmdzTEFMNHJQVlpxWVREdW9HY0pOM1VRaE1EZGdhbUZicDRJMkgyTzlRREJWRmtXbWd1QWlhRzIzXzVlWXJTMV9jdVdzeFpZZzlIaUk3Qi1rZVZkenFz?oc=5",
-      "pubDate": "2026-11-02 21:23:15",
-      "author": "GuruFocus",
-      "summary": "Citi Cuts Lithium Price Targets Amid Battery Demand Concerns; AL GuruFocus",
+      "id": "1441569328",
+      "title": "Ganfeng Lithium (01772) Surges Over 9%, Tianqi Lithium (09696) Rises Over 5% - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjUtV2g1MDZ5NWJFc0QyS3dJOWh2SkpiZHo0SDhaaXdJal9oWUwzU21yTmR5YXJjVXM0dENzZFRNcl90Z3NZenlCc3F1SklJdW0wVlh1eUZScnNRSjhlNF9NbDV2NVNYQldFcmpYZkdLWWd4ZFFjNXNjUXhKTmxHVDVGQ1F1WE5KMTdjdTJJcTZQWVpGWHBwRS1QNWRBT0stOGNDRkMwbmFKNktBY2cwbXhpVQ?oc=5",
+      "pubDate": "2026-11-05 03:56:26",
+      "author": "富途牛牛",
+      "summary": "Ganfeng Lithium (01772) Surges Over 9%, Tianqi Lithium (09696) Rises Over 5% 富途牛牛",
       "lang": "en",
-      "source": "GuruFocus",
+      "source": "富途牛牛",
       "categories": [
         "demand"
       ],
-      "sentiment": 0.3333333333333333
+      "sentiment": 0
     },
     {
       "id": "1870303084",
@@ -104395,34 +104395,6 @@
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "3472047152",
-      "title": "Citi Slashes Lithium Price Forecasts While Miners Press Ahead With Major Expansions - NAI500",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakFxNnA4cWxPRmZLcGZINURkVUZscU9WdTh4ZVhDUFcxZE9tQUFqOUhxRHNnNW4tM1Jrd0xSSGk1Z0FnRl9rdzZoellKQ0paejJhYjV4RXZJY0RuUTBmM2E4ZkhzaGVYem9fUHlHa3Vzc194dDY0ZzkxZHpuSmtxVkRHRXJLUHFta0pQZmo3WVk3UGE5bEM5ZUZaemRJNW82M3lwX1RyWkJ6SGdtNnZKYWtlQk1wMzA?oc=5",
-      "pubDate": "2026-11-02 13:00:08",
-      "author": "NAI500",
-      "summary": "Citi Slashes Lithium Price Forecasts While Miners Press Ahead With Major Expansions NAI500",
-      "lang": "en",
-      "source": "NAI500",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "463771927",
-      "title": "Citi cuts lithium price outlook on weaker demand - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORGRSeXh6SXF2WFNzY0FRdXlIN2l1cm42N0lEenRIX041dTNpbmhYdndhcjdWcC1iSW45Z3hoZ0pzcnNhTUJhWGpoLU9CVHZKckRjdzdSbzU1OXRTRmJDTFlBcXVWbVR4SUVQMG1SZ1R1U3lJV2UxYVlXTXdubTJZcHFlOEt2RWJzNEFOY1hyQXdLUnFWbjZTUWxTb3QxWFdDRHREaDJRci1UWC1fYkRvbQ?oc=5",
-      "pubDate": "2026-11-02 11:06:14",
-      "author": "TradingView",
-      "summary": "Citi cuts lithium price outlook on weaker demand TradingView",
-      "lang": "en",
-      "source": "TradingView",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0.3333333333333333
     },
     {
       "id": "3659279567",
@@ -104453,6 +104425,21 @@
       "sentiment": 0
     },
     {
+      "id": "3454515664",
+      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
+      "pubDate": "2026-09-15 15:14:30",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
+      "lang": "en",
+      "source": "International Institute for Sustainable Development",
+      "categories": [
+        "supply",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3727937909",
       "title": "Future water constraints on United States lithium mining under climate change | Communications Earth &amp; Environment - Nature",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82eHlZN2Nqd29DNm15ZHdBX1RqTmd3Q0Z4cnl4U3J0RW93QmFoUzVwMFIxVC16NzlZNEFKWkJYdmljRHpYX1p2Q21DSi1Kd3Rub3dSTHRPaV9PNHZNS2ZN?oc=5",
@@ -104466,6 +104453,21 @@
         "supply"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "2537053242",
+      "title": "Water scarcity could undercut U.S. lithium mining - Northwestern Now News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3dGXzZFd0hKRjJnZFJTV3NwMFJVbmU4bV92Z2doWDgxUnBXWHFSTzBOTmdkWkk1RlJ1dE5La3hnaGZYMzBGa0JSMFBFUXpyMzhaTG90aGNzZjg3aXdfdmNzd2xyNVpKZVMyNnJnUXJnQzcxWW1vRVRrZ0NXV3Y5eWlBSmZiUlp3ZVFKM09oelRnV1AxNzVOQi1R?oc=5",
+      "pubDate": "2026-05-28 07:00:00",
+      "author": "Northwestern Now News",
+      "summary": "Water scarcity could undercut U.S. lithium mining Northwestern Now News",
+      "lang": "en",
+      "source": "Northwestern Now News",
+      "categories": [
+        "environment",
+        "supply"
+      ],
+      "sentiment": 0.3333333333333333
     },
     {
       "id": "3847838595",
