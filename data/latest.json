@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:40:46.938Z",
+  "generatedAt": "2026-11-07T11:27:50.684Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -104199,6 +104199,20 @@
   ],
   "news": [
     {
+      "id": "3746680281",
+      "title": "盐湖股份11月6日回应碳酸锂话题：现锂盐年总产能约9.8万吨，重大事项以公告为准_公司新闻 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyRlM3R3ZqMHdfTzJjT2IyNW9YNkRCSUFDQ2otNlRCUXlrVVRhSy1rdFpkWjdBZzVvaGk1QTh6dDRXRVltYW0wejB2Z1JoUU8xQ29iWXplV2RvU293dWhhNXlB?oc=5",
+      "pubDate": "2026-11-07 00:08:55",
+      "author": "证券之星",
+      "summary": "盐湖股份11月6日回应碳酸锂话题：现锂盐年总产能约9.8万吨，重大事项以公告为准_公司新闻 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "18580688",
       "title": "广期所氢氧化锂期货和期权注册获批 - 中国新闻网",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d1VUTWpscVVtdWR2UTVtMngtYy1XNGU0RDJZZkRmNWxNSVRTV051QVpLQkxKSS15a3Jxb2RsUmRYOVgyMWNGR0hjTExsbDUxMlludjZCVXhrWGNtZVA1SmlNbzJWM01x?oc=5",
@@ -104255,48 +104269,6 @@
       "sentiment": 0
     },
     {
-      "id": "1864318282",
-      "title": "碳酸锂之后，氢氧化锂也要“上期货”了 - 新京报",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TamlzT19ocXhHcGZ5dzdUNEJKSUNhcFlSTV91TG9rSFZMUkhjNldZZDZiMnZIT09ZTklWLXVVdTBFbVlCRkpRQXBKLXIwdkpodzFUcTNZR2RUa1Vzc09yUUQtRzU?oc=5",
-      "pubDate": "2026-11-06 10:27:00",
-      "author": "新京报",
-      "summary": "碳酸锂之后，氢氧化锂也要“上期货”了 新京报",
-      "lang": "zh",
-      "source": "新京报",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1667958750",
-      "title": "南方财经全媒体集团 - 南方财经",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tNUtTSGc4M0MyTVFLUk5yMUYwaEJSSXNLc0dFdlJHUTVnSnVEVGEzOXlmM2Z3QWdoOU5fNkQyYlZyY2xXVlVzV21OM2V1T1pkWkFmck80TWRXLTEzSzlGUWJPQ2ZRQQ?oc=5",
-      "pubDate": "2026-11-06 08:34:40",
-      "author": "南方财经",
-      "summary": "南方财经全媒体集团 南方财经",
-      "lang": "zh",
-      "source": "南方财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2514886589",
-      "title": "Lithium, Mining Services and Copper on ASX Today: MinRes, PLS and Sandfire Shares Decline - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2xOZndpTWJZbWUzS3ZQMXlNdUhkWXEwWFVTaFhkRnBwZVZDNnUxX0pVLWFpdi1Qb18tT0Q0MmpIR1lJSGZxYTlyS1pWQThic2hiWWVuamkweHlwRnVYTWtkcXBNNFlxZ1gxRWRJMjFXOHJyb2hwNVllV1E2ajR0S05UY01iUkFwU2VpWmtXT0FISWo0VUlkSzdEYm5ScnlJZ1U4VjRESmhCUDlhX2l2VjNFeDBHT3dVUC1yOEpR?oc=5",
-      "pubDate": "2026-11-06 06:54:00",
-      "author": "Kalkine",
-      "summary": "Lithium, Mining Services and Copper on ASX Today: MinRes, PLS and Sandfire Shares Decline Kalkine",
-      "lang": "en",
-      "source": "Kalkine",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2314564549",
       "title": "LibertyStream to supply US-origin lithium carbonate in 2027 - Mining.com.au",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVHdBZDd5bzRRS0E2U1NWUnRtdEtjdHFjb2FHMm4yams0eXdhZWlGREZoZVdoX2hySzhzMGJpNl9EQ2wyQXljbDZCUVpYemZJZFpxRjlEeGR3elpGZmpVRE94emJWQWl4MFlQUm1iT0JJTEwxRDNfcVM3Q0xyaWNYcGtMRXd5TWdoelE?oc=5",
@@ -104311,30 +104283,15 @@
       "sentiment": 0
     },
     {
-      "id": "329089772",
-      "title": "A股异动丨碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WVUI3endKZGotTTdpemtNdnR4WW9pZUt4QmpycUdoWERyN291Yzd6bURjUXJ5RE5scHZLMGNHbjIwYlh5NFZubzVMM2JybU9GMjFhNjRjVXh4V0k0MUNYNExCUExsWF9ZY1k5eGRoeXVvVmpU?oc=5",
-      "pubDate": "2026-11-06 02:07:59",
-      "author": "金融界",
-      "summary": "A股异动丨碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 金融界",
+      "id": "1968796056",
+      "title": "碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjg1eWIyanhMeEdBVTQ1WlM1a0YyTVVGdXBtNHpDalB6amJoV1ZjY25ybklyN09Zb29WcWJ5Y0hNSC1lWFU0eE5sVi1mVHZ5VUpCdHRyaXV6X2xfRERQWFY1b2VLR1JxZDJZRC1PZXVPVi1oNFZFMWNtRHVfSUZ0ZjJsamZseE9IdzA1Xw?oc=5",
+      "pubDate": "2026-11-06 02:20:00",
+      "author": "搜狐网",
+      "summary": "碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 搜狐网",
       "lang": "zh",
-      "source": "金融界",
+      "source": "搜狐网",
       "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2440148852",
-      "title": "LibertyStream Announces Lithium Carbonate Sales Contract with International Battery Material Maker Covering 2027–2031 Supply - Batteries News",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON181OV8zc1hsTkZiRTloYWhDd3BZV2JtN0d1c1BlWl85MlBNQnN2eVZVTmg2N1V3Ml91MzE2akZZOHZkOEVSUWNkQkRVSGxtYzRfYUcteU42TWN0X2t6Qy1VdFhNdENUc0MzOUNnYVR6cmlZRkZyaWM5U28tVExxbzJBWlNCeUNqUWVBcVhCWjFRVEtYczRIWmhyUVBrVjdrRzN6b1lSX2dXWUx5Ty1INC16bGpoZjc2ZmduS3duaEw5XzZqTlY3eERRRWk2eXdra3dfOGZvSmxKc1E3akhkTmtMQzluZw?oc=5",
-      "pubDate": "2026-11-05 21:48:23",
-      "author": "Batteries News",
-      "summary": "LibertyStream Announces Lithium Carbonate Sales Contract with International Battery Material Maker Covering 2027–2031 Supply Batteries News",
-      "lang": "en",
-      "source": "Batteries News",
-      "categories": [
-        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -104354,20 +104311,6 @@
       "sentiment": 0
     },
     {
-      "id": "1399449527",
-      "title": "11月5日碳酸锂期货收盘上涨3.64%，报91580元_综合资讯 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GUDZkdjh5YWZxV1VjRy0yZkhtU2RzSV93VTVHTDBSeGVSVDJhSm5IUHZFOE1NVUZON09EVWF1NEZ5QWtuR3NSR0hjS09qT1BtNjRhdTFJZDROXy1na25lZDhQZkg?oc=5",
-      "pubDate": "2026-11-05 07:31:21",
-      "author": "证券之星",
-      "summary": "11月5日碳酸锂期货收盘上涨3.64%，报91580元_综合资讯 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1441569328",
       "title": "Ganfeng Lithium (01772) Surges Over 9%, Tianqi Lithium (09696) Rises Over 5% - 富途牛牛",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjUtV2g1MDZ5NWJFc0QyS3dJOWh2SkpiZHo0SDhaaXdJal9oWUwzU21yTmR5YXJjVXM0dENzZFRNcl90Z3NZenlCc3F1SklJdW0wVlh1eUZScnNRSjhlNF9NbDV2NVNYQldFcmpYZkdLWWd4ZFFjNXNjUXhKTmxHVDVGQ1F1WE5KMTdjdTJJcTZQWVpGWHBwRS1QNWRBT0stOGNDRkMwbmFKNktBY2cwbXhpVQ?oc=5",
@@ -104376,6 +104319,34 @@
       "summary": "Ganfeng Lithium (01772) Surges Over 9%, Tianqi Lithium (09696) Rises Over 5% 富途牛牛",
       "lang": "en",
       "source": "富途牛牛",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4218581803",
+      "title": "碳酸锂期货大涨超5%，锂矿股连续第4日上涨，天齐锂业、宁德时代涨超6% - 金融界",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sUnFSQzJ3aW45bXUwSWtLZld2TnhOTUZ2bWt0eVdFUFB0Z1B4MFMzeC0tN3hWdmJJM3BJTzFDUmxENmEwN1JRVFYtdlNtNXNMRnlvdDIyaTZPdlhZVmVfZENYWEdEdDJ0QXV4MnlvZTRwQQ?oc=5",
+      "pubDate": "2026-11-05 03:08:10",
+      "author": "金融界",
+      "summary": "碳酸锂期货大涨超5%，锂矿股连续第4日上涨，天齐锂业、宁德时代涨超6% 金融界",
+      "lang": "zh",
+      "source": "金融界",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3238585635",
+      "title": "皕成科技3亿元碳酸锂项目环评获受理 拟淘汰石灰产线改建 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Jajc1WFVmTnZaZW1mTW00bVFDOFNiXzJUMWxmbjZ5V04zQThGbTJpMkhSblhsUUxWdWhkUWk4QXRSTnpkd1BYS0dydmkyRzNIN0d3WEc3VnVsRlV5TlNqOENR?oc=5",
+      "pubDate": "2026-11-04 02:08:03",
+      "author": "观点网",
+      "summary": "皕成科技3亿元碳酸锂项目环评获受理 拟淘汰石灰产线改建 观点网",
+      "lang": "zh",
+      "source": "观点网",
       "categories": [
         "demand"
       ],
@@ -104425,6 +104396,20 @@
       "sentiment": 0
     },
     {
+      "id": "2258854853",
+      "title": "LME Week: Chile progressing $105B copper, lithium mining expansion project pipeline - S&amp;P Global",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOFhWUVhLZjZsMzdOYk9ENTFma0RfYk9yczhydl9tdlQzRW8yWGIzbUxhQlVBNjZyU0pEZWNndEU1QUVOSjhOLWkxM2w2U3hHUXZVSTFCVVFaVUliS1RidkZzbWJQYWpKWWtGbVh2WEhPa1BRY2gxbURiWXVKcTlubkxqTVZMclhVbWNqTDFld0UtcHdjQm8zaHZkTHNZam9ndGxLOGdaYzNXV1JOeXZPZlc3WVVlTzhJbHV4bWdPZEpiRFRpbE40eVdUZk50REFfdnZrU0JyT3RpNi01c3pqbFlULUtXbWlUVF9B?oc=5",
+      "pubDate": "2026-10-22 07:00:00",
+      "author": "S&amp;P Global",
+      "summary": "LME Week: Chile progressing $105B copper, lithium mining expansion project pipeline S&P Global",
+      "lang": "en",
+      "source": "S&amp;P Global",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": -0.3333333333333333
+    },
+    {
       "id": "3454515664",
       "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
@@ -104468,6 +104453,20 @@
         "supply"
       ],
       "sentiment": 0.3333333333333333
+    },
+    {
+      "id": "400794819",
+      "title": "Discover the Top Global Lithium Producers - Investing News Network",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUpLOGpyVkxqY2JwSVFFZUZ4YXhjZm9sRHZBNFF0VjMxOHcxcEVlSVR3N0JYZDk4TzJnSS1GaHkta2JScEpocHU1clhBNFU2Rnh2WF9CLWdheWNhS3BDd0FXNnRwaDVnMGFyeVBIMUNKdDBGUWpxMTc3TUx2eHgydXlUZ0QydUFhUkd2a1FNcUhmZnpYS0hrRE13Um90c0o0ZGNHalBFRUx0bi1qMVJLQW94eXNnMm8?oc=5",
+      "pubDate": "2026-05-21 07:00:00",
+      "author": "Investing News Network",
+      "summary": "Discover the Top Global Lithium Producers Investing News Network",
+      "lang": "en",
+      "source": "Investing News Network",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "3847838595",
