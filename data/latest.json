@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:42:05.759Z",
+  "generatedAt": "2026-11-08T00:09:24.518Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2381,7 +2381,7 @@
   },
   "spot": {
     "price": 93600,
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "dayPct": 2.07,
     "monthPct": -25.09,
     "yearPct": 16.42,
@@ -104227,20 +104227,6 @@
       "sentiment": 0
     },
     {
-      "id": "4228061430",
-      "title": "关于持续开展做市商常态化遴选的公告 - 21财经",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjNWTjBFejNDV1FhOTMyWXR2ZGpDV0U1TEdqengyckJIdzBFblk3SHdTZGFhTWo4YUxCTVpTb21nMzVlRWg2dllUcEN6N2t2ZmZyM2xlMDktT29vYnRSdEduUHZJZVpoS2R6b1FBa1RfNGgwM0ptYllURzR4MWFsd192R282X2pFam9yQzFUcw?oc=5",
-      "pubDate": "2026-11-06 12:58:00",
-      "author": "21财经",
-      "summary": "关于持续开展做市商常态化遴选的公告 21财经",
-      "lang": "zh",
-      "source": "21财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "159591890",
       "title": "证监会同意广期所氢氧化锂期货和期权注册 - zqrb.cn",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80U3h5bUU2dlE2Z0JzcTNxS2dXd0xfeFVFTzk4R1Q4ZkpXRVp5aU5wMUdVYlpqS2tJQTVhUTl1eVJWUjdmcGFGVlVTRGVGbndULUEyTjZSMU5wZURFV3QyM1M3V1pVNVhpcTF0bV9zazdzdUg1bUlB?oc=5",
@@ -104263,6 +104249,20 @@
       "summary": "广期所发布氢氧化锂期货和氢氧化锂期权合约及相关规则 Jiemian.com",
       "lang": "zh",
       "source": "Jiemian.com",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2606866468",
+      "title": "碳酸锂 期现双涨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcjBKa1M4MEd1R3FMVW1ZSzlxakhaMFdLV1dRVWlYWUdoY3NkTHQtZ1NLbDU5VlV2UkFyeE9xclgzOXJzLXZLVFlWYlIxc2NnRkVPel9hZUV2VUhZNnJBZGl0S3VTQQ?oc=5",
+      "pubDate": "2026-11-06 06:05:08",
+      "author": "东方财富",
+      "summary": "碳酸锂 期现双涨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
       "categories": [
         "demand"
       ],
@@ -104311,30 +104311,30 @@
       "sentiment": 0
     },
     {
-      "id": "1225573351",
-      "title": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0wOV81VE5pNzdaNzZwdjRmSTlTX19HMHU5QTgtLVBKNDZaMUpsTXZlLUJhQXhrVWhRR3RaTmNoV2N4ZWxmWXdkckJ3?oc=5",
-      "pubDate": "2026-11-04 14:35:00",
-      "author": "上海有色金属网",
-      "summary": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 上海有色金属网",
+      "id": "2339007070",
+      "title": "宜春锂矿整改进行时，国轩180万吨矿山走到哪一步？ - 电子工程专辑EE Times China",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVGY3UXlackpTZmppQlZFelp5T2ZBY3N1aGJFQXdTLWxJUUJ3cnlLdUhDRWozYTU0aTExX1c3ZENxeVg2ZG1YUVpKQU9aTzdKWTdF?oc=5",
+      "pubDate": "2026-11-05 00:00:00",
+      "author": "电子工程专辑EE Times China",
+      "summary": "宜春锂矿整改进行时，国轩180万吨矿山走到哪一步？ 电子工程专辑EE Times China",
       "lang": "zh",
-      "source": "上海有色金属网",
+      "source": "电子工程专辑EE Times China",
       "categories": [
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
     {
-      "id": "3238585635",
-      "title": "皕成科技3亿元碳酸锂项目环评获受理 拟淘汰石灰产线改建 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Jajc1WFVmTnZaZW1mTW00bVFDOFNiXzJUMWxmbjZ5V04zQThGbTJpMkhSblhsUUxWdWhkUWk4QXRSTnpkd1BYS0dydmkyRzNIN0d3WEc3VnVsRlV5TlNqOENR?oc=5",
-      "pubDate": "2026-11-04 02:08:03",
-      "author": "观点网",
-      "summary": "皕成科技3亿元碳酸锂项目环评获受理 拟淘汰石灰产线改建 观点网",
+      "id": "988057967",
+      "title": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc2VnYm5sb3ZPTWJrOGpGaUczQWt2UlBvWTA1VlJVUUFtbEk3ZmxsUm5ZZUJoampqWHZsazBvVW9ka2RJS0tjTlFwNGpzdHI0bnVCVWZWdnFkQkhhMk0zUnQ5RUV1UGtCWGNXNUNYSEgwZw?oc=5",
+      "pubDate": "2026-11-04 06:35:10",
+      "author": "上海有色金属网",
+      "summary": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 上海有色金属网",
       "lang": "zh",
-      "source": "观点网",
+      "source": "上海有色金属网",
       "categories": [
-        "demand"
+        "macro"
       ],
       "sentiment": 0
     },
