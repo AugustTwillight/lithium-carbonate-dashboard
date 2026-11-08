@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T18:37:56.685Z",
+  "generatedAt": "2026-11-08T22:38:51.005Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -86981,8 +86981,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.3,
-      "changePct": 0.7,
+      "price": 102.28,
+      "changePct": -0.01,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -95925,6 +95925,18 @@
           "amp": 0.89,
           "chg": 0.7,
           "delta": 0.71
+        },
+        {
+          "d": "2026-11-09",
+          "o": 102.25,
+          "c": 102.28,
+          "h": 102.29,
+          "l": 102.25,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.04,
+          "chg": -0.01,
+          "delta": -0.01
         }
       ]
     },
@@ -104199,6 +104211,48 @@
   ],
   "news": [
     {
+      "id": "2806213760",
+      "title": "海南矿业布谷尼锂矿第五批1.74万吨锂精矿运抵海南洋浦港 - 观点网",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aMlpyODdEYTk1NXdvdmlDVEIyaHgwejN6QTZnYVFHM2k2TEhPc1lDbWNLNm5XQ1pVbTB4ZDhpQ2phQzY0Q3VxdkprTi1wOE9La0staFJ4eVpCaldIcHczNDFn?oc=5",
+      "pubDate": "2026-11-08 13:56:23",
+      "author": "观点网",
+      "summary": "海南矿业布谷尼锂矿第五批1.74万吨锂精矿运抵海南洋浦港 观点网",
+      "lang": "zh",
+      "source": "观点网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2943356602",
+      "title": "海南矿业：布谷尼锂矿第五批锂精矿抵琼 全年发运将超12万吨 - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kVHRDYUtCVnBvaXNRV21FekR4VlU5Z3o0M3FfdlZxamZYbjk3VVdad00ydzdXMmdnamZSMVZvZllRWDZQTWZ3Y2cyeUZoSXBJRUs0dTdUYWlPaG4wUW03Yg?oc=5",
+      "pubDate": "2026-11-08 13:11:38",
+      "author": "东方财富",
+      "summary": "海南矿业：布谷尼锂矿第五批锂精矿抵琼 全年发运将超12万吨 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3833533227",
+      "title": "Lithium Price Rebound Faces a Test as China Futures Volatility Returns - Brave New Coin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1lLUXRmeC1WRHJRWklnR2xBaEpraWhDZC10dTlnVk5mT1Zlc1RRdzU2dUxxMXdZRXBkZmc0anFQYkxiLTg0TnpMY1gtcmZrRzFCWHZ6b2dUQ0l0RWdrMkpjVzNaVF9vOVJnNGVrX24xYzBrUkRNXzloRnlwNFhKci1HVFRSR0hMZEJiMDcwdzltRWhuSDJucEZTemlVYkNLZWVFYmxBQQ?oc=5",
+      "pubDate": "2026-11-08 12:23:50",
+      "author": "Brave New Coin",
+      "summary": "Lithium Price Rebound Faces a Test as China Futures Volatility Returns Brave New Coin",
+      "lang": "en",
+      "source": "Brave New Coin",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "18580688",
       "title": "广期所氢氧化锂期货和期权注册获批 - 中国新闻网",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d1VUTWpscVVtdWR2UTVtMngtYy1XNGU0RDJZZkRmNWxNSVRTV051QVpLQkxKSS15a3Jxb2RsUmRYOVgyMWNGR0hjTExsbDUxMlludjZCVXhrWGNtZVA1SmlNbzJWM01x?oc=5",
@@ -104213,9 +104267,9 @@
       "sentiment": 0
     },
     {
-      "id": "159591890",
+      "id": "2373065286",
       "title": "证监会同意广期所氢氧化锂期货和期权注册 - zqrb.cn",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80U3h5bUU2dlE2Z0JzcTNxS2dXd0xfeFVFTzk4R1Q4ZkpXRVp5aU5wMUdVYlpqS2tJQTVhUTl1eVJWUjdmcGFGVlVTRGVGbndULUEyTjZSMU5wZURFV3QyM1M3V1pVNVhpcTF0bV9zazdzdUg1bUlB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zQmkzRTdSSE1VZW1YbVdBTmNpWFE3VHBXalhDdVlZUElGWjd0YjJKdldsOUxYcXhSbXNIX2pGNUZra2VYcVhOcEdfX25scllHbVpuTE9MY0hIZk92Sl93eFF2V0VJcXdWb08yNDFoRVJUdjlu?oc=5",
       "pubDate": "2026-11-06 11:43:00",
       "author": "zqrb.cn",
       "summary": "证监会同意广期所氢氧化锂期货和期权注册 zqrb.cn",
@@ -104251,20 +104305,6 @@
       "source": "Kalkine",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2606866468",
-      "title": "碳酸锂 期现双涨 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcjBKa1M4MEd1R3FMVW1ZSzlxakhaMFdLV1dRVWlYWUdoY3NkTHQtZ1NLbDU5VlV2UkFyeE9xclgzOXJzLXZLVFlWYlIxc2NnRkVPel9hZUV2VUhZNnJBZGl0S3VTQQ?oc=5",
-      "pubDate": "2026-11-06 06:05:08",
-      "author": "东方财富",
-      "summary": "碳酸锂 期现双涨 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -104353,20 +104393,6 @@
       "sentiment": 0
     },
     {
-      "id": "3698618560",
-      "title": "从21万到9万，动力电池原料价格大幅回调 - 央广财经",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4TEU0VlNTbHh3d1NHMzVjaUFmdjZYNi1hVURmWGpiUHJNQWN3NUZJa25GQ3dQNm12aEhCMWo3d1RIeENRWEVlM3E1N3A2ZnRvcjNRNXZxMGVoeVVJS1BVVGk2OTVicURmb1BPanVMMA?oc=5",
-      "pubDate": "2026-11-02 08:30:33",
-      "author": "央广财经",
-      "summary": "从21万到9万，动力电池原料价格大幅回调 央广财经",
-      "lang": "zh",
-      "source": "央广财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3454515664",
       "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
@@ -104378,20 +104404,6 @@
       "categories": [
         "supply",
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3296659759",
-      "title": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZiZ1NtQ3Z3WU0weVZ0YzRLc2hIdG9vRktLaWZPWTBmQXdsZmRBUlVndnp5UmNjaUVPa3NqR0pGTDRLelpBVkxrUVdYWVFQNDFBYUJLU1Rxb2plZVNJUHBHdDJxbDBUWHc4VW1vbmdFcy13MWJVTjU3TUs0OVVJUWdDLVI1ajkzRnhzbGZHY3pyUkdDaEIzcVNIbw?oc=5",
-      "pubDate": "2026-07-22 07:00:00",
-      "author": "Mining.com",
-      "summary": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears Mining.com",
-      "lang": "en",
-      "source": "Mining.com",
-      "categories": [
-        "supply"
       ],
       "sentiment": 0
     },
