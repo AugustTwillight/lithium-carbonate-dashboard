@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:28:08.467Z",
+  "generatedAt": "2026-11-08T13:46:13.057Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -104199,20 +104199,6 @@
   ],
   "news": [
     {
-      "id": "3746680281",
-      "title": "盐湖股份11月6日回应碳酸锂话题：现锂盐年总产能约9.8万吨，重大事项以公告为准_公司新闻 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyRlM3R3ZqMHdfTzJjT2IyNW9YNkRCSUFDQ2otNlRCUXlrVVRhSy1rdFpkWjdBZzVvaGk1QTh6dDRXRVltYW0wejB2Z1JoUU8xQ29iWXplV2RvU293dWhhNXlB?oc=5",
-      "pubDate": "2026-11-07 00:08:55",
-      "author": "证券之星",
-      "summary": "盐湖股份11月6日回应碳酸锂话题：现锂盐年总产能约9.8万吨，重大事项以公告为准_公司新闻 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "18580688",
       "title": "广期所氢氧化锂期货和期权注册获批 - 中国新闻网",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4d1VUTWpscVVtdWR2UTVtMngtYy1XNGU0RDJZZkRmNWxNSVRTV051QVpLQkxKSS15a3Jxb2RsUmRYOVgyMWNGR0hjTExsbDUxMlludjZCVXhrWGNtZVA1SmlNbzJWM01x?oc=5",
@@ -104255,6 +104241,20 @@
       "sentiment": 0
     },
     {
+      "id": "2514886589",
+      "title": "Lithium, Mining Services and Copper on ASX Today: MinRes, PLS and Sandfire Shares Decline - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2xOZndpTWJZbWUzS3ZQMXlNdUhkWXEwWFVTaFhkRnBwZVZDNnUxX0pVLWFpdi1Qb18tT0Q0MmpIR1lJSGZxYTlyS1pWQThic2hiWWVuamkweHlwRnVYTWtkcXBNNFlxZ1gxRWRJMjFXOHJyb2hwNVllV1E2ajR0S05UY01iUkFwU2VpWmtXT0FISWo0VUlkSzdEYm5ScnlJZ1U4VjRESmhCUDlhX2l2VjNFeDBHT3dVUC1yOEpR?oc=5",
+      "pubDate": "2026-11-06 06:54:00",
+      "author": "Kalkine",
+      "summary": "Lithium, Mining Services and Copper on ASX Today: MinRes, PLS and Sandfire Shares Decline Kalkine",
+      "lang": "en",
+      "source": "Kalkine",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2606866468",
       "title": "碳酸锂 期现双涨 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcjBKa1M4MEd1R3FMVW1ZSzlxakhaMFdLV1dRVWlYWUdoY3NkTHQtZ1NLbDU5VlV2UkFyeE9xclgzOXJzLXZLVFlWYlIxc2NnRkVPel9hZUV2VUhZNnJBZGl0S3VTQQ?oc=5",
@@ -104283,14 +104283,56 @@
       "sentiment": 0
     },
     {
-      "id": "1077855216",
-      "title": "碳酸锂市场价格评估日度报告（20261105）_期市动态 - 中金在线",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GRmEyS3Bta0RxaGZpT18zTnc4d0ZZWUtFWDBNM2NlOTA1VXJmS0ZWNndiZS1RWU9JWGw1SzBVTWhCOWM2dGZucENGWTBaMkJESmFKQjJTNl9URWtfZGpjeDlDQjBvU1kyTkVnRVBn?oc=5",
-      "pubDate": "2026-11-05 13:52:07",
+      "id": "1399449527",
+      "title": "11月5日碳酸锂期货收盘上涨3.64%，报91580元_综合资讯 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GUDZkdjh5YWZxV1VjRy0yZkhtU2RzSV93VTVHTDBSeGVSVDJhSm5IUHZFOE1NVUZON09EVWF1NEZ5QWtuR3NSR0hjS09qT1BtNjRhdTFJZDROXy1na25lZDhQZkg?oc=5",
+      "pubDate": "2026-11-05 07:31:21",
+      "author": "证券之星",
+      "summary": "11月5日碳酸锂期货收盘上涨3.64%，报91580元_综合资讯 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1764689743",
+      "title": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVzdZUFdvMF9Jcy1GekcyLU1yaUwyMmNTeEd2eG5jT0xYYVRoNWgwX0xXR1FGREtSa1dfOEZSREdEZDdvWHZTcXB6aklvbHVoR0NMeWx4bDlkUzhvZUFDTkVKVi1SWV8tVGdKQV9TT3RDdw?oc=5",
+      "pubDate": "2026-11-05 06:35:51",
+      "author": "上海有色金属网",
+      "summary": "金银铂钯大爆发！金属全线上涨 碳酸锂、多晶硅领跑 伦锡沪镍沪铅走强【SMM午评】 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "273966115",
+      "title": "港股异动| 碳酸锂强势反弹突破9.3万赣锋锂业(01772)涨超9% 天齐锂业(09696)涨超5%_股市直播_市场 - 中金在线",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdzM4VGRmSWhNWV9YX3NQQ1hHVWJqZEtiZTdXNDVqczdIZkVNRWZlai1NdnJ2Z3BsVUZpN1RqUUJMSVRHRmJxeEtmSXVHbEtXc3RyY3k3dWYzdXVhVmJXVVdUYU13SVI1QlU1Qw?oc=5",
+      "pubDate": "2026-11-05 06:03:24",
       "author": "中金在线",
-      "summary": "碳酸锂市场价格评估日度报告（20261105）_期市动态 中金在线",
+      "summary": "港股异动| 碳酸锂强势反弹突破9.3万赣锋锂业(01772)涨超9% 天齐锂业(09696)涨超5%_股市直播_市场 中金在线",
       "lang": "zh",
       "source": "中金在线",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1441569328",
+      "title": "Ganfeng Lithium (01772) Surges Over 9%, Tianqi Lithium (09696) Rises Over 5% - 富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQjUtV2g1MDZ5NWJFc0QyS3dJOWh2SkpiZHo0SDhaaXdJal9oWUwzU21yTmR5YXJjVXM0dENzZFRNcl90Z3NZenlCc3F1SklJdW0wVlh1eUZScnNRSjhlNF9NbDV2NVNYQldFcmpYZkdLWWd4ZFFjNXNjUXhKTmxHVDVGQ1F1WE5KMTdjdTJJcTZQWVpGWHBwRS1QNWRBT0stOGNDRkMwbmFKNktBY2cwbXhpVQ?oc=5",
+      "pubDate": "2026-11-05 03:56:26",
+      "author": "富途牛牛",
+      "summary": "Ganfeng Lithium (01772) Surges Over 9%, Tianqi Lithium (09696) Rises Over 5% 富途牛牛",
+      "lang": "en",
+      "source": "富途牛牛",
       "categories": [
         "demand"
       ],
@@ -104311,44 +104353,15 @@
       "sentiment": 0
     },
     {
-      "id": "2339007070",
-      "title": "宜春锂矿整改进行时，国轩180万吨矿山走到哪一步？ - 电子工程专辑EE Times China",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVGY3UXlackpTZmppQlZFelp5T2ZBY3N1aGJFQXdTLWxJUUJ3cnlLdUhDRWozYTU0aTExX1c3ZENxeVg2ZG1YUVpKQU9aTzdKWTdF?oc=5",
-      "pubDate": "2026-11-05 00:00:00",
-      "author": "电子工程专辑EE Times China",
-      "summary": "宜春锂矿整改进行时，国轩180万吨矿山走到哪一步？ 电子工程专辑EE Times China",
+      "id": "3698618560",
+      "title": "从21万到9万，动力电池原料价格大幅回调 - 央广财经",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4TEU0VlNTbHh3d1NHMzVjaUFmdjZYNi1hVURmWGpiUHJNQWN3NUZJa25GQ3dQNm12aEhCMWo3d1RIeENRWEVlM3E1N3A2ZnRvcjNRNXZxMGVoeVVJS1BVVGk2OTVicURmb1BPanVMMA?oc=5",
+      "pubDate": "2026-11-02 08:30:33",
+      "author": "央广财经",
+      "summary": "从21万到9万，动力电池原料价格大幅回调 央广财经",
       "lang": "zh",
-      "source": "电子工程专辑EE Times China",
+      "source": "央广财经",
       "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "988057967",
-      "title": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Hc2VnYm5sb3ZPTWJrOGpGaUczQWt2UlBvWTA1VlJVUUFtbEk3ZmxsUm5ZZUJoampqWHZsazBvVW9ka2RJS0tjTlFwNGpzdHI0bnVCVWZWdnFkQkhhMk0zUnQ5RUV1UGtCWGNXNUNYSEgwZw?oc=5",
-      "pubDate": "2026-11-04 06:35:10",
-      "author": "上海有色金属网",
-      "summary": "美元大幅走弱 金属普跌 沪锡跳水 碳酸锂、沪铜、焦煤、沪银铂钯齐挫【SMM午评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1870303084",
-      "title": "Citi slashes lithium price forecast by 40% on lower demand - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUpCT3pSeFQzWlNNeWROUkRhazM2aDV2MmpwcVlxZ0VrMndpVV8wdVM1Z2dTeWtzUy1oenpUMXVTNDZEMFdnTF82YVRRSDg0Q0l5a2dzdUFkSWlaWWdIR3Racld0VWxObUdFbkVqMm0yMkpfNFZjU0J2bkJRSWlxYTF2OElEZl9W?oc=5",
-      "pubDate": "2026-11-02 17:05:47",
-      "author": "Mining.com",
-      "summary": "Citi slashes lithium price forecast by 40% on lower demand Mining.com",
-      "lang": "en",
-      "source": "Mining.com",
-      "categories": [
-        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -104369,16 +104382,15 @@
       "sentiment": 0
     },
     {
-      "id": "1140256374",
-      "title": "Li–air chemistry inspired electrodialysis for direct lithium carbonate production from seawater - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XYTBKeG1GZmc5NUQxUnFjQmowdm9sRzZ3OXJqXzdsbUlES3B4UlhQa0RxMlVYSnJseTlTY0JFOXBSd043MGZ5WUQ4b0VuajhSeGJ3ODhoeTA1aktIdUh3?oc=5",
-      "pubDate": "2026-07-06 07:00:00",
-      "author": "Nature",
-      "summary": "Li–air chemistry inspired electrodialysis for direct lithium carbonate production from seawater Nature",
+      "id": "3296659759",
+      "title": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWWZiZ1NtQ3Z3WU0weVZ0YzRLc2hIdG9vRktLaWZPWTBmQXdsZmRBUlVndnp5UmNjaUVPa3NqR0pGTDRLelpBVkxrUVdYWVFQNDFBYUJLU1Rxb2plZVNJUHBHdDJxbDBUWHc4VW1vbmdFcy13MWJVTjU3TUs0OVVJUWdDLVI1ajkzRnhzbGZHY3pyUkdDaEIzcVNIbw?oc=5",
+      "pubDate": "2026-07-22 07:00:00",
+      "author": "Mining.com",
+      "summary": "Lithium price sinks to five-month low as restarts stoke 2027 glut fears Mining.com",
       "lang": "en",
-      "source": "Nature",
+      "source": "Mining.com",
       "categories": [
-        "environment",
         "supply"
       ],
       "sentiment": 0
@@ -104470,21 +104482,6 @@
         "supply"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "12206187",
-      "title": "Lithium mining for EVs: How sustainable is it? - APM Research Lab",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QOVRrb3JIQ2Zxa1ZCd0NuZ3JUNFV4NzhzY3dWRjdPNExzTk5EYTRYMnl1Z29JU1UtaGlkNWZVY1BZdWhUSXJNQzJMbWo5cXRXSUVZS3NXbVU5NjZVRnZlTnAxc3pKU0FkUmZaaTRpeFlYNV8xaUVIZXZ4NDY?oc=5",
-      "pubDate": "2024-02-22 08:00:00",
-      "author": "APM Research Lab",
-      "summary": "Lithium mining for EVs: How sustainable is it? APM Research Lab",
-      "lang": "en",
-      "source": "APM Research Lab",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
     }
   ],
   "sources": [
@@ -104516,8 +104513,8 @@
   "sourceStatus": [
     {
       "label": "期货主力",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "现货参考",
@@ -104531,63 +104528,63 @@
     },
     {
       "label": "股价 赣锋锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 盐湖股份",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 宁德时代",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 赣锋锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 天齐锂业H",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 Albemarle",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "股价 SQM",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 美元指数",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 沪深300",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 纳斯达克",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     },
     {
       "label": "宏观 NYMEX原油",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "fetch failed"
     }
   ]
 }
