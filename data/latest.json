@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:29:55.889Z",
+  "generatedAt": "2026-11-10T18:46:43.162Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -52478,10 +52478,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 99.12,
-      "changePct": -0.13,
-      "volume": 2413579,
-      "amount": 238117355,
+      "price": 94.325,
+      "changePct": -4.84,
+      "volume": 848444,
+      "amount": 80612072,
       "klines": [
         {
           "d": "2024-01-02",
@@ -61086,6 +61086,18 @@
           "amp": 3.3,
           "chg": -0.13,
           "delta": -0.13
+        },
+        {
+          "d": "2026-11-10",
+          "o": 96,
+          "c": 94.325,
+          "h": 97.18,
+          "l": 93.93,
+          "v": 848444,
+          "amount": 80612072,
+          "amp": 3.28,
+          "chg": -4.84,
+          "delta": -4.795
         }
       ]
     },
@@ -61095,10 +61107,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 56.7,
-      "changePct": -1.43,
-      "volume": 939644,
-      "amount": 53248123,
+      "price": 54.32,
+      "changePct": -4.2,
+      "volume": 299735,
+      "amount": 16425785,
       "klines": [
         {
           "d": "2024-01-02",
@@ -69703,6 +69715,18 @@
           "amp": 2.02,
           "chg": -1.43,
           "delta": -0.82
+        },
+        {
+          "d": "2026-11-10",
+          "o": 55.62,
+          "c": 54.32,
+          "h": 55.64,
+          "l": 54.29,
+          "v": 299735,
+          "amount": 16425785,
+          "amp": 2.38,
+          "chg": -4.2,
+          "delta": -2.38
         }
       ]
     }
@@ -69713,9 +69737,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 25253.14,
-      "changePct": 2.74,
-      "volume": 8069510656,
+      "price": 24937.02,
+      "changePct": -1.25,
+      "volume": 4273404432,
       "amount": 0,
       "klines": [
         {
@@ -78321,6 +78345,18 @@
           "amp": 2.41,
           "chg": 2.74,
           "delta": 673.72
+        },
+        {
+          "d": "2026-11-10",
+          "o": 25047.45,
+          "c": 24937.04,
+          "h": 25286.83,
+          "l": 24816.1,
+          "v": 4273404432,
+          "amount": 0,
+          "amp": 1.86,
+          "chg": -1.25,
+          "delta": -316.1
         }
       ]
     },
@@ -78329,9 +78365,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 85.89,
-      "changePct": -1.11,
-      "volume": 70380,
+      "price": 86.13,
+      "changePct": -0.83,
+      "volume": 217292,
       "amount": 0,
       "klines": [
         {
@@ -87193,14 +87229,14 @@
         {
           "d": "2026-11-10",
           "o": 86.43,
-          "c": 85.89,
+          "c": 86.13,
           "h": 86.93,
           "l": 83.88,
-          "v": 70380,
+          "v": 217292,
           "amount": 0,
           "amp": 3.51,
-          "chg": -1.11,
-          "delta": -0.96
+          "chg": -0.83,
+          "delta": -0.72
         }
       ]
     },
@@ -87209,8 +87245,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 101.72,
-      "changePct": 0.06,
+      "price": 102.26,
+      "changePct": 0.59,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -96169,14 +96205,14 @@
         {
           "d": "2026-11-10",
           "o": 101.68,
-          "c": 101.72,
-          "h": 101.75,
+          "c": 102.26,
+          "h": 102.42,
           "l": 101.49,
           "v": 0,
           "amount": 0,
-          "amp": 0.26,
-          "chg": 0.06,
-          "delta": 0.06
+          "amp": 0.91,
+          "chg": 0.59,
+          "delta": 0.6
         }
       ]
     },
@@ -104475,39 +104511,38 @@
   ],
   "news": [
     {
-      "id": "2169847205",
-      "title": "加拿大斯科舍金属启动Acadia锂矿1000米首次钻探 - 维度网",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0UHZRczZLS2ZkcGFYREE3VEJOWFFsR0xDT3lzT3RSeWhMUXdGOFdVUEx2SXF6QzJFZktiUFZfU2xIdE5NLThsa0pwZ3dvVFAzV0pqUzB1SWM?oc=5",
-      "pubDate": "2026-11-10 01:31:00",
-      "author": "维度网",
-      "summary": "加拿大斯科舍金属启动Acadia锂矿1000米首次钻探 维度网",
+      "id": "3189905456",
+      "title": "NMDC in talks with Russia’s Rosatom to explore lithium mining and processing opportunities - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTWMwc1ZRWEM2MXdSOFBsZ0oyX05hTWpMZUpNbWNhSzRLYnYxRDBzNzBndUtGLTI1Zm5sd3Rhd2VmUG5UVTNMdURUREM4R1lkUEM3OFhzeUxwdUtTUnN0QXI5TnBiQW1GQ3hGUjdaa3NrSVZwMVF2MlNGT2N4TmZxYjdrdnZBai1iUWFoQms2bWNMaTlSdzFCdHFXMWEtaE9rT0RRX2txMVdLdTdMd0FiT3MxZWxEdWs4WGxOMmV4MlpPcHJJZkZpdlFUVklBREd1alpFMHNZMXNSUFUxR2QwSXRnNTBWUW9sQmFCWlJNRDFoQVREa2RTV2pR?oc=5",
+      "pubDate": "2026-11-10 10:39:12",
+      "author": "BusinessLine",
+      "summary": "NMDC in talks with Russia’s Rosatom to explore lithium mining and processing opportunities BusinessLine",
+      "lang": "en",
+      "source": "BusinessLine",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "799655369",
+      "title": "金属多飘绿 沪铝、铸造铝携手下挫 碳酸锂、多晶硅跟跌 铂领涨【SMM日评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ld0tVVm0zSHR4N3BxdFhEa1c1S0x2dzhzZlBra2dPVW5aczROUDdxV1E5VG9FWFZDdngxWVpRUm1uMk0tQXRTdERUOHVWWWFfRWtKT0NlVVRLZFJmZWlUdW1yTmUweGxnMUJGZm1XcUwzUQ?oc=5",
+      "pubDate": "2026-11-10 07:26:57",
+      "author": "上海有色金属网",
+      "summary": "金属多飘绿 沪铝、铸造铝携手下挫 碳酸锂、多晶硅跟跌 铂领涨【SMM日评】 上海有色金属网",
       "lang": "zh",
-      "source": "维度网",
+      "source": "上海有色金属网",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "2089381153",
-      "title": "Greta Minerals Appoints Lithium Executives to Advance Lithium Strategy - ABN Newswire",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXV5T09KdHpLaVFMckcxQnozZ3FZcTYtZUdFT1FQQ1VuV29Nbk5xMklfUEFnZUExbmRURDVpOHhKNUx4RUJKdTVqMmotTzJVSVZNM0tHVGJQMGZoRmlmalJCa2xaalpzS0RuSjBIaGZPcEJHd1dOWk92ZW05SXBJNmhkQjQyV3IyVmNodF9pdF90amVwOERQWlhMeFVWaHR4MnpJSVFGandZbEJWWVZKbFFCWTMwTThualE?oc=5",
-      "pubDate": "2026-11-10 01:02:55",
-      "author": "ABN Newswire",
-      "summary": "Greta Minerals Appoints Lithium Executives to Advance Lithium Strategy ABN Newswire",
-      "lang": "en",
-      "source": "ABN Newswire",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0.3333333333333333
-    },
-    {
       "id": "250786483",
       "title": "South Korean battery heavyweight eyes Pursuit’s lithium - Mining Magazine Australia",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFZqSjY1dVdQY0Zub0NjQlNOSzdreU0xNTNjSFRsMEZ3dlpubVdfOXl2WVphSi1SRENLbktGeUN1RHNMbDNzR0xac3pPdVloa1lpX0hmX1hOOGhSR0hHS1pPLWhfUmhGQzBTbFlmTDZSRklBbndudGdoeGhfS1JYa3dNYUxjNjBuNFUtMnVB?oc=5",
-      "pubDate": "2026-11-10 00:44:44",
+      "pubDate": "2026-11-10 01:05:14",
       "author": "Mining Magazine Australia",
       "summary": "South Korean battery heavyweight eyes Pursuit’s lithium Mining Magazine Australia",
       "lang": "en",
@@ -104617,20 +104652,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3858405660",
-      "title": "【11.9锂电快讯】海南矿业布谷尼锂矿第四批锂精矿已于8月下旬运抵海南洋浦港 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQnN3TmFuVnhDYXlMcDhXTlZIckpvWmk1LV9rZzAwRHhSZGs1NWFNUnRFOVVtd2FjTjh6VW12ZTJUVXJmM2dyV0FXU1ZaaHYwSmwzUFFoM1lvMGY0alIzYlpHNUNRTEo0Y1FwdThlMmlRdw?oc=5",
-      "pubDate": "2026-11-09 00:55:03",
-      "author": "上海有色金属网",
-      "summary": "【11.9锂电快讯】海南矿业布谷尼锂矿第四批锂精矿已于8月下旬运抵海南洋浦港 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3833533227",
       "title": "Lithium Price Rebound Faces a Test as China Futures Volatility Returns - Brave New Coin",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1lLUXRmeC1WRHJRWklnR2xBaEpraWhDZC10dTlnVk5mT1Zlc1RRdzU2dUxxMXdZRXBkZmc0anFQYkxiLTg0TnpMY1gtcmZrRzFCWHZ6b2dUQ0l0RWdrMkpjVzNaVF9vOVJnNGVrX24xYzBrUkRNXzloRnlwNFhKci1HVFRSR0hMZEJiMDcwdzltRWhuSDJucEZTemlVYkNLZWVFYmxBQQ?oc=5",
@@ -104681,6 +104702,20 @@
       "summary": "碳酸锂 期现双涨 东方财富",
       "lang": "zh",
       "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1968796056",
+      "title": "碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 - 搜狐网",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjg1eWIyanhMeEdBVTQ1WlM1a0YyTVVGdXBtNHpDalB6amJoV1ZjY25ybklyN09Zb29WcWJ5Y0hNSC1lWFU0eE5sVi1mVHZ5VUpCdHRyaXV6X2xfRERQWFY1b2VLR1JxZDJZRC1PZXVPVi1oNFZFMWNtRHVfSUZ0ZjJsamZseE9IdzA1Xw?oc=5",
+      "pubDate": "2026-11-06 02:20:00",
+      "author": "搜狐网",
+      "summary": "碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 搜狐网",
+      "lang": "zh",
+      "source": "搜狐网",
       "categories": [
         "demand"
       ],
