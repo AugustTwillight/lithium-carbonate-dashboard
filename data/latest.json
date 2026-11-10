@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:46:43.162Z",
+  "generatedAt": "2026-11-10T23:53:33.474Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -52478,10 +52478,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 94.325,
-      "changePct": -4.84,
-      "volume": 848444,
-      "amount": 80612072,
+      "price": 94.93,
+      "changePct": -4.23,
+      "volume": 1955031,
+      "amount": 185592068,
       "klines": [
         {
           "d": "2024-01-02",
@@ -61089,15 +61089,15 @@
         },
         {
           "d": "2026-11-10",
-          "o": 96,
-          "c": 94.325,
-          "h": 97.18,
+          "o": 96.7,
+          "c": 94.93,
+          "h": 97.435,
           "l": 93.93,
-          "v": 848444,
-          "amount": 80612072,
-          "amp": 3.28,
-          "chg": -4.84,
-          "delta": -4.795
+          "v": 1955031,
+          "amount": 185592068,
+          "amp": 3.54,
+          "chg": -4.23,
+          "delta": -4.19
         }
       ]
     },
@@ -61107,10 +61107,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 54.32,
-      "changePct": -4.2,
-      "volume": 299735,
-      "amount": 16425785,
+      "price": 54.43,
+      "changePct": -4,
+      "volume": 590038,
+      "amount": 32246379,
       "klines": [
         {
           "d": "2024-01-02",
@@ -69719,14 +69719,14 @@
         {
           "d": "2026-11-10",
           "o": 55.62,
-          "c": 54.32,
+          "c": 54.43,
           "h": 55.64,
-          "l": 54.29,
-          "v": 299735,
-          "amount": 16425785,
-          "amp": 2.38,
-          "chg": -4.2,
-          "delta": -2.38
+          "l": 54.22,
+          "v": 590038,
+          "amount": 32246379,
+          "amp": 2.5,
+          "chg": -4,
+          "delta": -2.27
         }
       ]
     }
@@ -69737,9 +69737,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 24937.02,
-      "changePct": -1.25,
-      "volume": 4273404432,
+      "price": 25065.87,
+      "changePct": -0.74,
+      "volume": 7370528512,
       "amount": 0,
       "klines": [
         {
@@ -78349,14 +78349,14 @@
         {
           "d": "2026-11-10",
           "o": 25047.45,
-          "c": 24937.04,
+          "c": 25065.87,
           "h": 25286.83,
           "l": 24816.1,
-          "v": 4273404432,
+          "v": 7370528512,
           "amount": 0,
           "amp": 1.86,
-          "chg": -1.25,
-          "delta": -316.1
+          "chg": -0.74,
+          "delta": -187.27
         }
       ]
     },
@@ -78365,9 +78365,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 86.13,
-      "changePct": -0.83,
-      "volume": 217292,
+      "price": 86.31,
+      "changePct": 0.31,
+      "volume": 922,
       "amount": 0,
       "klines": [
         {
@@ -87229,14 +87229,26 @@
         {
           "d": "2026-11-10",
           "o": 86.43,
-          "c": 86.13,
+          "c": 86.44,
           "h": 86.93,
           "l": 83.88,
-          "v": 217292,
+          "v": 263404,
           "amount": 0,
           "amp": 3.51,
-          "chg": -0.83,
-          "delta": -0.72
+          "chg": -0.47,
+          "delta": -0.41
+        },
+        {
+          "d": "2026-11-11",
+          "o": 86.43,
+          "c": 86.31,
+          "h": 86.45,
+          "l": 86.13,
+          "v": 922,
+          "amount": 0,
+          "amp": 0.37,
+          "chg": 0.31,
+          "delta": 0.27
         }
       ]
     },
@@ -87245,8 +87257,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.26,
-      "changePct": 0.59,
+      "price": 102.21,
+      "changePct": -0.04,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -96205,14 +96217,26 @@
         {
           "d": "2026-11-10",
           "o": 101.68,
-          "c": 102.26,
+          "c": 102.25,
           "h": 102.42,
           "l": 101.49,
           "v": 0,
           "amount": 0,
           "amp": 0.91,
-          "chg": 0.59,
-          "delta": 0.6
+          "chg": 0.57,
+          "delta": 0.58
+        },
+        {
+          "d": "2026-11-11",
+          "o": 102.24,
+          "c": 102.21,
+          "h": 102.26,
+          "l": 102.2,
+          "v": 0,
+          "amount": 0,
+          "amp": 0.06,
+          "chg": -0.04,
+          "delta": -0.04
         }
       ]
     },
@@ -104511,6 +104535,20 @@
   ],
   "news": [
     {
+      "id": "832924177",
+      "title": "第九届光储大会分论坛“2026光储资本市场回顾与展望——新能源产业交流会”将在成都举行_行业新闻 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFc0llaWp2MTBEYXZ1TklhanR6SmlnakJaYWYwMWUzS2dOSXhMOHB1TkpfcnlqdkwwdXJtb243Z2diTi0xYUFTYVowWlVmQ2w4Ym5fWWVNTS1mZ0dYVFdFMURlU20?oc=5",
+      "pubDate": "2026-11-10 11:20:17",
+      "author": "证券之星",
+      "summary": "第九届光储大会分论坛“2026光储资本市场回顾与展望——新能源产业交流会”将在成都举行_行业新闻 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "3189905456",
       "title": "NMDC in talks with Russia’s Rosatom to explore lithium mining and processing opportunities - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTWMwc1ZRWEM2MXdSOFBsZ0oyX05hTWpMZUpNbWNhSzRLYnYxRDBzNzBndUtGLTI1Zm5sd3Rhd2VmUG5UVTNMdURUREM4R1lkUEM3OFhzeUxwdUtTUnN0QXI5TnBiQW1GQ3hGUjdaa3NrSVZwMVF2MlNGT2N4TmZxYjdrdnZBai1iUWFoQms2bWNMaTlSdzFCdHFXMWEtaE9rT0RRX2txMVdLdTdMd0FiT3MxZWxEdWs4WGxOMmV4MlpPcHJJZkZpdlFUVklBREd1alpFMHNZMXNSUFUxR2QwSXRnNTBWUW9sQmFCWlJNRDFoQVREa2RTV2pR?oc=5",
@@ -104521,20 +104559,6 @@
       "source": "BusinessLine",
       "categories": [
         "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "799655369",
-      "title": "金属多飘绿 沪铝、铸造铝携手下挫 碳酸锂、多晶硅跟跌 铂领涨【SMM日评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ld0tVVm0zSHR4N3BxdFhEa1c1S0x2dzhzZlBra2dPVW5aczROUDdxV1E5VG9FWFZDdngxWVpRUm1uMk0tQXRTdERUOHVWWWFfRWtKT0NlVVRLZFJmZWlUdW1yTmUweGxnMUJGZm1XcUwzUQ?oc=5",
-      "pubDate": "2026-11-10 07:26:57",
-      "author": "上海有色金属网",
-      "summary": "金属多飘绿 沪铝、铸造铝携手下挫 碳酸锂、多晶硅跟跌 铂领涨【SMM日评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "demand"
       ],
       "sentiment": 0
     },
@@ -104568,18 +104592,18 @@
       "sentiment": 0
     },
     {
-      "id": "2205526085",
-      "title": "11月9日国内期货主力合约收盘多数下跌碳酸锂跌近5%_公司新闻_财经 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZZHg3eGUwUDZGOVBXUXhIbWM3UUtFb05TWXpmRHdFR2x1OEVGTXdLRGJmZFdhOGlfTlMzMGhHZnNtazB3S0RiMlBrdHFfam1FYXFyT1VGd3hlYW10Q1JJMQ?oc=5",
-      "pubDate": "2026-11-09 13:47:00",
-      "author": "证券之星",
-      "summary": "11月9日国内期货主力合约收盘多数下跌碳酸锂跌近5%_公司新闻_财经 证券之星",
+      "id": "799655369",
+      "title": "金属多飘绿 沪铝、铸造铝携手下挫 碳酸锂、多晶硅跟跌 铂领涨【SMM日评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ld0tVVm0zSHR4N3BxdFhEa1c1S0x2dzhzZlBra2dPVW5aczROUDdxV1E5VG9FWFZDdngxWVpRUm1uMk0tQXRTdERUOHVWWWFfRWtKT0NlVVRLZFJmZWlUdW1yTmUweGxnMUJGZm1XcUwzUQ?oc=5",
+      "pubDate": "2026-11-09 19:22:00",
+      "author": "上海有色金属网",
+      "summary": "金属多飘绿 沪铝、铸造铝携手下挫 碳酸锂、多晶硅跟跌 铂领涨【SMM日评】 上海有色金属网",
       "lang": "zh",
-      "source": "证券之星",
+      "source": "上海有色金属网",
       "categories": [
         "demand"
       ],
-      "sentiment": -0.3333333333333333
+      "sentiment": 0
     },
     {
       "id": "2803838072",
@@ -104610,20 +104634,6 @@
       "sentiment": 0
     },
     {
-      "id": "1537599092",
-      "title": "Fastmarkets publishes backdated FOB China price calculations for lithium hydroxide, lithium carbonate - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUERPQ2JjNWNEVTAxdEFNcmZZbHZoX3pfLUtQc3NoOFotX3RjTnd2OU1TUXpwSzFhMTJEZGxlS3hEeFJyWlFfeG1qbjd2ZGtNZ2pVOWN4RWZuZEJuRTlNWl83dEpJSGo0SWtxeU0tTFRiSHRKcmpXTzJCbWswakxvMVpKMWpKOFhRVTNBR2doWUd4U3JPTjBLdnd3eUk3QnZycm0wYndEYlFIZVk1RkRrSHBLU28wYUVZWUdvenJXeDlJRjdVR0dNdzJjOUhqMnRrTnBrWg?oc=5",
-      "pubDate": "2026-11-09 10:04:09",
-      "author": "Fastmarkets",
-      "summary": "Fastmarkets publishes backdated FOB China price calculations for lithium hydroxide, lithium carbonate Fastmarkets",
-      "lang": "en",
-      "source": "Fastmarkets",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1219772248",
       "title": "期货收评：碳酸锂暴跌近5%！枧下窝复产引爆供应恐慌 苯乙烯重挫跌超3% - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YeDRXZnAxRy1SU1doSzRCTFgyb1Zob3NYQy1QTkFfazhGR01nUkZiVUY2eTdmV3NLOW1OVEdhX0d2V1RuLUxyZUlPNjRiZWRVa2UyYnBBSTRxeFJaZmc?oc=5",
@@ -104650,6 +104660,20 @@
         "demand"
       ],
       "sentiment": -0.3333333333333333
+    },
+    {
+      "id": "3858405660",
+      "title": "【11.9锂电快讯】海南矿业布谷尼锂矿第四批锂精矿已于8月下旬运抵海南洋浦港 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oQnN3TmFuVnhDYXlMcDhXTlZIckpvWmk1LV9rZzAwRHhSZGs1NWFNUnRFOVVtd2FjTjh6VW12ZTJUVXJmM2dyV0FXU1ZaaHYwSmwzUFFoM1lvMGY0alIzYlpHNUNRTEo0Y1FwdThlMmlRdw?oc=5",
+      "pubDate": "2026-11-09 00:55:03",
+      "author": "上海有色金属网",
+      "summary": "【11.9锂电快讯】海南矿业布谷尼锂矿第四批锂精矿已于8月下旬运抵海南洋浦港 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
     },
     {
       "id": "3833533227",
@@ -104694,6 +104718,20 @@
       "sentiment": 0
     },
     {
+      "id": "3659279567",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
+      "pubDate": "2026-11-06 08:00:00",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
+      "lang": "en",
+      "source": "CME Group",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2606866468",
       "title": "碳酸锂 期现双涨 - 东方财富",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcjBKa1M4MEd1R3FMVW1ZSzlxakhaMFdLV1dRVWlYWUdoY3NkTHQtZ1NLbDU5VlV2UkFyeE9xclgzOXJzLXZLVFlWYlIxc2NnRkVPel9hZUV2VUhZNnJBZGl0S3VTQQ?oc=5",
@@ -104708,46 +104746,34 @@
       "sentiment": 0
     },
     {
-      "id": "1968796056",
-      "title": "碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 - 搜狐网",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjg1eWIyanhMeEdBVTQ1WlM1a0YyTVVGdXBtNHpDalB6amJoV1ZjY25ybklyN09Zb29WcWJ5Y0hNSC1lWFU0eE5sVi1mVHZ5VUpCdHRyaXV6X2xfRERQWFY1b2VLR1JxZDJZRC1PZXVPVi1oNFZFMWNtRHVfSUZ0ZjJsamZseE9IdzA1Xw?oc=5",
-      "pubDate": "2026-11-06 02:20:00",
-      "author": "搜狐网",
-      "summary": "碳酸锂期货拉升，部分锂电池锂矿概念股逆势上涨 搜狐网",
-      "lang": "zh",
-      "source": "搜狐网",
+      "id": "1870303084",
+      "title": "Citi slashes lithium price forecast by 40% on lower demand - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUpCT3pSeFQzWlNNeWROUkRhazM2aDV2MmpwcVlxZ0VrMndpVV8wdVM1Z2dTeWtzUy1oenpUMXVTNDZEMFdnTF82YVRRSDg0Q0l5a2dzdUFkSWlaWWdIR3Racld0VWxObUdFbkVqMm0yMkpfNFZjU0J2bkJRSWlxYTF2OElEZl9W?oc=5",
+      "pubDate": "2026-11-02 08:00:00",
+      "author": "Mining.com",
+      "summary": "Citi slashes lithium price forecast by 40% on lower demand Mining.com",
+      "lang": "en",
+      "source": "Mining.com",
       "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "3659279567",
-      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
-      "pubDate": "2026-11-05 08:00:00",
-      "author": "CME Group",
-      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
+      "id": "3454515664",
+      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
+      "pubDate": "2026-09-15 15:14:30",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
       "lang": "en",
-      "source": "CME Group",
+      "source": "International Institute for Sustainable Development",
       "categories": [
-        "macro"
+        "supply",
+        "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "2258854853",
-      "title": "LME Week: Chile progressing $105B copper, lithium mining expansion project pipeline - S&amp;P Global",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOFhWUVhLZjZsMzdOYk9ENTFma0RfYk9yczhydl9tdlQzRW8yWGIzbUxhQlVBNjZyU0pEZWNndEU1QUVOSjhOLWkxM2w2U3hHUXZVSTFCVVFaVUliS1RidkZzbWJQYWpKWWtGbVh2WEhPa1BRY2gxbURiWXVKcTlubkxqTVZMclhVbWNqTDFld0UtcHdjQm8zaHZkTHNZam9ndGxLOGdaYzNXV1JOeXZPZlc3WVVlTzhJbHV4bWdPZEpiRFRpbE40eVdUZk50REFfdnZrU0JyT3RpNi01c3pqbFlULUtXbWlUVF9B?oc=5",
-      "pubDate": "2026-10-22 07:00:00",
-      "author": "S&amp;P Global",
-      "summary": "LME Week: Chile progressing $105B copper, lithium mining expansion project pipeline S&P Global",
-      "lang": "en",
-      "source": "S&amp;P Global",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": -0.3333333333333333
     },
     {
       "id": "3727937909",
