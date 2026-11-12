@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T09:12:27.214Z",
+  "generatedAt": "2026-11-12T17:41:20.351Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -52646,10 +52646,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 95.97,
-      "changePct": 1.1,
-      "volume": 1484756,
-      "amount": 142924472,
+      "price": 95.115,
+      "changePct": -0.89,
+      "volume": 616655,
+      "amount": 58102347,
       "klines": [
         {
           "d": "2024-01-02",
@@ -61278,6 +61278,18 @@
           "amp": 1.91,
           "chg": 1.1,
           "delta": 1.04
+        },
+        {
+          "d": "2026-11-12",
+          "o": 94.58,
+          "c": 95.115,
+          "h": 95.525,
+          "l": 93.15,
+          "v": 616654,
+          "amount": 58102253,
+          "amp": 2.47,
+          "chg": -0.89,
+          "delta": -0.855
         }
       ]
     },
@@ -61287,10 +61299,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 54.74,
-      "changePct": 0.57,
-      "volume": 726323,
-      "amount": 39928641,
+      "price": 54.075,
+      "changePct": -1.21,
+      "volume": 298146,
+      "amount": 16098279,
       "klines": [
         {
           "d": "2024-01-02",
@@ -69919,6 +69931,18 @@
           "amp": 1.64,
           "chg": 0.57,
           "delta": 0.31
+        },
+        {
+          "d": "2026-11-12",
+          "o": 53.5,
+          "c": 54.075,
+          "h": 54.75,
+          "l": 53.11,
+          "v": 298146,
+          "amount": 16098279,
+          "amp": 3,
+          "chg": -1.21,
+          "delta": -0.665
         }
       ]
     }
@@ -69929,9 +69953,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 25466.19,
-      "changePct": 1.6,
-      "volume": 10472994560,
+      "price": 25497.16,
+      "changePct": 0.12,
+      "volume": 5399002112,
       "amount": 0,
       "klines": [
         {
@@ -78561,6 +78585,18 @@
           "amp": 1.29,
           "chg": 1.6,
           "delta": 400.32
+        },
+        {
+          "d": "2026-11-12",
+          "o": 25092.11,
+          "c": 25497.16,
+          "h": 25597.23,
+          "l": 25068.28,
+          "v": 5399002112,
+          "amount": 0,
+          "amp": 2.08,
+          "chg": 0.12,
+          "delta": 30.97
         }
       ]
     },
@@ -78569,9 +78605,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 86.58,
-      "changePct": 0.06,
-      "volume": 32526,
+      "price": 87.68,
+      "changePct": 1.33,
+      "volume": 159016,
       "amount": 0,
       "klines": [
         {
@@ -87457,14 +87493,14 @@
         {
           "d": "2026-11-12",
           "o": 86.5,
-          "c": 86.58,
-          "h": 87.54,
-          "l": 85.2,
-          "v": 32526,
+          "c": 87.66,
+          "h": 87.83,
+          "l": 85.13,
+          "v": 159000,
           "amount": 0,
-          "amp": 2.7,
-          "chg": 0.06,
-          "delta": 0.05
+          "amp": 3.12,
+          "chg": 1.31,
+          "delta": 1.13
         }
       ]
     },
@@ -87473,8 +87509,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 102.88,
-      "changePct": -0.04,
+      "price": 103.2,
+      "changePct": 0.27,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -96457,14 +96493,14 @@
         {
           "d": "2026-11-12",
           "o": 102.91,
-          "c": 102.88,
-          "h": 103.09,
-          "l": 102.82,
+          "c": 103.2,
+          "h": 103.21,
+          "l": 102.8,
           "v": 0,
           "amount": 0,
-          "amp": 0.26,
-          "chg": -0.04,
-          "delta": -0.04
+          "amp": 0.4,
+          "chg": 0.27,
+          "delta": 0.28
         }
       ]
     },
@@ -104787,14 +104823,70 @@
   ],
   "news": [
     {
-      "id": "1616442197",
-      "title": "碳酸锂跌回9万元！电池大厂排产下降消息压制锂价 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWdjeEVEa2xxenREdHpyLVJiYVJSQnpCVVhlcTRFOEdaSGd0U09aM2txai1vSHc2eHNQOVVkaU5IWmlzbGtrNkdVVVdUbmdKdVJMVk9iYU1WRms1bzUzUHZBT3pHV0VqQkZVWWluREgzbVZFbmR6dF9pdkUzRkZ5QkZVTVZ1T0gy?oc=5",
-      "pubDate": "2026-11-11 10:25:06",
+      "id": "1630496282",
+      "title": "金属涨跌互现 碳酸锂领涨 沪铝紧随其后 沪金、纽沪银铂铁矿跌幅居前【SMM日评】 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hQkdBRGhNRWc5QVlKYzFWX1gxekVURXBWb2JCRmhQZUFsc19PYm1tWGstUlpZTEdEYkROaGI3Z0FPMkRsUlNGNkNsZGo3dFFIRVRPT1NSYkRCUjhPbHgzOEttdXZ0SXI1M1R1bUxqTmU3UQ?oc=5",
+      "pubDate": "2026-11-12 07:24:23",
+      "author": "上海有色金属网",
+      "summary": "金属涨跌互现 碳酸锂领涨 沪铝紧随其后 沪金、纽沪银铂铁矿跌幅居前【SMM日评】 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3292335968",
+      "title": "碳酸锂主力合约日内涨超3.00% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4c2xGdjdiUDZkcXhOaktid2M1U0J3VmVaWmtvZlQ2dTVxZ09DS3c4cVJ0LUZrWlNsaXRtbktNSFhrNl9tVGx1NE0zTktXd2t2ck9CLWFxbmlJUUhxU09HZjFMcw?oc=5",
+      "pubDate": "2026-11-12 06:49:37",
+      "author": "东方财富",
+      "summary": "碳酸锂主力合约日内涨超3.00% 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3587333181",
+      "title": "碳酸锂主力合约日内涨超2.00% - 东方财富",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FeGFFRnRzUHJDLXFUTk5QMVhuYTFVblhyQ3h4SDZtSHNnLTV0U1RUMy1kUE1rY0pHelpmU1lnM3BNeVg0LWF0UDVkSzVBV2x3YXBWTTNsNFFBSlRYRk1vYw?oc=5",
+      "pubDate": "2026-11-12 06:43:51",
+      "author": "东方财富",
+      "summary": "碳酸锂主力合约日内涨超2.00% 东方财富",
+      "lang": "zh",
+      "source": "东方财富",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "486534316",
+      "title": "雅化集团：自持并投产的锂资源基地主要为津巴布韦Kamativi锂矿，参股李家沟锂矿 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY0RTN0Jxbmt0b2RRV0djTFdHMXhtOHhmeWJwTFREU3FrWEIzbnpiWC1CWU1ycEpNejc3Vzg4N3l4VzJMdVdoWTZ5WHhzWFpCQjhfTFNiYjQ4ZUs3NkRGT1l5VHBhRU1uTExQWmRPbkZhdF9nTU50UGZkdFBiY3YzUENlMkRpMlhlZVJ4Zg?oc=5",
+      "pubDate": "2026-11-12 05:00:00",
       "author": "Sohu",
-      "summary": "碳酸锂跌回9万元！电池大厂排产下降消息压制锂价 Sohu",
+      "summary": "雅化集团：自持并投产的锂资源基地主要为津巴布韦Kamativi锂矿，参股李家沟锂矿 Sohu",
       "lang": "zh",
       "source": "Sohu",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3627859467",
+      "title": "广期所发布多晶硅期货PS2711合约、碳酸锂期LC2711合约有关事项 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KYURwbkFRbmV0UEgyWnNCWmJOZXRGcGJxOWpGOFNtM2NjMk5vUTNqYW1fUjhITkhCSGZzVUpPSU5GbmhqZVZUOURQTTIxaUdEbGxWZS1yb19sblBWRnZteEdyVHBwQXdVeWoxQW5HYW80RGJJcEtGeA?oc=5",
+      "pubDate": "2026-11-11 18:56:42",
+      "author": "新浪财经",
+      "summary": "广期所发布多晶硅期货PS2711合约、碳酸锂期LC2711合约有关事项 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
       "categories": [
         "demand"
       ],
@@ -104823,20 +104915,6 @@
       "summary": "Tozero announces first delivery of recycled lithium carbonate to customers electrive.com",
       "lang": "en",
       "source": "electrive.com",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "4202872400",
-      "title": "How Elevra Lithium (ASX:ELV) Used a More encouraging Lithium Price and Lower Costs to Build a Net Cash Position - Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUlFBLVFIQWhPSzZvVFdHNTd1djlaTGtiWUh2LU52MGpub3V0S1VkaldLTXFCN0RtcHNoLUwtT0E5SlctSm9HZG13SHEzMTVLQ29pb2xDQnNOYTZUaVdTLVMtTHMtYzVHeGR5OGp3WHBaOVJ1aVVvYjVmN2JQZWFaU21xZ3EtQlowWFp4dlRDeEU5NHdaVERTc1ByWWFZaFBlczJjRG9mSjU0Nk5Ecy1ZLUtEamp5ZGNPdWlvZlV3Z1htb29iRVJpSHBnZzZRdmJUTGNzaGs4Z0tPUVE?oc=5",
-      "pubDate": "2026-11-11 07:45:00",
-      "author": "Kalkine",
-      "summary": "How Elevra Lithium (ASX:ELV) Used a More encouraging Lithium Price and Lower Costs to Build a Net Cash Position Kalkine",
-      "lang": "en",
-      "source": "Kalkine",
       "categories": [
         "demand"
       ],
@@ -104885,20 +104963,6 @@
       "sentiment": 0
     },
     {
-      "id": "1721166136",
-      "title": "重庆潼南打造中国西部“城市锂矿” - 中国新闻网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBObG9qek83d0RuU2hGQXRPanhuSGFNOXZ5cjFTSFVONVlLT2x5OVJCbVFEM1dfSS1oMk8zbWVmZVROT2EzOFg5MEs0d1ZWbC0xaHdPMHpJVFFXaFNvVUZOdlE2aUlzcEdX?oc=5",
-      "pubDate": "2026-11-09 10:07:04",
-      "author": "中国新闻网",
-      "summary": "重庆潼南打造中国西部“城市锂矿” 中国新闻网",
-      "lang": "zh",
-      "source": "中国新闻网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1219772248",
       "title": "期货收评：碳酸锂暴跌近5%！枧下窝复产引爆供应恐慌 苯乙烯重挫跌超3% - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YeDRXZnAxRy1SU1doSzRCTFgyb1Zob3NYQy1QTkFfazhGR01nUkZiVUY2eTdmV3NLOW1OVEdhX0d2V1RuLUxyZUlPNjRiZWRVa2UyYnBBSTRxeFJaZmc?oc=5",
@@ -104911,20 +104975,6 @@
         "supply"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "2632280598",
-      "title": "A股异动丨锂矿股集体下跌，亿纬锂能跌超5%，碳酸锂主力合约跳水跌超4% - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RFZZbGlHTVFqOEdnQ3hLZzI0bWhMeW51Y29oZWxJVklEQ20yVWtFeXNiSWphQlAtVlJFNmtQY2d5TzUzTHQ3Yks5N3BJdlJIeWZRdW9TV0dJQ0s2MU1UOWwwUHR3SDJvZUNzVFI5QWNwdw?oc=5",
-      "pubDate": "2026-11-09 05:41:35",
-      "author": "金融界",
-      "summary": "A股异动丨锂矿股集体下跌，亿纬锂能跌超5%，碳酸锂主力合约跳水跌超4% 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
     },
     {
       "id": "3833533227",
@@ -104955,20 +105005,6 @@
       "sentiment": 0
     },
     {
-      "id": "1864563954",
-      "title": "广期所发布氢氧化锂期货和氢氧化锂期权合约及相关规则 - Jiemian.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45bHBDOFpLdUcteUcxcFBTNTh1UTRoQV9ycTg0VW96MjRaLWJDLUt6eklKcjZCaDMzWjBrc0toTlgydW5TVlVCei1vSUN4a3ZDQ29nZjhHTEw?oc=5",
-      "pubDate": "2026-11-06 11:05:01",
-      "author": "Jiemian.com",
-      "summary": "广期所发布氢氧化锂期货和氢氧化锂期权合约及相关规则 Jiemian.com",
-      "lang": "zh",
-      "source": "Jiemian.com",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3659279567",
       "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
@@ -104983,15 +105019,16 @@
       "sentiment": 0
     },
     {
-      "id": "2606866468",
-      "title": "碳酸锂 期现双涨 - 东方财富",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zcjBKa1M4MEd1R3FMVW1ZSzlxakhaMFdLV1dRVWlYWUdoY3NkTHQtZ1NLbDU5VlV2UkFyeE9xclgzOXJzLXZLVFlWYlIxc2NnRkVPel9hZUV2VUhZNnJBZGl0S3VTQQ?oc=5",
-      "pubDate": "2026-11-06 06:05:08",
-      "author": "东方财富",
-      "summary": "碳酸锂 期现双涨 东方财富",
-      "lang": "zh",
-      "source": "东方财富",
+      "id": "1870303084",
+      "title": "Citi slashes lithium price forecast by 40% on lower demand - Mining.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUpCT3pSeFQzWlNNeWROUkRhazM2aDV2MmpwcVlxZ0VrMndpVV8wdVM1Z2dTeWtzUy1oenpUMXVTNDZEMFdnTF82YVRRSDg0Q0l5a2dzdUFkSWlaWWdIR3Racld0VWxObUdFbkVqMm0yMkpfNFZjU0J2bkJRSWlxYTF2OElEZl9W?oc=5",
+      "pubDate": "2026-11-02 08:00:00",
+      "author": "Mining.com",
+      "summary": "Citi slashes lithium price forecast by 40% on lower demand Mining.com",
+      "lang": "en",
+      "source": "Mining.com",
       "categories": [
+        "supply",
         "demand"
       ],
       "sentiment": 0
@@ -105042,21 +105079,6 @@
       "sentiment": 0.3333333333333333
     },
     {
-      "id": "2735043602",
-      "title": "Lithium Mining Market | Global Market Analysis Report - 2035 - Future Market Insights",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxWXZ3OWJiSl81UDdwcjQtUGt4TlBuOG1nVld3UWZzYXdlRlkwN0xyNjVJV1dtNnBRdXpObzM4Tml0dDRONmRwdjBDdEdpWnUwcVZ2VXhYd0puZ3FyYVF6Rm0tQVBXNWcxR3JjUXBoRG1qRWdH?oc=5",
-      "pubDate": "2026-05-18 07:00:00",
-      "author": "Future Market Insights",
-      "summary": "Lithium Mining Market | Global Market Analysis Report - 2035 Future Market Insights",
-      "lang": "en",
-      "source": "Future Market Insights",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3847838595",
       "title": "USA: Boom in lithium mining across Nevada is violating the rights of Indigenous Peoples - Amnesty International",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0JPb1I5eEswZlZwRHQtNm5XZDdIV2V0TVluUDNaT3pQY0VkQWJGZWduLWFoQUJhcXZaUnpRMXFNYUtrUEFNbl9ZY1VCWDB4dWZNbG9rR0t3Z2pPNW5QaGFEdnF2aGJSWXl2aUFOUWN6N2lPa09RNzI4OHVtZ0xKZU4tVmVScnJhMmtMSnU1dkxzbGdTUzZIWDJPSEE4UHdMSlltN3c2MWNhVnQ4VjhDd0pTX0VRNTNXYmc2UTFzR3VfanMxc3hSOUVfeEdIRWc?oc=5",
@@ -105068,6 +105090,21 @@
       "categories": [
         "supply",
         "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2530308416",
+      "title": "When Water Meets Rock: Exploring Water Quality Impacts From Legacy Lithium Mining in North Carolina - Nicholas School of the Environment | Duke University",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUm8tMHp6cHVTbWhIMktNUjZHMFFSSHc0WjQ1Q1VUVzYxRFVNUVBzbkhZRlg3XzU1V0dQWVJXWl96WEZZY2tfLU9RWkhfMHFIUldOWXRWbjhydzNoZ2gxLUVFV2laUUxBaFRVRHJzZ2tsV0JGS0s5RWNfY055YkJkLXIxazVGaVA0SW03WUdlMkZNY1FEaGZ4U2k2WkZKWVpGM2xkNGVTdTRDdmZ2SGpna0VBS1VSanppVlptNFlB?oc=5",
+      "pubDate": "2026-02-05 08:00:00",
+      "author": "Nicholas School of the Environment | Duke University",
+      "summary": "When Water Meets Rock: Exploring Water Quality Impacts From Legacy Lithium Mining in North Carolina Nicholas School of the Environment | Duke University",
+      "lang": "en",
+      "source": "Nicholas School of the Environment | Duke University",
+      "categories": [
+        "environment",
+        "supply"
       ],
       "sentiment": 0
     }
