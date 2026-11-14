@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:08:26.256Z",
+  "generatedAt": "2026-11-14T00:24:26.560Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2441,7 +2441,7 @@
   },
   "spot": {
     "price": 92350,
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "dayPct": 1.88,
     "monthPct": -14.69,
     "yearPct": 8.46,
@@ -52730,10 +52730,10 @@
       "name": "美国雅保",
       "code": "ALB",
       "role": "国际锂业",
-      "price": 93.69,
-      "changePct": -1.22,
-      "volume": 543434,
-      "amount": 50801512,
+      "price": 93.53,
+      "changePct": -1.39,
+      "volume": 1177629,
+      "amount": 110185789,
       "klines": [
         {
           "d": "2024-01-02",
@@ -61377,15 +61377,15 @@
         },
         {
           "d": "2026-11-13",
-          "o": 95.11,
-          "c": 93.69,
+          "o": 95,
+          "c": 93.53,
           "h": 95.5,
           "l": 92.64,
-          "v": 543434,
-          "amount": 50801512,
+          "v": 1177629,
+          "amount": 110185789,
           "amp": 3.02,
-          "chg": -1.22,
-          "delta": -1.16
+          "chg": -1.39,
+          "delta": -1.32
         }
       ]
     },
@@ -61395,10 +61395,10 @@
       "name": "智利矿业化工",
       "code": "SQM",
       "role": "国际锂业",
-      "price": 53.55,
-      "changePct": -0.63,
-      "volume": 250348,
-      "amount": 13391152,
+      "price": 53.61,
+      "changePct": -0.52,
+      "volume": 470128,
+      "amount": 25172655,
       "klines": [
         {
           "d": "2024-01-02",
@@ -70043,14 +70043,14 @@
         {
           "d": "2026-11-13",
           "o": 54.3,
-          "c": 53.55,
+          "c": 53.61,
           "h": 54.3,
           "l": 52.98,
-          "v": 250348,
-          "amount": 13391152,
+          "v": 470128,
+          "amount": 25172655,
           "amp": 2.45,
-          "chg": -0.63,
-          "delta": -0.34
+          "chg": -0.52,
+          "delta": -0.28
         }
       ]
     }
@@ -70061,9 +70061,9 @@
       "secid": "100.NDX",
       "name": "纳斯达克",
       "code": "NDX",
-      "price": 25142.79,
-      "changePct": -0.88,
-      "volume": 5199248640,
+      "price": 25136.27,
+      "changePct": -0.91,
+      "volume": 7740442368,
       "amount": 0,
       "klines": [
         {
@@ -78709,14 +78709,14 @@
         {
           "d": "2026-11-13",
           "o": 25408,
-          "c": 25142.79,
+          "c": 25136.27,
           "h": 25423.09,
           "l": 24872.41,
-          "v": 5199248640,
+          "v": 7740442368,
           "amount": 0,
           "amp": 2.17,
-          "chg": -0.88,
-          "delta": -223.3
+          "chg": -0.91,
+          "delta": -229.82
         }
       ]
     },
@@ -78725,9 +78725,9 @@
       "secid": "102.CL00Y",
       "name": "NYMEX原油",
       "code": "CL00Y",
-      "price": 88.79,
-      "changePct": 0.06,
-      "volume": 155092,
+      "price": 88.92,
+      "changePct": 0.2,
+      "volume": 181210,
       "amount": 0,
       "klines": [
         {
@@ -87625,14 +87625,14 @@
         {
           "d": "2026-11-13",
           "o": 88.79,
-          "c": 88.79,
+          "c": 88.92,
           "h": 89.64,
           "l": 87.8,
-          "v": 155092,
+          "v": 181210,
           "amount": 0,
           "amp": 2.07,
-          "chg": 0.06,
-          "delta": 0.05
+          "chg": 0.2,
+          "delta": 0.18
         }
       ]
     },
@@ -87641,8 +87641,8 @@
       "secid": "100.UDI",
       "name": "美元指数",
       "code": "UDI",
-      "price": 103.39,
-      "changePct": 0.2,
+      "price": 103.42,
+      "changePct": 0.23,
       "volume": 0,
       "amount": 0,
       "klines": [
@@ -96637,14 +96637,14 @@
         {
           "d": "2026-11-13",
           "o": 103.19,
-          "c": 103.39,
-          "h": 103.41,
+          "c": 103.42,
+          "h": 103.44,
           "l": 103.05,
           "v": 0,
           "amount": 0,
-          "amp": 0.35,
-          "chg": 0.2,
-          "delta": 0.21
+          "amp": 0.38,
+          "chg": 0.23,
+          "delta": 0.24
         }
       ]
     },
@@ -104979,6 +104979,49 @@
   ],
   "news": [
     {
+      "id": "4048468274",
+      "title": "华泰期货：碳酸锂周度库存去化，盘面区间震荡 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3JiSnkzQk9NdnN2c3RaRTNOcE5EdnA0em5ROGZncU9zSUFwSXZlbGIyRmRrSmJ5eS1YMFdOX29GSzZVZFVkV2o3ZW5nTmg3TlFvaUVsbjEyZFNYS2JhVmx6dncweldRZjgxSXltSkVGWU53VjlqM0ZVMDA3YzhZemFCeHEtbnd0d2FXOEt0aWFVcnhPMEhWX0xzdXFQODh4Nzh3U0w1d3JCeWRtenpFSQ?oc=5",
+      "pubDate": "2026-11-13 17:17:14",
+      "author": "新浪财经_金融信息服务商",
+      "summary": "华泰期货：碳酸锂周度库存去化，盘面区间震荡 新浪财经_金融信息服务商",
+      "lang": "zh",
+      "source": "新浪财经_金融信息服务商",
+      "categories": [
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1653330006",
+      "title": "广期所11月26日启动氢氧化锂期货交易，27日推出期权，保证金11%，首日涨跌停18%。 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JRnlOUHJCeThtOFJSeGtyMnVITzY5QXZSbVFHR3VMMUhjRGJtU1haSHFpMUhSRDY3VG1tZHNKQUZqVFBoSUtzb2pkdDNXTm9IUXk4eGdpS0UwclJZV1UwMGprZnZoQl9aSHpCN0s1NXhLUQ?oc=5",
+      "pubDate": "2026-11-13 14:08:39",
+      "author": "上海有色金属网",
+      "summary": "广期所11月26日启动氢氧化锂期货交易，27日推出期权，保证金11%，首日涨跌停18%。 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2608283020",
+      "title": "Lithium Mining in Jammu and Kashmir: The Environmental and Social Costs of India’s Green Energy Transition - Countercurrents",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG92UHcxVW5jd090eGE0WHR4dkI4WWhBN00xOWUzXzBSYWF4eVdpNHlyVFRpbHpISWQ5WjlBRDduZGdsc2ZnRjNKSHZTb1NfNE1BOHJyakU0aXhLU2VxaWpka05KQjEzN3oteGZDaGs2Yi14V21rbXhSOWZYVmxyazl6dlpDalRuYUVJMW1mQUdmX0RoX0RYNUR1UlZpWFp2QUZKeTBOdGtYRmRqdWNWTTM5ekstUXptckZQQzNtOEZlbWk3VklwV2RCODdZenFPV2tTOGJxSTA?oc=5",
+      "pubDate": "2026-11-13 13:03:52",
+      "author": "Countercurrents",
+      "summary": "Lithium Mining in Jammu and Kashmir: The Environmental and Social Costs of India’s Green Energy Transition Countercurrents",
+      "lang": "en",
+      "source": "Countercurrents",
+      "categories": [
+        "environment",
+        "supply"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "308063062",
       "title": "广期所：氢氧化锂期权合约11月27日起上市交易交易手续费3元/手_公司新闻_财经 - 证券之星",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWdmdPTUF6cUpuN0g1UnBPYVNPcHFtN1NUX1YyS3F2ekdWY1JNTDQtUkxhOGtveTJIR2wxNGRsaGh3cHZLYlFUOTlaM0xLVzNZMVlySlJPcFNYU2F4ZTlqYQ?oc=5",
@@ -104993,28 +105036,28 @@
       "sentiment": 0
     },
     {
-      "id": "1173040147",
-      "title": "关键矿产日报：沁源县实际出煤12座煤矿，措拉锂矿储量报告获备案 - 钢铁网",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9leENvRG9YeFh1Uk5yMnJqOC1oRl9vbEJZNDg0aHk4cUhUQWlWSXlQX1RVYm02eDRxc1hYY3ZSeDlGZTBsYWwwMFNsYzBVNVgwcDNaNUtiMnlHUjU2UDhhR1ViVHhmZnB1?oc=5",
-      "pubDate": "2026-11-13 09:08:00",
-      "author": "钢铁网",
-      "summary": "关键矿产日报：沁源县实际出煤12座煤矿，措拉锂矿储量报告获备案 钢铁网",
-      "lang": "zh",
-      "source": "钢铁网",
+      "id": "3397437365",
+      "title": "Copper, Uranium and Lithium Price Forecast: Nvidia CEO Exit Hits Copper - FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDBkMUdaZzZyVXVJLXJ3R1V2c3NNZ2t3clFOZzRXWUl3dXdsbkZaUGtSSE40emJfMm1McVV4Q1ZMUWZWQnNjLXhaRjBCUmVUS09mcUFpd1JjWHNoTWdqRk9vdUVNd3NvNmlldXBWMGdaRlU4ZjJBQWpvQXlEbnRuNkRCVVdoUmVzM0VpVzhTQWdzRFhhYWtNbUJVOVhJVG5MWVhGUDZVcm9EeDVKdXFBNFV1bjlrR2VOREQwOQ?oc=5",
+      "pubDate": "2026-11-13 08:38:05",
+      "author": "FXEmpire",
+      "summary": "Copper, Uranium and Lithium Price Forecast: Nvidia CEO Exit Hits Copper FXEmpire",
+      "lang": "en",
+      "source": "FXEmpire",
       "categories": [
         "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "3397437365",
-      "title": "Copper, Uranium and Lithium Price Forecast: Nvidia CEO Exit Hits Copper - FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMDBkMUdaZzZyVXVJLXJ3R1V2c3NNZ2t3clFOZzRXWUl3dXdsbkZaUGtSSE40emJfMm1McVV4Q1ZMUWZWQnNjLXhaRjBCUmVUS09mcUFpd1JjWHNoTWdqRk9vdUVNd3NvNmlldXBWMGdaRlU4ZjJBQWpvQXlEbnRuNkRCVVdoUmVzM0VpVzhTQWdzRFhhYWtNbUJVOVhJVG5MWVhGUDZVcm9EeDVKdXFBNFV1bjlrR2VOREQwOQ?oc=5",
-      "pubDate": "2026-11-13 08:25:58",
-      "author": "FXEmpire",
-      "summary": "Copper, Uranium and Lithium Price Forecast: Nvidia CEO Exit Hits Copper FXEmpire",
-      "lang": "en",
-      "source": "FXEmpire",
+      "id": "1577787862",
+      "title": "广期所：氢氧化锂期货合约自11月26日起上市交易 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1lYQ3hvVGZxVWczbEhaZUV6eUVPd0g3NzBMRUY0NTItZ2I3N1VNN0JvOU5QVzhUT0lIZzhYZWJMUnZXWjRuR2hIbnRKVWRobktDT3BReWtmV2VYV2tSR3Z1LXhBU055ZzFnYlhKdmJ4X3lWOWxPd1VTMHA3cWF3QkctUGdpR1Q2Q2paaA?oc=5",
+      "pubDate": "2026-11-13 08:31:00",
+      "author": "Sohu",
+      "summary": "广期所：氢氧化锂期货合约自11月26日起上市交易 Sohu",
+      "lang": "zh",
+      "source": "Sohu",
       "categories": [
         "demand"
       ],
@@ -105035,34 +105078,6 @@
       "sentiment": 0
     },
     {
-      "id": "3026431514",
-      "title": "广期所：氢氧化锂期货合约自11月26日起上市交易 - 金融界",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DY3RUTGY5bVdnMXJrTmp3Sld1M3lXcUhDX213VXZRMG1Rb2VmRHI0N3h5SlQzdWNaM2l5SVVldkd5NGRsbFUxcGFPV2QtbTNBSFhXb3cyRlVwVURKZVFFWWZzUWswYUtMRkIwQ1VnRQ?oc=5",
-      "pubDate": "2026-11-13 08:11:13",
-      "author": "金融界",
-      "summary": "广期所：氢氧化锂期货合约自11月26日起上市交易 金融界",
-      "lang": "zh",
-      "source": "金融界",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1128265324",
-      "title": "金属多飘绿 碳酸锂、沪锡领涨 沪金银钯一同下挫 欧线集运大涨 【SMM日评】 - 上海有色金属网",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tZkE4R1VraThBTURNeDRKMDlHWUp2elZyQm4xXzhqOUVmNVg2bmkyVlE5MG1OdnFqOXdZRldFWTI4MFJ5NHlDR1QtdjJ5OG5kb1A2TWlSZG01M1pYRjJvZVE3QWF5RXNFZGdqbXlIWnRXdw?oc=5",
-      "pubDate": "2026-11-13 07:35:09",
-      "author": "上海有色金属网",
-      "summary": "金属多飘绿 碳酸锂、沪锡领涨 沪金银钯一同下挫 欧线集运大涨 【SMM日评】 上海有色金属网",
-      "lang": "zh",
-      "source": "上海有色金属网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "2207541843",
       "title": "Mysteel解读：碳酸锂现货偏弱，价格低位震荡 - 七禾网",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVWUJsNElLZ2JMZW11M1pDQ3NDakctRnhBWEFkZDdKXzlPSlRwcDRwYl81RXk1RzV5VTFFME5SVmpXYjV3LUkwUTlYeGJDV2lkTVFTQw?oc=5",
@@ -105071,6 +105086,20 @@
       "summary": "Mysteel解读：碳酸锂现货偏弱，价格低位震荡 七禾网",
       "lang": "zh",
       "source": "七禾网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3769702257",
+      "title": "天齐锂业措拉矿区锂矿资源储量核实报告通过评审备案！ - 世纪新能源网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwbzlTNlgxaERIMFh1bTRURGxTWkZOa0hCOVJySnhOWlc1U0FtbW5GbUF2ZjQ0Q2JIRExoeGtHU0Y4OHV6T0dGN2tRNTRmVGJxdEFSZQ?oc=5",
+      "pubDate": "2026-11-13 06:41:03",
+      "author": "世纪新能源网",
+      "summary": "天齐锂业措拉矿区锂矿资源储量核实报告通过评审备案！ 世纪新能源网",
+      "lang": "zh",
+      "source": "世纪新能源网",
       "categories": [
         "demand"
       ],
@@ -105091,20 +105120,6 @@
       "sentiment": 0
     },
     {
-      "id": "884453751",
-      "title": "天齐锂业：措拉矿区锂矿资源储量核实报告通过评审备案 探明资源量432.1万吨 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmxfNENicmVvSnYxVFJxUWZMU0kteFVvV1llZ1ZWSEgwUkcyVG1hQlk3dXVDRGdrWEpuekExZ0FxempvZkk0UjJrb2R5ZnFTbm11b0d0X3plQUZvdkdnNXNFM0hQMWJDSlBKTHhiOW9FYlJBcmtaWkJDTkVOQUMydkJHTy1hNW4yRjg0aQ?oc=5",
-      "pubDate": "2026-11-13 04:01:00",
-      "author": "Sohu",
-      "summary": "天齐锂业：措拉矿区锂矿资源储量核实报告通过评审备案 探明资源量432.1万吨 Sohu",
-      "lang": "zh",
-      "source": "Sohu",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "3425996089",
       "title": "Can lithium mining take off in Europe? - Chemical &amp; Engineering News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01nb3B6SjJnSXo3ZzJDOXVMWlNsdm9VT0RzTjFFRGd6ankwc2U4OUtKMkwxWHVOZVphUU1sMFd2cFRPR2M2eF9ITG1qQldvbkQ5WTdIZjcycGlaNi1fT1NIc2VLMjN2eVhfQ0FZdlVZTE1NSWhnbUJIY1Ntd3hETm5DRVl5SzVQVHRzbGhuSmlCRVlYUFNmdlM0SQ?oc=5",
@@ -105119,30 +105134,30 @@
       "sentiment": 0
     },
     {
-      "id": "946979499",
-      "title": "China's lithium carbonate prices fall 7.2%, reports InfoLink - Solarbytes",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTTFCTWFBM1pXclJwUDM2dHRPWHN2ZndzNWQ0VzBPYjBmOXpvb1VVcDVyZDM1ZVJIYjR4UkVkdHByRi1mdTFKNkdOcERPTllWYmlDT1NEb1Nla28zRjlJQ24zY1lKclNZTDBkWHAtT3haQ1BMSkZqSl8tSXdfMHN2MFdWaUJtRnBueU13WHlITHU2OXJqTnNJWnhTSU0tb2QxQ1hOLUhYdTN6bUxQeWRGY0taVjl4NkwtZ3N0RGxvcXU4MURMSlNJc1RpSW5tYldBOXkyWXhraHU?oc=5",
-      "pubDate": "2026-11-11 10:15:24",
-      "author": "Solarbytes",
-      "summary": "China's lithium carbonate prices fall 7.2%, reports InfoLink Solarbytes",
+      "id": "3659279567",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
+      "pubDate": "2026-11-11 08:00:00",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
       "lang": "en",
-      "source": "Solarbytes",
+      "source": "CME Group",
       "categories": [
-        "demand"
+        "macro"
       ],
       "sentiment": 0
     },
     {
-      "id": "1338936508",
-      "title": "Tozero announces first delivery of recycled lithium carbonate to customers - electrive.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzMwek9zSl9JZ0tNVXB1aG1LX2UwekdwMTRocG5mZkE4OUt2WWtUaXZnUHljQmxiM3dXNHdVNTNzdWRmZWthVUNfNG1WdXl1cXd4SHUzOVhTU3hZejB5UnBieGMzSGhRdk1UMDNETHcwWGx1LTJZV0dJOUc0Z3Z3WTBiaW5EOGRoZ0pua05BZzNWZmo1WGxBMUg2OEUwNnBIMEtaLVZESkdseWp0andpcGZ3?oc=5",
-      "pubDate": "2026-11-11 10:01:21",
-      "author": "electrive.com",
-      "summary": "Tozero announces first delivery of recycled lithium carbonate to customers electrive.com",
+      "id": "3918366926",
+      "title": "Keynote: The Lithium Price Cycle - Benchmark Mineral Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTlFdU9oSjd3emh5cm5XRlpKRzR5c1UwZmstUnctNEVPSHRUTmRPS09HRzFHQXNqNXpOZENCU3pWM0JmOE5SSUREQkN3TV9XQ29XOG96eVI2b0ZDUVFDVWNZNTNUbm8ydEZTa3NCZTJKNUxvLTVvbzlpN0lIc2RZdFFJbVQtNG8?oc=5",
+      "pubDate": "2026-11-11 08:00:00",
+      "author": "Benchmark Mineral Intelligence",
+      "summary": "Keynote: The Lithium Price Cycle Benchmark Mineral Intelligence",
       "lang": "en",
-      "source": "electrive.com",
+      "source": "Benchmark Mineral Intelligence",
       "categories": [
-        "demand"
+        "supply"
       ],
       "sentiment": 0
     },
@@ -105198,21 +105213,6 @@
       "lang": "en",
       "source": "Brave New Coin",
       "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3454515664",
-      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
-      "pubDate": "2026-09-15 15:14:30",
-      "author": "International Institute for Sustainable Development",
-      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
-      "lang": "en",
-      "source": "International Institute for Sustainable Development",
-      "categories": [
-        "supply",
         "demand"
       ],
       "sentiment": 0
