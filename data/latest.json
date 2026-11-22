@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T15:30:43.974Z",
+  "generatedAt": "2026-11-22T21:29:08.331Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -105752,6 +105752,35 @@
   ],
   "news": [
     {
+      "id": "1514519437",
+      "title": "Under pressure lithium miners put faith in low Chinese stockpiles - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1kzT2M1WmRtRVJtMmZCazlzOEo1eUVLcll5MTlpMlVnYlFDWDVwWk5BaGNlbllpMUlMbnVWNURNVkNFMVk1U1A5QjFKVWt3ZG9aZEhFbWRVX2cwb2xUZUVVSXBnbzB4Y1h0d0V6Q0FFdG4xdm1rWHVyaGt4UVJBazNZa3g1ZkF3VHY5M0J2UUVHS2hxMlFsaW03enRuZWRJT2kwUmYxZS13OGpuUmJaVmpOWngxVDdjbEE?oc=5",
+      "pubDate": "2026-11-22 05:00:00",
+      "author": "AFR",
+      "summary": "Under pressure lithium miners put faith in low Chinese stockpiles AFR",
+      "lang": "en",
+      "source": "AFR",
+      "categories": [
+        "supply",
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "811490489",
+      "title": "广期所发布氢氧化锂期货交割业务有关事项 - 新浪财经",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYXBTNTRGY1R5ZWdIekxFLWIzRHplcFhzcUtNM1hUdUdrd05ySWQzRFVxel9FUkVob0RDd0Q5UkxlUW9ZTDhQcVlScjVsVzZRVDlhekUtakdlbHdXY3lCV09XWUViUWtIc182Y1J5NmJ6VGhuTm0yenpaZlJWdVRhZGt5UFNRb1pHUWE0Q2dzdDd0UQ?oc=5",
+      "pubDate": "2026-11-21 07:07:30",
+      "author": "新浪财经",
+      "summary": "广期所发布氢氧化锂期货交割业务有关事项 新浪财经",
+      "lang": "zh",
+      "source": "新浪财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "1669714292",
       "title": "成本端、收益端双双改善 储能项目盈利能力有望提升 - zqrb.cn",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlWl84T09VLWJvNXVzZW9CZmxQQkRlbXQzZGxUT2h0MFhTeU4yTndCRlBWOExRdzdENzhnMnRoY2Vpc3pjcUNtVzR0WVVPdzZVZWVDUEVXTDZqaGI5M3RVZWNlbFg0ZDcxVWJCbDdUMHRjRUc4VkhNbw?oc=5",
@@ -105809,6 +105838,20 @@
       "sentiment": 0
     },
     {
+      "id": "1364846486",
+      "title": "方正中期:《碳酸锂日度策略报告》 - 发现报告",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vcG5acTc0dGVfZkUxaDViQnNNU0E4MTE4MmcxQngxemVSVDhXNWJ0Q2JjYWNSR1RoUlhmNjdOa1ZVNUg0RWVOMjcyWU5LYUk4?oc=5",
+      "pubDate": "2026-11-20 08:00:00",
+      "author": "发现报告",
+      "summary": "方正中期:《碳酸锂日度策略报告》 发现报告",
+      "lang": "zh",
+      "source": "发现报告",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "609277201",
       "title": "碳酸锂跌到8万，锂矿老板为何还在扩产 - 同花顺财经",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nVjNxX0tPVHhCQkEtR0UyYkxMNWdGdmd5NHBQVklCa21IMms3YVY1S29kZVFzTTUwcktkakFoMjBYb0NUbFNVUnhZWUVnMHU4emVNVElIRndmV2tRN2Jjaw?oc=5",
@@ -105823,20 +105866,6 @@
       "sentiment": -0.3333333333333333
     },
     {
-      "id": "3091356948",
-      "title": "锂矿龙头出手！赣锋锂业拟最高4亿元回购A股“护盘”！股价较年内高点回撤超60% - https://www.mrjjxw.com/",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZjdaVzlmc2dTX20xcGdUZ0RVZU4tcERPdzJEYlZrTVdVV1BiR19ITHVkQU9vRmMxNUhHTDFic09GY3hjbWNBSU1uMlg3VnhfOEZOVEhxTkR3dkEtRVozV0NwaGFPQQ?oc=5",
-      "pubDate": "2026-11-19 14:12:35",
-      "author": "https://www.mrjjxw.com/",
-      "summary": "锂矿龙头出手！赣锋锂业拟最高4亿元回购A股“护盘”！股价较年内高点回撤超60% https://www.mrjjxw.com/",
-      "lang": "zh",
-      "source": "https://www.mrjjxw.com/",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
       "id": "1155758612",
       "title": "SMM：2027碳酸锂供需分析及价格展望【上海金属周】 - 上海有色金属网",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85RlpqNWRhcUpoRzNBWVRZV18wUVpERWFzRl9nZ0szb285Um01NE83bHljaVlUQkFldF9TbVNRQ2ZHaXl1MXJDUlZJck4tUHQySS1GS0YzMDFPUkpZU1lpSm5MZ2hjS01SdWRPQnQyYmVuUQ?oc=5",
@@ -105847,6 +105876,20 @@
       "source": "上海有色金属网",
       "categories": [
         "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3659279567",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Overview - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWwzUmFwblEwOWo1Z2tfbkR2alJSblFIVVkwMmJEMkN5REkyUGpYWDgzQk9GajVmU0lRMmxhcERIYXQ1SUNoS29kNkNMSDhLX05WdWFiM1FJWTVKYUpndUo5NTlTOXR6MmIxd2hRVkNtYThCR21maTRkcnlmQWo2Q2lrVklEN1U1a3FfaEZBSFhWQkFWYU9HYWdUSC1oZw?oc=5",
+      "pubDate": "2026-11-18 08:00:00",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Overview CME Group",
+      "lang": "en",
+      "source": "CME Group",
+      "categories": [
+        "macro"
       ],
       "sentiment": 0
     },
@@ -105903,34 +105946,6 @@
       "source": "21财经",
       "categories": [
         "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "595825055",
-      "title": "宜春两大锂矿迎来环评获批，枧下窝锂矿有望11月复产？宁德时代暂未回应 - 凤凰网",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NdzhjZHlzN0JianJ2c0JMQkhxQzZqb1lCeWNqeGxrR2lIVVZILVRQaG5wUUJhRGFtREE1aUxpMmR2b1RVVVJiUmFR?oc=5",
-      "pubDate": "2026-11-17 03:41:05",
-      "author": "凤凰网",
-      "summary": "宜春两大锂矿迎来环评获批，枧下窝锂矿有望11月复产？宁德时代暂未回应 凤凰网",
-      "lang": "zh",
-      "source": "凤凰网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3425996089",
-      "title": "Can lithium mining take off in Europe? - Chemical &amp; Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01nb3B6SjJnSXo3ZzJDOXVMWlNsdm9VT0RzTjFFRGd6ankwc2U4OUtKMkwxWHVOZVphUU1sMFd2cFRPR2M2eF9ITG1qQldvbkQ5WTdIZjcycGlaNi1fT1NIc2VLMjN2eVhfQ0FZdlVZTE1NSWhnbUJIY1Ntd3hETm5DRVl5SzVQVHRzbGhuSmlCRVlYUFNmdlM0SQ?oc=5",
-      "pubDate": "2026-11-12 13:11:04",
-      "author": "Chemical &amp; Engineering News",
-      "summary": "Can lithium mining take off in Europe? Chemical & Engineering News",
-      "lang": "en",
-      "source": "Chemical &amp; Engineering News",
-      "categories": [
-        "supply"
       ],
       "sentiment": 0
     },
@@ -106022,20 +106037,6 @@
         "demand"
       ],
       "sentiment": 0
-    },
-    {
-      "id": "1077313327",
-      "title": "COMMODITIES 2026: Lithium carbonate surplus to narrow; energy storage to drive growth - S&amp;P Global",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbFd4WU1vUXp3MXBaOF9NSk9MNHc3NHNRSkY0WE5WMkEwZ3Nzak44aU05alJzZi12R21UczlhYXNSbmdpX2xNdlNsQ083bGxtZnA4RFJnUllxc2JRb3JQRnhmME5JRE9JNE1Ia1pkLWhPUk5rWHROVTcwaFRSUEJjS0NoWHhBZExpX2puZmRib2NPVkRlWmlBVTlfczc3dUlRNzFvaEk4TGZfVExZTW5KSHhURURXT0o2VThZdFV0OXFwMWpzY1RWa1ZRR0JLMFN2QUZ3ZUljc281NHo1bmw4N0tIc0dJRFpiUXRwUVh5bw?oc=5",
-      "pubDate": "2026-01-09 08:00:00",
-      "author": "S&amp;P Global",
-      "summary": "COMMODITIES 2026: Lithium carbonate surplus to narrow; energy storage to drive growth S&P Global",
-      "lang": "en",
-      "source": "S&amp;P Global",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": -0.3333333333333333
     }
   ],
   "sources": [
