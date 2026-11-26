@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:30:18.184Z",
+  "generatedAt": "2026-11-26T22:32:03.564Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -106661,8 +106661,8 @@
     },
     {
       "label": "现货参考",
-      "ok": true,
-      "message": "成功"
+      "ok": false,
+      "message": "Spot source unavailable: Jina spot schema changed"
     },
     {
       "label": "新闻",
