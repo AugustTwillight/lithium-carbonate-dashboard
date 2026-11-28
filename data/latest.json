@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:10:56.022Z",
+  "generatedAt": "2026-11-28T04:50:15.802Z",
   "futures": {
     "secid": "225.lc2701",
     "name": "碳酸锂2701",
@@ -2554,7 +2554,7 @@
   },
   "spot": {
     "price": 84350,
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "dayPct": -2.03,
     "monthPct": -15.69,
     "yearPct": -10.03,
@@ -91554,14 +91554,14 @@
         {
           "d": "2024-11-01",
           "o": 103.88,
-          "c": 104.28,
+          "c": 104.32,
           "h": 104.35,
           "l": 103.67,
           "v": 0,
           "amount": 0,
           "amp": 0.65,
-          "chg": 0.37,
-          "delta": 0.38
+          "chg": 0.4,
+          "delta": 0.42
         },
         {
           "d": "2024-11-04",
@@ -91572,8 +91572,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.39,
-          "chg": -0.36,
-          "delta": -0.38
+          "chg": -0.4,
+          "delta": -0.42
         },
         {
           "d": "2024-11-05",
@@ -92682,14 +92682,14 @@
         {
           "d": "2025-03-13",
           "o": 103.59,
-          "c": 103.86,
+          "c": 103.83,
           "h": 104.08,
           "l": 103.51,
           "v": 0,
           "amount": 0,
           "amp": 0.55,
-          "chg": 0.26,
-          "delta": 0.27
+          "chg": 0.23,
+          "delta": 0.24
         },
         {
           "d": "2025-03-14",
@@ -92700,8 +92700,8 @@
           "v": 0,
           "amount": 0,
           "amp": 0.51,
-          "chg": -0.13,
-          "delta": -0.13
+          "chg": -0.1,
+          "delta": -0.1
         },
         {
           "d": "2025-03-17",
@@ -106496,6 +106496,203 @@
   ],
   "news": [
     {
+      "id": "2391950424",
+      "title": "Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery - Brave New Coin",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXlkQno5NjhrR3VzRm10T0NjRV81c1NjMzc2TE93NmRyTng3TFduN21taGc5WGhwMXJDaHBtdVBGZW5GbHJma3FSeHVQb2p0WHVXOVJKZS03Qmw1Zk9iQWJ0RTEydzc1OHRTRVVMNXNSeGQwdlBheFl4RFF0VXJiLXJJcHR2RFRVMW1oTW9kLUwwMFM5LTcweU9TdW9FcC1CdHV3eEpSVUJoZw?oc=5",
+      "pubDate": "2026-11-27 20:09:58",
+      "author": "Brave New Coin",
+      "summary": "Lithium Price Outlook as Sellers Target 80,000 Yuan After Failed Recovery Brave New Coin",
+      "lang": "en",
+      "source": "Brave New Coin",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2864750502",
+      "title": "Brazil spodumene falls to $1,105/t as lithium carbonate slips below cost - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONWlsN1BqbERjRzF6RnNOMzhBWGNSbVpDY0JnOXZrX0NSVTVrcnFKWjBfRGtMSzVYemdEYzdVeWxBNlJpRXVBbWtvVGY0VnBlSFZGUVdSNHVBUFJuaGVNTWctZUxtR2YxYTI4aHIxMUhlZWZjY3FXT0lCWUNLQXpYMXFoRzBpWVBJSHhEM3lrdEpaOWQ4TnhRendRUk1BazFyZnV0TmtTQlM3T3JLY29HQWk4ZHp2QnBlbHl5R09fdWNfWkdWek1aVk5BcUlLV2tUNTFMZlBvV19aREYx?oc=5",
+      "pubDate": "2026-11-27 19:45:00",
+      "author": "Shanghai Metals Market",
+      "summary": "Brazil spodumene falls to $1,105/t as lithium carbonate slips below cost Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3656116550",
+      "title": "氢氧化锂期货首日成交53.3亿元 - 新浪财经_金融信息服务商",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wcXlsVjhaMkpON3dnZl9OYm5WNW5zdlZYYzhLQWhlMUl5YnRONFFaTGc5cTBrMElvWW5iNWduUkJnYm1TYUZ6OTk4Nk8zN3ljbEh2NktfYkIxbU9iblZCVEF0WmthV0NUcEdSc00zLWJfdHZWMDBfdg?oc=5",
+      "pubDate": "2026-11-27 13:30:00",
+      "author": "新浪财经_金融信息服务商",
+      "summary": "氢氧化锂期货首日成交53.3亿元 新浪财经_金融信息服务商",
+      "lang": "zh",
+      "source": "新浪财经_金融信息服务商",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1369637879",
+      "title": "碳酸锂价格创年内新低，天齐锂业拟77.93亿元关联收购锂矿资产 - 虎嗅网",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPV2g3a04yU09vNE5LdVcxNjc3UC1aX0JWbmdtWVd2Wlc5ZE5aZW4tRi1SQU9zUmQydmFGdnhueHE5blMtOXVsVVhJaXh3U0xXR3VlVQ?oc=5",
+      "pubDate": "2026-11-27 11:25:25",
+      "author": "虎嗅网",
+      "summary": "碳酸锂价格创年内新低，天齐锂业拟77.93亿元关联收购锂矿资产 虎嗅网",
+      "lang": "zh",
+      "source": "虎嗅网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3746390411",
+      "title": "广期所发布关于调整多晶硅期货相关合约交易限额的通知 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZU9IZmdETExCX21aSjhjZC1XWE5ESGtHT1RpQzdZWDdaX003MVNlOF92a0xTNFNreGRRTEN1RDhUNHE2d0VHTkhQYkN2NlBRSEdJdDZtNkQyT1ZKVnlTUVloZFNtZl9lQU04NDlpN3BLQQ?oc=5",
+      "pubDate": "2026-11-27 11:04:05",
+      "author": "上海有色金属网",
+      "summary": "广期所发布关于调整多晶硅期货相关合约交易限额的通知 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2860437684",
+      "title": "氢氧化锂期货和期权在广期所上市 - Sohu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUw2V0pUamtYQnpJNV9XQWY4bVVNQTY0OHV3a0VUb3NmNGEzdFJ1aUllRjF5X2Uta21BZ0o4MVJ6emtUVnFkREZ1dVJmWWo3Q1NrNGdKeG0tem16WEQtUnBoOVlLMFMzTFpjcGtRakFYUVFEdEwyNlpjd1J4anFfUlFDQlFlMWhiTV9BeQ?oc=5",
+      "pubDate": "2026-11-27 10:24:51",
+      "author": "Sohu",
+      "summary": "氢氧化锂期货和期权在广期所上市 Sohu",
+      "lang": "zh",
+      "source": "Sohu",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3642033997",
+      "title": "氢氧化锂期货在广期所上市首日收跌7.2%，碳酸锂期货创一年多新低 - 上海有色金属网",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83LW9nMjcwdy1qY08xMV9hSnFvdjkzZVZRRkJ2dnd6cFdkQWVKbzVSRF9KaEFPOTlkbmJjS2xidVk2OWZtOU5sS252YjJFQkdoQzR1NzU1Z3BjclpBNUJRbWFDZ0REMlNucHRvUTBkMUpTQQ?oc=5",
+      "pubDate": "2026-11-27 10:11:16",
+      "author": "上海有色金属网",
+      "summary": "氢氧化锂期货在广期所上市首日收跌7.2%，碳酸锂期货创一年多新低 上海有色金属网",
+      "lang": "zh",
+      "source": "上海有色金属网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "442485904",
+      "title": "\"Lithium Hydroxide Futures Debut on GFEX, June 2027 Contract Falls 7.2%; Lithium Carbonate Hits Yearly Low\" - Shanghai Metals Market",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZUk0Q09tR0RhbDdSQS1MNWtDWnI1R2hiRml1SjQyLWJBYTRNOU5iWGliSUpjNWE1RG01aVZBSWtZelpGaE1CVzd1UjZaaUpyYnRNSDlaX09ZNWgxNGtoQWRxcUdaTnZKYlZ1emRwbnpzaTJ6Vjd3MlM0c3RIaFNjN0ZBbFJHY0hnUWFnSzFwTjRMT3FQRFpwYmhJSk5RcHJjcVp6RmF2NzA4ajVrOEFRcEVFVkYxd2pBc0NlenF2Z240SVNfanBncGp0bDlCMmYtZzF1d1VFYnAyVGRaUHNDY1lxby0xNWZLOXB4RVI2N0lPdGZHOHdwVEJXLXRrMEpKMEtHZGVXZw?oc=5",
+      "pubDate": "2026-11-27 10:07:00",
+      "author": "Shanghai Metals Market",
+      "summary": "\"Lithium Hydroxide Futures Debut on GFEX, June 2027 Contract Falls 7.2%; Lithium Carbonate Hits Yearly Low\" Shanghai Metals Market",
+      "lang": "en",
+      "source": "Shanghai Metals Market",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2807614126",
+      "title": "碳酸锂价格起落之间 锂电周期悄然换挡：三大维度重新划分竞争座次 - 财联社",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwemVWVG5wUERhczgxYXJPRVZ6bGhPRjNpUHpIV0FqY2tXUmdHdXoyOW1qV011eHNDRGllOWQ3U2ROUGJuU0ozXw?oc=5",
+      "pubDate": "2026-11-27 09:56:59",
+      "author": "财联社",
+      "summary": "碳酸锂价格起落之间 锂电周期悄然换挡：三大维度重新划分竞争座次 财联社",
+      "lang": "zh",
+      "source": "财联社",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "3022700938",
+      "title": "西藏矿业：对扎布耶二期的碳酸锂工艺及部分科研项目进行了论证_公司新闻 - 证券之星",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TUDVPLVB6dmRYaWV2eUsxbzZwSmI3dU9SY2lWeHBnMUg5Ym95SWo4bmhWY1ctc09USGt4WVhLdlNtR3RtVjA2dnNVU0o3aTRoUUljc1g2cXhiWjduSVktQg?oc=5",
+      "pubDate": "2026-11-27 08:30:25",
+      "author": "证券之星",
+      "summary": "西藏矿业：对扎布耶二期的碳酸锂工艺及部分科研项目进行了论证_公司新闻 证券之星",
+      "lang": "zh",
+      "source": "证券之星",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "1805039420",
+      "title": "10月电池材料进出口数据出炉 碳酸锂进口增超30% 其他环节如何【SMM专题】 - 同花顺财经",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zd1dEVWtfcXl6VWNDTkNVcVpHRTMzS19jSjN6b0RzM2cwLUVJbFQ0UlFjZDdac0piSG1IdTJMMU04ZUN3d200Slg0eW0wamx4YUZBeTU3YjJwVGhic1E?oc=5",
+      "pubDate": "2026-11-27 06:32:14",
+      "author": "同花顺财经",
+      "summary": "10月电池材料进出口数据出炉 碳酸锂进口增超30% 其他环节如何【SMM专题】 同花顺财经",
+      "lang": "zh",
+      "source": "同花顺财经",
+      "categories": [
+        "policy",
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2182176112",
+      "title": "持仓资金较峰值回落331亿元，碳酸锂期货、现货再创年内新低 - 东方财富网",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pRlhOaDJUOHJtMU9Nd0k2UlltRTV3MU5OMFlHaUNSZmpSaThpTUQxU01yajNQaVpzUVMtTnZzbnpJY1NWSFBiNkFNcktySHloNWU0TmxFLWc5QXM2ZTl6M1lFdnZqdw?oc=5",
+      "pubDate": "2026-11-26 18:40:26",
+      "author": "东方财富网",
+      "summary": "持仓资金较峰值回落331亿元，碳酸锂期货、现货再创年内新低 东方财富网",
+      "lang": "zh",
+      "source": "东方财富网",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "2606341733",
+      "title": "广期所氢氧化锂期货正式上市，新能源金属板块再添避险工具 - 21财经",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUpqQ0d2UHRsVUk1TVF0bzJLLURndFdzUy1jM3IzWGF5a2Jtdms5UlFqUjM2R0hBTWpueTB5TUlJREdVQ0J4WUQ4TE91MDdJcHJvV2w1T2VFSHZIXzlHdFhvVk5jakdnLTZzMnJxLTNqendFQVE4QUsyZDIyXzRva1Uyb3RVOXZhTGtaQUQxTQ?oc=5",
+      "pubDate": "2026-11-26 07:29:21",
+      "author": "21财经",
+      "summary": "广期所氢氧化锂期货正式上市，新能源金属板块再添避险工具 21财经",
+      "lang": "zh",
+      "source": "21财经",
+      "categories": [
+        "demand"
+      ],
+      "sentiment": 0
+    },
+    {
+      "id": "4256731783",
+      "title": "Lithium Carbonate CIF CJK (Fastmarkets) Futures - CME Group",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlhrOWx5dE5BdFpaSFNJTXJINVhoRnpBWGNzakNsdzMyWU00TjI3c0QwVWVzaUZyYWN4NXhuUzNLS3VsREo0dWFla29CblE2SjY2U0RGMDBoQjhEVGNqeW8yZG41aV8xZzBtVkgwdVdZa2NMS3pHbGYtUGliY3VnVjZCYlZfWEZyMmZPRm15eWpicnNRaFcw?oc=5",
+      "pubDate": "2026-11-24 15:29:22",
+      "author": "CME Group",
+      "summary": "Lithium Carbonate CIF CJK (Fastmarkets) Futures CME Group",
+      "lang": "en",
+      "source": "CME Group",
+      "categories": [
+        "macro"
+      ],
+      "sentiment": 0
+    },
+    {
       "id": "2840329245",
       "title": "Lithium carbonate falls back to 80,000 yuan range; lithium battery industry bids farewell to universal tax exemption, with many small and mid-sized manufacturers potentially exiting within three years - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBT3RiZWtGeFdzczZYb0h5UWdwS1llN01XeHlzeW50SkVqQnpSeF82Ui1HOEpvMHpOT0V5dUcybDhTVE9pYXAxZWVaaHZvOE5sb0FpdUZPRzdDbmRhZ0RKOHNwUU9FdmFraU55cmdaLXFNblhKeXc?oc=5",
@@ -106511,244 +106708,32 @@
       "sentiment": 0
     },
     {
-      "id": "128332354",
-      "title": "天齐锂业(09696.HK)获指定为广期所氢氧化锂期货指定交割厂库-证券之星 - 证券之星",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iMHI1MDhzTEZJUEVEVHduOERuUXBwZUQ0eml3aGdPYUpoRFdQbjEweTNJOGhtbExGRVhxRVlZOTVRUjFMdDFFTzA1Ukswckx5TTRqYU9Xc1dLTUtRZ3c?oc=5",
-      "pubDate": "2026-11-23 13:06:57",
-      "author": "证券之星",
-      "summary": "天齐锂业(09696.HK)获指定为广期所氢氧化锂期货指定交割厂库-证券之星 证券之星",
-      "lang": "zh",
-      "source": "证券之星",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2204266556",
-      "title": "斥资最高20亿元！1100亿锂矿龙头拟回购股份用于注销|盘后公告集锦 - Sohu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlE2VnRLSlZfQy1LLW5pTE11V0VxM2dhY09wdWwxUnZGajViSGxEMDZ0SHZSQmxfQ2hCZFMyOXNhU0FENmdVXzdLSU96dl83RGRIUDAxZmNLZ1lQcU4zS2FQY3hLMk9aMHltc21YckR1djByb0JOZkE3LUtxUWprcTJQY0c0MGFh?oc=5",
-      "pubDate": "2026-11-23 12:17:00",
-      "author": "Sohu",
-      "summary": "斥资最高20亿元！1100亿锂矿龙头拟回购股份用于注销|盘后公告集锦 Sohu",
-      "lang": "zh",
-      "source": "Sohu",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1679311468",
-      "title": "【市场聚焦】碳酸锂：津巴布韦把锂税\"锚\"到硫酸锂 - 新浪财经_金融信息服务商",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT19HcWs1V3lxSVBjRWZMNS1xNExHTVNMQ0taNEtycnV1eHFVel9Ya2NDYUdZaVlPOW9KN24zV3FnTjlGSXlYZ3JwNnVyVUJ6WUlJakhRUkJEU3NxTkxTWEFrZFNTUVltSkVEUl9fNFZHOW82MHZJTDJqWkY4ZGdCS3RXb3kyUHJReGlFR0tSLXZfc1phQmgxaDRkc0d4bnc5NjM5bVkwbXNWcGlPT0hBQQ?oc=5",
-      "pubDate": "2026-11-23 10:41:15",
-      "author": "新浪财经_金融信息服务商",
-      "summary": "【市场聚焦】碳酸锂：津巴布韦把锂税\"锚\"到硫酸锂 新浪财经_金融信息服务商",
-      "lang": "zh",
-      "source": "新浪财经_金融信息服务商",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2013965096",
-      "title": "锂矿储量1.27亿吨 江特电机茜坑锂矿项目进入开工准备阶段 - https://www.gessey.com/",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DSTZYa2hmNHczajBMeTc0RGhnRGV0cEtQVGZQNnNEWjFvQ1RtOEJuc0NKaTJSQWFTREYyOUtuZUlJaUVKaThUQTRfYWJCeVE?oc=5",
-      "pubDate": "2026-11-23 09:58:00",
-      "author": "https://www.gessey.com/",
-      "summary": "锂矿储量1.27亿吨 江特电机茜坑锂矿项目进入开工准备阶段 https://www.gessey.com/",
-      "lang": "zh",
-      "source": "https://www.gessey.com/",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2807614126",
-      "title": "碳酸锂价格起落之间 锂电周期悄然换挡：三大维度重新划分竞争座次 - 财联社",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwemVWVG5wUERhczgxYXJPRVZ6bGhPRjNpUHpIV0FqY2tXUmdHdXoyOW1qV011eHNDRGllOWQ3U2ROUGJuU0ozXw?oc=5",
-      "pubDate": "2026-11-23 08:44:00",
-      "author": "财联社",
-      "summary": "碳酸锂价格起落之间 锂电周期悄然换挡：三大维度重新划分竞争座次 财联社",
-      "lang": "zh",
-      "source": "财联社",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2178770293",
-      "title": "碳酸锂价格回落 市场交易逻辑向远期宽松预期切换 - 东方财富网",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82cUpMVE5JVkpoZU5XT1gtVEUwV1JXeGl1b3ZrRXh6dmlTVkxVZ2p6cjhyT2xBd1BHdjJjdFU2ekxGMmhtcUxxSUZNeWcyWTktb1d0UjdDS2ZvdS11dk9KMVAxdw?oc=5",
-      "pubDate": "2026-11-23 07:50:34",
-      "author": "东方财富网",
-      "summary": "碳酸锂价格回落 市场交易逻辑向远期宽松预期切换 东方财富网",
-      "lang": "zh",
-      "source": "东方财富网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3231632058",
-      "title": "直通公司：碳酸锂价格下行周期中，赣锋锂业最高4亿元的回购有怎样的意义？（左剑明） - 第一财经",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WVzVLVk1uR2RPSWgwQnRyZjZxd3hLZ1VIMFNzMUFaZzR1NGM1OVBKRzF5eXJBektVa2pHTEVqeHRIXzFXclFONGtWLThtVWJJSXhLWQ?oc=5",
-      "pubDate": "2026-11-23 05:48:24",
-      "author": "第一财经",
-      "summary": "直通公司：碳酸锂价格下行周期中，赣锋锂业最高4亿元的回购有怎样的意义？（左剑明） 第一财经",
-      "lang": "zh",
-      "source": "第一财经",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1275448309",
-      "title": "广期所铂期货落地后：同样 Pt99.95，品牌铂锭为什么要多付成本？ - 中华网",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6UG9qQTlaY1BjTWI4dW1yYXVHMkFWc3RZWVVrTnFKVzNjbTdiVHpJNG8xWFFjYUdTQ2gyeTBBalV2YWlBN0lTSnI0RG94amRyZDFRaGVDRXZnU29RMUE?oc=5",
-      "pubDate": "2026-11-23 05:33:47",
-      "author": "中华网",
-      "summary": "广期所铂期货落地后：同样 Pt99.95，品牌铂锭为什么要多付成本？ 中华网",
-      "lang": "zh",
-      "source": "中华网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "963165482",
-      "title": "广期所发布氢氧化锂期货交割业务通知 2027年5月1日起办理 - 观点网",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14OWdINkRtWV9YaVp2ZVN5bW5XUmNpeWllaDZXTzJKUE9Wdm9PYUh1RkJkWjRiZXd5MzRBTWF0TnA1UlFqV2ZieW1oZVlrWmtRanpIYnRDcm1ONi1yWkFSX2hB?oc=5",
-      "pubDate": "2026-11-20 09:26:04",
-      "author": "观点网",
-      "summary": "广期所发布氢氧化锂期货交割业务通知 2027年5月1日起办理 观点网",
-      "lang": "zh",
-      "source": "观点网",
-      "categories": [
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "2058501828",
-      "title": "Lithium Price Analysis as 2027 Supply Risks Clash With Weak Market Momentum - Brave New Coin",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmhGLUtBR3gzcUJfYjQ5dmxESzY5c2o0S05pYXlGZVJLSS1sbXp5cEtTMEFMMkxvbXJiRzl0TGJBT3JmcDdNcS1ub3FicXktSG5Ca2dVOGFzZnU0Z1dtN3lYdmdmUE9kTXBiMHlDbnNiWGdlWjlacWJ5WUQwQ3ZIVHJwZW1VSnlsLUdOMTliYTFLV3duNktoSjZtWFh1cEZiRlowMXI1cTd6M1FEV2c?oc=5",
-      "pubDate": "2026-11-20 08:26:59",
-      "author": "Brave New Coin",
-      "summary": "Lithium Price Analysis as 2027 Supply Risks Clash With Weak Market Momentum Brave New Coin",
+      "id": "3454515664",
+      "title": "Lithium Mining in Australia - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YbV9GSF9FUDF4M25PSEFtbzhYYV9RZ2gzdzgyMmF5a3BmclJRcy01d3h4TDdXT0FGWlliZDFrNERiR2VHajBBcU0xOXdRV01vYm5ST2F6UXcwblB4QzQ1cndRMTh4Q3V2NXhvVnRxWHp5d2s?oc=5",
+      "pubDate": "2026-09-15 15:14:30",
+      "author": "International Institute for Sustainable Development",
+      "summary": "Lithium Mining in Australia International Institute for Sustainable Development",
       "lang": "en",
-      "source": "Brave New Coin",
+      "source": "International Institute for Sustainable Development",
       "categories": [
         "supply",
-        "macro"
+        "demand"
       ],
       "sentiment": 0
     },
     {
-      "id": "609277201",
-      "title": "碳酸锂跌到8万，锂矿老板为何还在扩产 - 同花顺财经",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nVjNxX0tPVHhCQkEtR0UyYkxMNWdGdmd5NHBQVklCa21IMms3YVY1S29kZVFzTTUwcktkakFoMjBYb0NUbFNVUnhZWUVnMHU4emVNVElIRndmV2tRN2Jjaw?oc=5",
-      "pubDate": "2026-11-20 03:51:34",
-      "author": "同花顺财经",
-      "summary": "碳酸锂跌到8万，锂矿老板为何还在扩产 同花顺财经",
-      "lang": "zh",
-      "source": "同花顺财经",
+      "id": "3147601872",
+      "title": "When water meets rock: Water quality impacts from lithium mining - North Carolina Health News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVUJGblhqUGlTejBaNzNUX0ZjQy16dmRGZUhQZWxxZ2ZhN0x6b3lPT0hocnNZSGFKNnVsbXFsS0FOTHBUVHlESmRmU3c4RW9oeU5nSGFhYXE0U25EZklhRjFQcUQ1VHJ6R2xwNUF6SVVpZF9ITTdmazJ1eHpsZG5FU3dXZlNCOS16T3l6RzU1VmJQLTFYSEpId1VMMlFvUFplZDhCdDNOcG41UkNjSW0tYU9NeTdRQQ?oc=5",
+      "pubDate": "2026-06-06 07:00:00",
+      "author": "North Carolina Health News",
+      "summary": "When water meets rock: Water quality impacts from lithium mining North Carolina Health News",
+      "lang": "en",
+      "source": "North Carolina Health News",
       "categories": [
+        "environment",
         "supply"
-      ],
-      "sentiment": -0.3333333333333333
-    },
-    {
-      "id": "512504230",
-      "title": "[SMM Analysis] Average spot lithium carbonate price fell 1.1% this week, supply rebounded but destocking continued - Shanghai Metals Market",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOU0dCOG1SS3Jmd2kwSVIwX1ZQSUVUb0NXc1NxSTZlUUVINXZmX2dScnpGbU5IbzNYbkNuSUptZklQM1I5V2R6OGdad1ZqVVA2WlptTWs0aW12SFRaUnhBLWtfLXBsZVE3S2hsR3B5TnJaYms0Ui00RDh1ZzBPUURXVnFOb1pQbi1Bd3gwN2NXQWRhcDRYNkdoRTdteTMxVFBFaExDcU90MTRnMTBESHc2T1h5cV9udnRXOFNoc3NmVjgzaWNVNWV6ckFDV1BjVkpaWnpFS3V0X1RVN0dPSnpnZFI5SjRvM1N2RHVCcVN0WXhabGlkZ0VxSVkzcGpCdDR4cGYxLUVheHZpZmRQTDFrRmtB?oc=5",
-      "pubDate": "2026-11-19 09:24:00",
-      "author": "Shanghai Metals Market",
-      "summary": "[SMM Analysis] Average spot lithium carbonate price fell 1.1% this week, supply rebounded but destocking continued Shanghai Metals Market",
-      "lang": "en",
-      "source": "Shanghai Metals Market",
-      "categories": [
-        "supply",
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1045742710",
-      "title": "LTCX26.CMX Interactive Stock Chart | Lithium Carbonate CIF CJK (Fast Stock - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JMGVFdWduMzQ1bTE5YlU3WUhxQmFvQ1JoM3pORTFHbmVVSC1CWVlfYkg2a3VYRVVFS2F5UmpLYWRGZXptT0NPYThSaWhmWHlUQzhaUQ?oc=5",
-      "pubDate": "2026-11-19 08:55:14",
-      "author": "Yahoo Finance",
-      "summary": "LTCX26.CMX Interactive Stock Chart | Lithium Carbonate CIF CJK (Fast Stock Yahoo Finance",
-      "lang": "en",
-      "source": "Yahoo Finance",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "3425996089",
-      "title": "Can lithium mining take off in Europe? - Chemical &amp; Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01nb3B6SjJnSXo3ZzJDOXVMWlNsdm9VT0RzTjFFRGd6ankwc2U4OUtKMkwxWHVOZVphUU1sMFd2cFRPR2M2eF9ITG1qQldvbkQ5WTdIZjcycGlaNi1fT1NIc2VLMjN2eVhfQ0FZdlVZTE1NSWhnbUJIY1Ntd3hETm5DRVl5SzVQVHRzbGhuSmlCRVlYUFNmdlM0SQ?oc=5",
-      "pubDate": "2026-11-12 08:00:00",
-      "author": "Chemical &amp; Engineering News",
-      "summary": "Can lithium mining take off in Europe? Chemical & Engineering News",
-      "lang": "en",
-      "source": "Chemical &amp; Engineering News",
-      "categories": [
-        "supply"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1537599092",
-      "title": "Fastmarkets publishes backdated FOB China price calculations for lithium hydroxide, lithium carbonate - Fastmarkets",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUERPQ2JjNWNEVTAxdEFNcmZZbHZoX3pfLUtQc3NoOFotX3RjTnd2OU1TUXpwSzFhMTJEZGxlS3hEeFJyWlFfeG1qbjd2ZGtNZ2pVOWN4RWZuZEJuRTlNWl83dEpJSGo0SWtxeU0tTFRiSHRKcmpXTzJCbWswakxvMVpKMWpKOFhRVTNBR2doWUd4U3JPTjBLdnd3eUk3QnZycm0wYndEYlFIZVk1RkRrSHBLU28wYUVZWUdvenJXeDlJRjdVR0dNdzJjOUhqMnRrTnBrWg?oc=5",
-      "pubDate": "2026-11-09 08:00:00",
-      "author": "Fastmarkets",
-      "summary": "Fastmarkets publishes backdated FOB China price calculations for lithium hydroxide, lithium carbonate Fastmarkets",
-      "lang": "en",
-      "source": "Fastmarkets",
-      "categories": [
-        "macro"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "1870303084",
-      "title": "Citi slashes lithium price forecast by 40% on lower demand - Mining.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUpCT3pSeFQzWlNNeWROUkRhazM2aDV2MmpwcVlxZ0VrMndpVV8wdVM1Z2dTeWtzUy1oenpUMXVTNDZEMFdnTF82YVRRSDg0Q0l5a2dzdUFkSWlaWWdIR3Racld0VWxObUdFbkVqMm0yMkpfNFZjU0J2bkJRSWlxYTF2OElEZl9W?oc=5",
-      "pubDate": "2026-11-02 08:00:00",
-      "author": "Mining.com",
-      "summary": "Citi slashes lithium price forecast by 40% on lower demand Mining.com",
-      "lang": "en",
-      "source": "Mining.com",
-      "categories": [
-        "supply",
-        "demand"
-      ],
-      "sentiment": 0
-    },
-    {
-      "id": "513767009",
-      "title": "Q3 2026 Lithium Price Review - Benchmark Mineral Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUpwTHRuYnptMlcyRDZXdDhIUnRUZWVpcFo0RnVaUkdsNkQtMlJldm0xcmVJT094RjhjdXF1WHZfSUV4dFpJWTgxb3pyOWFoQzVKNkQtOTdTdktTUDV6UUR2U0JPMlRQaF9ZRElGQWJZU1ZINjByT1YzLUloUi1WUVNWVURpdEsyalRzVkEyd2YzT1Z2blg2dF9DMDNyQUVTLVZrN3hBdFpYU1pfUGc3NFVUOXBoYjcyUkJxdFNYcw?oc=5",
-      "pubDate": "2026-10-02 07:00:00",
-      "author": "Benchmark Mineral Intelligence",
-      "summary": "Q3 2026 Lithium Price Review Benchmark Mineral Intelligence",
-      "lang": "en",
-      "source": "Benchmark Mineral Intelligence",
-      "categories": [
-        "supply",
-        "demand"
       ],
       "sentiment": 0
     },
@@ -106766,6 +106751,21 @@
         "supply"
       ],
       "sentiment": 0
+    },
+    {
+      "id": "2537053242",
+      "title": "Water scarcity could undercut U.S. lithium mining - Northwestern Now News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3dGXzZFd0hKRjJnZFJTV3NwMFJVbmU4bV92Z2doWDgxUnBXWHFSTzBOTmdkWkk1RlJ1dE5La3hnaGZYMzBGa0JSMFBFUXpyMzhaTG90aGNzZjg3aXdfdmNzd2xyNVpKZVMyNnJnUXJnQzcxWW1vRVRrZ0NXV3Y5eWlBSmZiUlp3ZVFKM09oelRnV1AxNzVOQi1R?oc=5",
+      "pubDate": "2026-05-28 07:00:00",
+      "author": "Northwestern Now News",
+      "summary": "Water scarcity could undercut U.S. lithium mining Northwestern Now News",
+      "lang": "en",
+      "source": "Northwestern Now News",
+      "categories": [
+        "environment",
+        "supply"
+      ],
+      "sentiment": 0.3333333333333333
     },
     {
       "id": "3847838595",
